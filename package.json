@@ -1,0 +1,20 @@
+{
+  "name": "ca-final-exam-portal",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CA Final November 2026 exam preparation portal \u2014 static, GitHub Pages ready. Manifest-driven question banks for Papers 1, 2 & 3 (new scheme, May 2026 syllabus onwards).",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "datasets": "node tools/build/build-datasets.js",
+    "mirror": "node tools/mirror.js",
+    "validate": "node tools/validate-datasets.js",
+    "coverage": "node tools/coverage-report.js",
+    "check": "npm run validate && npm run coverage",
+    "test": "node tools/e2e-test.js",
+    "all": "npm run datasets && npm run mirror && npm run validate && npm run build"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^5.5.4"
+  }
+}

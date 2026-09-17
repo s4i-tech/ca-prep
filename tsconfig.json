@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "ES2017",
+    "module": "amd",
+    "outFile": "dist/app.js",
+    "rootDir": "src",
+    "strict": true,
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "noFallthroughCasesInSwitch": true,
+    "removeComments": true,
+    "newLine": "lf",
+    "lib": ["ES2019", "DOM", "DOM.Iterable"]
+  },
+  "include": ["src/**/*.ts"]
+}
