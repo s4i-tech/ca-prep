@@ -9,6 +9,7 @@ namespace App {
     const root = document.getElementById("view")!;
     Loader.fetchManifest()
       .then((manifest) => {
+        document.getElementById("boot")?.remove();
         const home = new Home(manifest, root);
         if (!Store.getAttempt()) {
           const cur = manifest.attempts.find((a) => a.current);
@@ -16,18 +17,19 @@ namespace App {
         }
         home.render();
         window.addEventListener("hashchange", () => home.render());
-        document.getElementById("boot")!.style.display = "none";
       })
       .catch((err) => {
+        document.getElementById("boot")?.remove();
         root.innerHTML = "";
+        const msg = err instanceof Error ? err.message : String(err);
         root.appendChild(U.el(`
           <div class="card error-card" role="alert">
             <h2>Unable to load the dataset manifest.</h2>
             <p class="muted">Expected <code>./data/datasets.json</code> (or its <code>.js</code> mirror) next to index.html.
             Run <code>npm run datasets &amp;&amp; npm run mirror</code>, then refresh.</p>
+            <p class="muted small">Technical details: <code>${U.esc(msg)}</code></p>
             <button class="btn btn-primary" onclick="location.reload()">Retry</button>
           </div>`));
-        document.getElementById("boot")!.style.display = "none";
       });
   });
 }
