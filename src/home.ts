@@ -12,7 +12,7 @@ namespace App {
       const r = Router.parse();
       switch (r.name) {
         case "attempts": this.viewAttempts(); break;
-        case "paper": this.viewPaper(r.arg!); break;
+        case "paper": this.viewPaper(r.arg!, r.arg2); break;
         case "dataset": this.viewDataset(r.arg!); break;
         case "instructions": this.viewInstructions(r.arg!, r.arg2 ?? "exam"); break;
         case "results": this.viewResults(); break;
@@ -122,10 +122,35 @@ namespace App {
       const prog = Store.getProgress();
       let bestId: string | null = null; let best: DatasetMeta | null = null; let bestAt = 0;
       let sess: ExamSession | null = null;
-      for (const meta of this.manifest.datasets) {
-        const p = prog[meta.id];
-        if (p && p.at > bestAt && p.answered < p.total) { bestAt = p.at; bestId = meta.id; best = meta; }
+
+      for (const [id, p] of Object.entries(prog)) {
+        if (p && p.at > bestAt && p.answered < p.total) {
+          bestAt = p.at;
+          bestId = id;
+          const direct = this.manifest.datasets.find((d) => d.id === id);
+          if (direct) {
+            best = direct;
+          } else {
+            const chMatch = id.match(/^([a-z0-9-]+)-ch(\d+)$/i);
+            if (chMatch) {
+              const base = this.manifest.datasets.find((d) => d.id === chMatch[1]);
+              if (base) {
+                const ch = parseInt(chMatch[2], 10);
+                const paper = this.manifest.papers.find((x) => x.id === base.paper);
+                const chInfo = paper?.chapters.find((c) => c.no === ch);
+                best = {
+                  ...base,
+                  id,
+                  title: `Ch ${ch}: ${chInfo ? chInfo.name : "Chapter " + ch} — MCQ Set`,
+                  count: p.total,
+                  kind: "chapter",
+                };
+              }
+            }
+          }
+        }
       }
+
       if (bestId) {
         const s = Store.getSession(bestId);
         if (s && !s.submitted) sess = s;
@@ -153,18 +178,36 @@ namespace App {
     }
 
     /* ================= paper dashboard ================= */
-    private viewPaper(paper: string): void {
+    private viewPaper(paper: string, subView?: string): void {
       this.root.innerHTML = "";
       const p = this.paperInfo(paper);
       const sets = Loader.datasetsFor(this.manifest, this.attemptId, paper);
+      const coreSet = sets.find((s) => s.kind === "core");
+      const activeTab = subView === "sets" ? "sets" : subView === "all" ? "all" : "chapters";
+
       this.root.appendChild(chrome({
         title: `${U.esc(p.title)}<br><span class="hl2">${U.esc(this.attemptLabel())}</span>`,
         sub: `${p.chapterCount} Chapters &#8226; ${p.modules} Modules &#8226; Pattern: 30 MCQ marks + 70 descriptive marks &#8226; no negative marking`,
         back: { label: "Back", hash: "/" },
         pill: paper + " &#8226; " + this.attemptLabel(),
       }));
-      this.root.appendChild(this.statsRow(sets));
+      this.root.appendChild(this.statsRow(sets, coreSet ? coreSet.mcqCount : 0));
 
+      // View switcher tabs
+      const tabsEl = U.el(`
+        <div class="view-tabs" role="tablist" aria-label="Study modes">
+          <button class="view-tab ${activeTab === "chapters" ? "active" : ""}" role="tab" data-tab="chapters">&#127919; Chapter-Wise MCQs (${p.chapterCount} Chapters)</button>
+          <button class="view-tab ${activeTab === "sets" ? "active" : ""}" role="tab" data-tab="sets">&#128196; Full Paper Sets (${sets.length} Sets)</button>
+          <button class="view-tab ${activeTab === "all" ? "active" : ""}" role="tab" data-tab="all">&#128203; View All</button>
+        </div>`);
+      this.root.appendChild(tabsEl);
+
+      // 1. Chapter-Wise MCQ Section
+      const chSec = this.chapterSection(p, coreSet);
+      this.root.appendChild(chSec);
+
+      // 2. Full Paper Sets Section
+      const setsSec = U.el(`<div id="sec-sets"></div>`);
       const groups: { key: string; cls: string; title: string; sub: string }[] = [
         { key: "prediction", cls: "grp-prediction", title: "PREDICTION SETS", sub: "What is likely to be asked — pattern-based, not guaranteed" },
         { key: "mock", cls: "grp-mock", title: "FULL MOCK TESTS", sub: "Exact ICAI pattern: 20 MCQ (30 marks) + 5 descriptive (70 marks) &#8226; 180 minutes" },
@@ -178,13 +221,169 @@ namespace App {
         const grid = U.el(`<div class="grid grid-sets"></div>`);
         for (const s of list) grid.appendChild(this.setCard(s, p));
         sec.appendChild(grid);
-        this.root.appendChild(sec);
+        setsSec.appendChild(sec);
       }
 
       const cov = this.coveragePill(sets, p);
       const covEl = U.el(`<div class="covbar" title="Every chapter is covered by at least one core and one prediction dataset">${cov}</div>`);
-      this.root.appendChild(covEl);
+      setsSec.appendChild(covEl);
+      this.root.appendChild(setsSec);
+
+      // Tab switcher handlers
+      const updateTab = (tab: string) => {
+        tabsEl.querySelectorAll<HTMLButtonElement>(".view-tab").forEach((b) => {
+          b.classList.toggle("active", b.getAttribute("data-tab") === tab);
+        });
+        if (tab === "chapters") {
+          chSec.style.display = "";
+          setsSec.style.display = "none";
+        } else if (tab === "sets") {
+          chSec.style.display = "none";
+          setsSec.style.display = "";
+        } else {
+          chSec.style.display = "";
+          setsSec.style.display = "";
+        }
+      };
+      tabsEl.querySelectorAll<HTMLButtonElement>(".view-tab").forEach((b) => {
+        b.addEventListener("click", () => {
+          const tab = b.getAttribute("data-tab")!;
+          updateTab(tab);
+        });
+      });
+      updateTab(activeTab);
+
       this.foot();
+    }
+
+    private chapterSection(p: PaperInfo, coreSet?: DatasetMeta): HTMLElement {
+      const sec = U.el(`
+        <section class="group grp-chapter" id="sec-chapters" aria-label="Chapter-wise MCQ preparation">
+          <div class="group-head">
+            <h2>CHAPTER-WISE MCQ PRACTICE</h2>
+            <p>Prepare chapter-wise MCQs instead of the whole paper. Master concepts chapter-by-chapter with instant rationale or timed tests.</p>
+          </div>
+          <div class="ch-filter-bar">
+            <div class="chip-row ch-module-filters" role="group" aria-label="Filter chapters by module">
+              <button class="chip on" data-mod="all">All Modules (${p.modules})</button>
+              ${Array.from({ length: p.modules }, (_, i) => `<button class="chip" data-mod="${i + 1}">Module ${i + 1}</button>`).join("")}
+            </div>
+            <input type="search" class="search-input" id="chSearch" placeholder="&#128269; Search chapter name or number..." aria-label="Search chapters" />
+          </div>
+          <div class="grid grid-chapters" id="gridChapters"></div>
+          <div class="card empty" id="noChMatch" style="display:none;margin-top:1rem">No chapters match your filter criteria.</div>
+        </section>`);
+
+      const grid = sec.querySelector("#gridChapters")!;
+      const noMatch = sec.querySelector<HTMLElement>("#noChMatch")!;
+      const baseId = coreSet ? coreSet.id : (p.id.toLowerCase() + "-nov26-core");
+      const completedMap = Store.getCompleted();
+      const progressMap = Store.getProgress();
+
+      p.chapters.forEach((c) => {
+        const chDatasetId = `${baseId}-ch${c.no}`;
+        const comp = completedMap[chDatasetId];
+        const prog = progressMap[chDatasetId];
+        const statusHtml = comp
+          ? `<span class="tag tag-done">&#10003; Score ${comp.score}/${comp.max} (${Math.round((100 * comp.score) / comp.max)}%)</span>`
+          : prog && prog.answered > 0
+            ? `<span class="tag tag-part">&#9889; ${prog.answered}/${prog.total} answered</span>`
+            : `<span class="tag tag-soon">Ready</span>`;
+
+        const card = U.el(`
+          <div class="card chapter-card" data-ch="${c.no}" data-mod="${c.module}" role="listitem" tabindex="0">
+            <div class="ch-top">
+              <span class="tag tag-ch">CH ${c.no}</span>
+              <span class="badge badge-mod">MODULE ${c.module}</span>
+              ${statusHtml}
+            </div>
+            <h3 class="ch-title">${U.esc(c.name)}</h3>
+            <div class="ch-stats"><span class="small muted">Loading MCQs&#8230;</span></div>
+            <p class="ch-desc muted small">${U.esc(p.title)} &#8226; Chapter ${c.no}</p>
+            <div class="ch-actions">
+              <button class="btn btn-primary btn-sm" data-act="practice" title="Untimed with instant explanation & memory tips">&#9889; Practice MCQs</button>
+              <button class="btn btn-ghost btn-sm" data-act="exam" title="Timed mock exam with question palette">&#9201; Timed Test</button>
+            </div>
+          </div>`);
+
+        card.querySelector('[data-act="practice"]')!.addEventListener("click", (e) => {
+          e.stopPropagation();
+          location.href = `./exam.html?d=${encodeURIComponent(baseId)}&ch=${c.no}&mode=practice`;
+        });
+        card.querySelector('[data-act="exam"]')!.addEventListener("click", (e) => {
+          e.stopPropagation();
+          Router.go(`/instructions/${baseId}-ch${c.no}/exam`);
+        });
+        card.addEventListener("click", () => {
+          location.href = `./exam.html?d=${encodeURIComponent(baseId)}&ch=${c.no}&mode=practice`;
+        });
+        grid.appendChild(card);
+      });
+
+      // Filter logic
+      const searchBox = sec.querySelector<HTMLInputElement>("#chSearch")!;
+      const modChips = sec.querySelectorAll<HTMLButtonElement>(".ch-module-filters .chip");
+      let selectedMod = "all";
+
+      const applyFilters = () => {
+        const q = searchBox.value.trim().toLowerCase();
+        let visibleCount = 0;
+        grid.querySelectorAll<HTMLElement>(".chapter-card").forEach((card) => {
+          const mod = card.getAttribute("data-mod")!;
+          const ch = card.getAttribute("data-ch")!;
+          const title = (card.querySelector(".ch-title")?.textContent || "").toLowerCase();
+          const desc = (card.querySelector(".ch-desc")?.textContent || "").toLowerCase();
+          const modMatch = selectedMod === "all" || mod === selectedMod;
+          const searchMatch = !q || title.includes(q) || desc.includes(q) || ch === q || `ch ${ch}`.includes(q);
+          const show = modMatch && searchMatch;
+          card.style.display = show ? "" : "none";
+          if (show) visibleCount++;
+        });
+        noMatch.style.display = visibleCount === 0 ? "" : "none";
+      };
+
+      searchBox.addEventListener("input", applyFilters);
+      modChips.forEach((chip) => {
+        chip.addEventListener("click", () => {
+          modChips.forEach((x) => x.classList.remove("on"));
+          chip.classList.add("on");
+          selectedMod = chip.getAttribute("data-mod") || "all";
+          applyFilters();
+        });
+      });
+
+      // Populate async MCQ counts & topics from core dataset
+      if (coreSet) {
+        Loader.loadDataset(this.manifest, coreSet.id).then((coreFile) => {
+          const mcqsByCh: Record<number, Mcq[]> = {};
+          coreFile.questions.forEach((q) => {
+            if (App.isMcq(q)) {
+              if (!mcqsByCh[q.ch]) mcqsByCh[q.ch] = [];
+              mcqsByCh[q.ch].push(q);
+            }
+          });
+          p.chapters.forEach((c) => {
+            const list = mcqsByCh[c.no] || [];
+            const cardEl = grid.querySelector(`.chapter-card[data-ch="${c.no}"]`);
+            if (cardEl) {
+              const high = list.filter((q) => q.prob === "HIGH").length;
+              const med = list.filter((q) => q.prob === "MEDIUM").length;
+              const low = list.filter((q) => q.prob === "LOW").length;
+              const statsEl = cardEl.querySelector(".ch-stats");
+              if (statsEl) {
+                statsEl.innerHTML = `<span><b>${list.length}</b> MCQs</span><span>${U.probBadge("HIGH")} ${high} &nbsp; ${U.probBadge("MEDIUM")} ${med} &nbsp; ${U.probBadge("LOW")} ${low}</span>`;
+              }
+              const topics = [...new Set(list.map((q) => q.topic))].slice(0, 3).join(" &#8226; ");
+              const descEl = cardEl.querySelector(".ch-desc");
+              if (descEl && topics) {
+                descEl.innerHTML = U.esc(topics);
+              }
+            }
+          });
+        }).catch(() => { /* silent fallback */ });
+      }
+
+      return sec;
     }
 
     private coveragePill(sets: DatasetMeta[], p: PaperInfo): string {
@@ -198,16 +397,16 @@ namespace App {
       return out;
     }
 
-    private statsRow(sets: DatasetMeta[]): HTMLElement {
+    private statsRow(sets: DatasetMeta[], mcqCount = 0): HTMLElement {
       const q = sets.reduce((t, s) => t + s.count, 0);
       const n = (k: string) => sets.filter((s) => s.kind === k).length;
       return U.el(`
         <div class="stats" role="group" aria-label="Quick statistics for this paper">
-          <div class="stat"><b>${q}</b><span>Questions</span></div>
+          <div class="stat"><b>${q}</b><span>Total Bank</span></div>
           <div class="stat"><b>${sets.reduce((t, s) => t + s.chapters.length, 0) > 0 ? new Set(sets.flatMap((s) => s.chapters)).size : 0}</b><span>Chapters</span></div>
-          <div class="stat"><b>${n("prediction") + n("mock") + n("rapid")}</b><span>Prediction Sets</span></div>
-          <div class="stat"><b>${n("core")}</b><span>Core Sets</span></div>
+          <div class="stat"><b>${mcqCount || sets.reduce((t, s) => t + s.mcqCount, 0)}</b><span>Chapter MCQs</span></div>
           <div class="stat"><b>${n("mock")}</b><span>Full Mocks</span></div>
+          <div class="stat"><b>${n("prediction") + n("rapid")}</b><span>Revision Sets</span></div>
         </div>`);
     }
 
@@ -299,28 +498,52 @@ namespace App {
     /* ================= instructions ================= */
     private viewInstructions(id: string, mode: string): void {
       this.root.innerHTML = "";
-      const s = this.manifest.datasets.find((d) => d.id === id);
+      let s = this.manifest.datasets.find((d) => d.id === id);
+      const chMatch = id.match(/^([a-z0-9-]+)-ch(\d+)$/i);
+      let chNum: number | null = null;
+      if (!s && chMatch) {
+        const base = this.manifest.datasets.find((d) => d.id === chMatch[1]);
+        if (base) {
+          chNum = parseInt(chMatch[2], 10);
+          const p = this.paperInfo(base.paper);
+          const chInfo = p.chapters.find((c) => c.no === chNum);
+          s = {
+            ...base,
+            id,
+            title: `Chapter ${chNum}: ${chInfo ? chInfo.name : "Chapter " + chNum} — MCQ Set`,
+            description: `Chapter ${chNum} MCQ preparation set for ${p.title}.`,
+            coverage: `Chapter ${chNum}`,
+            chapters: [chNum],
+            kind: "chapter",
+            descriptiveCount: 0,
+            durationMinutes: 45,
+          };
+        }
+      }
       if (!s) { this.notFound(id); return; }
       const p = this.paperInfo(s.paper);
       const timed = mode === "exam";
       const mock = s.kind === "mock";
-      const title = mock ? "FULL MOCK TEST" : timed ? "TIMED ATTEMPT" : "PRACTICE MODE";
+      const isChapter = s.kind === "chapter";
+      const title = mock ? "FULL MOCK TEST" : isChapter ? (timed ? "TIMED CHAPTER TEST" : "CHAPTER MCQ PRACTICE") : timed ? "TIMED ATTEMPT" : "PRACTICE MODE";
+      const backHash = isChapter ? "paper/" + s.paper : "dataset/" + id;
+      const backLabel = isChapter ? "Back to Chapters" : "Back to set";
       this.root.appendChild(chrome({
         title: `${U.esc(title)}`,
         sub: `${U.esc(p.title)} &#8226; ${U.esc(this.attemptLabel())} &#8226; ${U.esc(s.title)}`,
-        back: { label: "Back to set", hash: "dataset/" + id },
+        back: { label: backLabel, hash: backHash },
         pill: this.attemptLabel(),
       }));
       const specs: [string, string][] = mock
         ? [["Duration", "180 minutes"], ["Maximum Marks", "100"], ["MCQs", "30 marks (20 Qs: 10 &#215; 1 + 10 &#215; 2)"], ["Descriptive", "70 marks (5 Qs &#215; 14)"], ["Negative Marking", "None"]]
-        : timed
-          ? [["Duration", s.durationMinutes + " minutes"], ["Total Marks", String(s.mcqCount + s.descriptiveCount ? s.count : 0)], ["Questions", `${s.mcqCount} MCQ &#8226; ${s.descriptiveCount} descriptive`], ["Timer", "Counts down; survives refresh"], ["Negative Marking", "None"]]
-          : [["Duration", "Untimed (self-paced)"], ["Questions", `${s.mcqCount} MCQ &#8226; ${s.descriptiveCount} descriptive`], ["Feedback", "Shown immediately per question"], ["Timer", "Optional — off by default"], ["Negative Marking", "None"]];
-      const spec = U.el(`<div class="card spec-card"><h2 class="spec-title">${U.esc(s.kind === "mock" ? "Financial Reporting pattern" : "SET DETAILS")}</h2><div class="spec-grid">
+        : isChapter
+          ? [["Duration", timed ? "1.5 min per MCQ" : "Untimed (self-paced)"], ["Questions", "Chapter MCQs only (No descriptive)"], ["Feedback", timed ? "Scorecard & review at end" : "Instant after every question"], ["Timer", timed ? "Countdown with alerts" : "Off by default"], ["Negative Marking", "None"]]
+          : timed
+            ? [["Duration", s.durationMinutes + " minutes"], ["Total Marks", String(s.mcqCount + s.descriptiveCount ? s.count : 0)], ["Questions", `${s.mcqCount} MCQ &#8226; ${s.descriptiveCount} descriptive`], ["Timer", "Counts down; survives refresh"], ["Negative Marking", "None"]]
+            : [["Duration", "Untimed (self-paced)"], ["Questions", `${s.mcqCount} MCQ &#8226; ${s.descriptiveCount} descriptive`], ["Feedback", "Shown immediately per question"], ["Timer", "Optional — off by default"], ["Negative Marking", "None"]];
+      const spec = U.el(`<div class="card spec-card"><h2 class="spec-title">${U.esc(s.kind === "mock" ? "MOCK SPECIFICATIONS" : isChapter ? "CHAPTER TEST DETAILS" : "SET DETAILS")}</h2><div class="spec-grid">
         ${specs.map(([k, val]) => `<div><span>${k}</span><b>${val}</b></div>`).join("")}
       </div></div>`);
-      const st = spec.querySelector(".spec-title")!;
-      if (mock) st.textContent = "MOCK SPECIFICATIONS";
       this.root.appendChild(spec);
 
       const instr = U.el(`
@@ -330,11 +553,10 @@ namespace App {
             <li>Read each question carefully.</li>
             <li>MCQs have exactly one correct answer.</li>
             <li>There is <b>no negative marking</b> — attempt everything you are unsure about; there is no penalty for guessing.</li>
-            <li>Descriptive answers are evaluated against the expected ICAI points and marks scheme shown in the result review.</li>
+            ${isChapter ? "<li>Each question includes an explanation and Memory Anchor to help you retain key provisions.</li>" : "<li>Descriptive answers are evaluated against the expected ICAI points and marks scheme shown in the result review.</li>"}
             ${timed ? "<li>The timer starts when you click Start and keeps running across refreshes — close and reopen is safe, time is <b>not</b> reset.</li>" : "<li>Practice mode has no running timer; your answers are still saved locally.</li>"}
             <li>Your progress is stored locally in this browser (no account, no server).</li>
             <li>Use <b>Mark for Review</b> to flag questions and return to them from the palette.</li>
-            <li>Marks shown for descriptive answers are <b>self-awarded</b> against the official-style scheme in the review — be honest, it helps retention.</li>
           </ul>
           ${mock ? `<p class="predict-note">Predictions embedded in this set are pattern-based study guidance for ${U.esc(this.attemptLabel())} — they are not ICAI questions and no question is guaranteed to appear.</p>` : ""}
           <div class="instr-actions">
@@ -389,11 +611,12 @@ namespace App {
         this.root.appendChild(chrome({ title: "Result not found", back: { label: "Back", hash: "results" } }));
         return;
       }
+      const chMatch = r.datasetId.match(/^([a-z0-9-]+)-ch(\d+)$/i);
       const meta = this.manifest.datasets.find((d) => d.id === r.datasetId);
       this.root.appendChild(chrome({
         title: "EXAM COMPLETED",
         sub: `${U.esc(this.paperInfo(r.paper).title)} &#8226; ${U.esc(r.title)} &#8226; ${U.esc(r.attempt.replace("-", " "))}`,
-        back: { label: "History", hash: "results" },
+        back: { label: chMatch ? "Back to Chapters" : "History", hash: chMatch ? `paper/${r.paper}` : "results" },
       }));
       this.root.appendChild(U.el(`
         <div class="card score-hero">
@@ -406,7 +629,10 @@ namespace App {
             <div><b>${r.unattempted}</b><span>Unattempted</span></div>
           </div>
           <div class="score-time">${U.mmss(r.usedSeconds)} elapsed &#8226; ${U.date(r.submittedAt)}</div>
-          ${meta ? `<a class="btn btn-ghost" href="#/dataset/${meta.id}">Revisit set</a>` : ""}
+          <div class="row" style="margin-top:.7rem">
+            ${meta ? `<a class="btn btn-ghost" href="#/dataset/${meta.id}">Revisit set</a>` : chMatch ? `<a class="btn btn-ghost" href="./exam.html?d=${encodeURIComponent(r.datasetId)}&mode=${r.mode}">Retake Chapter</a>` : ""}
+            <a class="btn btn-primary" href="#/paper/${r.paper}">Paper Dashboard</a>
+          </div>
         </div>`));
       const anchor = U.el(`<div id="review-anchor"></div>`);
       this.root.appendChild(anchor);

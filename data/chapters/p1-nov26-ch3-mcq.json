@@ -1,0 +1,409 @@
+{
+  "meta": {
+    "id": "p1-nov26-ch3-mcq",
+    "paper": "P1",
+    "attempt": "NOV-2026",
+    "kind": "chapter",
+    "category": "CHAPTER-WISE MCQs",
+    "title": "Ch 3: Ind AS on Presentation of General Purpose Financial Statements — MCQ Bank",
+    "description": "Chapter-wise practice MCQs for Chapter 3 (Ind AS on Presentation of General Purpose Financial Statements).",
+    "count": 16,
+    "mcqCount": 16,
+    "descriptiveCount": 0,
+    "coverage": "Chapter 3 · 16 MCQs",
+    "chapters": [
+      3
+    ],
+    "durationMinutes": 24,
+    "difficulty": "Exam standard",
+    "high": 3,
+    "medium": 7,
+    "low": 6
+  },
+  "questions": [
+    {
+      "id": "p1q-tkum56",
+      "ch": 3,
+      "topic": "Ind AS 1",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Ind AS 1 requires an entity to present a third balance sheet when:",
+      "o": [
+        "Retrospective application of an accounting policy occurs",
+        "Any comparative period is shown",
+        "The entity reports a loss in either comparative year",
+        "Segmental information is disclosed for two segments"
+      ],
+      "a": 0,
+      "why": "The third statement of financial position (as at the beginning of the earliest comparative period) is required only on retrospective application/restatement/reclassification affecting the balance sheet — not merely because comparatives exist.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — trigger-condition questions on Ind AS 1 recur every attempt Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 1",
+        "tip": "3rd balance sheet = only for retro policy change, restatement or reclass. Think: does the OPENING figure itself move?",
+        "link": "Ch 3"
+      }
+    },
+    {
+      "id": "p1q-1yg3xyp",
+      "ch": 3,
+      "topic": "Ind AS 1",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "An entity has a loan due 31 March 20X7. By 25 February 20X7 the lender agrees not to demand repayment despite a covenant breach, without any condition. How is the loan classified in Ind AS financial statements for the year ended 31 March 20X7?",
+      "o": [
+        "Current — the breach makes it callable",
+        "Non-current — no right to demand payment existed at the reporting date, and the agreement removed the breach effect before the reporting date",
+        "Current, because the concession came after the reporting date",
+        "Non-current only if the loan is restructured with a rate cut"
+      ],
+      "a": 1,
+      "why": "Where the lender agrees BEFORE the reporting date not to demand payment as a consequence of a covenant breach, the classification is non-current (the loan is not then payable at the reporting date's demand). Concessions occurring after the reporting date are non-adjusting events (Ind AS 10).",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — covenants + classification timing is exactly the Ind AS 1 trap ICAI likes AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 1",
+        "tip": "Date discipline: agreement before reporting date = non-current; after = still current (non-adjusting). The reporting date is the full stop.",
+        "link": "Ch 3 + Ch 10"
+      }
+    },
+    {
+      "id": "p1q-6pc2uz",
+      "ch": 3,
+      "topic": "Ind AS 12",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "The tax base of an expense that will be deductible for tax purposes only when it is PAID in a future period, recognised as an accrued liability, is:",
+      "o": [
+        "Equal to its carrying amount",
+        "Zero",
+        "The future deductible amount",
+        "Nil for both book and tax"
+      ],
+      "a": 2,
+      "why": "Where an expense will be deductible only when paid, the liability's tax base equals its carrying amount LESS the amount deductible in future periods — i.e. future deductible amount (often resulting in a tax base of carrying amount minus deduction). The framework defines tax base as the amount attributed to the liability for tax purposes: carrying amount less future tax deductions.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — deferred-tax mechanics of accrued expenses are recurring Section B candidates Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 12",
+        "tip": "Tax base of a liability = amount deductible later. Accrued expense deductible on payment ⇒ tax base = CA − future deduction ⇒ DTA. Trace the money to the tax return, not to the book.",
+        "link": "Ch 10"
+      }
+    },
+    {
+      "id": "p1q-1fu6euv",
+      "ch": 3,
+      "topic": "Ind AS 12",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Goodwill arising on a business combination under Ind AS 103 has a carrying amount of Rs 80 crore and a tax base of Rs 50 crore (amortisation allowed for tax). The initial-recognition exemption in Ind AS 12 for the resulting Rs 30 crore taxable temporary difference:",
+      "o": [
+        "Applies — no deferred tax liability is recognised on goodwill's initial recognition",
+        "Does not apply to goodwill; a DTL of Rs 7.5 crore (at 25%) must be recognised",
+        "Applies because goodwill is not amortised for accounting",
+        "Only applies in separate financial statements"
+      ],
+      "a": 1,
+      "why": "Ind AS 12 explicitly EXCLUDES goodwill from the initial-recognition exemption; a DTL on the taxable temporary difference arising on initial recognition of goodwill is recognised (with the consequential increase to goodwill), here 25% × 30 = 7.5 crore.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the goodwill carve-out is the classic ICAI 'exemption does NOT apply' question AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 12",
+        "tip": "Initial-recognition exemption: exists for most assets/liabilities, but NEVER for goodwill. DTL on goodwill adds to goodwill — a small circle, allow it.",
+        "link": "Ch 10 + Ch 12"
+      }
+    },
+    {
+      "id": "p1q-1wzxoyo",
+      "ch": 3,
+      "topic": "Ind AS 1 — offsetting",
+      "m": 1,
+      "d": "HARD",
+      "q": "Assets and liabilities may be offset in the balance sheet when:",
+      "o": [
+        "The entity intends to settle on a gross basis",
+        "There is a legally enforceable right to offset AND intention for net settlement or simultaneous realisation",
+        "The amounts are immaterial separately",
+        "Auditors approve a working format"
+      ],
+      "a": 1,
+      "why": "Ind AS 1/32 offsetting needs BOTH a legally enforceable right and net-simultaneous intent — not merely net exposure or practice.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — conjunctive-condition MCQ — quick and deadly Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Ind AS 1 — offsetting",
+        "tip": "Offsetting needs two keys: legal right + intent to net/simultaneous settlement. One key doesn't open it.",
+        "link": "Ch 3"
+      }
+    },
+    {
+      "id": "p1q-jozmqq",
+      "ch": 3,
+      "topic": "Ind AS 8 — errors",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "A prior-period depreciation was calculated using the wrong asset life due to a mathematical mistake. This is:",
+      "o": [
+        "Change in estimate",
+        "Prior period error — retrospective restatement of comparatives",
+        "Change in policy",
+        "Disclose-only item"
+      ],
+      "a": 1,
+      "why": "Mathematical mistakes/misapplication of policies = errors ⇒ retrospective restatement; changes in estimate are prospective.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the error-vs-estimate boundary is tested to death AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 8 — errors",
+        "tip": "Error = rewind and restate; estimate = drift forward. Math mistake is an error, never an estimate.",
+        "link": "Ch 3/4"
+      }
+    },
+    {
+      "id": "p1q-tvs9rk",
+      "ch": 3,
+      "topic": "Ind AS 1 classification",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Current/non-current classification of an asset generally requires it to be realised within:",
+      "o": [
+        "6 months",
+        "12 months after the reporting period, or the normal operating cycle if longer",
+        "18 months",
+        "The operating cycle only"
+      ],
+      "a": 1,
+      "why": "Ind AS 1: current if expected to be realised in, or intended for sale/consumption in, the normal operating cycle; held primarily for trading; within 12 months after the reporting period; or cash/cash equivalents unrestricted (with narrow exceptions). Otherwise non-current.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the 12-months-or-cycle dual condition is the standard MCQ AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 1 classification",
+        "tip": "Operating cycle OR 12 months — whichever is longer (for assets in the cycle); unrestricted cash is always current.",
+        "link": "Ch 3"
+      }
+    },
+    {
+      "id": "p1q-9l6832",
+      "ch": 3,
+      "topic": "Ind AS 1 — restructuring",
+      "m": 1,
+      "d": "HARD",
+      "q": "A provision for restructuring under Ind AS 1/37 requires:",
+      "o": [
+        "Board approval alone",
+        "A detailed formal plan AND valid expectation raised in affected parties",
+        "Shareholder ratification",
+        "Cash reserve created"
+      ],
+      "a": 1,
+      "why": "Provision for restructuring only when committed: detailed formal plan + implementation started or expectation raised with those affected.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the two-limb commitment test Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Ind AS 1 — restructuring",
+        "tip": "No provision until people can reasonably expect the axe to fall — plan plus valid expectation, both.",
+        "link": "Ch 3/7"
+      }
+    },
+    {
+      "id": "p1q-pmufz5",
+      "ch": 3,
+      "topic": "Ind AS 10 vs 16",
+      "m": 1,
+      "d": "HARD",
+      "q": "Inventory destroyed by a flood after the reporting date (no year-end condition) requires:",
+      "o": [
+        "Adjustment of inventory balance",
+        "Disclosure of the nature and estimate of financial effect as a non-adjusting event, if material",
+        "No action",
+        "Restating the profit"
+      ],
+      "a": 1,
+      "why": "Non-adjusting event: disclose nature + estimate (or state that estimate is impracticable); never adjust.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — adjust-vs-disclose discrimination at speed Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Ind AS 10 vs 16",
+        "tip": "Year-end innocence ⇒ disclose; year-end guilt ⇒ adjust. Floods rarely confess before 31 March.",
+        "link": "Ch 3/10"
+      }
+    },
+    {
+      "id": "p1q-6d5egp",
+      "ch": 3,
+      "topic": "Ind AS 1 — consistency",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Presentation and classification of items are changed only when:",
+      "o": [
+        "The auditor suggests",
+        "A required change by an Ind AS, or a change yields reliable/fairer presentation, applied consistently",
+        "The CFO retires",
+        "Tax law changes"
+      ],
+      "a": 1,
+      "why": "Ind AS 1 basis: change presentation only per a standard's requirement or for reliable, fairer info — and consistently for subsequent periods.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the twin-conditions change gate AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 1 — consistency",
+        "tip": "Presentational surgery: only with a standard's consent or a demonstrable improvement — and once, forever.",
+        "link": "Chapter 3 — Ind AS on Presentation of General Purpose Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1djmnrk",
+      "ch": 3,
+      "topic": "Ind AS 10 — share transactions",
+      "m": 1,
+      "d": "HARD",
+      "q": "A post-year-end issue of shares for cash:",
+      "o": [
+        "Adjusts FY26 equity",
+        "Non-adjusting event — no retro restatement; disclose if material",
+        "Adjusts reserves",
+        "Is an error"
+      ],
+      "a": 1,
+      "why": "Equity issued after year end is non-adjusting for that year's FS — no retroactive capital.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the equity-issuance example of non-adjusting Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Ind AS 10 — share transactions",
+        "tip": "Fresh money after the date can't back-date itself into last year's capital.",
+        "link": "Chapter 3 — Ind AS on Presentation of General Purpose Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-45sl7r",
+      "ch": 3,
+      "topic": "Extraordinary items",
+      "m": 1,
+      "d": "HARD",
+      "q": "Under Ind AS 1, extraordinary items are:",
+      "o": [
+        "Separately disclosed in P&L",
+        "Prohibited — never classified as extraordinary",
+        "Shown in OCI",
+        "Capital reserve"
+      ],
+      "a": 1,
+      "why": "Ind AS 1 prohibits presenting any item as extraordinary — treat big items as ordinary-but-material with separate disclosure.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the prohibition-with-a-legacy-twist Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Extraordinary items",
+        "tip": "Nothing is special enough to leave the ordinary column — size gets a note, not a category.",
+        "link": "Chapter 3 — Ind AS on Presentation of General Purpose Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-zdkhha",
+      "ch": 3,
+      "topic": "Ind AS 10 — adjusting after-YE bankruptcy",
+      "m": 1,
+      "d": "HARD",
+      "q": "A customer goes bankrupt AFTER the year-end; the receivable was already overdue BEFORE year-end. The bankruptcy event is:",
+      "o": [
+        "Non-adjusting — disclose only",
+        "Adjusting — write down at year end because the condition existed then",
+        "Reverse the original sale",
+        "Adjust only if the auditor is told first"
+      ],
+      "a": 1,
+      "why": "A post-year-end event that confirms a condition existing at the reporting date is ADJUSTING (Ind AS 10): the deterioration pre-dated year end, so the write-down belongs to the old year.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the confirmatory-event test is Ind AS 10’s most-tested line Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Ind AS 10 — adjusting after-YE bankruptcy",
+        "tip": "A funeral after 31 March for a patient already ill on 31 March — the balance sheet must attend.",
+        "link": "Chapter 3 — Ind AS on Presentation of General Purpose Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-wyegqr",
+      "ch": 3,
+      "topic": "Materiality presentation",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Individually immaterial but collectively material items must be presented:",
+      "o": [
+        "Separately if their nature/amount warrants",
+        "Never separately",
+        "In notes only",
+        "Against any line"
+      ],
+      "a": 0,
+      "why": "Ind AS 1: present separately when nature, function or materiality warrants; aggregate similar immaterial items to test collective materiality.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — aggregation principle one-liner AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Materiality presentation",
+        "tip": "Small items in one pocket become a line item; nature and size both vote.",
+        "link": "Chapter 3 — Ind AS on Presentation of General Purpose Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1m0emkf",
+      "ch": 3,
+      "topic": "Amendment — Disclosure of Accounting Policies",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "The Disclosure of Accounting Policies amendments to Ind AS 1 and Ind AS 8 replaced which phrase in the disclosure requirement?",
+      "o": [
+        "Significant accounting policies with material accounting policy information",
+        "Material accounting policy with critical policy estimates",
+        "Key policies with full policies",
+        "Audited policies with unaudited ones"
+      ],
+      "a": 0,
+      "why": "Documented amendment (effective for periods beginning on/after 1 April 2023): entities disclose MATERIAL accounting policy INFORMATION — an immaterial policy description need not be disclosed, but disclosure may still be material when used with other information; the word 'significant' was removed.",
+      "trend": "Traceable to a real, publicly-notified amendment/standard (documented fact), tested in ICAI style.",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — terminology flips invented by amendments are the safest first-attempt MCQs Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Amendment — Disclosure of Accounting Policies",
+        "tip": "Materiality now governs the POLICY note — describe what matters, not everything you do.",
+        "link": "Chapter 3 — Ind AS on Presentation of General Purpose Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-edbu78",
+      "ch": 3,
+      "topic": "Amendment — Classification of liabilities",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "The amendments clarifying classification of liabilities as current or non-current state that the right to defer settlement must exist:",
+      "o": [
+        "Any time during the following year",
+        "At the end of the reporting period, with covenant conditions complied with at that date",
+        "Only after the auditor's certificate",
+        "Never for banks"
+      ],
+      "a": 1,
+      "why": "Documented amendments (IASB 2020 and 2022 covenants amendment; ICAI adoption effective for periods beginning on/after 1 April 2024): the deferral right must exist AT the end of the reporting period; covenants assessed at that date; classification is unaffected by events between the period end and authorisation (except certain settlement-for-extinguishment cases); 'settlement' means transfer of resources.",
+      "trend": "Traceable to a real, publicly-notified amendment/standard (documented fact), tested in ICAI style.",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — covenant-timing mechanics are tailor-made for objective papers AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Amendment — Classification of liabilities",
+        "tip": "Rights are frozen at 31 March; springing clauses between that date and signature do not move the line.",
+        "link": "Chapter 3 — Ind AS on Presentation of General Purpose Financial Statements"
+      }
+    }
+  ]
+}

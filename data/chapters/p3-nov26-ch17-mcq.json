@@ -1,0 +1,337 @@
+{
+  "meta": {
+    "id": "p3-nov26-ch17-mcq",
+    "paper": "P3",
+    "attempt": "NOV-2026",
+    "kind": "chapter",
+    "category": "CHAPTER-WISE MCQs",
+    "title": "Ch 17: Due Diligence, Investigation & Forensic Accounting — MCQ Bank",
+    "description": "Chapter-wise practice MCQs for Chapter 17 (Due Diligence, Investigation & Forensic Accounting).",
+    "count": 13,
+    "mcqCount": 13,
+    "descriptiveCount": 0,
+    "coverage": "Chapter 17 · 13 MCQs",
+    "chapters": [
+      17
+    ],
+    "durationMinutes": 20,
+    "difficulty": "Exam standard",
+    "high": 0,
+    "medium": 6,
+    "low": 7
+  },
+  "questions": [
+    {
+      "id": "p3q-180ok1p",
+      "ch": 17,
+      "topic": "Due diligence scope",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "In a buy-side financial due diligence, the analyst's 'quality of earnings' focus is on:",
+      "o": [
+        "Reported EBITDA as-is",
+        "Normalising run-rate earnings — one-offs, non-arm's-length items, policy inconsistencies, and comparability",
+        "The legal title to assets",
+        "The target's ESG ratings"
+      ],
+      "a": 1,
+      "why": "QoE adjusts the historical bridge to a defensible run-rate (non-recurring items, related-party arms-length corrections, capitalisation-policy differences, working-capital patterns) because the SPA's multiples and pegs key off it — legal/tax/operational DD sit in their parallel workstreams.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — DD = the discipline of un-glamorising AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Due diligence scope",
+        "tip": "Take the numbers off their stage makeup.",
+        "link": "Chapter 17 — Due Diligence, Investigation & Forensic Accounting"
+      }
+    },
+    {
+      "id": "p3q-kobpy9",
+      "ch": 17,
+      "topic": "Fraud examination — red flags",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Which set most directly signals fraud risk in a payments cycle?",
+      "o": [
+        "Round-sum payments just below authorisation limits, sequential invoice numbering from a vendor at an agent's address, and no supporting delivery documentation",
+        "All of the above only when stated in the financial statements",
+        "Vendor count exceeding the industry average",
+        "A single documented dispute with a vendor"
+      ],
+      "a": 0,
+      "why": "The pattern triad of fraud red flags: structuring under approval thresholds, shell-vendor geography, and missing substance (delivery/usage trails) — any ONE can be innocent; together they form a testable hypothesis; note that 'all of the above' traps test option design, not the concept.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — red flags are a chorus, rarely a solo AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Fraud examination — red flags",
+        "tip": "One strange note is noise; the chord is intent.",
+        "link": "Chapter 17 — Due Diligence, Investigation & Forensic Accounting"
+      }
+    },
+    {
+      "id": "p3q-19qzsem",
+      "ch": 17,
+      "topic": "Benford's law",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Benford's law is a forensic tool because it predicts:",
+      "o": [
+        "Round-number patterns only",
+        "A logarithmic distribution of leading digits (1 leads ~30% of the time), enabling anomaly flags where fabricated numbers deviate",
+        "The total of ledger balances",
+        "Digit frequencies of sequential voucher numbers"
+      ],
+      "a": 1,
+      "why": "Benford's: leading-digit (or first two digits) distribution under natural-growth processes; manipulated/fabricated data often deviates at specific digits or round-number clusters — a risk-ranking tool, not proof; applicability requires the right data characteristics (variability, no enforced ranges).",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — a sieve for stories about the data, not a verdict AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Benford's law",
+        "tip": "Truth starts with 1 more often than people do.",
+        "link": "Chapter 17 — Due Diligence, Investigation & Forensic Accounting"
+      }
+    },
+    {
+      "id": "p3q-1t9xe7q",
+      "ch": 17,
+      "topic": "Chain of custody",
+      "m": 1,
+      "d": "HARD",
+      "q": "In a forensic/digital investigation, chain of custody matters because:",
+      "o": [
+        "It encrypts the evidence",
+        "It evidences that the item examined is the same, unaltered, and uncorrupted, collected by authorised hands — without it, the evidence is inadmissible/unreliable",
+        "It is a statutory format",
+        "It replaces the need to document procedures"
+      ],
+      "a": 1,
+      "why": "Documented custody trail: collection time, handler, hash for digital, storage integrity; breaks in the chain destroy reliability regardless of the forensic finding's validity — the digital-first caveat (hash the source, work on images).",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — evidence credibility travels by paperwork, not by content Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Chain of custody",
+        "tip": "An unguarded exhibit is a lost exhibit, however damning.",
+        "link": "Chapter 17 — Due Diligence, Investigation & Forensic Accounting"
+      }
+    },
+    {
+      "id": "p3q-5j0vvd",
+      "ch": 17,
+      "topic": "Fraud examination entry",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A forensic accountant begins an examination based on:",
+      "o": [
+        "A client's request",
+        "Predication — a reasonable basis to believe fraud occurred",
+        "Rumour alone",
+        "An audit fee"
+      ],
+      "a": 1,
+      "why": "Predication is the professional trigger; without it there is no examination, only fishing.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the threshold question AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Fraud examination entry",
+        "tip": "Investigations start with a reason, not a suspicion for sale.",
+        "link": "Chapter 17 — Due Diligence, Investigation & Forensic Accounting"
+      }
+    },
+    {
+      "id": "p3q-1sg2fc9",
+      "ch": 17,
+      "topic": "Chain of custody",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "In digital evidence collection the auditor's first technical step is:",
+      "o": [
+        "Interviewing",
+        "Imaging with hash verification of the original medium",
+        "Deleting duplicates",
+        "Backing up to the client cloud"
+      ],
+      "a": 1,
+      "why": "Preserve the original, work on copies, hash for integrity — the admissibility of everything downstream rests on it.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — seal first, sift later AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Chain of custody",
+        "tip": "A copied exhibit with the right fingerprint is proof; a loose file is a rumour.",
+        "link": "Chapter 17 — Due Diligence, Investigation & Forensic Accounting"
+      }
+    },
+    {
+      "id": "p3q-gzuvy9",
+      "ch": 17,
+      "topic": "Vouchers — original evidence",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "In a fraud examination, original vouchers are preferred to copies because:",
+      "o": [
+        "Copies are illegal",
+        "The reliability of documents: originals can be authenticated (signatures, edits, paper trail), copies can be selected or altered",
+        "Copies are heavy",
+        "Originals are faster"
+      ],
+      "a": 1,
+      "why": "Evidence hierarchy again: original documents, examined for alteration (font mismatch, insertion spacing), carry the forensic value — the chain of custody on top of that.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — touch the paper the pen touched AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Vouchers — original evidence",
+        "tip": "A photocopy has no margin — but shows none of the edits.",
+        "link": "Chapter 17 — Due Diligence, Investigation & Forensic Accounting"
+      }
+    },
+    {
+      "id": "p3q-pzjcuq",
+      "ch": 17,
+      "topic": "Loss quantification method",
+      "m": 1,
+      "d": "HARD",
+      "q": "A fraud loss measurement that nets out what the entity would have paid anyway uses:",
+      "o": [
+        "Gross receipts",
+        "Cash-out (or realistic net) method: loss = direct outflows minus the value of goods/services actually received",
+        "Statutory damages",
+        "Bank balance"
+      ],
+      "a": 1,
+      "why": "Loss = the net theft (payments minus the real services delivered) — the gross method inflates where the victim received genuine value; the method must be disclosed because the difference is the report's number.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — method names move the number more than facts do Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Loss quantification method",
+        "tip": "Count what left, less what stayed.",
+        "link": "Chapter 17 — Due Diligence, Investigation & Forensic Accounting"
+      }
+    },
+    {
+      "id": "p3q-t7tlb6",
+      "ch": 17,
+      "topic": "Benford test reading",
+      "m": 1,
+      "d": "HARD",
+      "q": "A payments ledger of 12,000 vouchers shows leading digit '1' in 41% of amounts. Against Benford's law the auditor concludes:",
+      "o": [
+        "Roughly consistent (observed 41% vs expected 30.1%) — no Benford-based exception to chase",
+        "Any deviation is conclusive evidence of fraud",
+        "Benford applies only to sequential voucher numbers",
+        "Frequencies should be uniform (11.1% each)"
+      ],
+      "a": 0,
+      "why": "Benford expects ≈30.1% for digit 1; 41% is in the workable range → no digit-driven follow-up. Benford is a sieve, never a verdict.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — reading the test (not over-claiming it) is the exam skill Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Benford test reading",
+        "tip": "Benford expected first-digit frequencies: 1→30.1%, 2→17.6%, … 9→4.6%; deviations flag populations for deeper work, not proof.",
+        "link": "Chapter 17 — Due Diligence, Investigation & Forensic Accounting"
+      }
+    },
+    {
+      "id": "p3q-1iinawf",
+      "ch": 17,
+      "topic": "Benford test reading",
+      "m": 1,
+      "d": "HARD",
+      "q": "A payments ledger of 12,000 vouchers shows leading digit '1' in 55% of amounts. Against Benford's law the auditor concludes:",
+      "o": [
+        "Any deviation is conclusive evidence of fraud",
+        "Benford applies only to sequential voucher numbers",
+        "Severe under/over-representation of 55% against 30.1% expected — a fabrication/mis-grouping flag (not proof); trace the outliers",
+        "Frequencies should be uniform (11.1% each)"
+      ],
+      "a": 2,
+      "why": "Benford expects ≈30.1% for digit 1; 55% is far outside plausible sampling noise → investigate clustering (e.g., amounts just below approval thresholds). Benford is a sieve, never a verdict.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — reading the test (not over-claiming it) is the exam skill Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Benford test reading",
+        "tip": "Benford expected first-digit frequencies: 1→30.1%, 2→17.6%, … 9→4.6%; deviations flag populations for deeper work, not proof.",
+        "link": "Chapter 17 — Due Diligence, Investigation & Forensic Accounting"
+      }
+    },
+    {
+      "id": "p3q-tygcsg",
+      "ch": 17,
+      "topic": "Benford test reading",
+      "m": 1,
+      "d": "HARD",
+      "q": "A payments ledger of 12,000 vouchers shows leading digit '1' in 18% of amounts. Against Benford's law the auditor concludes:",
+      "o": [
+        "Any deviation is conclusive evidence of fraud",
+        "Severe under/over-representation of 18% against 30.1% expected — a fabrication/mis-grouping flag (not proof); trace the outliers",
+        "Benford applies only to sequential voucher numbers",
+        "Frequencies should be uniform (11.1% each)"
+      ],
+      "a": 1,
+      "why": "Benford expects ≈30.1% for digit 1; 18% is far outside plausible sampling noise → investigate clustering (e.g., amounts just below approval thresholds). Benford is a sieve, never a verdict.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — reading the test (not over-claiming it) is the exam skill Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Benford test reading",
+        "tip": "Benford expected first-digit frequencies: 1→30.1%, 2→17.6%, … 9→4.6%; deviations flag populations for deeper work, not proof.",
+        "link": "Chapter 17 — Due Diligence, Investigation & Forensic Accounting"
+      }
+    },
+    {
+      "id": "p3q-up4ybu",
+      "ch": 17,
+      "topic": "Benford test reading",
+      "m": 1,
+      "d": "HARD",
+      "q": "A payments ledger of 12,000 vouchers shows leading digit '1' in 12% of amounts. Against Benford's law the auditor concludes:",
+      "o": [
+        "Any deviation is conclusive evidence of fraud",
+        "Severe under/over-representation of 12% against 30.1% expected — a fabrication/mis-grouping flag (not proof); trace the outliers",
+        "Benford applies only to sequential voucher numbers",
+        "Frequencies should be uniform (11.1% each)"
+      ],
+      "a": 1,
+      "why": "Benford expects ≈30.1% for digit 1; 12% is far outside plausible sampling noise → investigate clustering (e.g., amounts just below approval thresholds). Benford is a sieve, never a verdict.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — reading the test (not over-claiming it) is the exam skill Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Benford test reading",
+        "tip": "Benford expected first-digit frequencies: 1→30.1%, 2→17.6%, … 9→4.6%; deviations flag populations for deeper work, not proof.",
+        "link": "Chapter 17 — Due Diligence, Investigation & Forensic Accounting"
+      }
+    },
+    {
+      "id": "p3q-fjqlz6",
+      "ch": 17,
+      "topic": "Benford test reading",
+      "m": 1,
+      "d": "HARD",
+      "q": "A payments ledger of 12,000 vouchers shows leading digit '1' in 30% of amounts. Against Benford's law the auditor concludes:",
+      "o": [
+        "Any deviation is conclusive evidence of fraud",
+        "Benford applies only to sequential voucher numbers",
+        "Roughly consistent (observed 30% vs expected 30.1%) — no Benford-based exception to chase",
+        "Frequencies should be uniform (11.1% each)"
+      ],
+      "a": 2,
+      "why": "Benford expects ≈30.1% for digit 1; 30% is in the workable range → no digit-driven follow-up. Benford is a sieve, never a verdict.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — reading the test (not over-claiming it) is the exam skill Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Benford test reading",
+        "tip": "Benford expected first-digit frequencies: 1→30.1%, 2→17.6%, … 9→4.6%; deviations flag populations for deeper work, not proof.",
+        "link": "Chapter 17 — Due Diligence, Investigation & Forensic Accounting"
+      }
+    }
+  ]
+}

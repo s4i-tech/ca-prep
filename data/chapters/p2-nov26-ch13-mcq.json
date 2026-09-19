@@ -1,0 +1,683 @@
+{
+  "meta": {
+    "id": "p2-nov26-ch13-mcq",
+    "paper": "P2",
+    "attempt": "NOV-2026",
+    "kind": "chapter",
+    "category": "CHAPTER-WISE MCQs",
+    "title": "Ch 13: Business Valuation — MCQ Bank",
+    "description": "Chapter-wise practice MCQs for Chapter 13 (Business Valuation).",
+    "count": 27,
+    "mcqCount": 27,
+    "descriptiveCount": 0,
+    "coverage": "Chapter 13 · 27 MCQs",
+    "chapters": [
+      13
+    ],
+    "durationMinutes": 41,
+    "difficulty": "Exam standard",
+    "high": 1,
+    "medium": 23,
+    "low": 3
+  },
+  "questions": [
+    {
+      "id": "p2q-1f264tn",
+      "ch": 13,
+      "topic": "Valuing a chain for sale",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "FCFF year-0 (last actual) ≈:",
+      "o": [
+        "Rs 14.5 crore",
+        "Rs 26.5 crore",
+        "Rs 30 crore",
+        "Rs 38 crore"
+      ],
+      "a": 0,
+      "why": "EBITDA 42 − D&A 12 = EBIT 30; ×0.75 = 22.5; +12 − 16 − 4 = Rs 14.5 crore — 26.5 stops before capex/WC, 30 is EBIT.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — this topic stays active in ICAI question-setting AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Valuing a chain for sale",
+        "tip": "The FCFF ladder: EBITDA → EBIT → NOPAT → flows Each rung subtracts: D&A, tax, then the two capers — capex and WC.",
+        "link": "Chapter 13 — Business Valuation"
+      },
+      "stem": "Cafe chain Brewline: last-year revenue Rs 300 crore, EBITDA margin 14%, D&A 12 crore, capex 16 crore, ΔWC 4 crore, tax 25%; comparables trade at EV/EBITDA 8–9×; DCF with 5-yr forecast has FCFF growing 8% then 5% terminal at 13% WACC, with net debt 60 crore.",
+      "caseRef": "p2-case-3"
+    },
+    {
+      "id": "p2q-vxesj3",
+      "ch": 13,
+      "topic": "Valuing a chain for sale",
+      "m": 2,
+      "d": "HARD",
+      "q": "With FCFF growing from 14.5 at 8% for 5 years then g 5% at WACC 13%, the ENTERPRISE value is approximately:",
+      "o": [
+        "Rs 179 crore",
+        "Rs 212 crore",
+        "Rs 214 crore",
+        "Rs 90 crore"
+      ],
+      "a": 2,
+      "why": "Flows: 15.66, 16.91, 18.26, 19.72, 21.30 → PV@13% = 13.86+13.25+12.67+12.10+11.58 = 63.46; terminal = 21.30×1.05/(0.13−0.05) = 279.8 PV×0.5428 = 151.9; EV ≈ 63.5 + 151.9 ≈ Rs 214 crore; equity ≈ 214 − 60 = Rs 154 crore.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — this topic stays active in ICAI question-setting Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Valuing a chain for sale",
+        "tip": "Terminal dominance warning: 152 of 215 lives beyond year 5 A DCF is a crystal ball bolted to five real years — weight it honestly.",
+        "link": "Chapter 13 — Business Valuation"
+      },
+      "stem": "Cafe chain Brewline: last-year revenue Rs 300 crore, EBITDA margin 14%, D&A 12 crore, capex 16 crore, ΔWC 4 crore, tax 25%; comparables trade at EV/EBITDA 8–9×; DCF with 5-yr forecast has FCFF growing 8% then 5% terminal at 13% WACC, with net debt 60 crore.",
+      "caseRef": "p2-case-3"
+    },
+    {
+      "id": "p2q-qiib7o",
+      "ch": 13,
+      "topic": "Valuing a chain for sale",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Comps EV/EBITDA at 8× EBITDA 42 = Rs 336 crore vs DCF 215 crore. The correct use of this gap is:",
+      "o": [
+        "Trust comps — market is always right",
+        "Reconcile: growth, margin, leverage, one-offs in EBITDA (run-rate), and terminal assumptions; the bridge decides where truth sits between",
+        "Trust DCF",
+        "Average blindly"
+      ],
+      "a": 1,
+      "why": "Range + drivers: normalise EBITDA (one-offs, promoter perks), cycle position of margins, D&A/capex gaps; DCF embeds specific plan growth vs comp median — never a coin-flip of the two.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — this topic stays active in ICAI question-setting AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Valuing a chain for sale",
+        "tip": "Range + reasoning beats point + faith Two answers is not indecision — the middle is where the diligence lives.",
+        "link": "Chapter 13 — Business Valuation"
+      },
+      "stem": "Cafe chain Brewline: last-year revenue Rs 300 crore, EBITDA margin 14%, D&A 12 crore, capex 16 crore, ΔWC 4 crore, tax 25%; comparables trade at EV/EBITDA 8–9×; DCF with 5-yr forecast has FCFF growing 8% then 5% terminal at 13% WACC, with net debt 60 crore.",
+      "caseRef": "p2-case-3"
+    },
+    {
+      "id": "p2q-8iwjbd",
+      "ch": 13,
+      "topic": "Valuing a chain for sale",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Net debt 60 crore reduces EV to equity; if the chain has Rs 25 crore unpaid promoter working-capital advances to be repaid, the equity value bridge should:",
+      "o": [
+        "Ignore it",
+        "Treat as quasi-debt — deduct from EV to reach equity for a clean deal",
+        "Add it",
+        "Half it"
+      ],
+      "a": 1,
+      "why": "Any claim ahead of equity (quasi-debt) comes off EV; buyer's price = EV − debt − debt-like items + cash; the working-capital peg belongs in the SPA instead of the multiple.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — this topic stays active in ICAI question-setting Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Valuing a chain for sale",
+        "tip": "Quasi-debt is debt by behaviour Equity owns the leftovers — subtract everything the company owes that can say 'me too'.",
+        "link": "Chapter 13 — Business Valuation"
+      },
+      "stem": "Cafe chain Brewline: last-year revenue Rs 300 crore, EBITDA margin 14%, D&A 12 crore, capex 16 crore, ΔWC 4 crore, tax 25%; comparables trade at EV/EBITDA 8–9×; DCF with 5-yr forecast has FCFF growing 8% then 5% terminal at 13% WACC, with net debt 60 crore.",
+      "caseRef": "p2-case-3"
+    },
+    {
+      "id": "p2q-10cp1gv",
+      "ch": 13,
+      "topic": "Valuing a chain for sale",
+      "m": 2,
+      "d": "HARD",
+      "q": "If a control premium of 12% is payable to the promoter seller of 60% stake, the implied price per share basis:",
+      "o": [
+        "12% on EV only",
+        "Apply to equity value at the stake level: the premium pays for control rights (board, re-strategy), not EV arithmetic",
+        "Half discount",
+        "Zero premium"
+      ],
+      "a": 1,
+      "why": "Control premium sits at the equity/stake level (the ability to direct cash flows), while EV/DCF values the whole; minority sales would carry a discount — the mirror.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — this topic stays active in ICAI question-setting Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Valuing a chain for sale",
+        "tip": "Premium is about the steering wheel, not the engine Control isn't more shares — it's more steering; pay for the wheel at the equity counter.",
+        "link": "Chapter 13 — Business Valuation"
+      },
+      "stem": "Cafe chain Brewline: last-year revenue Rs 300 crore, EBITDA margin 14%, D&A 12 crore, capex 16 crore, ΔWC 4 crore, tax 25%; comparables trade at EV/EBITDA 8–9×; DCF with 5-yr forecast has FCFF growing 8% then 5% terminal at 13% WACC, with net debt 60 crore.",
+      "caseRef": "p2-case-3"
+    },
+    {
+      "id": "p2q-1afkqso",
+      "ch": 13,
+      "topic": "Valuation multiples",
+      "m": 1,
+      "d": "HARD",
+      "q": "A stock grows 8% forever with ROE 15%, and the market demands 12% return. The implied retention ratio (g = b × ROE) and the justified P/E (payout ÷ (r−g)) are:",
+      "o": [
+        "b = 53%, justified P/E ≈ 11.8",
+        "b = 40%, justified P/E = 20",
+        "b = 60%, justified P/E = 6.7",
+        "b = 25%, justified P/E = 30"
+      ],
+      "a": 0,
+      "why": "8 = b × 15 ⇒ b = 53.3% ⇒ payout 46.7%; justified P/E = 0.467/(0.12−0.08) ≈ 11.8. Actual 20 ⇒ market prices expectations beyond 12% required return (or a lower r).",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the payout/retention flip inside growth equations is the trap AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Valuation multiples",
+        "tip": "ROE × what you keep IS your growth; justified multiples are payout over the spread.",
+        "link": "Chapter 13 — Business Valuation"
+      }
+    },
+    {
+      "id": "p2q-sufxer",
+      "ch": 13,
+      "topic": "Residual income",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "RI model valuation adds book value to:",
+      "o": [
+        "Dividends forever",
+        "(ROE − r) × BV ÷ (r − g)",
+        "EVA only",
+        "Free cash flow"
+      ],
+      "a": 1,
+      "why": "RI: V = BV0 + Σ RI_t/(1+r)^t with RI = (ROE − r)×BV_prev; equivalence with DDM/FCFE under clean surplus.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the equivalence trio in valuation methods AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Residual income",
+        "tip": "RI says: earnings minus the charge on your capital — a profit rent, valued like any rent.",
+        "link": "Chapter 13 — Business Valuation"
+      }
+    },
+    {
+      "id": "p2q-xx5ru4",
+      "ch": 13,
+      "topic": "Terminal growth trap",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "In DCF valuation, a perpetual growth rate above the economy's long-run rate is:",
+      "o": [
+        "Standard practice",
+        "An error — g cannot exceed nominal GDP growth perpetually",
+        "Safe with high margins",
+        "Required by standards"
+      ],
+      "a": 1,
+      "why": "Long-run g ≤ economy growth (else the firm would outgrow GDP forever); WACC also must exceed g for convergence.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the growth-ceiling logic check is a valuation red-flag question AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Terminal growth trap",
+        "tip": "A company can outgrow the market, never the economy, forever.",
+        "link": "Chapter 13 — Business Valuation"
+      }
+    },
+    {
+      "id": "p2q-98eafm",
+      "ch": 13,
+      "topic": "Adjusted present vs FCFE for LBO",
+      "m": 1,
+      "d": "HARD",
+      "q": "Which valuation approach best fits an LBO with explicit debt schedule?",
+      "o": [
+        "DDM",
+        "APV or flow-to-equity with the given debt schedule — NOT perpetuity growth",
+        "EBITDA multiple only",
+        "Book value"
+      ],
+      "a": 1,
+      "why": "Fixed debt schedules (LBO) favour explicit financing side effects (APV/flow-to-equity); perpetuity-growth models assume constant capital structure.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — method-to-structure matching Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Adjusted present vs FCFE for LBO",
+        "tip": "When debt is planned in lines, price it line by line.",
+        "link": "Chapter 13 — Business Valuation"
+      }
+    },
+    {
+      "id": "p2q-1xzgwpt",
+      "ch": 13,
+      "topic": "Exit multiples vs perpetuity",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A DCF with an exit multiple for terminal value differs from perpetuity growth because:",
+      "o": [
+        "It assumes an infinite life",
+        "It assumes a sale at a market multiple at horizon — embeds the industry P/E expectations and a finite holding period",
+        "Ignores WACC",
+        "Uses book values"
+      ],
+      "a": 1,
+      "why": "Terminal multiple: value = horizon-year metric × exit multiple (reflects comparable-market pricing, assumes liquidity/buyer at that date); sensitivity to both horizon length and assumed multiple.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — terminal-value-method selection with assumptions AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Exit multiples vs perpetuity",
+        "tip": "Gordon trusts the years after years; the multiple trusts the buyer's cheque on one year.",
+        "link": "Chapter 13 — Business Valuation"
+      }
+    },
+    {
+      "id": "p2q-9khzfe",
+      "ch": 13,
+      "topic": "EVA — solve for WACC",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A division earns NOPAT Rs 100 crore on capital employed of Rs 400 crore and reports EVA of Rs 12 crore. Its WACC must be:",
+      "o": [
+        "22%",
+        "25%",
+        "18%",
+        "30%"
+      ],
+      "a": 0,
+      "why": "EVA = NOPAT − WACC × CE ⇒ 12 = 100 − 400w ⇒ 400w = 88 ⇒ w = 22%. The inverse-solve version tests the same single equation.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the solve-for-inverse EVA is a fresh twist AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: EVA — solve for WACC",
+        "tip": "Capital has a rent; EVA is what's left after paying it — divide the charge by the capital for the rate.",
+        "link": "Chapter 13 — Business Valuation"
+      }
+    },
+    {
+      "id": "p2q-rd435h",
+      "ch": 13,
+      "topic": "EVA",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "NOPAT Rs 120 crore on capital employed Rs 400 crore; WACC 12%. EVA:",
+      "o": [
+        "Rs 120.0 crore (no charge)",
+        "Rs 96.0 crore",
+        "Rs 72.0 crore",
+        "Nil if profit positive"
+      ],
+      "a": 2,
+      "why": "EVA = 120 − 12%×400 = 72.0 crore.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — EVA single-step appears in every attempt's 1-mark set AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: EVA",
+        "tip": "EVA = NOPAT − WACC×capital.",
+        "link": "Chapter 13 — Business Valuation"
+      }
+    },
+    {
+      "id": "p2q-3v0a3f",
+      "ch": 13,
+      "topic": "EVA",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "NOPAT Rs 120 crore on capital employed Rs 600 crore; WACC 12%. EVA:",
+      "o": [
+        "Rs 120.0 crore (no charge)",
+        "Rs 48.0 crore",
+        "Rs 84.0 crore",
+        "Nil if profit positive"
+      ],
+      "a": 1,
+      "why": "EVA = 120 − 12%×600 = 48.0 crore.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — EVA single-step appears in every attempt's 1-mark set AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: EVA",
+        "tip": "EVA = NOPAT − WACC×capital.",
+        "link": "Chapter 13 — Business Valuation"
+      }
+    },
+    {
+      "id": "p2q-uac6j9",
+      "ch": 13,
+      "topic": "EVA",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "NOPAT Rs 90 crore on capital employed Rs 400 crore; WACC 12%. EVA:",
+      "o": [
+        "Rs 90.0 crore (no charge)",
+        "Rs 42.0 crore",
+        "Rs 66.0 crore",
+        "Nil if profit positive"
+      ],
+      "a": 1,
+      "why": "EVA = 90 − 12%×400 = 42.0 crore.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — EVA single-step appears in every attempt's 1-mark set AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: EVA",
+        "tip": "EVA = NOPAT − WACC×capital.",
+        "link": "Chapter 13 — Business Valuation"
+      }
+    },
+    {
+      "id": "p2q-y0688q",
+      "ch": 13,
+      "topic": "EVA",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "NOPAT Rs 90 crore on capital employed Rs 400 crore; WACC 15%. EVA:",
+      "o": [
+        "Rs 90.0 crore (no charge)",
+        "Rs 60.0 crore",
+        "Nil if profit positive",
+        "Rs 30.0 crore"
+      ],
+      "a": 3,
+      "why": "EVA = 90 − 15%×400 = 30.0 crore.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — EVA single-step appears in every attempt's 1-mark set AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: EVA",
+        "tip": "EVA = NOPAT − WACC×capital.",
+        "link": "Chapter 13 — Business Valuation"
+      }
+    },
+    {
+      "id": "p2q-1ma1ruj",
+      "ch": 13,
+      "topic": "EVA",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "NOPAT Rs 90 crore on capital employed Rs 600 crore; WACC 12%. EVA:",
+      "o": [
+        "Rs 18.0 crore",
+        "Rs 90.0 crore (no charge)",
+        "Rs 54.0 crore",
+        "Nil if profit positive"
+      ],
+      "a": 0,
+      "why": "EVA = 90 − 12%×600 = 18.0 crore.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — EVA single-step appears in every attempt's 1-mark set AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: EVA",
+        "tip": "EVA = NOPAT − WACC×capital.",
+        "link": "Chapter 13 — Business Valuation"
+      }
+    },
+    {
+      "id": "p2q-rq20lw",
+      "ch": 13,
+      "topic": "EVA",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "NOPAT Rs 90 crore on capital employed Rs 600 crore; WACC 15%. EVA:",
+      "o": [
+        "Rs 90.0 crore (no charge)",
+        "Rs 0.0 crore",
+        "Rs 45.0 crore",
+        "Nil if profit positive"
+      ],
+      "a": 1,
+      "why": "EVA = 90 − 15%×600 = 0.0 crore.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — EVA single-step appears in every attempt's 1-mark set AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: EVA",
+        "tip": "EVA = NOPAT − WACC×capital.",
+        "link": "Chapter 13 — Business Valuation"
+      }
+    },
+    {
+      "id": "p2q-up8m1m",
+      "ch": 13,
+      "topic": "EVA",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "NOPAT Rs 120 crore on capital employed Rs 400 crore; WACC 15%. EVA:",
+      "o": [
+        "Rs 120.0 crore (no charge)",
+        "Rs 60.0 crore",
+        "Rs 90.0 crore",
+        "Nil if profit positive"
+      ],
+      "a": 1,
+      "why": "EVA = 120 − 15%×400 = 60.0 crore.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — EVA single-step appears in every attempt's 1-mark set AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: EVA",
+        "tip": "EVA = NOPAT − WACC×capital.",
+        "link": "Chapter 13 — Business Valuation"
+      }
+    },
+    {
+      "id": "p2q-fub94k",
+      "ch": 13,
+      "topic": "EVA",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "NOPAT Rs 120 crore on capital employed Rs 600 crore; WACC 15%. EVA:",
+      "o": [
+        "Rs 120.0 crore (no charge)",
+        "Rs 75.0 crore",
+        "Nil if profit positive",
+        "Rs 30.0 crore"
+      ],
+      "a": 3,
+      "why": "EVA = 120 − 15%×600 = 30.0 crore.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — EVA single-step appears in every attempt's 1-mark set AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: EVA",
+        "tip": "EVA = NOPAT − WACC×capital.",
+        "link": "Chapter 13 — Business Valuation"
+      }
+    },
+    {
+      "id": "p2q-1hm3we4",
+      "ch": 13,
+      "topic": "Residual income",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Equity book value Rs 100 crore, ROE 18%, required return 11%. The residual income:",
+      "o": [
+        "Rs 18 crore (profit not residual)",
+        "Rs 7 crore",
+        "Rs 4 crore",
+        "Negative of it"
+      ],
+      "a": 1,
+      "why": "RI = (18 − 11)% × 100 = Rs 7 crore; value = BV + PV(RI).",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the single-step RI recipe is reliable AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Residual income",
+        "tip": "RI = (ROE − r)×BV.",
+        "link": "Chapter 13 — Business Valuation"
+      }
+    },
+    {
+      "id": "p2q-1gc2fil",
+      "ch": 13,
+      "topic": "Residual income",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Equity book value Rs 200 crore, ROE 14%, required return 11%. The residual income:",
+      "o": [
+        "Rs 28 crore (profit not residual)",
+        "Rs 3 crore",
+        "Rs 6 crore",
+        "Negative of it"
+      ],
+      "a": 2,
+      "why": "RI = (14 − 11)% × 200 = Rs 6 crore; value = BV + PV(RI).",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the single-step RI recipe is reliable AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Residual income",
+        "tip": "RI = (ROE − r)×BV.",
+        "link": "Chapter 13 — Business Valuation"
+      }
+    },
+    {
+      "id": "p2q-kp50eu",
+      "ch": 13,
+      "topic": "Residual income",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Equity book value Rs 200 crore, ROE 14%, required return 12%. The residual income:",
+      "o": [
+        "Rs 4 crore",
+        "Rs 28 crore (profit not residual)",
+        "Rs 2 crore",
+        "Negative of it"
+      ],
+      "a": 0,
+      "why": "RI = (14 − 12)% × 200 = Rs 4 crore; value = BV + PV(RI).",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the single-step RI recipe is reliable AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Residual income",
+        "tip": "RI = (ROE − r)×BV.",
+        "link": "Chapter 13 — Business Valuation"
+      }
+    },
+    {
+      "id": "p2q-10qbhwn",
+      "ch": 13,
+      "topic": "Residual income",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Equity book value Rs 100 crore, ROE 18%, required return 12%. The residual income:",
+      "o": [
+        "Rs 18 crore (profit not residual)",
+        "Rs 3 crore",
+        "Rs 6 crore",
+        "Negative of it"
+      ],
+      "a": 2,
+      "why": "RI = (18 − 12)% × 100 = Rs 6 crore; value = BV + PV(RI).",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the single-step RI recipe is reliable AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Residual income",
+        "tip": "RI = (ROE − r)×BV.",
+        "link": "Chapter 13 — Business Valuation"
+      }
+    },
+    {
+      "id": "p2q-1a41okx",
+      "ch": 13,
+      "topic": "Residual income",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Equity book value Rs 200 crore, ROE 18%, required return 11%. The residual income:",
+      "o": [
+        "Rs 14 crore",
+        "Rs 36 crore (profit not residual)",
+        "Rs 7 crore",
+        "Negative of it"
+      ],
+      "a": 0,
+      "why": "RI = (18 − 11)% × 200 = Rs 14 crore; value = BV + PV(RI).",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the single-step RI recipe is reliable AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Residual income",
+        "tip": "RI = (ROE − r)×BV.",
+        "link": "Chapter 13 — Business Valuation"
+      }
+    },
+    {
+      "id": "p2q-1wg56uy",
+      "ch": 13,
+      "topic": "Residual income",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Equity book value Rs 200 crore, ROE 18%, required return 12%. The residual income:",
+      "o": [
+        "Rs 12 crore",
+        "Rs 36 crore (profit not residual)",
+        "Rs 6 crore",
+        "Negative of it"
+      ],
+      "a": 0,
+      "why": "RI = (18 − 12)% × 200 = Rs 12 crore; value = BV + PV(RI).",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the single-step RI recipe is reliable AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Residual income",
+        "tip": "RI = (ROE − r)×BV.",
+        "link": "Chapter 13 — Business Valuation"
+      }
+    },
+    {
+      "id": "p2q-1aaubi3",
+      "ch": 13,
+      "topic": "Residual income",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Equity book value Rs 100 crore, ROE 14%, required return 12%. The residual income:",
+      "o": [
+        "Rs 14 crore (profit not residual)",
+        "Rs 1 crore",
+        "Negative of it",
+        "Rs 2 crore"
+      ],
+      "a": 3,
+      "why": "RI = (14 − 12)% × 100 = Rs 2 crore; value = BV + PV(RI).",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the single-step RI recipe is reliable AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Residual income",
+        "tip": "RI = (ROE − r)×BV.",
+        "link": "Chapter 13 — Business Valuation"
+      }
+    },
+    {
+      "id": "p2q-rl6dvk",
+      "ch": 13,
+      "topic": "Residual income",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Equity book value Rs 100 crore, ROE 14%, required return 11%. The residual income:",
+      "o": [
+        "Rs 14 crore (profit not residual)",
+        "Rs 3 crore",
+        "Rs 2 crore",
+        "Negative of it"
+      ],
+      "a": 1,
+      "why": "RI = (14 − 11)% × 100 = Rs 3 crore; value = BV + PV(RI).",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the single-step RI recipe is reliable AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Residual income",
+        "tip": "RI = (ROE − r)×BV.",
+        "link": "Chapter 13 — Business Valuation"
+      }
+    }
+  ]
+}

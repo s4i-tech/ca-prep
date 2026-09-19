@@ -1,0 +1,371 @@
+{
+  "meta": {
+    "id": "p3-nov26-ch6-mcq",
+    "paper": "P3",
+    "attempt": "NOV-2026",
+    "kind": "chapter",
+    "category": "CHAPTER-WISE MCQs",
+    "title": "Ch 6: Completion and Review — MCQ Bank",
+    "description": "Chapter-wise practice MCQs for Chapter 6 (Completion and Review).",
+    "count": 14,
+    "mcqCount": 14,
+    "descriptiveCount": 0,
+    "coverage": "Chapter 6 · 14 MCQs",
+    "chapters": [
+      6
+    ],
+    "durationMinutes": 21,
+    "difficulty": "Exam standard",
+    "high": 4,
+    "medium": 8,
+    "low": 2
+  },
+  "questions": [
+    {
+      "id": "p3q-15f10qn",
+      "ch": 6,
+      "topic": "Between the dates — the report-window week",
+      "m": 2,
+      "d": "HARD",
+      "q": "The insolvency disclosure on 28 May is:",
+      "o": [
+        "Outside the window — ignore",
+        "A fact that EXISTED at the report date condition-wise? Evaluate whether the deterioration pre-dated 31 March: if the conditions at year-end explain it ⇒ adjust; if new ⇒ disclose — the auditor cannot simply 'ignore' before issuing",
+        "Always non-adjusting",
+        "Re-audit the customer"
+      ],
+      "a": 0,
+      "why": "Careful: the 'no active search' window runs AFTER the report date; here the facts arrive BEFORE issuing — the auditor evaluates whether the condition existed at the balance-sheet date (the 12 May confirmation's silence is informative); the timing decides the bucket, not the date of the phone call.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — this topic stays active in ICAI question-setting Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Between the dates — the report-window week",
+        "tip": "Between the dates: still on duty A letter you mailed can still be recalled; an opinion already dated must be defended.",
+        "link": "Chapter 6 — Completion and Review"
+      },
+      "stem": "Audit of Meridian Mills for FY ended 31 March 20X6: report date 24 May. On 28 May the CFO phones: the customer that owed 14% of receivables (confirmed, unremarkable reply 12 May) was admitted to insolvency proceedings on 26 May; the auditor also learns 10 May's board minutes (already read 16 May) were re-circulated 27 May with a new dividend-declaration item.",
+      "caseRef": "p3-case-6"
+    },
+    {
+      "id": "p3q-1guh9sz",
+      "ch": 6,
+      "topic": "Between the dates — the report-window week",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "The re-circulated minutes item changes:",
+      "o": [
+        "Nothing — minutes were read",
+        "The read of subsequent approvals; a declared dividend after year-end is a NON-adjusting event (present obligation arises with declaration ⇒ disclosure/recognise per the framework at declaration — state the cut-off logic)",
+        "Retract everything",
+        "Report to the shareholders"
+      ],
+      "a": 1,
+      "why": "Interim facts the audit already read may not cover: the duty runs to the report date — the new item forces updated inquiry of the re-issued minutes; for dividends: declared after the reporting date ⇒ non-adjusting, disclose the amount and per-share (the recognition line: only where declaration created a present obligation by the reporting date).",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — this topic stays active in ICAI question-setting Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Between the dates — the report-window week",
+        "tip": "Read to the date you sign, not the day you visited A signature should know the latest meeting, not the first.",
+        "link": "Chapter 6 — Completion and Review"
+      },
+      "stem": "Audit of Meridian Mills for FY ended 31 March 20X6: report date 24 May. On 28 May the CFO phones: the customer that owed 14% of receivables (confirmed, unremarkable reply 12 May) was admitted to insolvency proceedings on 26 May; the auditor also learns 10 May's board minutes (already read 16 May) were re-circulated 27 May with a new dividend-declaration item.",
+      "caseRef": "p3-case-6"
+    },
+    {
+      "id": "p3q-1xggmxp",
+      "ch": 6,
+      "topic": "Between the dates — the report-window week",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "The correct procedure set for the period after the last fieldwork to report date:",
+      "o": [
+        "None — the work is done",
+        "Specific procedures: read minutes, latest interim FS, inquire of management/TCWG on updated positions, read the approved draft statements — exactly because the search obligation is ACTIVE until the date of the report",
+        "Only a rep letter date change",
+        "Rely on the client's assurance"
+      ],
+      "a": 1,
+      "why": "SA 560's list — the 'designed to identify' set — that is the paragraph that turns 'nothing happened' into 'we checked whether anything did'.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — this topic stays active in ICAI question-setting Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Between the dates — the report-window week",
+        "tip": "The final week is a full week, focused An audit's last 1% is the whole 1% of liability.",
+        "link": "Chapter 6 — Completion and Review"
+      },
+      "stem": "Audit of Meridian Mills for FY ended 31 March 20X6: report date 24 May. On 28 May the CFO phones: the customer that owed 14% of receivables (confirmed, unremarkable reply 12 May) was admitted to insolvency proceedings on 26 May; the auditor also learns 10 May's board minutes (already read 16 May) were re-circulated 27 May with a new dividend-declaration item.",
+      "caseRef": "p3-case-6"
+    },
+    {
+      "id": "p3q-1e8guf3",
+      "ch": 6,
+      "topic": "Between the dates — the report-window week",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Management refuses to adjust the debtors for the now-insolvent account (arguing 26 May is 'next year'). The auditor:",
+      "o": [
+        "Accept",
+        "Evaluate the evidence (was the deterioration at 31 March probable and estimable?); if yes, a known misstatement — qualify/adverse by pervasiveness; if genuinely post-period, insist on disclosure; escalate to TCWG in either case",
+        "Withdraw for the refusal alone",
+        "Add an EOM"
+      ],
+      "a": 1,
+      "why": "The substance test: what did the receivable look like at year-end — the 12 May unremarkable confirmation weighs against the adjust case, but the customer's cash-flow state through March is the evidence — the auditor decides the bucket and then the report consequence; refusal to DISCLOSE is also a misstatement.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — this topic stays active in ICAI question-setting AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Between the dates — the report-window week",
+        "tip": "Dates don't decide; conditions do The calendar is evidence, never a verdict.",
+        "link": "Chapter 6 — Completion and Review"
+      },
+      "stem": "Audit of Meridian Mills for FY ended 31 March 20X6: report date 24 May. On 28 May the CFO phones: the customer that owed 14% of receivables (confirmed, unremarkable reply 12 May) was admitted to insolvency proceedings on 26 May; the auditor also learns 10 May's board minutes (already read 16 May) were re-circulated 27 May with a new dividend-declaration item.",
+      "caseRef": "p3-case-6"
+    },
+    {
+      "id": "p3q-1fnxt8y",
+      "ch": 6,
+      "topic": "Between the dates — the report-window week",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "After the report is issued and the statements sent to the AGM, the auditor learns on 30 June of a 26 May fact that WOULD have changed the opinion:",
+      "o": [
+        "No action — final",
+        "The SA 560 'facts becoming known after the date of the auditor's report' route: discuss, determine if amendment needed, act so users don't rely — re-date the report or issue an additional report referring to the note",
+        "Sue the customer",
+        "Rely on the file closure"
+      ],
+      "a": 1,
+      "why": "The distinction between 'no duty to update' and 'no duty to act when an old truth surfaces': if the fact EXISTED and would have changed the report, action is required; the mechanics: management amends + auditor extends procedures to the new date (or reports on the amendment only, with the Indian framing preferring the additional-report path), and if management refuses, take steps to prevent reliance.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — this topic stays active in ICAI question-setting AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Between the dates — the report-window week",
+        "tip": "Closed files reopen when the truth knocks You may leave the building; the building may still be on fire.",
+        "link": "Chapter 6 — Completion and Review"
+      },
+      "stem": "Audit of Meridian Mills for FY ended 31 March 20X6: report date 24 May. On 28 May the CFO phones: the customer that owed 14% of receivables (confirmed, unremarkable reply 12 May) was admitted to insolvency proceedings on 26 May; the auditor also learns 10 May's board minutes (already read 16 May) were re-circulated 27 May with a new dividend-declaration item.",
+      "caseRef": "p3-case-6"
+    },
+    {
+      "id": "p3q-ynndce",
+      "ch": 6,
+      "topic": "Subsequent events — types",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "After the year-end, a major customer's warehouse burns down on 14 May; the report is dated 28 May. This is:",
+      "o": [
+        "Adjusting — receivable was affected by conditions after the date",
+        "Non-adjusting — the condition arose after the reporting date; disclose if material",
+        "Adjusting — fire is a loss",
+        "Outside the audit scope"
+      ],
+      "a": 1,
+      "why": "Type 1 (adjust) = conditions EXISTING at the reporting date (the 90-day-overdue customer's death in May confirming December's impairment); Type 2 (disclose) = conditions arising after — a new fire damages an asset whole at year-end: disclose the nature and estimate, don't restate.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the line: where was the condition on the balance-sheet date? Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Subsequent events — types",
+        "tip": "The ledger remembers the past; the fire is tomorrow's entry.",
+        "link": "Chapter 6 — Completion and Review"
+      }
+    },
+    {
+      "id": "p3q-itcezz",
+      "ch": 6,
+      "topic": "No active search after report date",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Between the balance sheet date and the audit report date, the auditor:",
+      "o": [
+        "Performs no procedures",
+        "Performs procedures designed to identify events that may require adjustment/disclosure",
+        "Must audit the interim numbers",
+        "Relies on management confirmation only"
+      ],
+      "a": 1,
+      "why": "SA 560: during the period (date of statements → date of auditor's report) the auditor performs specific procedures (review minutes, latest interim, inquiry) — 'no active search' applies only AFTER report date; before it, the obligation runs.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — 'no responsibility' starts at the report date, not at year-end AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: No active search after report date",
+        "tip": "The audit is open for business until it closes.",
+        "link": "Chapter 6 — Completion and Review"
+      }
+    },
+    {
+      "id": "p3q-gox0j0",
+      "ch": 6,
+      "topic": "Written representations",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "If management refuses to provide a required written representation, the auditor should FIRST:",
+      "o": [
+        "Issue a qualified opinion immediately",
+        "Discuss with management, reassess management's integrity, and evaluate the effect on the opinion — including possible withdrawal",
+        "Ignore it as it is 'just' a form",
+        "Report to the regulator"
+      ],
+      "a": 1,
+      "why": "Refusal → discuss, evaluate the representation's importance for obtaining sufficient appropriate evidence, reconsider integrity (fraud implications), take appropriate action; a scope-limitation path to qualified/disclaimer — withdrawal may be needed — not an instant-adverse reflex.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — a missing signature is first an integrity alarm, then an opinion event AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Written representations",
+        "tip": "The form is paper; the refusal is a statement.",
+        "link": "Chapter 6 — Completion and Review"
+      }
+    },
+    {
+      "id": "p3q-gp9re3",
+      "ch": 6,
+      "topic": "Going concern — material uncertainty",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Where a material uncertainty exists and is adequately disclosed in the financial statements, the auditor (under current SAs) issues:",
+      "o": [
+        "A qualified opinion",
+        "An unmodified opinion with a 'Material Uncertainty Related to Going Concern' section",
+        "An adverse opinion",
+        "A disclaimer"
+      ],
+      "a": 1,
+      "why": "SA 570: adequate disclosure ⇒ unmodified + the dedicated MUTRC section (the 2021-style architecture moved uncertainty emphasis from an EOM paragraph to the report body); inadequate disclosure ⇒ modify (qualified/adverse by pervasiveness).",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — disclosed uncertainty ≠ modified opinion — but it must be said LOUD Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Going concern — material uncertainty",
+        "tip": "The storm is disclosed; the captain signs off anyway.",
+        "link": "Chapter 6 — Completion and Review"
+      }
+    },
+    {
+      "id": "p3q-10jp5ux",
+      "ch": 6,
+      "topic": "Going concern — 12-month horizon",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Management's going-concern assessment must cover at least:",
+      "o": [
+        "6 months from year end",
+        "12 months from the date of financial statements (not the report)",
+        "The next statutory audit cycle",
+        "Until the next AGM"
+      ],
+      "a": 1,
+      "why": "SA 570 requires management's evaluation to span at least 12 months from the date of the financial statements (auditors extend consideration if their own evaluation runs beyond, to the report date).",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the clock starts at the statement date — know both dates AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Going concern — 12-month horizon",
+        "tip": "Twelve months, counted from the numbers, not from the signature.",
+        "link": "Chapter 6 — Completion and Review"
+      }
+    },
+    {
+      "id": "p3q-kloy3r",
+      "ch": 6,
+      "topic": "Evaluation of uncorrected misstatements",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Uncorrected misstatements are evaluated:",
+      "o": [
+        "Item by item only",
+        "Individually AND in aggregate, against materiality and qualitatively",
+        "By rounding to zero",
+        "Only in the final audit file"
+      ],
+      "a": 1,
+      "why": "SA 450: the effect of each and the aggregate against overall materiality, plus QUALITATIVE factors (segment trends, debt covenants, ratios to avoid a negative turn, bias indicators) — 'immaterial' items in a biased direction can be material in context.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — immaterial + systematic bias = material in appearance, which matters AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Evaluation of uncorrected misstatements",
+        "tip": "Ten small sins make one large stain.",
+        "link": "Chapter 6 — Completion and Review"
+      }
+    },
+    {
+      "id": "p3q-it1mln",
+      "ch": 6,
+      "topic": "Adjusting event examples",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Which is an ADJUSTING event after the year-end?",
+      "o": [
+        "A fire in May",
+        "Insolvent customer whose collapse confirms December's doubtful state",
+        "New dividend declared",
+        "A share issue"
+      ],
+      "a": 1,
+      "why": "Confirmation of a year-end condition (the customer was already failing) ⇒ adjust the receivables/provision.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the condition test, not the calendar date AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Adjusting event examples",
+        "tip": "Some bad news is old news arriving late.",
+        "link": "Chapter 6 — Completion and Review"
+      }
+    },
+    {
+      "id": "p3q-1akj468",
+      "ch": 6,
+      "topic": "Post-approval review",
+      "m": 1,
+      "d": "HARD",
+      "q": "After the statements are approved and the report signed, the auditor:",
+      "o": [
+        "Re-audits everything",
+        "Has no ongoing obligation to perform procedures on the FS, but acts if a fact that existed at the report date later emerges",
+        "Files silently and never reopens",
+        "Issues a press note"
+      ],
+      "a": 1,
+      "why": "No duty to update, but a duty to ACT on a 'should have changed the report' old truth.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — closed, not deaf Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Post-approval review",
+        "tip": "The archive has an alarm wire.",
+        "link": "Chapter 6 — Completion and Review"
+      }
+    },
+    {
+      "id": "p3q-1nls2zg",
+      "ch": 6,
+      "topic": "Extension of the period",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "If the auditor's going-concern concern runs beyond the report date, the assessment horizon asked of management is:",
+      "o": [
+        "6 months",
+        "At least 12 months from the date of the financial statements (auditor may consider longer)",
+        "The next AGM",
+        "24 months always"
+      ],
+      "a": 1,
+      "why": "The floor is 12 months from the FS date; the auditor looks at the same horizon and beyond where facts warrant.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — from the numbers' date, not yours AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Extension of the period",
+        "tip": "A year of runway counted from the runway, not the take-off.",
+        "link": "Chapter 6 — Completion and Review"
+      }
+    }
+  ]
+}

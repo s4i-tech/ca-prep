@@ -1,0 +1,851 @@
+{
+  "meta": {
+    "id": "p1-nov26-ch5-mcq",
+    "paper": "P1",
+    "attempt": "NOV-2026",
+    "kind": "chapter",
+    "category": "CHAPTER-WISE MCQs",
+    "title": "Ch 5: Ind AS 115 — Revenue from Contracts with Customers — MCQ Bank",
+    "description": "Chapter-wise practice MCQs for Chapter 5 (Ind AS 115 — Revenue from Contracts with Customers).",
+    "count": 34,
+    "mcqCount": 34,
+    "descriptiveCount": 0,
+    "coverage": "Chapter 5 · 34 MCQs",
+    "chapters": [
+      5
+    ],
+    "durationMinutes": 51,
+    "difficulty": "Exam standard",
+    "high": 16,
+    "medium": 13,
+    "low": 5
+  },
+  "questions": [
+    {
+      "id": "p1q-eajmec",
+      "ch": 5,
+      "topic": "Ind AS 115 — telecom bundle",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "How many performance obligations does the contract contain?",
+      "o": [
+        "One — a single bundled plan",
+        "Two — handset combined with services",
+        "Three — handset, connectivity, cloud",
+        "Two — connectivity and cloud only"
+      ],
+      "a": 2,
+      "why": "The customer can benefit from the handset and each service on its own (readily available separately), and the items are not inputs to one combined output; the services are not highly interdependent. Three distinct performance obligations.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — this topic stays active in ICAI question-setting Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 115 — telecom bundle",
+        "tip": "Count distinct benefits, then test combination — bundling is the exception, not the rule. Distinct = stands alone. The plan is a gift basket, not one machine.",
+        "link": "Chapter 5 — Ind AS 115 — Revenue from Contracts with Customers"
+      },
+      "stem": "Teleco Ltd sells a plan for Rs 18,000 (24 months) comprising: (i) a handset delivered on day 1 (standalone price Rs 9,000), (ii) connectivity for 24 months (standalone Rs 9,000), (iii) cloud storage for 24 months (standalone Rs 6,000). Teleco recognises Rs 9,000 on handset delivery and the remaining Rs 9,000 evenly over the 24 months.",
+      "caseRef": "p1-case-0"
+    },
+    {
+      "id": "p1q-10sfd15",
+      "ch": 5,
+      "topic": "Ind AS 115 — telecom bundle",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Under Ind AS 115's default allocation, revenue for the handset is:",
+      "o": [
+        "Rs 6,750",
+        "Rs 9,000",
+        "Rs 7,500",
+        "Rs 4,500"
+      ],
+      "a": 0,
+      "why": "Relative SSP: total SSP 24,000 (9,000+9,000+6,000); handset = 18,000 × 9/24 = Rs 6,750. The Rs 6,000 bundle discount is spread proportionately absent observable evidence tying it to one obligation.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — this topic stays active in ICAI question-setting AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 115 — telecom bundle",
+        "tip": "relative-SSP allocation is the case's core arithmetic Allocate by price-tags, not by who-does-what: each rupee of discount rides proportionately.",
+        "link": "Chapter 5 — Ind AS 115 — Revenue from Contracts with Customers"
+      },
+      "stem": "Teleco Ltd sells a plan for Rs 18,000 (24 months) comprising: (i) a handset delivered on day 1 (standalone price Rs 9,000), (ii) connectivity for 24 months (standalone Rs 9,000), (iii) cloud storage for 24 months (standalone Rs 6,000). Teleco recognises Rs 9,000 on handset delivery and the remaining Rs 9,000 evenly over the 24 months.",
+      "caseRef": "p1-case-0"
+    },
+    {
+      "id": "p1q-1tpji8",
+      "ch": 5,
+      "topic": "Ind AS 115 — telecom bundle",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "The handset revenue of Rs 6,750 is recognised:",
+      "o": [
+        "Over 24 months",
+        "At delivery — point in time",
+        "When the first bill is paid",
+        "Half at delivery, half at term end"
+      ],
+      "a": 1,
+      "why": "Control of the handset (a good) transfers on delivery; nothing in the contract integrates it with the services, so point-in-time recognition of the allocated amount.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — this topic stays active in ICAI question-setting Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 115 — telecom bundle",
+        "tip": "point-in-time vs over-time for goods in bundles A delivered phone is a done deal; a running service is a meter.",
+        "link": "Chapter 5 — Ind AS 115 — Revenue from Contracts with Customers"
+      },
+      "stem": "Teleco Ltd sells a plan for Rs 18,000 (24 months) comprising: (i) a handset delivered on day 1 (standalone price Rs 9,000), (ii) connectivity for 24 months (standalone Rs 9,000), (iii) cloud storage for 24 months (standalone Rs 6,000). Teleco recognises Rs 9,000 on handset delivery and the remaining Rs 9,000 evenly over the 24 months.",
+      "caseRef": "p1-case-0"
+    },
+    {
+      "id": "p1q-iy544q",
+      "ch": 5,
+      "topic": "Ind AS 115 — telecom bundle",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Cloud storage revenue recognition is:",
+      "o": [
+        "Rs 3,000/yr on signing",
+        "Rs 2,250/yr over 24 months",
+        "On expiry",
+        "Rs 4,500/yr"
+      ],
+      "a": 1,
+      "why": "Allocated cloud = 18,000 × 6/24 = 4,500; the customer receives and consumes the service simultaneously ⇒ over 24 months: 4,500/2 = Rs 2,250 per year.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — this topic stays active in ICAI question-setting AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 115 — telecom bundle",
+        "tip": "over-time service with allocated price is a standing case format Consumption as delivery ⇒ straight-line the allocated slice.",
+        "link": "Chapter 5 — Ind AS 115 — Revenue from Contracts with Customers"
+      },
+      "stem": "Teleco Ltd sells a plan for Rs 18,000 (24 months) comprising: (i) a handset delivered on day 1 (standalone price Rs 9,000), (ii) connectivity for 24 months (standalone Rs 9,000), (iii) cloud storage for 24 months (standalone Rs 6,000). Teleco recognises Rs 9,000 on handset delivery and the remaining Rs 9,000 evenly over the 24 months.",
+      "caseRef": "p1-case-0"
+    },
+    {
+      "id": "p1q-1tcpsut",
+      "ch": 5,
+      "topic": "Ind AS 115 — telecom bundle",
+      "m": 2,
+      "d": "HARD",
+      "q": "Compared with the correct treatment, Teleco's approach causes:",
+      "o": [
+        "No error — totals agree",
+        "Over-recognition in year 1 by Rs 1,125 and a wrong profile, though totals agree over 24 months",
+        "Under-recognition of the handset",
+        "Double counting of cloud"
+      ],
+      "a": 1,
+      "why": "Correct year 1: 6,750 + 3,375 + 2,250 = 12,375; Teleco books 9,000 + 4,500 = 13,500 ⇒ Rs 1,125 too much early — a classic 'totals match, timing wrong' breach of allocation.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — this topic stays active in ICAI question-setting Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Ind AS 115 — telecom bundle",
+        "tip": "cases punish 'total matches' reasoning Reconcile the pattern, not just the grand total.",
+        "link": "Chapter 5 — Ind AS 115 — Revenue from Contracts with Customers"
+      },
+      "stem": "Teleco Ltd sells a plan for Rs 18,000 (24 months) comprising: (i) a handset delivered on day 1 (standalone price Rs 9,000), (ii) connectivity for 24 months (standalone Rs 9,000), (iii) cloud storage for 24 months (standalone Rs 6,000). Teleco recognises Rs 9,000 on handset delivery and the remaining Rs 9,000 evenly over the 24 months.",
+      "caseRef": "p1-case-0"
+    },
+    {
+      "id": "p1q-7hjuko",
+      "ch": 5,
+      "topic": "Ind AS 115 — five steps",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "In Ind AS 115's five-step model, transaction price is allocated to performance obligations:",
+      "o": [
+        "On the basis of expected cost of each obligation",
+        "On a relative standalone selling price basis",
+        "Equally among all obligations",
+        "By gross margin of each obligation"
+      ],
+      "a": 1,
+      "why": "Step 4 requires allocation based on relative standalone selling prices, with exceptions for discounts attributable to specific obligations and variable consideration allocated wholly/partially to a specified obligation where criteria are met.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the five-step skeleton underpins most revenue MCQs Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 115 — five steps",
+        "tip": "5 steps: Identify contract → Identify POs → Determine price → Allocate (relative SSP) → Recognise on fulfilment. Allocation speaks in STANDALONE prices, never costs.",
+        "link": "Ch 5"
+      }
+    },
+    {
+      "id": "p1q-popd54",
+      "ch": 5,
+      "topic": "Ind AS 115 — variable consideration",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "A contract includes a performance bonus of Rs 10 crore. Management's most likely outcome is receipt, but the bonus will not be determined for 14 months. Ind AS 115 requires the entity to include the variable amount in the transaction price only to the extent it is:",
+      "o": [
+        "Probable of not resulting in a significant revenue reversal later",
+        "Certain of being received",
+        "Expected value of all outcomes",
+        "The minimum contract value"
+      ],
+      "a": 0,
+      "why": "Variable consideration is constrained: include it only to the extent it is probable that a significant reversal will NOT occur when the uncertainty reverses. Long measurement periods and broad outcome ranges increase constraint.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — constraint questions test reading precision — near-identical options recur AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 115 — variable consideration",
+        "tip": "Constraint = no big revenue whipsaw. Include variable amounts only as far as 'probable no significant reversal' — the reversal, not the receipt, is the guardrail.",
+        "link": "Ch 5"
+      }
+    },
+    {
+      "id": "p1q-1npve8z",
+      "ch": 5,
+      "topic": "Ind AS 115 — contract assets vs receivables",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "A performance obligation is satisfied over time and revenue recognised exceeds amounts billed to date. The balance should be presented as:",
+      "o": [
+        "A receivable",
+        "A contract asset",
+        "Trade payable netting",
+        "Deferred revenue"
+      ],
+      "a": 1,
+      "why": "When fulfilment precedes billing, the right to consideration is CONDITIONAL on further performance ⇒ contract asset. A receivable is an UNCONDITIONAL right to consideration (only time needed).",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the asset-vs-receivable cut-off is a staple Section B idea AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 115 — contract assets vs receivables",
+        "tip": "Contract asset = needs more work. Receivable = needs only time. Ask: what still stands between me and the cash?",
+        "link": "Ch 5"
+      }
+    },
+    {
+      "id": "p1q-t8uaqh",
+      "ch": 5,
+      "topic": "Ind AS 115 — warranties",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A manufacturer offers a legally required basic warranty for two years plus an extended warranty sold separately. Under Ind AS 115:",
+      "o": [
+        "Both are accounted for under Ind AS 37 provisions",
+        "The basic warranty is an assurance-type warranty under Ind AS 37; the extended warranty is a service-type warranty = a separate performance obligation",
+        "Both are separate performance obligations",
+        "The basic warranty is a performance obligation; extended is a provision"
+      ],
+      "a": 1,
+      "why": "Assurance-type warranties (quality promise, legally required or customary) ⇒ provision under Ind AS 37. Service-type warranties (sellable separately, beyond the assurance) ⇒ additional performance obligation with revenue deferred over its period.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — assurance-vs-service classification repeats across attempts AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 115 — warranties",
+        "tip": "Two warranties, two books: assurance→provision; service→revenue. Can it be bought alone? Then it's a service.",
+        "link": "Ch 5 + Ch 7"
+      }
+    },
+    {
+      "id": "p1q-1s37agq",
+      "ch": 5,
+      "topic": "Ind AS 115 — principal vs agent",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "An online marketplace collects Rs 500 crore of customer payments for third-party sellers, keeps a 10% commission, and sets neither inventory price nor product specifications. Revenue recognition is:",
+      "o": [
+        "Gross Rs 500 crore as principal",
+        "Net Rs 50 crore as agent",
+        "Gross with cost of services matched",
+        "Net only if the marketplace has inventory risk"
+      ],
+      "a": 1,
+      "why": "Control of the specified good/service before transfer determines principal status. No inventory risk, no price discretion, no specification control ⇒ agent ⇒ net commission revenue.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — principal-vs-agent with gross/net maths is an ICAI perennial AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 115 — principal vs agent",
+        "tip": "Principal controls before transfer; agent merely arranges. No inventory risk, no pricing power ⇒ show only the commission.",
+        "link": "Ch 5 + Ch 11"
+      }
+    },
+    {
+      "id": "p1q-upreye",
+      "ch": 5,
+      "topic": "Ind AS 115 — significant financing component",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A customer prepays a full year's subscription in advance; the advance financing the entity is incidental. Ind AS 115 requires the entity to:",
+      "o": [
+        "Adjust the transaction price for the time value of money in all cases",
+        "Not adjust where the payment timing does not provide a significant benefit of financing (practical expedient: ≤1 year also simplifies)",
+        "Charge interest income in OCI",
+        "Reclassify as a borrowing"
+      ],
+      "a": 1,
+      "why": "SFCs adjust the transaction price for the time value of money unless the timing gap (≤12-month practical expedient) or the purpose is non-financing. Prepayment within a year — no adjustment.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the 12-month practical expedient is the exact MCQ hook AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 115 — significant financing component",
+        "tip": "12-month rule: short gaps, no interest games. Financing significant only when the delay IS the deal.",
+        "link": "Ch 5"
+      }
+    },
+    {
+      "id": "p1q-1bwr58",
+      "ch": 5,
+      "topic": "Ind AS 115 — licence",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A licence of IP that the entity has no ongoing obligation to update and the customer can use immediately after grant results in revenue:",
+      "o": [
+        "Over the licence period",
+        "At the point in time when the licence is transferred (right to use)",
+        "When royalties accrue",
+        "In proportion to future marketing spend"
+      ],
+      "a": 1,
+      "why": "Right-to-USE licences → point-in-time on transfer/start of period. Right-to-ACCESS (entity's ongoing activities affect the IP) → over time. Royalties on IP: recognize as sales occur.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — use-vs-access phrasing decides the answer AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 115 — licence",
+        "tip": "'Use it now, we won't touch it' → point in time. 'We keep it alive; you ride our updates' → over time.",
+        "link": "Ch 5"
+      }
+    },
+    {
+      "id": "p1q-1mh3pyf",
+      "ch": 5,
+      "topic": "Ind AS 115 — contract combination",
+      "m": 1,
+      "d": "HARD",
+      "q": "Two contracts entered into at or near the same time with the same counterparty are accounted for as ONE when:",
+      "o": [
+        "They are signed by the same officer",
+        "They are negotiated as a package with a single commercial objective, consideration in one depends on the other, or they form a single PO",
+        "Both exceed Rs 1 crore",
+        "Separately approved by the board"
+      ],
+      "a": 1,
+      "why": "Ind AS 115 combination criteria: single commercial objective/package, interdependent consideration, or combined performance obligation.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the three-limb test is quoted verbatim in objective papers Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Ind AS 115 — contract combination",
+        "tip": "Three fuses: one objective, linked payments, or one obligation — any one glues the contracts together.",
+        "link": "Ch 5"
+      }
+    },
+    {
+      "id": "p1q-1wqob9c",
+      "ch": 5,
+      "topic": "Ind AS 115 — non-cash consideration",
+      "m": 1,
+      "d": "HARD",
+      "q": "Non-cash consideration in the transaction price is measured at:",
+      "o": [
+        "Carrying amount in the customer's books",
+        "Fair value at contract inception",
+        "Nominal value",
+        "Historical cost plus margin"
+      ],
+      "a": 1,
+      "why": "Ind AS 115: measure non-cash consideration at fair value at (or near) contract inception; if FV can't be measured reliably, use the standalone selling price of the goods/services promised.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — measurement-at-inception quirks test reading speed Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Ind AS 115 — non-cash consideration",
+        "tip": "Valued at inception, not delivery; if unvaluable, borrow the SSP of what you handed over.",
+        "link": "Ch 5"
+      }
+    },
+    {
+      "id": "p1q-mut3gh",
+      "ch": 5,
+      "topic": "Contract modification",
+      "m": 1,
+      "d": "HARD",
+      "q": "A contract modification is accounted for as a SEPARATE contract when:",
+      "o": [
+        "Additional goods are priced at their standalone selling prices reflecting the new circumstances",
+        "Any change is agreed",
+        "The fee increases",
+        "The client agrees to pay more"
+      ],
+      "a": 0,
+      "why": "Ind AS 115: separate contract if the scope increases with consideration equal to standalone prices for the additional goods/services — no reallocation of prior revenue.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the three-modification routes is the exam's spine Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Contract modification",
+        "tip": "'Fair price for extra scope' = new deal; otherwise adjust — re-separate or catch-up.",
+        "link": "Chapter 5 — Ind AS 115 — Revenue from Contracts with Customers"
+      }
+    },
+    {
+      "id": "p1q-jsa8j",
+      "ch": 5,
+      "topic": "Transaction price exclusions",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Amounts collected on behalf of third parties (e.g., GST) are:",
+      "o": [
+        "Included in revenue",
+        "Excluded from the transaction price",
+        "Taxed twice",
+        "In OCI"
+      ],
+      "a": 1,
+      "why": "Third-party taxes (GST collected for the government) are excluded from transaction price/revenue.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the GST-exclusion rule is a standing 1-marker AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Transaction price exclusions",
+        "tip": "Collect for the treasury, not for yourself: pass-throughs never count as revenue.",
+        "link": "Chapter 5 — Ind AS 115 — Revenue from Contracts with Customers"
+      }
+    },
+    {
+      "id": "p1q-8elz9b",
+      "ch": 5,
+      "topic": "On-account payments",
+      "m": 1,
+      "d": "HARD",
+      "q": "Advance consideration received is recognised:",
+      "o": [
+        "As revenue",
+        "As a contract liability (deferred)",
+        "As a receivable",
+        "As a provision"
+      ],
+      "a": 1,
+      "why": "Payment before performance ⇒ contract liability — the obligation to transfer goods/services.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — liability-naming rule Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: On-account payments",
+        "tip": "Money before work is an obligation, not income — the name itself says so.",
+        "link": "Chapter 5 — Ind AS 115 — Revenue from Contracts with Customers"
+      }
+    },
+    {
+      "id": "p1q-cnwwbo",
+      "ch": 5,
+      "topic": "Consideration payable to customer",
+      "m": 1,
+      "d": "HARD",
+      "q": "Consideration paid to a customer is treated as:",
+      "o": [
+        "Expense always",
+        "A reduction of the transaction price unless for a distinct good/service received at fair value",
+        "OCI",
+        "Receivable"
+      ],
+      "a": 1,
+      "why": "115 treats customer payments as price concessions, unless they buy distinct goods/services — then measure the purchase separately at FV (excess to P&L as expense if paid > FV of the good).",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the distinct-good exception with excess rule AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Consideration payable to customer",
+        "tip": "If you pay for nothing distinct, you effectively discounted your own price.",
+        "link": "Chapter 5 — Ind AS 115 — Revenue from Contracts with Customers"
+      }
+    },
+    {
+      "id": "p1q-eyszl1",
+      "ch": 5,
+      "topic": "Contract costs",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Costs to obtain a contract are capitalised under Ind AS 115 when:",
+      "o": [
+        "They are recovered",
+        "They are incremental to winning the contract AND expected to be recovered",
+        "Marketing spends",
+        "They exceed 1 crore"
+      ],
+      "a": 1,
+      "why": "Incremental costs of obtaining (e.g., sales commission) are recognised as an asset if expected to be recovered; amortised consistent with the related goods/services transfer.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — commission-capitalisation gate AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Contract costs",
+        "tip": "Reimbursable? Expense now. Won the deal and will earn it back? The asset lane.",
+        "link": "Chapter 5 — Ind AS 115 — Revenue from Contracts with Customers"
+      }
+    },
+    {
+      "id": "p1q-mwk5g7",
+      "ch": 5,
+      "topic": "Warranty — revenue split",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A 3-year extended warranty sold separately for Rs 3,000 with expected service costs of Rs 2,100: revenue is:",
+      "o": [
+        "Rs 2,100 profit booked now",
+        "Rs 3,000 deferred over 3 years",
+        "Rs 3,000 immediately",
+        "Zero"
+      ],
+      "a": 1,
+      "why": "Service-type warranty = separate PO — the transaction price is deferred and recognised as service is delivered.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — extended-warranty deferral one-liner AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Warranty — revenue split",
+        "tip": "Future promises are future revenue: bank the cash, defer the credit.",
+        "link": "Chapter 5 — Ind AS 115 — Revenue from Contracts with Customers"
+      }
+    },
+    {
+      "id": "p1q-12tuukb",
+      "ch": 5,
+      "topic": "Revenue — no delivery failure",
+      "m": 1,
+      "d": "HARD",
+      "q": "A contract with a customer that has no commercial substance is:",
+      "o": [
+        "Recognised anyway",
+        "Not recognised — no enforceable rights/obligations, or collectability not probable",
+        "Recognised 50%",
+        "An asset"
+      ],
+      "a": 1,
+      "why": "Recognition needs an enforceable contract with commercial substance and probable collection; sham/no-substance arrangements stay off the revenue line.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — substance-over-form gate Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Revenue — no delivery failure",
+        "tip": "A handshake that can't bind or collect is not yet a contract for revenue.",
+        "link": "Chapter 5 — Ind AS 115 — Revenue from Contracts with Customers"
+      }
+    },
+    {
+      "id": "p1q-zup4i9",
+      "ch": 5,
+      "topic": "Emphasis — Schedule III Division II alongside Ind AS 1",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "The new FR syllabus explicitly pairs Ind AS presentation with Division II of Schedule III to the Companies Act 2013. The expected question style is:",
+      "o": [
+        "Ind AS 1 only",
+        "Items whose format/disclosure is driven by Schedule III read with Ind AS (e.g., certain line items, reserve headings)",
+        "Tax return formats",
+        "Secretarial audit reports"
+      ],
+      "a": 1,
+      "why": "Dual-source presentation: formats and some disclosures come from Schedule III (Division II) even under Ind AS — a structural emphasis of the new syllabus, so 'Schedule III says X, Ind AS says Y' fusions appear.",
+      "trend": "Documented syllabus/amendment change — applicability from May 2026 exam onwards per ICAI BoS announcement.",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — first-attempt focus lands on stated syllabus pairings AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Emphasis — Schedule III Division II alongside Ind AS 1",
+        "tip": "Two rulebooks, one balance sheet: know which chapter owns which line.",
+        "link": "Chapter 5 — Ind AS 115 — Revenue from Contracts with Customers"
+      }
+    },
+    {
+      "id": "p1q-ie8bbs",
+      "ch": 5,
+      "topic": "Ind AS 115 — allocation",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Kaveri Ltd sells a bundled contract (services P, Q, R) for Rs 213 lakh. Standalone selling prices: P Rs 90 lakh, Q Rs 110 lakh, R Rs 50 lakh. Ind AS 115 allocates the price as:",
+      "o": [
+        "Rs 71.0 lakh each",
+        "Rs 69.0 / 103.1 / 40.5 lakh (cost-based)",
+        "Rs 90 / 110 / 50 lakh (no allocation)",
+        "Service P: Rs 76.7 lakh; Q: Rs 93.7 lakh; R: Rs 42.6 lakh"
+      ],
+      "a": 3,
+      "why": "Relative SSP allocation: total SSP 250; P = 213 × 90/250 = 76.7 lakh; Q = 93.7; R = 42.6. Cost-based or equal splits are not the default; the bundle discount is spread proportionately absent specific evidence.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — relative-SSP allocation sums are the revenue chapter's favourite calculation Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 115 — allocation",
+        "tip": "Allocate on relative standalone selling prices; a bundle discount follows the SSPs unless attributable evidence exists.",
+        "link": "Chapter 5 — Ind AS 115 — Revenue from Contracts with Customers"
+      }
+    },
+    {
+      "id": "p1q-1jf97k6",
+      "ch": 5,
+      "topic": "Ind AS 115 — allocation",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Orbit Ltd sells a bundled contract (services P, Q, R) for Rs 298 lakh. Standalone selling prices: P Rs 120 lakh, Q Rs 180 lakh, R Rs 50 lakh. Ind AS 115 allocates the price as:",
+      "o": [
+        "Rs 99.3 lakh each",
+        "Rs 92.0 / 168.6 / 40.4 lakh (cost-based)",
+        "Rs 120 / 180 / 50 lakh (no allocation)",
+        "Service P: Rs 102.2 lakh; Q: Rs 153.3 lakh; R: Rs 42.6 lakh"
+      ],
+      "a": 3,
+      "why": "Relative SSP allocation: total SSP 350; P = 298 × 120/350 = 102.2 lakh; Q = 153.3; R = 42.6. Cost-based or equal splits are not the default; the bundle discount is spread proportionately absent specific evidence.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — relative-SSP allocation sums are the revenue chapter's favourite calculation Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 115 — allocation",
+        "tip": "Allocate on relative standalone selling prices; a bundle discount follows the SSPs unless attributable evidence exists.",
+        "link": "Chapter 5 — Ind AS 115 — Revenue from Contracts with Customers"
+      }
+    },
+    {
+      "id": "p1q-po4kqn",
+      "ch": 5,
+      "topic": "Ind AS 115 — allocation",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Orbit Ltd sells a bundled contract (services P, Q, R) for Rs 264 lakh. Standalone selling prices: P Rs 120 lakh, Q Rs 160 lakh, R Rs 50 lakh. Ind AS 115 allocates the price as:",
+      "o": [
+        "Service P: Rs 96.0 lakh; Q: Rs 128.0 lakh; R: Rs 40.0 lakh",
+        "Rs 88.0 lakh each",
+        "Rs 86.4 / 140.8 / 38.0 lakh (cost-based)",
+        "Rs 120 / 160 / 50 lakh (no allocation)"
+      ],
+      "a": 0,
+      "why": "Relative SSP allocation: total SSP 330; P = 264 × 120/330 = 96.0 lakh; Q = 128.0; R = 40.0. Cost-based or equal splits are not the default; the bundle discount is spread proportionately absent specific evidence.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — relative-SSP allocation sums are the revenue chapter's favourite calculation Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 115 — allocation",
+        "tip": "Allocate on relative standalone selling prices; a bundle discount follows the SSPs unless attributable evidence exists.",
+        "link": "Chapter 5 — Ind AS 115 — Revenue from Contracts with Customers"
+      }
+    },
+    {
+      "id": "p1q-2dzasy",
+      "ch": 5,
+      "topic": "Ind AS 115 — allocation",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Cobalt Ltd sells a bundled contract (services P, Q, R) for Rs 207 lakh. Standalone selling prices: P Rs 90 lakh, Q Rs 110 lakh, R Rs 30 lakh. Ind AS 115 allocates the price as:",
+      "o": [
+        "Rs 69.0 lakh each",
+        "Rs 72.9 / 108.9 / 25.7 lakh (cost-based)",
+        "Service P: Rs 81.0 lakh; Q: Rs 99.0 lakh; R: Rs 27.0 lakh",
+        "Rs 90 / 110 / 30 lakh (no allocation)"
+      ],
+      "a": 2,
+      "why": "Relative SSP allocation: total SSP 230; P = 207 × 90/230 = 81.0 lakh; Q = 99.0; R = 27.0. Cost-based or equal splits are not the default; the bundle discount is spread proportionately absent specific evidence.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — relative-SSP allocation sums are the revenue chapter's favourite calculation Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 115 — allocation",
+        "tip": "Allocate on relative standalone selling prices; a bundle discount follows the SSPs unless attributable evidence exists.",
+        "link": "Chapter 5 — Ind AS 115 — Revenue from Contracts with Customers"
+      }
+    },
+    {
+      "id": "p1q-1ok6xzk",
+      "ch": 5,
+      "topic": "Ind AS 115 — allocation",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Cobalt Ltd sells a bundled contract (services P, Q, R) for Rs 179 lakh. Standalone selling prices: P Rs 60 lakh, Q Rs 100 lakh, R Rs 50 lakh. Ind AS 115 allocates the price as:",
+      "o": [
+        "Service P: Rs 51.1 lakh; Q: Rs 85.2 lakh; R: Rs 42.6 lakh",
+        "Rs 59.7 lakh each",
+        "Rs 46.0 / 93.8 / 40.5 lakh (cost-based)",
+        "Rs 60 / 100 / 50 lakh (no allocation)"
+      ],
+      "a": 0,
+      "why": "Relative SSP allocation: total SSP 210; P = 179 × 60/210 = 51.1 lakh; Q = 85.2; R = 42.6. Cost-based or equal splits are not the default; the bundle discount is spread proportionately absent specific evidence.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — relative-SSP allocation sums are the revenue chapter's favourite calculation Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 115 — allocation",
+        "tip": "Allocate on relative standalone selling prices; a bundle discount follows the SSPs unless attributable evidence exists.",
+        "link": "Chapter 5 — Ind AS 115 — Revenue from Contracts with Customers"
+      }
+    },
+    {
+      "id": "p1q-zc0m30",
+      "ch": 5,
+      "topic": "Ind AS 115 — allocation",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Sable Ltd sells a bundled contract (services P, Q, R) for Rs 216 lakh. Standalone selling prices: P Rs 90 lakh, Q Rs 130 lakh, R Rs 50 lakh. Ind AS 115 allocates the price as:",
+      "o": [
+        "Rs 72.0 lakh each",
+        "Rs 64.8 / 114.4 / 38.0 lakh (cost-based)",
+        "Service P: Rs 72.0 lakh; Q: Rs 104.0 lakh; R: Rs 40.0 lakh",
+        "Rs 90 / 130 / 50 lakh (no allocation)"
+      ],
+      "a": 2,
+      "why": "Relative SSP allocation: total SSP 270; P = 216 × 90/270 = 72.0 lakh; Q = 104.0; R = 40.0. Cost-based or equal splits are not the default; the bundle discount is spread proportionately absent specific evidence.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — relative-SSP allocation sums are the revenue chapter's favourite calculation Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 115 — allocation",
+        "tip": "Allocate on relative standalone selling prices; a bundle discount follows the SSPs unless attributable evidence exists.",
+        "link": "Chapter 5 — Ind AS 115 — Revenue from Contracts with Customers"
+      }
+    },
+    {
+      "id": "p1q-1bnesh9",
+      "ch": 5,
+      "topic": "Ind AS 115 — allocation",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Nimbus Ltd sells a bundled contract (services P, Q, R) for Rs 264 lakh. Standalone selling prices: P Rs 120 lakh, Q Rs 140 lakh, R Rs 50 lakh. Ind AS 115 allocates the price as:",
+      "o": [
+        "Service P: Rs 102.2 lakh; Q: Rs 119.2 lakh; R: Rs 42.6 lakh",
+        "Rs 88.0 lakh each",
+        "Rs 92.0 / 131.1 / 40.5 lakh (cost-based)",
+        "Rs 120 / 140 / 50 lakh (no allocation)"
+      ],
+      "a": 0,
+      "why": "Relative SSP allocation: total SSP 310; P = 264 × 120/310 = 102.2 lakh; Q = 119.2; R = 42.6. Cost-based or equal splits are not the default; the bundle discount is spread proportionately absent specific evidence.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — relative-SSP allocation sums are the revenue chapter's favourite calculation Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 115 — allocation",
+        "tip": "Allocate on relative standalone selling prices; a bundle discount follows the SSPs unless attributable evidence exists.",
+        "link": "Chapter 5 — Ind AS 115 — Revenue from Contracts with Customers"
+      }
+    },
+    {
+      "id": "p1q-1t8bbpg",
+      "ch": 5,
+      "topic": "Ind AS 115 — allocation",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Palladi Ltd sells a bundled contract (services P, Q, R) for Rs 136 lakh. Standalone selling prices: P Rs 60 lakh, Q Rs 80 lakh, R Rs 30 lakh. Ind AS 115 allocates the price as:",
+      "o": [
+        "Rs 45.3 lakh each",
+        "Service P: Rs 48.0 lakh; Q: Rs 64.0 lakh; R: Rs 24.0 lakh",
+        "Rs 43.2 / 70.4 / 22.8 lakh (cost-based)",
+        "Rs 60 / 80 / 30 lakh (no allocation)"
+      ],
+      "a": 1,
+      "why": "Relative SSP allocation: total SSP 170; P = 136 × 60/170 = 48.0 lakh; Q = 64.0; R = 24.0. Cost-based or equal splits are not the default; the bundle discount is spread proportionately absent specific evidence.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — relative-SSP allocation sums are the revenue chapter's favourite calculation Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 115 — allocation",
+        "tip": "Allocate on relative standalone selling prices; a bundle discount follows the SSPs unless attributable evidence exists.",
+        "link": "Chapter 5 — Ind AS 115 — Revenue from Contracts with Customers"
+      }
+    },
+    {
+      "id": "p1q-psleb5",
+      "ch": 5,
+      "topic": "Ind AS 115 — allocation",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Nimbus Ltd sells a bundled contract (services P, Q, R) for Rs 230 lakh. Standalone selling prices: P Rs 90 lakh, Q Rs 130 lakh, R Rs 50 lakh. Ind AS 115 allocates the price as:",
+      "o": [
+        "Rs 76.7 lakh each",
+        "Service P: Rs 76.7 lakh; Q: Rs 110.7 lakh; R: Rs 42.6 lakh",
+        "Rs 69.0 / 121.8 / 40.5 lakh (cost-based)",
+        "Rs 90 / 130 / 50 lakh (no allocation)"
+      ],
+      "a": 1,
+      "why": "Relative SSP allocation: total SSP 270; P = 230 × 90/270 = 76.7 lakh; Q = 110.7; R = 42.6. Cost-based or equal splits are not the default; the bundle discount is spread proportionately absent specific evidence.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — relative-SSP allocation sums are the revenue chapter's favourite calculation Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 115 — allocation",
+        "tip": "Allocate on relative standalone selling prices; a bundle discount follows the SSPs unless attributable evidence exists.",
+        "link": "Chapter 5 — Ind AS 115 — Revenue from Contracts with Customers"
+      }
+    },
+    {
+      "id": "p1q-h13731",
+      "ch": 5,
+      "topic": "Ind AS 115 — allocation",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Zenith Ltd sells a bundled contract (services P, Q, R) for Rs 279 lakh. Standalone selling prices: P Rs 120 lakh, Q Rs 140 lakh, R Rs 50 lakh. Ind AS 115 allocates the price as:",
+      "o": [
+        "Service P: Rs 108.0 lakh; Q: Rs 126.0 lakh; R: Rs 45.0 lakh",
+        "Rs 93.0 lakh each",
+        "Rs 97.2 / 138.6 / 42.8 lakh (cost-based)",
+        "Rs 120 / 140 / 50 lakh (no allocation)"
+      ],
+      "a": 0,
+      "why": "Relative SSP allocation: total SSP 310; P = 279 × 120/310 = 108.0 lakh; Q = 126.0; R = 45.0. Cost-based or equal splits are not the default; the bundle discount is spread proportionately absent specific evidence.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — relative-SSP allocation sums are the revenue chapter's favourite calculation Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 115 — allocation",
+        "tip": "Allocate on relative standalone selling prices; a bundle discount follows the SSPs unless attributable evidence exists.",
+        "link": "Chapter 5 — Ind AS 115 — Revenue from Contracts with Customers"
+      }
+    },
+    {
+      "id": "p1q-f3kxg7",
+      "ch": 5,
+      "topic": "Ind AS 115 — allocation",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Marlin Ltd sells a bundled contract (services P, Q, R) for Rs 213 lakh. Standalone selling prices: P Rs 90 lakh, Q Rs 110 lakh, R Rs 50 lakh. Ind AS 115 allocates the price as:",
+      "o": [
+        "Rs 71.0 lakh each",
+        "Rs 69.0 / 103.1 / 40.5 lakh (cost-based)",
+        "Rs 90 / 110 / 50 lakh (no allocation)",
+        "Service P: Rs 76.7 lakh; Q: Rs 93.7 lakh; R: Rs 42.6 lakh"
+      ],
+      "a": 3,
+      "why": "Relative SSP allocation: total SSP 250; P = 213 × 90/250 = 76.7 lakh; Q = 93.7; R = 42.6. Cost-based or equal splits are not the default; the bundle discount is spread proportionately absent specific evidence.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — relative-SSP allocation sums are the revenue chapter's favourite calculation Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 115 — allocation",
+        "tip": "Allocate on relative standalone selling prices; a bundle discount follows the SSPs unless attributable evidence exists.",
+        "link": "Chapter 5 — Ind AS 115 — Revenue from Contracts with Customers"
+      }
+    },
+    {
+      "id": "p1q-1rx137j",
+      "ch": 5,
+      "topic": "Ind AS 115 — allocation",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Zenith Ltd sells a bundled contract (services P, Q, R) for Rs 264 lakh. Standalone selling prices: P Rs 120 lakh, Q Rs 140 lakh, R Rs 50 lakh. Ind AS 115 allocates the price as:",
+      "o": [
+        "Service P: Rs 102.2 lakh; Q: Rs 119.2 lakh; R: Rs 42.6 lakh",
+        "Rs 88.0 lakh each",
+        "Rs 92.0 / 131.1 / 40.5 lakh (cost-based)",
+        "Rs 120 / 140 / 50 lakh (no allocation)"
+      ],
+      "a": 0,
+      "why": "Relative SSP allocation: total SSP 310; P = 264 × 120/310 = 102.2 lakh; Q = 119.2; R = 42.6. Cost-based or equal splits are not the default; the bundle discount is spread proportionately absent specific evidence.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — relative-SSP allocation sums are the revenue chapter's favourite calculation Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 115 — allocation",
+        "tip": "Allocate on relative standalone selling prices; a bundle discount follows the SSPs unless attributable evidence exists.",
+        "link": "Chapter 5 — Ind AS 115 — Revenue from Contracts with Customers"
+      }
+    }
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "meta": {
+    "id": "p3-nov26-ch18-mcq",
+    "paper": "P3",
+    "attempt": "NOV-2026",
+    "kind": "chapter",
+    "category": "CHAPTER-WISE MCQs",
+    "title": "Ch 18: SDG & ESG Assurance (Emerging Areas) — MCQ Bank",
+    "description": "Chapter-wise practice MCQs for Chapter 18 (SDG & ESG Assurance (Emerging Areas)).",
+    "count": 11,
+    "mcqCount": 11,
+    "descriptiveCount": 0,
+    "coverage": "Chapter 18 · 11 MCQs",
+    "chapters": [
+      18
+    ],
+    "durationMinutes": 17,
+    "difficulty": "Exam standard",
+    "high": 0,
+    "medium": 10,
+    "low": 1
+  },
+  "questions": [
+    {
+      "id": "p3q-kbqp7u",
+      "ch": 18,
+      "topic": "Scope 1/2/3",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A manufacturer's indirect GHG emissions from purchased electricity and from its suppliers' operations are:",
+      "o": [
+        "Scope 1 and 3 respectively",
+        "Scope 2 and Scope 3 respectively",
+        "All Scope 1",
+        "Scope 3 and Scope 2 respectively"
+      ],
+      "a": 1,
+      "why": "GHG Protocol: Scope 1 = owned sources (boilers, fleet); Scope 2 = purchased energy (the electricity line above); Scope 3 = the value chain, upstream AND downstream (supplier operations, transport, product use); the audit angle: allocation logic and completeness of Scope 3 are the usual misstatement zones.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — owned, bought, and everything else — the ladder of responsibility AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Scope 1/2/3",
+        "tip": "Scope is a map, not a fence.",
+        "link": "Chapter 18 — SDG & ESG Assurance (Emerging Areas)"
+      }
+    },
+    {
+      "id": "p3q-1izam5n",
+      "ch": 18,
+      "topic": "ESG assurance levels",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A sustainability data assurance engagement (ISAE/SAE-3000-type) providing 'nothing has come to our attention' is:",
+      "o": [
+        "Reasonable assurance",
+        "Limited assurance",
+        "A statutory audit",
+        "A review under SRE 2410 specifically"
+      ],
+      "a": 1,
+      "why": "Sustainability assurance uses the assurance stack (limited→negative, reasonable→positive) over the chosen criteria (GHG protocol, GRI/SASB/ESRS, BRSR in India); the practitioner evaluates subject-matter risk and evidence — for a first-time assurer, expect disclosure on the criteria's suitability and data lineage.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the assurance level is decided by the wording, not the topic AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: ESG assurance levels",
+        "tip": "A new domain keeps the old ladder of caution.",
+        "link": "Chapter 18 — SDG & ESG Assurance (Emerging Areas)"
+      }
+    },
+    {
+      "id": "p3q-uk3px3",
+      "ch": 18,
+      "topic": "BRSR & assurance readiness",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "For Indian listed entities' BRSR sustainability reporting, the audit-readiness point to verify is:",
+      "o": [
+        "It contains no quantitative data",
+        "Phased assurance (type and coverage) is prescribed by the markets regulator for the listed universe — check the current SEBI circular for which sections and which assurance level apply in the exam year",
+        "Only SMEs report",
+        "Assurance is prohibited"
+      ],
+      "a": 1,
+      "why": "BRSR (structured: P1 principles, P2 processes, P9 KPI metrics incl. GHG, water, waste, social) replaced voluntary reporting for the top listed entities with assurance phasing introduced via amendment; the DANGEROUS detail (which entities/which level/when) is exactly the amendment-verification item.",
+      "trend": "Documented syllabus/amendment change — applicability from May 2026 exam onwards per ICAI BoS announcement.",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — regulatory phasing moves — verify the date before you cite the %, do cite the structure AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: BRSR & assurance readiness",
+        "tip": "Readiness is not compliance, but it audits the same way.",
+        "link": "Chapter 18 — SDG & ESG Assurance (Emerging Areas)"
+      }
+    },
+    {
+      "id": "p3q-1h88yuh",
+      "ch": 18,
+      "topic": "Scope 2 example",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Which is a Scope 2 emission for a factory?",
+      "o": [
+        "Company fleet fuel",
+        "Purchased electricity it consumes",
+        "Employee commuting",
+        "Investments' emissions"
+      ],
+      "a": 1,
+      "why": "Scope 2 = purchased energy (electricity/heat/steam); fleet is 1; commuting and investments are 3.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — owned, bought, others AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Scope 2 example",
+        "tip": "Meter your own, own what you buy, borrow the rest.",
+        "link": "Chapter 18 — SDG & ESG Assurance (Emerging Areas)"
+      }
+    },
+    {
+      "id": "p3q-8yqjki",
+      "ch": 18,
+      "topic": "Limited vs reasonable ESG",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Sustainability data limited assurance reports:",
+      "o": [
+        "Positive opinion",
+        "A negative conclusion — nothing has come to the practitioner's attention",
+        "No wording",
+        "The full audit opinion"
+      ],
+      "a": 1,
+      "why": "Same ladder as financial reviews: limited→'nothing came to attention'; reasonable→positive wording on the subject against criteria.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the phrasing is the level AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Limited vs reasonable ESG",
+        "tip": "A short ladder, short sentence.",
+        "link": "Chapter 18 — SDG & ESG Assurance (Emerging Areas)"
+      }
+    },
+    {
+      "id": "p3q-jeoatd",
+      "ch": 18,
+      "topic": "BRSR assurance phasing",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "SEBI's sustainability reporting regime (BRSR) and its assurance provisions — the exam-safe handling is:",
+      "o": [
+        "Quote fixed years from memory",
+        "State the BRSR structure (principles, processes, disclosures incl. GHG scope 1/2/3, water, waste, social capital) and say the assurance scope/level/coverage must be verified against the CURRENT circular for the attempt year",
+        "Say assurance is optional forever",
+        "Say assurance is full-audit only"
+      ],
+      "a": 1,
+      "why": "MOVING TARGET: the phasing of assurance type and coverage has been amended in stages; the documented answer is structure + 'verify the notification', never a hard-coded year in the body of the answer.",
+      "trend": "Documented syllabus/amendment change — applicability from May 2026 exam onwards per ICAI BoS announcement.",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — structure is stable, the calendar isn't AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: BRSR assurance phasing",
+        "tip": "Assurance phasing moves — cite the framework, verify the date.",
+        "link": "Chapter 18 — SDG & ESG Assurance (Emerging Areas)"
+      }
+    },
+    {
+      "id": "p3q-ad3aqm",
+      "ch": 18,
+      "topic": "GHG Scope disclosure",
+      "m": 1,
+      "d": "HARD",
+      "q": "BRSR Core/metric-level expectations push assurance focus for GHG data onto:",
+      "o": [
+        "Narratives only",
+        "Boundary completeness (operational control vs equity share), emission-factor sourcing, and restatement policy for method changes — the numbers' lineage",
+        "The PDF's font",
+        "Third-party logos"
+      ],
+      "a": 1,
+      "why": "The reporting standards' shift from prose to metric sets (and limited assurance of select KPIs) moves the practitioner's risk assessment exactly where data integrity is manufactured: boundaries, factors, restatements.",
+      "trend": "Documented syllabus/amendment change — applicability from May 2026 exam onwards per ICAI BoS announcement.",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — lineage over layout AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: GHG Scope disclosure",
+        "tip": "Carbon numbers have plumbing; assurance inspects it.",
+        "link": "Chapter 18 — SDG & ESG Assurance (Emerging Areas)"
+      }
+    },
+    {
+      "id": "p3q-y063da",
+      "ch": 18,
+      "topic": "Assurance over assurance",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "In an ESG assurance engagement, the practitioner's threshold question before any fieldwork is:",
+      "o": [
+        "Client fees",
+        "Whether the criteria (reporting framework, boundaries, metrics definitions) are suitable and available — without firm criteria, data cannot be 'wrong', only differently framed",
+        "Board approval of the report",
+        "The year-on-year graph"
+      ],
+      "a": "1",
+      "why": "Suitability and availability of criteria decide assurance itself: completeness boundaries (sites, JV scope), metric definitions (GHG protocol scopes, intensity denominators), restatement policies — a framework named but not consistently applied collapses to a disclaimer or qualified conclusion.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — define 'true' before testing it AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Assurance over assurance",
+        "tip": "You cannot audit a footprint if nobody drew the yard.",
+        "link": "Chapter 18 — SDG & ESG Assurance (Emerging Areas)"
+      }
+    },
+    {
+      "id": "p3q-12t87xq",
+      "ch": 18,
+      "topic": "Limited vs reasonable (ESG)",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A limited-assurance ESG report expresses its conclusion as:",
+      "o": [
+        "Positive assurance: 'in our opinion the report is prepared in all material respects...'",
+        "Negative assurance: 'nothing has come to our attention causing us to believe it is materially misstated'",
+        "An absolute guarantee",
+        "No wording needed"
+      ],
+      "a": "1",
+      "why": "The wording mirrors financial audit practice: reasonable assurance = positive opinion, limited = 'nothing came to our attention'; limited work (analytical, inquiry, some testing) reduces risk to an acceptable-but-higher level than an audit's — the conclusion style is the tell of the engagement's depth.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the grammar of doubt vs the grammar of conviction AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Limited vs reasonable (ESG)",
+        "tip": "A negative-assurance sentence is a fence with a low bar, not a wall.",
+        "link": "Chapter 18 — SDG & ESG Assurance (Emerging Areas)"
+      }
+    },
+    {
+      "id": "p3q-1h118da",
+      "ch": 18,
+      "topic": "Operational boundary decision",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Scope 1 emissions of a newly acquired plant should be:",
+      "o": [
+        "Always excluded",
+        "Included from the acquisition date under the consolidation/boundary approach the entity adopts consistently (equity vs operational control) — and the change is disclosed as a restatement policy application",
+        "Back-dated fully",
+        "Included if >50%"
+      ],
+      "a": 1,
+      "why": "GHG accounting inherits the consolidation logic: the boundary method (operational control usually in BRSR-land) decides inclusion, and mid-year events start on the event date; the comparability discipline = disclosure of the method and its changes.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the carbon balance sheet keeps the same consolidation diary AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Operational boundary decision",
+        "tip": "New factory, new emissions — from the day you run it.",
+        "link": "Chapter 18 — SDG & ESG Assurance (Emerging Areas)"
+      }
+    },
+    {
+      "id": "p3q-ggoob8",
+      "ch": 18,
+      "topic": "Data governance as assurance subject",
+      "m": 1,
+      "d": "HARD",
+      "q": "In a sustainability data assurance engagement, the practitioner's interest in the client's data controls exists because:",
+      "o": [
+        "Controls are the subject only",
+        "Weak controls (no sign-off on emissions factors, no reconciliation of utility bills to sites) cap the assurance LEVEL regardless of substantive re-performance",
+        "They are cheap to test",
+        "They are the FS auditor's job exclusively"
+      ],
+      "a": 1,
+      "why": "ESG data lineage is thin: the practitioner cannot reasonable-assure a spreadsheet culture; where controls can't carry reliance, the ceiling is limited assurance — the level choice IS a controls assessment.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the level is bought with controls, not years Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Data governance as assurance subject",
+        "tip": "Garbage measured carefully is still garbage.",
+        "link": "Chapter 18 — SDG & ESG Assurance (Emerging Areas)"
+      }
+    }
+  ]
+}

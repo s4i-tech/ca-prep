@@ -1,0 +1,241 @@
+{
+  "meta": {
+    "id": "p2-nov26-ch4-mcq",
+    "paper": "P2",
+    "attempt": "NOV-2026",
+    "kind": "chapter",
+    "category": "CHAPTER-WISE MCQs",
+    "title": "Ch 4: Security Analysis — MCQ Bank",
+    "description": "Chapter-wise practice MCQs for Chapter 4 (Security Analysis).",
+    "count": 9,
+    "mcqCount": 9,
+    "descriptiveCount": 0,
+    "coverage": "Chapter 4 · 9 MCQs",
+    "chapters": [
+      4
+    ],
+    "durationMinutes": 14,
+    "difficulty": "Exam standard",
+    "high": 3,
+    "medium": 5,
+    "low": 1
+  },
+  "questions": [
+    {
+      "id": "p2q-1c2frac",
+      "ch": 4,
+      "topic": "Beta — unlevering",
+      "m": 1,
+      "d": "HARD",
+      "q": "A levered equity beta of 1.35, D/E of 0.5 and tax rate 30%; the unlevered (asset) beta per Hamada is:",
+      "o": [
+        "1.00",
+        "1.35",
+        "0.90",
+        "1.82"
+      ],
+      "a": 0,
+      "why": "βU = βL ÷ [1 + (1−t)×D/E] = 1.35 ÷ (1 + 0.7×0.5) = 1.35/1.35 = 1.00. A 0.90 answer forgets the tax shield (dividing by 1+D/E); 1.82 multiplies instead of divides, 1.82 multiplies instead of divides, 1.35 is the raw levered beta.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the lever/unlever pair is CAPM's arithmetic heart Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Beta — unlevering",
+        "tip": "Untwist the gearing: divide by (1 + after-tax D/E) to find pure business risk; multiply to add gearing back.",
+        "link": "Chapter 4 — Security Analysis"
+      }
+    },
+    {
+      "id": "p2q-8g8550",
+      "ch": 4,
+      "topic": "Beta — mix",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A portfolio with equal weights in two stocks (β 0.8 and 1.6) has beta:",
+      "o": [
+        "1.2",
+        "0.8",
+        "2.4",
+        "1.0"
+      ],
+      "a": 0,
+      "why": "Portfolio beta = weighted average of individual betas = (0.8+1.6)/2 = 1.2 — no diversification math needed for beta itself.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — linearity of beta is a freebie that trips 'correlation' distractors AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Beta — mix",
+        "tip": "Betans average; variances covary. Don't mix the two ledgers.",
+        "link": "Chapter 4 — Security Analysis"
+      }
+    },
+    {
+      "id": "p2q-knvfku",
+      "ch": 4,
+      "topic": "Alpha",
+      "m": 1,
+      "d": "HARD",
+      "q": "A stock with β 1.2, actual return 13%, rf 5%, market return 9%; Jensen's alpha:",
+      "o": [
+        "+3.2%",
+        "+0.8%",
+        "−3.2%",
+        "+9.8%"
+      ],
+      "a": 0,
+      "why": "CAPM-required return = 5 + 1.2×(9−5) = 9.8%; α = 13 − 9.8 = +3.2% — positive alpha says the stock outperformed what its beta required. The −3.2 sign flip is the classic trap.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — α arithmetic with sign traps AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Alpha",
+        "tip": "Alpha = the surprise the market never charged you for: return minus what beta required.",
+        "link": "Chapter 4 — Security Analysis"
+      }
+    },
+    {
+      "id": "p2q-1lutdo5",
+      "ch": 4,
+      "topic": "Systematic risk components",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "For an Indian equity, which is a component of SYSTEMATIC risk?",
+      "o": [
+        "Promoter exodus",
+        "RBI repo decision and oil shocks",
+        "Fraud by CFO",
+        "Plant fire"
+      ],
+      "a": 1,
+      "why": "Macroeconomy-wide factors (rates, FX, oil, policy) hit all; firm-specific events are diversifiable.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — factor-classification quick sets AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Systematic risk components",
+        "tip": "If the news moves the whole market, you own it forever.",
+        "link": "Chapter 4 — Security Analysis"
+      }
+    },
+    {
+      "id": "p2q-1jk94e7",
+      "ch": 4,
+      "topic": "Market efficiency forms",
+      "m": 1,
+      "d": "HARD",
+      "q": "If semi-strong EMH holds, which strategy still earns abnormal returns?",
+      "o": [
+        "Technical analysis",
+        "Fundamental analysis",
+        "Private/insider information (strong-form exceptions)",
+        "Day trading"
+      ],
+      "a": 2,
+      "why": "Semi-strong: prices reflect all public info ⇒ technical AND fundamental analysis fail; only non-public info (strong form violation) can beat it.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the three-form ladder with what beats what AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Market efficiency forms",
+        "tip": "Semi-strong means the library won't help; only the diary will.",
+        "link": "Chapter 4 — Security Analysis"
+      }
+    },
+    {
+      "id": "p2q-1t2nwkn",
+      "ch": 4,
+      "topic": "Holding-period return",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Stock bought at 400, dividend 10 received mid-year, sold at 430. Holding-period return:",
+      "o": [
+        "7.5%",
+        "10%",
+        "35%",
+        "43%"
+      ],
+      "a": "1",
+      "why": "HPR = (P1 − P0 + D)/P0 = (30+10)/400 = 10% — the classic slip is quoting 7.5%, the price gain alone.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — price gain + income, all over entry Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Holding-period return",
+        "tip": "The sale tells half the story; the dividend tells the rest.",
+        "link": "Chapter 4 — Security Analysis"
+      }
+    },
+    {
+      "id": "p2q-1czug5w",
+      "ch": 4,
+      "topic": "Real vs nominal",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Nominal return 12%, inflation 6%; the real return is closest to:",
+      "o": [
+        "6%",
+        "5.66%",
+        "18%",
+        "2%"
+      ],
+      "a": "1",
+      "why": "Fisher: (1.12/1.06) − 1 = 5.66%; the 12−6=6 subtraction is the approximation examiners set as the trap on precise marks.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — divide the relatives, don't subtract the labels Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Real vs nominal",
+        "tip": "Inflation is the toll booth between earning and owning.",
+        "link": "Chapter 4 — Security Analysis"
+      }
+    },
+    {
+      "id": "p2q-1po38ea",
+      "ch": 4,
+      "topic": "Equity risk premium",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "The historical equity risk premium over risk-free rate is used in CAPM; its long-run behaviour across mature markets is roughly:",
+      "o": [
+        "Always above 10% and stable",
+        "Historically around 3-8% per year and time-varying",
+        "Zero",
+        "Equal to the inflation rate"
+      ],
+      "a": "1",
+      "why": "Documented long-run studies (e.g., global returns datasets) put the real equity premium in the mid-single digits annually with wide period sensitivity — hence the exam loves the caveat: premium is an estimate, sensitive to window and geography; ICAI accepts the stated assumption whichever the question gives.",
+      "trend": "Traceable to a real, publicly-notified amendment/standard (documented fact), tested in ICAI style.",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — estimate, not constant — say so in the assumption note AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Equity risk premium",
+        "tip": "A century of averages hides every decade's surprise.",
+        "link": "Chapter 4 — Security Analysis"
+      }
+    },
+    {
+      "id": "p2q-s5ldro",
+      "ch": 4,
+      "topic": "Skew and fat tails",
+      "m": 1,
+      "d": "HARD",
+      "q": "Returns with negative skew and excess kurtosis imply the normal distribution:",
+      "o": [
+        "Underestimates both tails equally",
+        "Underestimates crash (left-tail) probability",
+        "Overestimates volatility",
+        "Is unusable regardless of purpose"
+      ],
+      "a": "1",
+      "why": "Negative skew = heavier left tail than normal; fat kurtosis = both tails heavier — normal-based risk metrics then understate crash risk; this is the documented case for t-distributions and EVT in stress work.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — normal curve trims the tails — the tails are where you live Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Skew and fat tails",
+        "tip": "The bell curve has no memory of 2008.",
+        "link": "Chapter 4 — Security Analysis"
+      }
+    }
+  ]
+}

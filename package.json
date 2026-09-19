@@ -9,6 +9,8 @@
     "mirror": "node tools/mirror.js",
     "validate": "node tools/validate-datasets.js",
     "coverage": "node tools/coverage-report.js",
+    "import": "node tools/import-dataset.js",
+    "export-chapters": "node tools/export-chapter-datasets.js",
     "check": "npm run validate && npm run coverage",
     "test": "node tools/e2e-test.js",
     "all": "npm run datasets && npm run mirror && npm run validate && npm run build"

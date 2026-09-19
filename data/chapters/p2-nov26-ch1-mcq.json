@@ -1,0 +1,995 @@
+{
+  "meta": {
+    "id": "p2-nov26-ch1-mcq",
+    "paper": "P2",
+    "attempt": "NOV-2026",
+    "kind": "chapter",
+    "category": "CHAPTER-WISE MCQs",
+    "title": "Ch 1: Financial Policy and Corporate Strategy — MCQ Bank",
+    "description": "Chapter-wise practice MCQs for Chapter 1 (Financial Policy and Corporate Strategy).",
+    "count": 40,
+    "mcqCount": 40,
+    "descriptiveCount": 0,
+    "coverage": "Chapter 1 · 40 MCQs",
+    "chapters": [
+      1
+    ],
+    "durationMinutes": 60,
+    "difficulty": "Exam standard",
+    "high": 18,
+    "medium": 20,
+    "low": 2
+  },
+  "questions": [
+    {
+      "id": "p2q-1a0ubdv",
+      "ch": 1,
+      "topic": "Capital structure with distress",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "MM-I with taxes value of levered firm:",
+      "o": [
+        "Rs 2,150 crore",
+        "Rs 2,000 crore",
+        "Rs 2,600 crore",
+        "Rs 1,850 crore"
+      ],
+      "a": 0,
+      "why": "V_L = 2,000 + 0.25×600 = 2,150 crore.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — this topic stays active in ICAI question-setting Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Capital structure with distress",
+        "tip": "The +tD lift is the only MM-I math Debt's tax gift is a fraction of its face — collect at the tax rate.",
+        "link": "Chapter 1 — Financial Policy and Corporate Strategy"
+      },
+      "stem": "NexGen (equity Rs 2,000 crore, no debt) considers raising Rs 600 crore debt at 9% to buy back shares. Tax 25%. Analysts estimate expected distress costs PV = 60 crore at this leverage and 150 crore at 1,000 crore debt. Investment opportunities are fixed (MM setting).",
+      "caseRef": "p2-case-5"
+    },
+    {
+      "id": "p2q-1ma3tex",
+      "ch": 1,
+      "topic": "Capital structure with distress",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Net gain of the 600-debt plan after distress:",
+      "o": [
+        "+150 − 60 = +90 crore",
+        "Zero",
+        "+60 crore",
+        "+150 crore"
+      ],
+      "a": 0,
+      "why": "PV shield 150 − distress 60 = +90 crore net value gain versus all-equity.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — this topic stays active in ICAI question-setting AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Capital structure with distress",
+        "tip": "Trade the shield against the threat Leverage is a coupon with a subscription fee — net both, always.",
+        "link": "Chapter 1 — Financial Policy and Corporate Strategy"
+      },
+      "stem": "NexGen (equity Rs 2,000 crore, no debt) considers raising Rs 600 crore debt at 9% to buy back shares. Tax 25%. Analysts estimate expected distress costs PV = 60 crore at this leverage and 150 crore at 1,000 crore debt. Investment opportunities are fixed (MM setting).",
+      "caseRef": "p2-case-5"
+    },
+    {
+      "id": "p2q-17mplkx",
+      "ch": 1,
+      "topic": "Capital structure with distress",
+      "m": 2,
+      "d": "HARD",
+      "q": "At Rs 1,000 crore debt, net change vs all-equity:",
+      "o": [
+        "+100 crore",
+        "+125 crore",
+        "−100 crore",
+        "Zero"
+      ],
+      "a": 0,
+      "why": "Shield 25% × 1,000 = 250 − distress 150 = +100 crore — still positive on these curves, but marginal distress is rising; the optimum is where the next crore of shield equals the next crore of expected distress cost.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — this topic stays active in ICAI question-setting Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Capital structure with distress",
+        "tip": "The trade-off theory optimum: MB = MC of gearing Optimal leverage is where the last rupee of shield pays for the last rupee of fear.",
+        "link": "Chapter 1 — Financial Policy and Corporate Strategy"
+      },
+      "stem": "NexGen (equity Rs 2,000 crore, no debt) considers raising Rs 600 crore debt at 9% to buy back shares. Tax 25%. Analysts estimate expected distress costs PV = 60 crore at this leverage and 150 crore at 1,000 crore debt. Investment opportunities are fixed (MM setting).",
+      "caseRef": "p2-case-5"
+    },
+    {
+      "id": "p2q-18tow36",
+      "ch": 1,
+      "topic": "Capital structure with distress",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Cost of equity after recap (MM-II with taxes) at D/E = 0.30, ru = 11%: ke = 11 + (11−9)×0.7×0.30 ≈",
+      "o": [
+        "11.42%",
+        "12.4%",
+        "10.2%",
+        "13%"
+      ],
+      "a": 0,
+      "why": "ke = ru + (ru−rd)(1−t)D/E = 11 + 2×0.7×0.30 = 11.42% — debt is cheap but the residual gets riskier by exactly the tax-adjusted spread.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — this topic stays active in ICAI question-setting AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Capital structure with distress",
+        "tip": "MM-II: risk walks to the residual Debt doesn't lower the average bill; it shifts the excess onto equity's tab.",
+        "link": "Chapter 1 — Financial Policy and Corporate Strategy"
+      },
+      "stem": "NexGen (equity Rs 2,000 crore, no debt) considers raising Rs 600 crore debt at 9% to buy back shares. Tax 25%. Analysts estimate expected distress costs PV = 60 crore at this leverage and 150 crore at 1,000 crore debt. Investment opportunities are fixed (MM setting).",
+      "caseRef": "p2-case-5"
+    },
+    {
+      "id": "p2q-5neso6",
+      "ch": 1,
+      "topic": "Capital structure with distress",
+      "m": 2,
+      "d": "HARD",
+      "q": "Why the real-world gain might fall below +90 crore:",
+      "o": [
+        "Debt tax shield can be taxed away",
+        "Asymmetric rates, agency costs, financial-flexibility loss, and personal taxes; the model's no-frictions assumption",
+        "Nothing — MM exact",
+        "Investors ignore debt"
+      ],
+      "a": 1,
+      "why": "MM with taxes keeps no-distress/no-personal-tax idealisations; bankruptcy legal costs, covenant rigidity, and lost opportunity under stress (the option value of flexibility) erode the static answer.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — this topic stays active in ICAI question-setting Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Capital structure with distress",
+        "tip": "Static models miss option value A levered balance sheet is a promise; promises have hidden interest.",
+        "link": "Chapter 1 — Financial Policy and Corporate Strategy"
+      },
+      "stem": "NexGen (equity Rs 2,000 crore, no debt) considers raising Rs 600 crore debt at 9% to buy back shares. Tax 25%. Analysts estimate expected distress costs PV = 60 crore at this leverage and 150 crore at 1,000 crore debt. Investment opportunities are fixed (MM setting).",
+      "caseRef": "p2-case-5"
+    },
+    {
+      "id": "p2q-1f0ijiq",
+      "ch": 1,
+      "topic": "Agency & objective",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "The pure wealth-maximisation objective preferred over profit maximisation primarily because it:",
+      "o": [
+        "Ignores risk timing",
+        "Considers timing, risk and magnitude of cash flows and avoids myopic accounting profit",
+        "Maximises dividends",
+        "Focuses on market share"
+      ],
+      "a": 1,
+      "why": "Wealth maximisation uses discounted cash flows (timing+risk) and market value; profit maximisation is accounting-based, ambiguous in timing and ignores risk.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — objective-function questions anchor Ch 1 every attempt Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Agency & objective",
+        "tip": "Profit is an opinion about a year; wealth is a valuation of all years.",
+        "link": "Chapter 1 — Financial Policy and Corporate Strategy"
+      }
+    },
+    {
+      "id": "p2q-l2vo7",
+      "ch": 1,
+      "topic": "CSR spending",
+      "m": 2,
+      "d": "HARD",
+      "q": "Under the Companies Act CSR provisions tested in the corporate-strategy chapter, companies meeting the prescribed thresholds must spend at least what share of average net profits (computed per the Act) in the immediately preceding three financial years?",
+      "o": [
+        "1%",
+        "2%",
+        "5%",
+        "10%"
+      ],
+      "a": 1,
+      "why": "Section 135: average net profit per Section 198 for the immediately preceding three years × 2%, subject to threshold; unspent amounts follow the transfer/ carry-forward rules in the Act — new-scheme syllabus places CSR under Ch 1 strategy context.",
+      "trend": "Documented syllabus/amendment change — applicability from May 2026 exam onwards per ICAI BoS announcement.",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — statutory thresholds embedded in strategy are crisp 1-markers AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: CSR spending",
+        "tip": "CSR is 2% — the number with a deadline and a ledger.",
+        "link": "Chapter 1 — Financial Policy and Corporate Strategy"
+      }
+    },
+    {
+      "id": "p2q-1gygqco",
+      "ch": 1,
+      "topic": "DuPont",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A 3-factor DuPont decomposition multiplies:",
+      "o": [
+        "Net margin × asset turnover × equity multiplier",
+        "Gross margin × leverage × growth",
+        "PAT × sales",
+        "ROCE − tax"
+      ],
+      "a": 0,
+      "why": "ROE = (NI/Sales) × (Sales/TA) × (TA/Equity) — efficiency of margin, usage of assets, and leverage; the 5-factor adds tax/interest layers.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — formula anatomy appears as build/teardown questions AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: DuPont",
+        "tip": "Three engines drive ROE: price discipline, asset hustle, and borrowed muscle.",
+        "link": "Chapter 1 — Financial Policy and Corporate Strategy"
+      }
+    },
+    {
+      "id": "p2q-1gxt2qe",
+      "ch": 1,
+      "topic": "Stakeholders vs shareholders",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "The enlightened shareholder value approach primarily:",
+      "o": [
+        "Ignores non-shareholder interests",
+        "Seeks long-term shareholder value by recognising stakeholder interests as instrumental to sustainability",
+        "Mandates CSR only",
+        "Subordinates the board"
+      ],
+      "a": 1,
+      "why": "ESV (Hampson/Keeh/Knee): long-run value created THROUGH stakeholder legitimacy, innovation via employees etc. — a new-syllabus framing under Ch 1.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the new scheme's strategy-ethics blend AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Stakeholders vs shareholders",
+        "tip": "Serve the many to pay the owners — order of means, not morals.",
+        "link": "Chapter 1 — Financial Policy and Corporate Strategy"
+      }
+    },
+    {
+      "id": "p2q-1rl6yxy",
+      "ch": 1,
+      "topic": "Net working capital policy",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "An aggressive current-assets financing policy uses:",
+      "o": [
+        "Long-term funds for all assets",
+        "Short-term sources to finance part of permanent CA (low cost, high risk)",
+        "Zero inventory",
+        "Zero debt"
+      ],
+      "a": 1,
+      "why": "Aggressive: short-term liabilities fund permanent CA too — cheaper but refinancing/renewal risk; conservative: opposite; matching: permanent to LT.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — policy-naming with cost-risk trade-offs AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Net working capital policy",
+        "tip": "Cheap money that must be renewed, or dear money that stays: pick your headache.",
+        "link": "Chapter 1 — Financial Policy and Corporate Strategy"
+      }
+    },
+    {
+      "id": "p2q-1tgv8ly",
+      "ch": 1,
+      "topic": "WACC",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "NexGen Motors Ltd: equity Rs 600 crore at 12% required return; debt Rs 400 crore at 9% pre-tax; tax 30%. The WACC is:",
+      "o": [
+        "10.80% (debt not taxed)",
+        "8.58%",
+        "9.72%",
+        "12.15%"
+      ],
+      "a": 2,
+      "why": "E/V = 60.0%, D/V = 40.0%. WACC = 7.20% + 2.52% = 9.72%. Forgetting the (1−t) shield overstates (≈10.80%).",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — WACC assembly is the most-used single number in AFM sums Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: WACC",
+        "tip": "WACC = E/V·re + D/V·rd·(1−t) — always after-tax on debt.",
+        "link": "Chapter 1 — Financial Policy and Corporate Strategy"
+      }
+    },
+    {
+      "id": "p2q-uob049",
+      "ch": 1,
+      "topic": "WACC",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Kalyani Pharma Ltd: equity Rs 1200 crore at 14% required return; debt Rs 400 crore at 8% pre-tax; tax 25%. The WACC is:",
+      "o": [
+        "12.50% (debt not taxed)",
+        "12.00%",
+        "8.00%",
+        "15.00%"
+      ],
+      "a": 1,
+      "why": "E/V = 75.0%, D/V = 25.0%. WACC = 10.50% + 1.50% = 12.00%. Forgetting the (1−t) shield overstates (≈12.50%).",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — WACC assembly is the most-used single number in AFM sums Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: WACC",
+        "tip": "WACC = E/V·re + D/V·rd·(1−t) — always after-tax on debt.",
+        "link": "Chapter 1 — Financial Policy and Corporate Strategy"
+      }
+    },
+    {
+      "id": "p2q-hprmcg",
+      "ch": 1,
+      "topic": "WACC",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "SunTech Energy Ltd: equity Rs 600 crore at 14% required return; debt Rs 300 crore at 7% pre-tax; tax 25%. The WACC is:",
+      "o": [
+        "11.67% (debt not taxed)",
+        "8.17%",
+        "13.85%",
+        "11.08%"
+      ],
+      "a": 3,
+      "why": "E/V = 66.7%, D/V = 33.3%. WACC = 9.33% + 1.75% = 11.08%. Forgetting the (1−t) shield overstates (≈11.67%).",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — WACC assembly is the most-used single number in AFM sums Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: WACC",
+        "tip": "WACC = E/V·re + D/V·rd·(1−t) — always after-tax on debt.",
+        "link": "Chapter 1 — Financial Policy and Corporate Strategy"
+      }
+    },
+    {
+      "id": "p2q-1uucvgc",
+      "ch": 1,
+      "topic": "WACC",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Quantum Cement Ltd: equity Rs 600 crore at 14% required return; debt Rs 400 crore at 9% pre-tax; tax 25%. The WACC is:",
+      "o": [
+        "12.00% (debt not taxed)",
+        "9.65%",
+        "13.88%",
+        "11.10%"
+      ],
+      "a": 3,
+      "why": "E/V = 60.0%, D/V = 40.0%. WACC = 8.40% + 2.70% = 11.10%. Forgetting the (1−t) shield overstates (≈12.00%).",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — WACC assembly is the most-used single number in AFM sums Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: WACC",
+        "tip": "WACC = E/V·re + D/V·rd·(1−t) — always after-tax on debt.",
+        "link": "Chapter 1 — Financial Policy and Corporate Strategy"
+      }
+    },
+    {
+      "id": "p2q-2gyknl",
+      "ch": 1,
+      "topic": "WACC",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Orbit Retail Ltd: equity Rs 1200 crore at 12% required return; debt Rs 600 crore at 7% pre-tax; tax 25%. The WACC is:",
+      "o": [
+        "10.33% (debt not taxed)",
+        "7.50%",
+        "9.75%",
+        "12.19%"
+      ],
+      "a": 2,
+      "why": "E/V = 66.7%, D/V = 33.3%. WACC = 8.00% + 1.75% = 9.75%. Forgetting the (1−t) shield overstates (≈10.33%).",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — WACC assembly is the most-used single number in AFM sums Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: WACC",
+        "tip": "WACC = E/V·re + D/V·rd·(1−t) — always after-tax on debt.",
+        "link": "Chapter 1 — Financial Policy and Corporate Strategy"
+      }
+    },
+    {
+      "id": "p2q-1kwgldm",
+      "ch": 1,
+      "topic": "WACC",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "SunTech Energy Ltd: equity Rs 600 crore at 14% required return; debt Rs 300 crore at 9% pre-tax; tax 25%. The WACC is:",
+      "o": [
+        "12.33% (debt not taxed)",
+        "9.17%",
+        "11.58%",
+        "14.48%"
+      ],
+      "a": 2,
+      "why": "E/V = 66.7%, D/V = 33.3%. WACC = 9.33% + 2.25% = 11.58%. Forgetting the (1−t) shield overstates (≈12.33%).",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — WACC assembly is the most-used single number in AFM sums Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: WACC",
+        "tip": "WACC = E/V·re + D/V·rd·(1−t) — always after-tax on debt.",
+        "link": "Chapter 1 — Financial Policy and Corporate Strategy"
+      }
+    },
+    {
+      "id": "p2q-ez3z4w",
+      "ch": 1,
+      "topic": "WACC",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Quantum Cement Ltd: equity Rs 1200 crore at 14% required return; debt Rs 600 crore at 8% pre-tax; tax 30%. The WACC is:",
+      "o": [
+        "12.00% (debt not taxed)",
+        "8.40%",
+        "11.20%",
+        "14.00%"
+      ],
+      "a": 2,
+      "why": "E/V = 66.7%, D/V = 33.3%. WACC = 9.33% + 1.87% = 11.20%. Forgetting the (1−t) shield overstates (≈12.00%).",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — WACC assembly is the most-used single number in AFM sums Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: WACC",
+        "tip": "WACC = E/V·re + D/V·rd·(1−t) — always after-tax on debt.",
+        "link": "Chapter 1 — Financial Policy and Corporate Strategy"
+      }
+    },
+    {
+      "id": "p2q-1wiwxzt",
+      "ch": 1,
+      "topic": "WACC",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "NexGen Motors Ltd: equity Rs 800 crore at 15% required return; debt Rs 400 crore at 7% pre-tax; tax 30%. The WACC is:",
+      "o": [
+        "11.63%",
+        "12.33% (debt not taxed)",
+        "8.27%",
+        "14.54%"
+      ],
+      "a": 0,
+      "why": "E/V = 66.7%, D/V = 33.3%. WACC = 10.00% + 1.63% = 11.63%. Forgetting the (1−t) shield overstates (≈12.33%).",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — WACC assembly is the most-used single number in AFM sums Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: WACC",
+        "tip": "WACC = E/V·re + D/V·rd·(1−t) — always after-tax on debt.",
+        "link": "Chapter 1 — Financial Policy and Corporate Strategy"
+      }
+    },
+    {
+      "id": "p2q-1e46sg5",
+      "ch": 1,
+      "topic": "CAPM",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Risk-free 6%, market return 11%, stock beta 0.9. CAPM expected return:",
+      "o": [
+        "15.90% (premium not netted)",
+        "11.00%",
+        "9.45%",
+        "10.50%"
+      ],
+      "a": 3,
+      "why": "E(R) = 6 + 0.9 × (11 − 6) = 10.50%. The common slip adds β×Rm without subtracting rf inside the bracket (15.90%).",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — CAPM one-step is the guaranteed 1-marker Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: CAPM",
+        "tip": "re = rf + β(Rm − rf). Use the MARKET PREMIUM, not raw Rm.",
+        "link": "Chapter 1 — Financial Policy and Corporate Strategy"
+      }
+    },
+    {
+      "id": "p2q-13xtb00",
+      "ch": 1,
+      "topic": "CAPM",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Risk-free 7%, market return 12%, stock beta 1.1. CAPM expected return:",
+      "o": [
+        "20.20% (premium not netted)",
+        "12.50%",
+        "12.00%",
+        "11.25%"
+      ],
+      "a": 1,
+      "why": "E(R) = 7 + 1.1 × (12 − 7) = 12.50%. The common slip adds β×Rm without subtracting rf inside the bracket (20.20%).",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — CAPM one-step is the guaranteed 1-marker Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: CAPM",
+        "tip": "re = rf + β(Rm − rf). Use the MARKET PREMIUM, not raw Rm.",
+        "link": "Chapter 1 — Financial Policy and Corporate Strategy"
+      }
+    },
+    {
+      "id": "p2q-182mx1f",
+      "ch": 1,
+      "topic": "CAPM",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Risk-free 6%, market return 12%, stock beta 1.3. CAPM expected return:",
+      "o": [
+        "13.80%",
+        "21.60% (premium not netted)",
+        "12.00%",
+        "12.42%"
+      ],
+      "a": 0,
+      "why": "E(R) = 6 + 1.3 × (12 − 6) = 13.80%. The common slip adds β×Rm without subtracting rf inside the bracket (21.60%).",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — CAPM one-step is the guaranteed 1-marker Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: CAPM",
+        "tip": "re = rf + β(Rm − rf). Use the MARKET PREMIUM, not raw Rm.",
+        "link": "Chapter 1 — Financial Policy and Corporate Strategy"
+      }
+    },
+    {
+      "id": "p2q-31mmhg",
+      "ch": 1,
+      "topic": "CAPM",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Risk-free 6%, market return 11%, stock beta 1.1. CAPM expected return:",
+      "o": [
+        "18.10% (premium not netted)",
+        "11.00%",
+        "11.50%",
+        "10.35%"
+      ],
+      "a": 2,
+      "why": "E(R) = 6 + 1.1 × (11 − 6) = 11.50%. The common slip adds β×Rm without subtracting rf inside the bracket (18.10%).",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — CAPM one-step is the guaranteed 1-marker Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: CAPM",
+        "tip": "re = rf + β(Rm − rf). Use the MARKET PREMIUM, not raw Rm.",
+        "link": "Chapter 1 — Financial Policy and Corporate Strategy"
+      }
+    },
+    {
+      "id": "p2q-7vlupj",
+      "ch": 1,
+      "topic": "CAPM",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Risk-free 7%, market return 14%, stock beta 0.9. CAPM expected return:",
+      "o": [
+        "13.30%",
+        "19.60% (premium not netted)",
+        "14.00%",
+        "11.97%"
+      ],
+      "a": 0,
+      "why": "E(R) = 7 + 0.9 × (14 − 7) = 13.30%. The common slip adds β×Rm without subtracting rf inside the bracket (19.60%).",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — CAPM one-step is the guaranteed 1-marker Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: CAPM",
+        "tip": "re = rf + β(Rm − rf). Use the MARKET PREMIUM, not raw Rm.",
+        "link": "Chapter 1 — Financial Policy and Corporate Strategy"
+      }
+    },
+    {
+      "id": "p2q-1iznqi4",
+      "ch": 1,
+      "topic": "CAPM",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Risk-free 7%, market return 14%, stock beta 1.3. CAPM expected return:",
+      "o": [
+        "25.20% (premium not netted)",
+        "16.10%",
+        "14.00%",
+        "14.49%"
+      ],
+      "a": 1,
+      "why": "E(R) = 7 + 1.3 × (14 − 7) = 16.10%. The common slip adds β×Rm without subtracting rf inside the bracket (25.20%).",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — CAPM one-step is the guaranteed 1-marker Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: CAPM",
+        "tip": "re = rf + β(Rm − rf). Use the MARKET PREMIUM, not raw Rm.",
+        "link": "Chapter 1 — Financial Policy and Corporate Strategy"
+      }
+    },
+    {
+      "id": "p2q-1xfswze",
+      "ch": 1,
+      "topic": "CAPM",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Risk-free 7%, market return 13%, stock beta 0.9. CAPM expected return:",
+      "o": [
+        "18.70% (premium not netted)",
+        "12.40%",
+        "13.00%",
+        "11.16%"
+      ],
+      "a": 1,
+      "why": "E(R) = 7 + 0.9 × (13 − 7) = 12.40%. The common slip adds β×Rm without subtracting rf inside the bracket (18.70%).",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — CAPM one-step is the guaranteed 1-marker Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: CAPM",
+        "tip": "re = rf + β(Rm − rf). Use the MARKET PREMIUM, not raw Rm.",
+        "link": "Chapter 1 — Financial Policy and Corporate Strategy"
+      }
+    },
+    {
+      "id": "p2q-wy48q6",
+      "ch": 1,
+      "topic": "CAPM",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Risk-free 6.5%, market return 11.5%, stock beta 1.5. CAPM expected return:",
+      "o": [
+        "14.00%",
+        "23.75% (premium not netted)",
+        "11.50%",
+        "12.60%"
+      ],
+      "a": 0,
+      "why": "E(R) = 6.5 + 1.5 × (11.5 − 6.5) = 14.00%. The common slip adds β×Rm without subtracting rf inside the bracket (23.75%).",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — CAPM one-step is the guaranteed 1-marker Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: CAPM",
+        "tip": "re = rf + β(Rm − rf). Use the MARKET PREMIUM, not raw Rm.",
+        "link": "Chapter 1 — Financial Policy and Corporate Strategy"
+      }
+    },
+    {
+      "id": "p2q-thel31",
+      "ch": 1,
+      "topic": "M&M Proposition I with taxes",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Unlevered firm Rs 1,500 crore, tax 25%, permanent debt Rs 400 crore. Value of the levered firm (MM-I with taxes):",
+      "o": [
+        "Rs 1,500 crore (no benefit)",
+        "Rs 1,900 crore",
+        "Rs 1,200 crore",
+        "Rs 1,600 crore"
+      ],
+      "a": 3,
+      "why": "V_L = V_U + tD = 1500 + 0.25×400 = 1600 crore (PV of tax shield on perpetual debt).",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the +tD adjustment is the only moving part AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: M&M Proposition I with taxes",
+        "tip": "V_L = V_U + t × D.",
+        "link": "Chapter 1 — Financial Policy and Corporate Strategy"
+      }
+    },
+    {
+      "id": "p2q-1ax9oh7",
+      "ch": 1,
+      "topic": "M&M Proposition I with taxes",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Unlevered firm Rs 1,500 crore, tax 25%, permanent debt Rs 600 crore. Value of the levered firm (MM-I with taxes):",
+      "o": [
+        "Rs 1,500 crore (no benefit)",
+        "Rs 2,100 crore",
+        "Rs 1,650 crore",
+        "Rs 1,050 crore"
+      ],
+      "a": 2,
+      "why": "V_L = V_U + tD = 1500 + 0.25×600 = 1650 crore (PV of tax shield on perpetual debt).",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the +tD adjustment is the only moving part AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: M&M Proposition I with taxes",
+        "tip": "V_L = V_U + t × D.",
+        "link": "Chapter 1 — Financial Policy and Corporate Strategy"
+      }
+    },
+    {
+      "id": "p2q-1b2yv1s",
+      "ch": 1,
+      "topic": "M&M Proposition I with taxes",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Unlevered firm Rs 1,000 crore, tax 25%, permanent debt Rs 600 crore. Value of the levered firm (MM-I with taxes):",
+      "o": [
+        "Rs 1,000 crore (no benefit)",
+        "Rs 1,600 crore",
+        "Rs 1,150 crore",
+        "Rs 550 crore"
+      ],
+      "a": 2,
+      "why": "V_L = V_U + tD = 1000 + 0.25×600 = 1150 crore (PV of tax shield on perpetual debt).",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the +tD adjustment is the only moving part AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: M&M Proposition I with taxes",
+        "tip": "V_L = V_U + t × D.",
+        "link": "Chapter 1 — Financial Policy and Corporate Strategy"
+      }
+    },
+    {
+      "id": "p2q-1bd144q",
+      "ch": 1,
+      "topic": "M&M Proposition I with taxes",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Unlevered firm Rs 1,000 crore, tax 25%, permanent debt Rs 400 crore. Value of the levered firm (MM-I with taxes):",
+      "o": [
+        "Rs 1,000 crore (no benefit)",
+        "Rs 1,400 crore",
+        "Rs 1,100 crore",
+        "Rs 700 crore"
+      ],
+      "a": 2,
+      "why": "V_L = V_U + tD = 1000 + 0.25×400 = 1100 crore (PV of tax shield on perpetual debt).",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the +tD adjustment is the only moving part AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: M&M Proposition I with taxes",
+        "tip": "V_L = V_U + t × D.",
+        "link": "Chapter 1 — Financial Policy and Corporate Strategy"
+      }
+    },
+    {
+      "id": "p2q-lnwtai",
+      "ch": 1,
+      "topic": "DuPont ROE",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Net profit margin 8%, asset turnover 1.2x, equity multiplier 1.6x. ROE (3-factor DuPont):",
+      "o": [
+        "9.6% (leverage forgotten)",
+        "12.8%",
+        "15.4%",
+        "23.0%"
+      ],
+      "a": 2,
+      "why": "ROE = 8% × 1.2 × 1.6 = 15.4%.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — multiplicative decompositions test concept and arithmetic AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: DuPont ROE",
+        "tip": "ROE = margin × turnover × leverage.",
+        "link": "Chapter 1 — Financial Policy and Corporate Strategy"
+      }
+    },
+    {
+      "id": "p2q-worr4q",
+      "ch": 1,
+      "topic": "DuPont ROE",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Net profit margin 5%, asset turnover 1.2x, equity multiplier 2x. ROE (3-factor DuPont):",
+      "o": [
+        "6.0% (leverage forgotten)",
+        "12.0%",
+        "10.0%",
+        "18.0%"
+      ],
+      "a": 1,
+      "why": "ROE = 5% × 1.2 × 2 = 12.0%.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — multiplicative decompositions test concept and arithmetic AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: DuPont ROE",
+        "tip": "ROE = margin × turnover × leverage.",
+        "link": "Chapter 1 — Financial Policy and Corporate Strategy"
+      }
+    },
+    {
+      "id": "p2q-8f0676",
+      "ch": 1,
+      "topic": "DuPont ROE",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Net profit margin 5%, asset turnover 1.5x, equity multiplier 1.6x. ROE (3-factor DuPont):",
+      "o": [
+        "7.5% (leverage forgotten)",
+        "8.0%",
+        "12.0%",
+        "18.0%"
+      ],
+      "a": 2,
+      "why": "ROE = 5% × 1.5 × 1.6 = 12.0%.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — multiplicative decompositions test concept and arithmetic AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: DuPont ROE",
+        "tip": "ROE = margin × turnover × leverage.",
+        "link": "Chapter 1 — Financial Policy and Corporate Strategy"
+      }
+    },
+    {
+      "id": "p2q-8o4a2a",
+      "ch": 1,
+      "topic": "DuPont ROE",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Net profit margin 8%, asset turnover 1.5x, equity multiplier 2x. ROE (3-factor DuPont):",
+      "o": [
+        "12.0% (leverage forgotten)",
+        "16.0%",
+        "24.0%",
+        "36.0%"
+      ],
+      "a": 2,
+      "why": "ROE = 8% × 1.5 × 2 = 24.0%.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — multiplicative decompositions test concept and arithmetic AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: DuPont ROE",
+        "tip": "ROE = margin × turnover × leverage.",
+        "link": "Chapter 1 — Financial Policy and Corporate Strategy"
+      }
+    },
+    {
+      "id": "p2q-bpizhd",
+      "ch": 1,
+      "topic": "DuPont ROE",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Net profit margin 5%, asset turnover 1.5x, equity multiplier 2x. ROE (3-factor DuPont):",
+      "o": [
+        "7.5% (leverage forgotten)",
+        "10.0%",
+        "22.5%",
+        "15.0%"
+      ],
+      "a": 3,
+      "why": "ROE = 5% × 1.5 × 2 = 15.0%.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — multiplicative decompositions test concept and arithmetic AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: DuPont ROE",
+        "tip": "ROE = margin × turnover × leverage.",
+        "link": "Chapter 1 — Financial Policy and Corporate Strategy"
+      }
+    },
+    {
+      "id": "p2q-1bnzl6d",
+      "ch": 1,
+      "topic": "DuPont ROE",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Net profit margin 5%, asset turnover 1.2x, equity multiplier 1.6x. ROE (3-factor DuPont):",
+      "o": [
+        "6.0% (leverage forgotten)",
+        "8.0%",
+        "9.6%",
+        "14.4%"
+      ],
+      "a": 2,
+      "why": "ROE = 5% × 1.2 × 1.6 = 9.6%.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — multiplicative decompositions test concept and arithmetic AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: DuPont ROE",
+        "tip": "ROE = margin × turnover × leverage.",
+        "link": "Chapter 1 — Financial Policy and Corporate Strategy"
+      }
+    },
+    {
+      "id": "p2q-1h2g14t",
+      "ch": 1,
+      "topic": "DuPont ROE",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Net profit margin 8%, asset turnover 1.5x, equity multiplier 1.6x. ROE (3-factor DuPont):",
+      "o": [
+        "19.2%",
+        "12.0% (leverage forgotten)",
+        "12.8%",
+        "28.8%"
+      ],
+      "a": 0,
+      "why": "ROE = 8% × 1.5 × 1.6 = 19.2%.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — multiplicative decompositions test concept and arithmetic AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: DuPont ROE",
+        "tip": "ROE = margin × turnover × leverage.",
+        "link": "Chapter 1 — Financial Policy and Corporate Strategy"
+      }
+    },
+    {
+      "id": "p2q-1dtlc1l",
+      "ch": 1,
+      "topic": "DuPont ROE",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Net profit margin 8%, asset turnover 1.2x, equity multiplier 2x. ROE (3-factor DuPont):",
+      "o": [
+        "9.6% (leverage forgotten)",
+        "16.0%",
+        "28.8%",
+        "19.2%"
+      ],
+      "a": 3,
+      "why": "ROE = 8% × 1.2 × 2 = 19.2%.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — multiplicative decompositions test concept and arithmetic AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: DuPont ROE",
+        "tip": "ROE = margin × turnover × leverage.",
+        "link": "Chapter 1 — Financial Policy and Corporate Strategy"
+      }
+    },
+    {
+      "id": "p2q-1wrngg7",
+      "ch": 1,
+      "topic": "Marginal WACC break point",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Below Rs 300 crore of equity, re = 12%; above, re = 13%. Weights E 75%/D 25%; kd 6% pre-tax, t 25%. The WACC path across the break point:",
+      "o": [
+        "10.88% then 10.13%",
+        "10.13% then 10.88% after new-equity kink",
+        "12.00% flat",
+        "kd flat"
+      ],
+      "a": 1,
+      "why": "Below: 10.13%; above: 10.88% — the jump of exactly ΔKe × wE = 0.25%.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the kink-and-weight logic of MCC graphs is the classic read AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Marginal WACC break point",
+        "tip": "Break point = equity supply kink / weight.",
+        "link": "Chapter 1 — Financial Policy and Corporate Strategy"
+      }
+    },
+    {
+      "id": "p2q-1ncmc4n",
+      "ch": 1,
+      "topic": "Working capital finance",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Under a CONSERVATIVE current-financing policy for a company, which holds?",
+      "o": [
+        "Conservative policy: LT sources fund permanent CA plus part of fluctuating CA — low risk, higher cost",
+        "Aggressive: LT funds all",
+        "Matching: CA all short-term",
+        "Zero working capital"
+      ],
+      "a": 0,
+      "why": "Conservative = safety: permanent + part of temporary assets on long-term money; aggressive = the reverse; matching = maturities paired.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — policy-label-to-source matching is definitional AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Working capital finance",
+        "tip": "Long-term financing of part of permanent CA reduces risk, raises cost; match concept.",
+        "link": "Chapter 1 — Financial Policy and Corporate Strategy"
+      }
+    }
+  ]
+}

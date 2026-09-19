@@ -1,0 +1,491 @@
+{
+  "meta": {
+    "id": "p1-nov26-ch4-mcq",
+    "paper": "P1",
+    "attempt": "NOV-2026",
+    "kind": "chapter",
+    "category": "CHAPTER-WISE MCQs",
+    "title": "Ch 4: Ind AS on Measurement based on Accounting Policies — MCQ Bank",
+    "description": "Chapter-wise practice MCQs for Chapter 4 (Ind AS on Measurement based on Accounting Policies).",
+    "count": 19,
+    "mcqCount": 19,
+    "descriptiveCount": 0,
+    "coverage": "Chapter 4 · 19 MCQs",
+    "chapters": [
+      4
+    ],
+    "durationMinutes": 29,
+    "difficulty": "Exam standard",
+    "high": 4,
+    "medium": 8,
+    "low": 7
+  },
+  "questions": [
+    {
+      "id": "p1q-18k3kre",
+      "ch": 4,
+      "topic": "Policy vs estimate vs error — triage",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Item (i) is:",
+      "o": [
+        "Change in estimate",
+        "Change in accounting policy",
+        "Prior-period error",
+        "No accounting event"
+      ],
+      "a": 1,
+      "why": "Switching measurement basis for inventory = a policy change under Ind AS 8 ⇒ retrospective to comparatives (unless impracticable).",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — this topic stays active in ICAI question-setting Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Policy vs estimate vs error — triage",
+        "tip": "basis-vs-estimate triage is most of the marks Change the ruler? Rewind the tape.",
+        "link": "Chapter 4 — Ind AS on Measurement based on Accounting Policies"
+      },
+      "stem": "Palladi Ltd changed: (i) inventory from FIFO to weighted average in a period of rising prices; (ii) increased the warranty provision rate after two large claims; (iii) discovered depreciation for FY25 had used the wrong life (mathematical slip). Management proposes to run all three through FY26 profit prospectively.",
+      "caseRef": "p1-case-8"
+    },
+    {
+      "id": "p1q-ytyszw",
+      "ch": 4,
+      "topic": "Policy vs estimate vs error — triage",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Item (ii) is charged to:",
+      "o": [
+        "FY25 restated",
+        "FY26 P&L (prospective)",
+        "Retained earnings",
+        "OCI"
+      ],
+      "a": 1,
+      "why": "New information about an estimate ⇒ prospective: current (and future) periods.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — this topic stays active in ICAI question-setting AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Policy vs estimate vs error — triage",
+        "tip": "the estimate half of the triage Forecasts update forward only.",
+        "link": "Chapter 4 — Ind AS on Measurement based on Accounting Policies"
+      },
+      "stem": "Palladi Ltd changed: (i) inventory from FIFO to weighted average in a period of rising prices; (ii) increased the warranty provision rate after two large claims; (iii) discovered depreciation for FY25 had used the wrong life (mathematical slip). Management proposes to run all three through FY26 profit prospectively.",
+      "caseRef": "p1-case-8"
+    },
+    {
+      "id": "p1q-158m62w",
+      "ch": 4,
+      "topic": "Policy vs estimate vs error — triage",
+      "m": 2,
+      "d": "HARD",
+      "q": "Item (iii) is:",
+      "o": [
+        "Prospective too",
+        "Correction of a prior-period error — restate the comparative",
+        "Policy change",
+        "Immaterial, ignore"
+      ],
+      "a": 1,
+      "why": "Mathematical slip = error; retrospective restatement of the affected comparatives.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — this topic stays active in ICAI question-setting Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Policy vs estimate vs error — triage",
+        "tip": "the error branch Errors are history that miscounted — correct the record, not the mood.",
+        "link": "Chapter 4 — Ind AS on Measurement based on Accounting Policies"
+      },
+      "stem": "Palladi Ltd changed: (i) inventory from FIFO to weighted average in a period of rising prices; (ii) increased the warranty provision rate after two large claims; (iii) discovered depreciation for FY25 had used the wrong life (mathematical slip). Management proposes to run all three through FY26 profit prospectively.",
+      "caseRef": "p1-case-8"
+    },
+    {
+      "id": "p1q-12rjivn",
+      "ch": 4,
+      "topic": "Policy vs estimate vs error — triage",
+      "m": 2,
+      "d": "HARD",
+      "q": "If retrospective application of (i) is impracticable, Ind AS 8 permits:",
+      "o": [
+        "Abandoning the change",
+        "Applying it from the earliest date practicable with disclosure",
+        "Hindsight estimation at year end",
+        "Auditor waiver"
+      ],
+      "a": 1,
+      "why": "Impracticability ⇒ prospective from earliest practicable date + disclosure of the reason and effect.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — this topic stays active in ICAI question-setting Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Policy vs estimate vs error — triage",
+        "tip": "the exception with strings When you can't rewind, start forward — and explain in ink.",
+        "link": "Chapter 4 — Ind AS on Measurement based on Accounting Policies"
+      },
+      "stem": "Palladi Ltd changed: (i) inventory from FIFO to weighted average in a period of rising prices; (ii) increased the warranty provision rate after two large claims; (iii) discovered depreciation for FY25 had used the wrong life (mathematical slip). Management proposes to run all three through FY26 profit prospectively.",
+      "caseRef": "p1-case-8"
+    },
+    {
+      "id": "p1q-1giu3l0",
+      "ch": 4,
+      "topic": "Policy vs estimate vs error — triage",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Required disclosures for all three include:",
+      "o": [
+        "Only the current-year amount",
+        "Nature, amount for each prior period presented where material, and reasons",
+        "No disclosures for estimates",
+        "Tax effect only"
+      ],
+      "a": 1,
+      "why": "Ind AS 8: nature/amount by period, opening adjustment, impracticability details; estimates: nature and amount of changes affecting current/future.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — this topic stays active in ICAI question-setting Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Policy vs estimate vs error — triage",
+        "tip": "disclosure parity with classification Ind AS 8 grades the paper, not only the maths.",
+        "link": "Chapter 4 — Ind AS on Measurement based on Accounting Policies"
+      },
+      "stem": "Palladi Ltd changed: (i) inventory from FIFO to weighted average in a period of rising prices; (ii) increased the warranty provision rate after two large claims; (iii) discovered depreciation for FY25 had used the wrong life (mathematical slip). Management proposes to run all three through FY26 profit prospectively.",
+      "caseRef": "p1-case-8"
+    },
+    {
+      "id": "p1q-1et3b0z",
+      "ch": 4,
+      "topic": "Policies vs estimates",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A company changes the method of measuring a class of PPE from cost to revaluation model. This is treated as:",
+      "o": [
+        "Change in accounting estimate, prospective",
+        "Change in accounting policy — retrospective adjustment with restated comparatives",
+        "Prior period error correction",
+        "Current-period income change"
+      ],
+      "a": 1,
+      "why": "Switching measurement model = change in POLICY ⇒ retrospective (Ind AS 8), unless a transitional provision applies. Change in depreciation method/useful life = estimate ⇒ prospective. The pairing is the trap.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — policy/estimate/error triage is the most frequent Ind AS 8 question Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Policies vs estimates",
+        "tip": "Ind AS 8 triage: policy → rewind the tape (retrospective); estimate → forward only; error → correct restated truth. Measure-model swap = policy.",
+        "link": "Ch 4"
+      }
+    },
+    {
+      "id": "p1q-1mmbit0",
+      "ch": 4,
+      "topic": "Changes in estimates",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "During FY26 a company revises the useful life of a machine from 10 to 6 years (asset commissioned FY21). Ind AS 8 requires:",
+      "o": [
+        "Restating FY21–FY25 comparatives",
+        "Prospective depreciation over the revised remaining life",
+        "Retrospective revision through retained earnings",
+        "No change — life fixed at acquisition"
+      ],
+      "a": 1,
+      "why": "Revision of useful life is a change in accounting estimate: apply prospectively to current and future periods; no restatement of comparatives.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — prospective-vs-retrospective triggers dominate Ind AS 8 MCQs AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Changes in estimates",
+        "tip": "Estimate changes look forward; policy changes look back. Lives, residuals, patterns — all forward.",
+        "link": "Ch 4"
+      }
+    },
+    {
+      "id": "p1q-6zob45",
+      "ch": 4,
+      "topic": "Fair value hierarchy",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "An investment property is valued using observable rental yields and recent transactions of comparable buildings in the same market. Under the Ind AS 113 hierarchy this is:",
+      "o": [
+        "Level 1",
+        "Level 2",
+        "Level 3",
+        "Not fair value — use cost model"
+      ],
+      "a": 1,
+      "why": "Level 2 = observable inputs other than quoted prices in active markets (comparables, yields). Level 1 = unadjusted quoted price for the SAME asset in an active market; Level 3 = unobservable inputs.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — hierarchy-level identification is a repeat visitor AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Fair value hierarchy",
+        "tip": "L1 same-and-listed; L2 observable-but-adjusted; L3 home-grown assumptions. If a broker could pull it, it isn't L3.",
+        "link": "Ch 4"
+      }
+    },
+    {
+      "id": "p1q-g4yc0f",
+      "ch": 4,
+      "topic": "Ind AS 1 — going concern",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Material uncertainty about an entity's ability to continue as going concern is disclosed:",
+      "o": [
+        "Only in the audit report",
+        "In the financial statements, with adequate disclosure of the uncertainty; and management's intent to mitigate",
+        "As a subsequent-event note only",
+        "Never under Ind AS"
+      ],
+      "a": 1,
+      "why": "Ind AS 1 requires disclosure of material uncertainties (judgments and sources of estimation) when management identifies them; management prepares on going-concern basis unless intending to liquidate/cease trade.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — disclosure obligation vs management intent is repeatedly tested AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 1 — going concern",
+        "tip": "Uncertainty disclosed, basis still GC — unless management intends the end: then break-up basis.",
+        "link": "Ch 4/3"
+      }
+    },
+    {
+      "id": "p1q-1lc1wrk",
+      "ch": 4,
+      "topic": "Ind AS 113 — fair value",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Fair value measurement assumes the transaction occurs in:",
+      "o": [
+        "The entity's book of accounts",
+        "The principal (or most advantageous) market for the asset/liability",
+        "The company's intended use",
+        "The tax assessment value"
+      ],
+      "a": 1,
+      "why": "Ind AS 113: fair value is an exit price in the principal (or most advantageous) market from market-participant perspective, at measurement date under orderly transaction conditions.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the principal-vs-most-advantageous rule is exact 1-marker material AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 113 — fair value",
+        "tip": "Principal market if it exists; else most advantageous. Market participants set the price, you merely witness it.",
+        "link": "Ch 4"
+      }
+    },
+    {
+      "id": "p1q-15sw0wh",
+      "ch": 4,
+      "topic": "Ind AS 16 vs 23",
+      "m": 1,
+      "d": "HARD",
+      "q": "Qualifying asset for capitalising borrowing costs is one that:",
+      "o": [
+        "Is fully depreciated",
+        "Necessarily takes a substantial period of time to get ready for its intended use or sale",
+        "Is financed wholly with own funds",
+        "Leased short-term"
+      ],
+      "a": 1,
+      "why": "Ind AS 23: qualifying asset = necessarily takes substantially more than 12 months to prepare for intended use/sale (inventories, PPE, intangibles, investment property).",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the >12-month benchmark is the quick test Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Ind AS 16 vs 23",
+        "tip": "If 12 months or more of getting-ready, the interest belongs to the asset, not the year.",
+        "link": "Ch 4"
+      }
+    },
+    {
+      "id": "p1q-15n7pqs",
+      "ch": 4,
+      "topic": "Measurement — historical cost after recognition",
+      "m": 1,
+      "d": "HARD",
+      "q": "After initial measurement at cost, Ind AS 16 permits which subsequent models?",
+      "o": [
+        "Cost model or revaluation model",
+        "Only fair value",
+        "Revaluation only",
+        "NRV"
+      ],
+      "a": 0,
+      "why": "Subsequent measurement under Ind AS 16: cost model (cost − dep − impairment) or revaluation model (per class).",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — model-menu one-liner Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Measurement — historical cost after recognition",
+        "tip": "PPE grows up on cost or revaluation — the choice is by class, not by mood.",
+        "link": "Chapter 4 — Ind AS on Measurement based on Accounting Policies"
+      }
+    },
+    {
+      "id": "p1q-ejv7lw",
+      "ch": 4,
+      "topic": "Prudence in OCI era",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Prudence in the 2018 Conceptual Framework means:",
+      "o": [
+        "Under-recognising assets systematically",
+        "Caution under conditions of uncertainty — neutrality preserved, no excessive reserves",
+        "Overstating liabilities",
+        "Ignoring uncertainty"
+      ],
+      "a": 1,
+      "why": "Prudence = caution when estimating under uncertainty (no understating income/assets or overstating liabilities) — not a licence for systematic understatement.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — prudence-vs-reserve-busting is a signature distinction AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Prudence in OCI era",
+        "tip": "Prudence is careful weighing, not thumb-pressing on one side of the scale.",
+        "link": "Chapter 4 — Ind AS on Measurement based on Accounting Policies"
+      }
+    },
+    {
+      "id": "p1q-1rrxr67",
+      "ch": 4,
+      "topic": "Prohibit re-valuation of SBP equity",
+      "m": 1,
+      "d": "HARD",
+      "q": "For equity-settled SBP, after the grant date the entity adjusts the estimate for:",
+      "o": [
+        "Fair value changes of options",
+        "Number of instruments expected to vest only",
+        "Market index moves",
+        "Employee bonuses"
+      ],
+      "a": 1,
+      "why": "Post-grant remeasurement is prohibited except to adjust for expected number vesting (non-market conditions).",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the one permitted adjustment Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Prohibit re-valuation of SBP equity",
+        "tip": "The price is frozen; the headcount is a forecast you may correct.",
+        "link": "Chapter 4 — Ind AS on Measurement based on Accounting Policies"
+      }
+    },
+    {
+      "id": "p1q-1wupu1j",
+      "ch": 4,
+      "topic": "Framework VIU vs Ind AS 36 VIU",
+      "m": 1,
+      "d": "HARD",
+      "q": "Value in use under the Conceptual Framework differs from the impairment-standard VIU mainly because the Framework notion:",
+      "o": [
+        "Uses exit prices",
+        "Is an entry-value idea — entity-specific discounted cash flows from continued use and disposal, not the regulated Ind AS 36 recipe",
+        "Ignores discounting",
+        "Is always gross of tax"
+      ],
+      "a": 1,
+      "why": "The Framework describes the measurement BASE (value in use as an entry price of future flows); Ind AS 36 turns one slice of it into a prescribed recipe (pre-tax flows and discount rate inside a recoverable-amount comparison).",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — same words, different rooms — base versus recipe Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Framework VIU vs Ind AS 36 VIU",
+        "tip": "Framework defines the concept; the standard runs one regulated experiment in it.",
+        "link": "Chapter 4 — Ind AS on Measurement based on Accounting Policies"
+      }
+    },
+    {
+      "id": "p1q-140hddo",
+      "ch": 4,
+      "topic": "Impracticability",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "After every reasonable effort, application of a requirement is impracticable — Ind AS 8 says the entity:",
+      "o": [
+        "Ignores it and stays silent",
+        "Discloses the facts and how compliance was impracticable",
+        "Asks the auditor to waive",
+        "Adopts another policy silently"
+      ],
+      "a": 1,
+      "why": "Impracticability = apply the closest possible treatment + disclose; silence is misstatement.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — disclose-your-limits principle AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Impracticability",
+        "tip": "If the wall is real, show the wall: disclose the attempts and the effect.",
+        "link": "Chapter 4 — Ind AS on Measurement based on Accounting Policies"
+      }
+    },
+    {
+      "id": "p1q-12o8zj1",
+      "ch": 4,
+      "topic": "Fair value — non-performance risk",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Own-credit risk in fair valuing a liability is:",
+      "o": [
+        "Ignored",
+        "Included (DOL — change attributable to own credit in OCI for FV-optioned liabilities)",
+        "Always in P&L",
+        "Offset by assets"
+      ],
+      "a": 1,
+      "why": "Ind AS 113: fair value of a liability reflects non-performance risk including own credit; for liabilities at FVTPL by election, own-credit portion to OCI (no recycle).",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the own-credit OCI lane AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Fair value — non-performance risk",
+        "tip": "Your own creditiness makes your liability cheaper to value — the discount goes to OCI, not profit.",
+        "link": "Chapter 4 — Ind AS on Measurement based on Accounting Policies"
+      }
+    },
+    {
+      "id": "p1q-1en4q2y",
+      "ch": 4,
+      "topic": "Amendment — Definition of Accounting Estimates",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "The 2023 amendment set to Ind AS 8 clarified how a change in a measurement TECHNIQUE is treated. A change from one estimation technique to another (not caused by a policy change) is:",
+      "o": [
+        "A change in accounting policy",
+        "A change in accounting estimate — prospective",
+        "A prior-period error",
+        "An OCI item"
+      ],
+      "a": 1,
+      "why": "DEFINITE documented change: the 'Definition of Accounting Estimates' amendments (MCA notification; ICAI adoption effective for annual periods beginning on/after 1 April 2023) make clear that a change in measurement technique is a change in ESTIMATE unless it results from applying a new policy; the error distinction is preserved.",
+      "trend": "Traceable to a real, publicly-notified amendment/standard (documented fact), tested in ICAI style.",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the amendment renamed the border between technique and policy — borders get tested Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Amendment — Definition of Accounting Estimates",
+        "tip": "Technique change = estimate (forward); only the policy itself rewinds the tape.",
+        "link": "Chapter 4 — Ind AS on Measurement based on Accounting Policies"
+      }
+    },
+    {
+      "id": "p1q-1pt0rb",
+      "ch": 4,
+      "topic": "Election — short-lease practical expedient by class",
+      "m": 1,
+      "d": "HARD",
+      "q": "The lessee's short-term lease practical expedient is elected:",
+      "o": [
+        "Per individual contract",
+        "By class of underlying asset",
+        "Only for finance leases",
+        "Never"
+      ],
+      "a": 1,
+      "why": "Not an amendment: the rule (unchanged) requires the election BY CLASS of underlying asset with consistency — but ICAI's revised emphasis on accounting-policy elections under Ind AS 8/16/116 makes 'which level do you choose' a favourite.",
+      "trend": "Documented syllabus/amendment change — applicability from May 2026 exam onwards per ICAI BoS announcement.",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — election-level questions ride the new scheme's policy-consistency emphasis Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Election — short-lease practical expedient by class",
+        "tip": "Class-level elections: no cherry-picking, no contract-by-contract shopping.",
+        "link": "Chapter 4 — Ind AS on Measurement based on Accounting Policies"
+      }
+    }
+  ]
+}

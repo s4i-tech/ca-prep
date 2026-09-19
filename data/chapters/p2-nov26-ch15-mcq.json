@@ -1,0 +1,361 @@
+{
+  "meta": {
+    "id": "p2-nov26-ch15-mcq",
+    "paper": "P2",
+    "attempt": "NOV-2026",
+    "kind": "chapter",
+    "category": "CHAPTER-WISE MCQs",
+    "title": "Ch 15: Startup Finance — MCQ Bank",
+    "description": "Chapter-wise practice MCQs for Chapter 15 (Startup Finance).",
+    "count": 14,
+    "mcqCount": 14,
+    "descriptiveCount": 0,
+    "coverage": "Chapter 15 · 14 MCQs",
+    "chapters": [
+      15
+    ],
+    "durationMinutes": 21,
+    "difficulty": "Exam standard",
+    "high": 2,
+    "medium": 9,
+    "low": 3
+  },
+  "questions": [
+    {
+      "id": "p2q-m1ae4m",
+      "ch": 15,
+      "topic": "Startup — scorecard method",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "The scorecard method of startup valuation differs from the Berkus method by:",
+      "o": [
+        "Using audited financials",
+        "Adjusting a pre-money benchmark for qualitative factors (team, market size, competition, stage)",
+        "DCF of cash flows",
+        "Book value of IP"
+      ],
+      "a": 1,
+      "why": "Scorecard: benchmark average pre-money of similar startups, then apply weighted factor comparisons (team, product, market, competition, funding). Berkus: caps each value driver at a fixed dollar range — both are early-stage heuristics in the new syllabus.",
+      "trend": "Documented syllabus/amendment change — applicability from May 2026 exam onwards per ICAI BoS announcement.",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — new-syllabus chapter methods are high-visibility in MCQs AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Startup — scorecard method",
+        "tip": "No cash flows yet? Grade the journey, cap the dream.",
+        "link": "Chapter 15 — Startup Finance"
+      }
+    },
+    {
+      "id": "p2q-181818f",
+      "ch": 15,
+      "topic": "Angel vs VC",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Compared with VCs, angel investors typically:",
+      "o": [
+        "Write larger cheques with governance",
+        "Provide early-stage capital, own judgement, smaller tickets, often less formal governance",
+        "Exit via IPO",
+        "Avoid founders"
+      ],
+      "a": 1,
+      "why": "Angels: own money, pre-seed/seed, judgement-based, network mentoring; VCs: institutional funds, diligence, stages A+, board seats.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — stage-and-style mapping of investors AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Angel vs VC",
+        "tip": "Angels open the door; VCs widen the hallway and watch the exits.",
+        "link": "Chapter 15 — Startup Finance"
+      }
+    },
+    {
+      "id": "p2q-1x2h9sx",
+      "ch": 15,
+      "topic": "Pre-money vs post-money",
+      "m": 1,
+      "d": "HARD",
+      "q": "Investor buys 20% for Rs 8 crore in a round: the post-money and pre-money valuations are:",
+      "o": [
+        "40 and 32",
+        "32 and 40",
+        "48 and 40",
+        "20 and 12"
+      ],
+      "a": 0,
+      "why": "Post = 8/0.20 = 40 crore; pre = 40 − 8 = 32. The flip is the trap; dilution: founder 100%→80%.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the pre/post subtraction trap AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Pre-money vs post-money",
+        "tip": "Post-money is the pie with the new flour in it; pre is what you had before.",
+        "link": "Chapter 15 — Startup Finance"
+      }
+    },
+    {
+      "id": "p2q-10ofzu9",
+      "ch": 15,
+      "topic": "Venture — valuation at rounds",
+      "m": 1,
+      "d": "HARD",
+      "q": "A down-round (lower valuation than prior) typically triggers:",
+      "o": [
+        "Anti-dilution/ratchet protection for prior investors",
+        "Bonus to founders",
+        "Higher ESOP pool",
+        "Nothing"
+      ],
+      "a": 0,
+      "why": "Pre-existing investors invoke full-ratchet/weighted-average anti-dilution — founders/employees absorb the share-count effect.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — term-sheet vocabulary from the startup chapter Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Venture — valuation at rounds",
+        "tip": "A down round opens old contracts before it closes the round.",
+        "link": "Chapter 15 — Startup Finance"
+      }
+    },
+    {
+      "id": "p2q-k9n9j7",
+      "ch": 15,
+      "topic": "Burn rate & runway",
+      "m": 1,
+      "d": "HARD",
+      "q": "Monthly net cash burn Rs 2 crore with Rs 30 crore raised and Rs 4 crore already spent: runway ≈",
+      "o": [
+        "13 months",
+        "15 months",
+        "17 months",
+        "10 months"
+      ],
+      "a": 0,
+      "why": "Cash left 26 ÷ 2 = 13 months — the arithmetic of startup finance; note pre-money runway is dilution's clock.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — runway arithmetic as a guaranteed 1-marker Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Burn rate & runway",
+        "tip": "Runway is simple maths with hard consequences; the plane doesn't negotiate with months.",
+        "link": "Chapter 15 — Startup Finance"
+      }
+    },
+    {
+      "id": "p2q-1k6v8av",
+      "ch": 15,
+      "topic": "Rounds — dilution",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A round raises Rs 15 crore at Rs 40 crore pre-money. The investor's fresh equity share:",
+      "o": [
+        "37.5% (pre-money basis — wrong)",
+        "27.3% new equity to the investor",
+        "54.5%",
+        "Nil"
+      ],
+      "a": 1,
+      "why": "Post-money = 40 + 15 = 55 crore, so the investor share = 15/55 = 27.3% — dividing by PRE-money (which gives 37.5%) is the classic miss.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the pre/post division trap defines startup-round arithmetic AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Rounds — dilution",
+        "tip": "New % = investment ÷ post-money; founder % diluted accordingly.",
+        "link": "Chapter 15 — Startup Finance"
+      }
+    },
+    {
+      "id": "p2q-k0ip35",
+      "ch": 15,
+      "topic": "Rounds — dilution",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A round raises Rs 15 crore at Rs 60 crore pre-money. The investor's fresh equity share:",
+      "o": [
+        "25.0% (pre-money basis — wrong)",
+        "40.0%",
+        "20.0% new equity to the investor",
+        "Nil"
+      ],
+      "a": 2,
+      "why": "Post-money = 60 + 15 = 75 crore, so the investor share = 15/75 = 20.0% — dividing by PRE-money (which gives 25.0%) is the classic miss.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the pre/post division trap defines startup-round arithmetic AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Rounds — dilution",
+        "tip": "New % = investment ÷ post-money; founder % diluted accordingly.",
+        "link": "Chapter 15 — Startup Finance"
+      }
+    },
+    {
+      "id": "p2q-mccz2g",
+      "ch": 15,
+      "topic": "Rounds — dilution",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A round raises Rs 10 crore at Rs 60 crore pre-money. The investor's fresh equity share:",
+      "o": [
+        "16.7% (pre-money basis — wrong)",
+        "28.6%",
+        "14.3% new equity to the investor",
+        "Nil"
+      ],
+      "a": 2,
+      "why": "Post-money = 60 + 10 = 70 crore, so the investor share = 10/70 = 14.3% — dividing by PRE-money (which gives 16.7%) is the classic miss.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the pre/post division trap defines startup-round arithmetic AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Rounds — dilution",
+        "tip": "New % = investment ÷ post-money; founder % diluted accordingly.",
+        "link": "Chapter 15 — Startup Finance"
+      }
+    },
+    {
+      "id": "p2q-m8rvku",
+      "ch": 15,
+      "topic": "Rounds — dilution",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A round raises Rs 10 crore at Rs 40 crore pre-money. The investor's fresh equity share:",
+      "o": [
+        "25.0% (pre-money basis — wrong)",
+        "40.0%",
+        "Nil",
+        "20.0% new equity to the investor"
+      ],
+      "a": 3,
+      "why": "Post-money = 40 + 10 = 50 crore, so the investor share = 10/50 = 20.0% — dividing by PRE-money (which gives 25.0%) is the classic miss.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the pre/post division trap defines startup-round arithmetic AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Rounds — dilution",
+        "tip": "New % = investment ÷ post-money; founder % diluted accordingly.",
+        "link": "Chapter 15 — Startup Finance"
+      }
+    },
+    {
+      "id": "p2q-16vw1ew",
+      "ch": 15,
+      "topic": "Scorecard — factor weighting",
+      "m": 1,
+      "d": "HARD",
+      "q": "Benchmark pre-money for the region/sector Rs 40 crore. A startup scores 1.3× on team, 0.9× market, 1.1× competition and 1.0× others (equal weights). The scorecard-method pre-money ≈",
+      "o": [
+        "Rs 40 crore flat",
+        "Rs 52 crore (one factor only)",
+        "Zero",
+        "Rs 43.0 crore pre-money (simple equal-weight example)"
+      ],
+      "a": 3,
+      "why": "Average factor = 1.08 ⇒ value ≈ 43.0 crore — the method's essence: weighted factor ratios applied to a benchmark, NOT cash-flow based.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the new-syllabus method applied with tiny math — high-alert first-attempt material Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Scorecard — factor weighting",
+        "tip": "Weighted factor adjustment on a benchmark pre-money.",
+        "link": "Chapter 15 — Startup Finance"
+      }
+    },
+    {
+      "id": "p2q-1lwd7j8",
+      "ch": 15,
+      "topic": "Term-sheet clauses",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A 'liquidation preference 1x participating' for an investor means on a downside sale they get:|",
+      "o": [
+        "Their ordinary share of proceeds only",
+        "The lower of invested amount or ordinary proceeds, then share again (double dip)",
+        "Investment doubled",
+        "Veto over sale"
+      ],
+      "a": "1",
+      "why": "Preference = be paid first up to (1x = invested) before common; participating then also rides the residual pro-rata; anti-dilution and ratchets are different protections — know which clause does what.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — preference is the first slice; participation takes a second helping AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Term-sheet clauses",
+        "tip": "First the guarantee, then the crowd — a participating preferred eats twice.",
+        "link": "Chapter 15 — Startup Finance"
+      }
+    },
+    {
+      "id": "p2q-1alkwzf",
+      "ch": 15,
+      "topic": "Valuing a pre-revenue startup",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Most defensible early-stage valuation practice for a 2-year-old SaaS is:",
+      "o": [
+        "Discounted cash flow on 5-year plans",
+        "Berkus/stage-based plus comparable-transactions triangulation with explicit milestones",
+        "Book value",
+        "Liquidation value of laptops"
+      ],
+      "a": "1",
+      "why": "No reliable cash flows → method shifts to stage/asset-building methods (Berkus, scorecard) and recent comparable rounds, with the narrative of de-risked milestones; DCF is accepted for a 10-year plan but must be caveated with scenario bands.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — pre-cashflow: price the de-risking, not the forecast AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Valuing a pre-revenue startup",
+        "tip": "You can't DCF a dream — you can list what makes it less of one.",
+        "link": "Chapter 15 — Startup Finance"
+      }
+    },
+    {
+      "id": "p2q-1qkahpt",
+      "ch": 15,
+      "topic": "ESOP accounting",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "ESOPs to employees are expensed under Ind AS 102 as:",
+      "o": [
+        "Cash outflow on vesting",
+        "Fair value of options at grant date amortised over the vesting period",
+        "Nominal value at exercise",
+        "No expense at all"
+      ],
+      "a": "1",
+      "why": "Grant-date fair value spread over vesting period into P&L with credit to employee stock options/outstanding equity reserve (equity-settled); market conditions in the grant fair value, non-market vesting conditions in the vesting estimate — re-measurement stops at grant date for equity-settled plans.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — measured at grant, charged over vesting, never re-priced after Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: ESOP accounting",
+        "tip": "The cost is fixed the day the promise is made; the ledger only spreads it.",
+        "link": "Chapter 15 — Startup Finance"
+      }
+    },
+    {
+      "id": "p2q-8iunzs",
+      "ch": 15,
+      "topic": "Burn and runway",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Monthly burn 40 lakh, cash in bank 4 crore: runway is:",
+      "o": [
+        "5 months",
+        "10 months",
+        "40 months",
+        "Cannot be computed"
+      ],
+      "a": "1",
+      "why": "Runway = cash ÷ net burn (outflows minus inflows) = 400/40 = 10 months; founders must quote post-burn adjustments (hiring plan) and next-milestone timing against it — mechanical math, judgment caveat.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — runway ends when either the money or the story does Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Burn and runway",
+        "tip": "Cash is the tank; burn is the meter; the milestone is the airport.",
+        "link": "Chapter 15 — Startup Finance"
+      }
+    }
+  ]
+}

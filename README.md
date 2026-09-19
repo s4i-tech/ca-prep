@@ -11,13 +11,26 @@ A fully static, no-build-runtime study portal for ICAI CA Intermediate **Paper 3
 ## Commands
 
 ```bash
-npm run datasets   # rebuild data/*.json from tools/build/content banks (deterministic)
-npm run mirror     # regenerate data/*.js mirrors + datasets manifest
-npm run build      # tsc -p tsconfig.json -> dist/
+npm run datasets         # rebuild data/*.json from tools/build/content banks (deterministic)
+npm run mirror           # regenerate data/*.js mirrors + datasets manifest
+npm run build            # tsc -p tsconfig.json -> dist/
+npm run import           # import, format, and register a new dataset JSON
+npm run export-chapters  # export chapter-wise MCQ JSON banks (51 chapters across P1–P3)
 node tools/validate-datasets.js    # schema/provenance/wording validation (must be 0 errors)
-node tools/e2e-test.js             # mirror==json, ids, scoring keys, subset/mark rules
+node tools/e2e-test.js             # mirror==json, ids, scoring keys, subset/mark rules, chapter coverage
 node tools/coverage-report.js      # per-chapter MCQ/Desc/HIGH table + THIN flags
 ```
+
+## Chapter-Wise MCQ Preparation
+
+In addition to full-paper sets (Prediction, Mocks, Core Syllabus, Rapid Revision), students can prepare chapter-by-chapter across all 51 chapters of Papers 1, 2, and 3:
+
+- **Interactive Chapter View**: Available directly from the paper dashboard (`#paper/P1`, `#paper/P2`, `#paper/P3`) under the **"🎯 Chapter-Wise MCQs"** tab.
+- **Module Filter & Search**: Quickly filter chapters by Module (Module 1, 2, 3...) or search by chapter title or keywords.
+- **Modes**:
+  - `⚡ Practice MCQs`: Untimed, instant feedback with explanations, answer rationale, and Memory Anchors.
+  - `⏱️ Timed Test`: Exam mode with a timed countdown (1.5 min per question), question palette, mark for review, and full scorecard.
+- **Individual Progress**: Progress and completed test scores are tracked per chapter in local storage.
 
 Local preview: serve the repo root (`python3 -m http.server 8090`) and open `src/index.html` path — the app loads `../data/datasets.json`.
 

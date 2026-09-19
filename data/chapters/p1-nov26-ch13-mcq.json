@@ -1,0 +1,1067 @@
+{
+  "meta": {
+    "id": "p1-nov26-ch13-mcq",
+    "paper": "P1",
+    "attempt": "NOV-2026",
+    "kind": "chapter",
+    "category": "CHAPTER-WISE MCQs",
+    "title": "Ch 13: Consolidated and Separate Financial Statements of Group Entities — MCQ Bank",
+    "description": "Chapter-wise practice MCQs for Chapter 13 (Consolidated and Separate Financial Statements of Group Entities).",
+    "count": 43,
+    "mcqCount": 43,
+    "descriptiveCount": 0,
+    "coverage": "Chapter 13 · 43 MCQs",
+    "chapters": [
+      13
+    ],
+    "durationMinutes": 65,
+    "difficulty": "Exam standard",
+    "high": 16,
+    "medium": 19,
+    "low": 8
+  },
+  "questions": [
+    {
+      "id": "p1q-yppcmp",
+      "ch": 13,
+      "topic": "Consolidation — post-acq reserves & step disposal",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "The bonus issue of 1-for-2 affects:",
+      "o": [
+        "Group's share of post-acquisition reserves",
+        "Nothing economically — a movement within Child's equity (retained earnings → share capital)",
+        "Goodwill",
+        "NCI share of current-year profit only"
+      ],
+      "a": 1,
+      "why": "Bonus capitalisation moves reserves within the sub's equity without changing the parent's percentage or the group's economic share; only per-share data are restated retrospectively.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — this topic stays active in ICAI question-setting Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Consolidation — post-acq reserves & step disposal",
+        "tip": "the bonus-no-effect rule is the case's spine Same pie, renamed slices: the ledger shuffles, ownership holds.",
+        "link": "Chapter 13 — Consolidated and Separate Financial Statements of Group Entities"
+      },
+      "stem": "Parent acquires 75% of Child on 1 Jan 20X5; Child's reserves then were Rs 100 crore. Child earns Rs 60 crore evenly through FY26. On 1 Oct 20X5 Child issues a 1-for-2 bonus from reserves. On 31 Mar 20X6 Parent sells 5% of Child for Rs 60 crore while retaining control; Child's net assets at that date: Rs 420 crore.",
+      "caseRef": "p1-case-3"
+    },
+    {
+      "id": "p1q-1jqzqr3",
+      "ch": 13,
+      "topic": "Consolidation — post-acq reserves & step disposal",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Group's share of Child's post-acquisition reserves accumulated up to 31 Mar 20X6 before disposal (from FY26 profit):",
+      "o": [
+        "45 crore",
+        "60 crore",
+        "37.5 crore",
+        "50 crore"
+      ],
+      "a": 0,
+      "why": "60 × 75% = 45 crore added to consolidated reserves for the group (NCI keeps 15).",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — this topic stays active in ICAI question-setting Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Consolidation — post-acq reserves & step disposal",
+        "tip": "group-share-of-profits is always the first sub-q Divide the year's fruit by the stake you hold — the rest hangs on NCI's branch.",
+        "link": "Chapter 13 — Consolidated and Separate Financial Statements of Group Entities"
+      },
+      "stem": "Parent acquires 75% of Child on 1 Jan 20X5; Child's reserves then were Rs 100 crore. Child earns Rs 60 crore evenly through FY26. On 1 Oct 20X5 Child issues a 1-for-2 bonus from reserves. On 31 Mar 20X6 Parent sells 5% of Child for Rs 60 crore while retaining control; Child's net assets at that date: Rs 420 crore.",
+      "caseRef": "p1-case-3"
+    },
+    {
+      "id": "p1q-1wrc6gk",
+      "ch": 13,
+      "topic": "Consolidation — post-acq reserves & step disposal",
+      "m": 2,
+      "d": "HARD",
+      "q": "The 5% disposal (control retained) is recorded by:",
+      "o": [
+        "Gain Rs 39 crore in P&L",
+        "NCI up 21; difference 60 − 21 = 39 in parent's equity",
+        "Loss Rs 39 in P&L",
+        "Revaluing goodwill"
+      ],
+      "a": 1,
+      "why": "Ind AS 110: equity transaction — NCI adjusted by 5% × 420 = 21; the excess consideration over NCI movement (39) goes to the owner of the parent (equity), never P&L.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — this topic stays active in ICAI question-setting Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Consolidation — post-acq reserves & step disposal",
+        "tip": "the equity-not-P&L rule for control-retained deals Sell slices, not the cake — the premium lands in equity like a quiet dividend to yourself.",
+        "link": "Chapter 13 — Consolidated and Separate Financial Statements of Group Entities"
+      },
+      "stem": "Parent acquires 75% of Child on 1 Jan 20X5; Child's reserves then were Rs 100 crore. Child earns Rs 60 crore evenly through FY26. On 1 Oct 20X5 Child issues a 1-for-2 bonus from reserves. On 31 Mar 20X6 Parent sells 5% of Child for Rs 60 crore while retaining control; Child's net assets at that date: Rs 420 crore.",
+      "caseRef": "p1-case-3"
+    },
+    {
+      "id": "p1q-qrm5y7",
+      "ch": 13,
+      "topic": "Consolidation — post-acq reserves & step disposal",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "NCI on the consolidated balance sheet after the disposal is:",
+      "o": [
+        "126 crore",
+        "84 crore",
+        "105 crore",
+        "63 crore"
+      ],
+      "a": 0,
+      "why": "NCI rises from 25% to 30% of 420 = 126 crore.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — this topic stays active in ICAI question-setting Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Consolidation — post-acq reserves & step disposal",
+        "tip": "NCI roll-forward arithmetic NCI grows only by the % you hand it, valued at net assets — nothing else.",
+        "link": "Chapter 13 — Consolidated and Separate Financial Statements of Group Entities"
+      },
+      "stem": "Parent acquires 75% of Child on 1 Jan 20X5; Child's reserves then were Rs 100 crore. Child earns Rs 60 crore evenly through FY26. On 1 Oct 20X5 Child issues a 1-for-2 bonus from reserves. On 31 Mar 20X6 Parent sells 5% of Child for Rs 60 crore while retaining control; Child's net assets at that date: Rs 420 crore.",
+      "caseRef": "p1-case-3"
+    },
+    {
+      "id": "p1q-updeon",
+      "ch": 13,
+      "topic": "Consolidation — post-acq reserves & step disposal",
+      "m": 2,
+      "d": "HARD",
+      "q": "If control had been LOST at that date, the retained stake would be:",
+      "o": [
+        "Carried at book",
+        "Remeasured to fair value with gain/loss to P&L and recycling of related OCI",
+        "Eliminated",
+        "Revalued only in separate FS"
+      ],
+      "a": 1,
+      "why": "Loss of control triggers full remeasurement (and recycling) of the remaining interest — the contrast that makes the retain-control answer obvious.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — this topic stays active in ICAI question-setting Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Consolidation — post-acq reserves & step disposal",
+        "tip": "contrast loss-of-control vs equity transaction Losing control is a sale of the whole relationship, even what you keep.",
+        "link": "Chapter 13 — Consolidated and Separate Financial Statements of Group Entities"
+      },
+      "stem": "Parent acquires 75% of Child on 1 Jan 20X5; Child's reserves then were Rs 100 crore. Child earns Rs 60 crore evenly through FY26. On 1 Oct 20X5 Child issues a 1-for-2 bonus from reserves. On 31 Mar 20X6 Parent sells 5% of Child for Rs 60 crore while retaining control; Child's net assets at that date: Rs 420 crore.",
+      "caseRef": "p1-case-3"
+    },
+    {
+      "id": "p1q-1kpzwe0",
+      "ch": 13,
+      "topic": "Consolidation — NCI",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "The proportionate (partial goodwill) method of measuring non-controlling interest results in:",
+      "o": [
+        "Goodwill recognised only for the parent's share",
+        "Goodwill for 100% of the subsidiary",
+        "No difference vs full goodwill method",
+        "NCI measured at fair value of its shares"
+      ],
+      "a": 0,
+      "why": "Under the partial-goodwill (proportionate share of net assets) method, goodwill includes only the parent's share; NCI at its proportionate share of identifiable net assets. The alternative measures NCI at fair value (full goodwill).",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — goodwill method comparison appears in almost every consolidation MCQ set Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Consolidation — NCI",
+        "tip": "Two goodwill doors: partial = parent only; full = everyone's, NCI gets fair value. Same assets, different doors — pick per question, never mix.",
+        "link": "Ch 13"
+      }
+    },
+    {
+      "id": "p1q-o4pfvm",
+      "ch": 13,
+      "topic": "Consolidation — unrealised profit",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Parent sells inventory to a 80%-owned subsidiary at a profit of Rs 20 crore (upstream). At the reporting date the inventory remains unsold outside the group. The unrealised-profit elimination hits:",
+      "o": [
+        "Parent's revenue and NCI equally",
+        "Consolidated inventory and the SELLER's profit — hence NCI gets 20% of the elimination in upstream sales",
+        "Consolidated inventory only, with no NCI effect",
+        "Subsidiary's revenue and only 80% of its profit"
+      ],
+      "a": 1,
+      "why": "Upstream (sub sells to parent): unrealised profit is eliminated against the seller's (sub's) profits, so NCI bears its share. Downstream: parent absorbs it fully. The elimination also reduces inventory to group cost.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — direction-of-sale determines NCI effect — an evergreen trap AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Consolidation — unrealised profit",
+        "tip": "Upstream = sub's profit is dirty; NCI shares the scrub. Downstream = parent alone scrubs. Follow the goods; the elimination chases the seller.",
+        "link": "Ch 13"
+      }
+    },
+    {
+      "id": "p1q-1f23c75",
+      "ch": 13,
+      "topic": "Consolidation — date",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A parent acquires a subsidiary on 1 October. The consolidated statement of profit or loss for that year includes the subsidiary's results:",
+      "o": [
+        "For the full year, adjusting for the shortfall",
+        "From 1 October (acquisition date) to year-end only",
+        "From the start of the next financial year",
+        "Pro rata using the ownership %"
+      ],
+      "a": 1,
+      "why": "Ind AS 110 includes the subsidiary's post-acquisition income and expenses in consolidated P&L; comparatives are not restated (unlike the old pooling-style methods).",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — inclusion-date mechanics reappear as standalone MCQs AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Consolidation — date",
+        "tip": "Control from 1 Oct ⇒ consolidate from 1 Oct. The acquirer buys future cash flows, not past P&L.",
+        "link": "Ch 13"
+      }
+    },
+    {
+      "id": "p1q-1m6qzwl",
+      "ch": 13,
+      "topic": "Investment entities",
+      "m": 1,
+      "d": "HARD",
+      "q": "An investment entity must measure subsidiaries at:",
+      "o": [
+        "Consolidated book values",
+        "Fair value through profit or loss instead of consolidating",
+        "Equity method",
+        "Cost less impairment"
+      ],
+      "a": 1,
+      "why": "Ind AS 110 exception: investment entities measure/control-fund subsidiaries at FVTPL rather than consolidating — unless a subsidiary provides investment services supporting the parent's investing activities (then consolidate).",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — rare but decisive 'skip consolidation' case Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Investment entities",
+        "tip": "Investment entities skip consolidation for pure investment subs — but keep them if the sub serves the investing business itself.",
+        "link": "Ch 13"
+      }
+    },
+    {
+      "id": "p1q-kzv6sz",
+      "ch": 13,
+      "topic": "Consolidation — associates",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Significant influence is generally presumed at voting power of:",
+      "o": [
+        "10%",
+        "20% or more",
+        "51%",
+        "5% with board seat"
+      ],
+      "a": 1,
+      "why": "Ind AS 28 presumes significant influence at 20% or more of voting power (directly or through subsidiaries) unless clearly demonstrated otherwise; proof in the pudding also includes board representation, policy participation, material transactions.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the 20% presumption is a standard quickie AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Consolidation — associates",
+        "tip": "20% = presumption seatbelt for associates; 50%+ crosses into control. Between? Evidence decides.",
+        "link": "Ch 13"
+      }
+    },
+    {
+      "id": "p1q-1ibd7i1",
+      "ch": 13,
+      "topic": "Ind AS 27 — separate FS",
+      "m": 1,
+      "d": "HARD",
+      "q": "In separate financial statements, investments in subsidiaries may be carried at:",
+      "o": [
+        "Fair value or equity method only",
+        "Cost, Ind AS 109 (FVOCI/FVTPL), or Ind AS 28 equity method",
+        "Consolidated book value",
+        "Revaluation model of Ind AS 16 only"
+      ],
+      "a": 1,
+      "why": "Ind AS 27: in separate FS, account at cost, under Ind AS 109, or using the equity method (policy by class).",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the three-choice menu is a quickie Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Ind AS 27 — separate FS",
+        "tip": "Separate FS give three menu items — cost, fair value (109), equity method. No consolidation here; that's a group luxury.",
+        "link": "Ch 13/14"
+      }
+    },
+    {
+      "id": "p1q-1t7ocre",
+      "ch": 13,
+      "topic": "Ind AS 110 — power",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "An investor holds 45% of voting rights; the remaining 55% is widely dispersed with no collective arrangement, with 28% typically voting at AGMs and 17% against on all issues. Under Ind AS 110, power assessment focuses on:",
+      "o": [
+        "Percentage held only",
+        "Rights that give the CURRENT ability to direct relevant activities, including practical voting patterns",
+        "Contractual cash-flow rights",
+        "Board size"
+      ],
+      "a": 1,
+      "why": "Power = existing rights giving current ability to direct relevant activities; with dispersed holdings, practical voting patterns and other contractual arrangements matter — de facto control possible below 50%.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — de-facto-control scenarios are the new-scheme favourite AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 110 — power",
+        "tip": "45-plus-dispersed can still command: power is who can win today's votes, not the cap table's optics.",
+        "link": "Ch 13"
+      }
+    },
+    {
+      "id": "p1q-i3gfnf",
+      "ch": 13,
+      "topic": "Joint arrangements",
+      "m": 1,
+      "d": "HARD",
+      "q": "A joint operation (vs joint venture) gives the joint operator rights to:",
+      "o": [
+        "Net assets only",
+        "The assets, and obligations for the liabilities, relating to the arrangement",
+        "Equity-method income",
+        "Consolidated revenues of a separate vehicle"
+      ],
+      "a": 1,
+      "why": "Ind AS 111: joint operation ⇒ recognise its share of assets/liabilities/revenues/expenses; joint venture ⇒ equity method (net assets).",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — rights-to-assets-vs-net-assets fork Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Joint arrangements",
+        "tip": "Get your hands on the assets directly (operation) or claim a slice of the net (venture) — the vehicle's legal form + terms decide.",
+        "link": "Ch 13"
+      }
+    },
+    {
+      "id": "p1q-ju5u40",
+      "ch": 13,
+      "topic": "Intra-group dividends in consolidation",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Dividends proposed by a subsidiary after the reporting date but before approval are:",
+      "o": [
+        "Included in consolidated income",
+        "Eliminated fully — never group income (post-acq profit already recognised)",
+        "Recognised 75%",
+        "A liability in the group"
+      ],
+      "a": 1,
+      "why": "Group already includes sub's profits; intra-group dividends are purely internal transfers and must be eliminated.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — elimination logic within group flows AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Intra-group dividends in consolidation",
+        "tip": "The group cannot pay itself — internal dividends vanish in consolidation.",
+        "link": "Chapter 13 — Consolidated and Separate Financial Statements of Group Entities"
+      }
+    },
+    {
+      "id": "p1q-1xa0snu",
+      "ch": 13,
+      "topic": "Structured entities",
+      "m": 1,
+      "d": "HARD",
+      "q": "Control assessment over an SPE focuses on:",
+      "o": [
+        "Voting % only",
+        "Which party has power over the relevant activities, exposure/ability to use power to affect returns",
+        "Board size",
+        "Name only"
+      ],
+      "a": 1,
+      "why": "Ind AS 110 control model applies regardless of voting rights — power, returns, and the link; structured entities need purpose/design analysis.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — substance-of-control phrasing Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Structured entities",
+        "tip": "No votes? Look who can decide, who gains, and who can swing one with the other.",
+        "link": "Chapter 13 — Consolidated and Separate Financial Statements of Group Entities"
+      }
+    },
+    {
+      "id": "p1q-1q1imbh",
+      "ch": 13,
+      "topic": "Loss of control",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "On loss of control in a step-up disposal, the retained interest is:",
+      "o": [
+        "Remeasured to fair value with P&L effect",
+        "Kept at book",
+        "At cost",
+        "Amortised"
+      ],
+      "a": 0,
+      "why": "Ind AS 110: retain at FV at loss date; all gains/losses to P&L (plus recycling of OCI); reclassify only amounts that would be reclassified on disposal of the underlying.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the exit-remeasurement rule AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Loss of control",
+        "tip": "Leaving the house? Sell what you keep at today's price in your books.",
+        "link": "Chapter 13 — Consolidated and Separate Financial Statements of Group Entities"
+      }
+    },
+    {
+      "id": "p1q-17tyk1s",
+      "ch": 13,
+      "topic": "NCI losses",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Subsidiary losses exceeding its equity cause NCI to:",
+      "o": [
+        "Floor at zero always",
+        "Absorb losses even if NCI becomes negative (full losses to NCI per ownership)",
+        "Stop at zero with parent absorbing",
+        "Transfer to parent reserve"
+      ],
+      "a": 1,
+      "why": "Under Ind AS 110/28, losses are allocated to NCI even if it results in a deficit balance (contrast old AS where parent covered).",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the negative-NCI fact AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: NCI losses",
+        "tip": "NCI can sink below zero — the minority shares the drowning too.",
+        "link": "Chapter 13 — Consolidated and Separate Financial Statements of Group Entities"
+      }
+    },
+    {
+      "id": "p1q-2kak27",
+      "ch": 13,
+      "topic": "Ind AS 21 — net investment",
+      "m": 1,
+      "d": "HARD",
+      "q": "Exchange differences on a monetary item forming part of a reporting entity's net investment in a foreign operation are recognised in:",
+      "o": [
+        "P&L only in the investor's standalone",
+        "P&L in individual FS; OCI in consolidated financial statements",
+        "Only OCI always",
+        "Capital reserve"
+      ],
+      "a": 1,
+      "why": "Ind AS 21: in individual FS, P&L; in consolidated, to OCI and reclassified on disposal (with hedging exceptions).",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the dual-location rule Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Ind AS 21 — net investment",
+        "tip": "Same loan, two books: your P&L, group's OCI — until the sub is sold.",
+        "link": "Chapter 13 — Consolidated and Separate Financial Statements of Group Entities"
+      }
+    },
+    {
+      "id": "p1q-iv31q5",
+      "ch": 13,
+      "topic": "Emphasis — joint arrangements with sales",
+      "m": 1,
+      "d": "HARD",
+      "q": "Under Ind AS 111, a joint operation whose parties take output (not cash pro-rata) causes each party to recognise:",
+      "o": [
+        "Its share of net assets only",
+        "Its share of assets, liabilities, revenue and expenses directly (not equity method)",
+        "Dividends as income",
+        "Goodwill"
+      ],
+      "a": 1,
+      "why": "Emphasis placement (rule unchanged): the syllabus pairs IFRS-style joint-arrangement classification with consolidation questions; 'output instead of sale proceeds' = joint operation — direct recognition of your slice, not the JV's results.",
+      "trend": "Documented syllabus/amendment change — applicability from May 2026 exam onwards per ICAI BoS announcement.",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the take-the-goods-vs-take-the-cash split is crisp for a new-syllabus test Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Emphasis — joint arrangements with sales",
+        "tip": "Get barrels, not dividends? You're a worker, not a watcher — book the barrels.",
+        "link": "Chapter 13 — Consolidated and Separate Financial Statements of Group Entities"
+      }
+    },
+    {
+      "id": "p1q-129cqdm",
+      "ch": 13,
+      "topic": "Consolidation — goodwill",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Cobalt Ltd acquires 70% of a subsidiary for Rs 360 lakh when its net identifiable assets (at FV) are Rs 500 lakh. NCI is measured at its proportionate share of net assets. Consolidated goodwill is:",
+      "o": [
+        "Rs 10 lakh of full goodwill",
+        "Rs 374 lakh",
+        "Rs 10 lakh (goodwill only for parent's share)",
+        "Nil — book values net off"
+      ],
+      "a": 2,
+      "why": "NCI = 30% × 500 = Rs 150 lakh. Goodwill = 360 + 150 − 500 = Rs 10 lakh — the partial-goodwill result; NCI shares no goodwill.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — goodwill computation with the NCI method tag is asked in most consolidations Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Consolidation — goodwill",
+        "tip": "Partial goodwill: goodwill = consideration + NCI-at-proportionate-net-assets − net assets acquired. Post-acquisition profits belong to group per %.",
+        "link": "Chapter 13 — Consolidated and Separate Financial Statements of Group Entities"
+      }
+    },
+    {
+      "id": "p1q-166zl9m",
+      "ch": 13,
+      "topic": "Consolidation — goodwill",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Palladi Ltd acquires 70% of a subsidiary for Rs 360 lakh when its net identifiable assets (at FV) are Rs 500 lakh. NCI is measured at its proportionate share of net assets. Consolidated goodwill is:",
+      "o": [
+        "Rs 10 lakh of full goodwill",
+        "Rs 374 lakh",
+        "Rs 10 lakh (goodwill only for parent's share)",
+        "Nil — book values net off"
+      ],
+      "a": 2,
+      "why": "NCI = 30% × 500 = Rs 150 lakh. Goodwill = 360 + 150 − 500 = Rs 10 lakh — the partial-goodwill result; NCI shares no goodwill.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — goodwill computation with the NCI method tag is asked in most consolidations Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Consolidation — goodwill",
+        "tip": "Partial goodwill: goodwill = consideration + NCI-at-proportionate-net-assets − net assets acquired. Post-acquisition profits belong to group per %.",
+        "link": "Chapter 13 — Consolidated and Separate Financial Statements of Group Entities"
+      }
+    },
+    {
+      "id": "p1q-4j88vp",
+      "ch": 13,
+      "topic": "Consolidation — goodwill",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Cobalt Ltd acquires 75% of a subsidiary for Rs 600 lakh when its net identifiable assets (at FV) are Rs 600 lakh. NCI is measured at its proportionate share of net assets. Consolidated goodwill is:",
+      "o": [
+        "Rs 150 lakh (goodwill only for parent's share)",
+        "Rs 150 lakh of full goodwill",
+        "Rs 800 lakh",
+        "Nil — book values net off"
+      ],
+      "a": 0,
+      "why": "NCI = 25% × 600 = Rs 150 lakh. Goodwill = 600 + 150 − 600 = Rs 150 lakh — the partial-goodwill result; NCI shares no goodwill.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — goodwill computation with the NCI method tag is asked in most consolidations Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Consolidation — goodwill",
+        "tip": "Partial goodwill: goodwill = consideration + NCI-at-proportionate-net-assets − net assets acquired. Post-acquisition profits belong to group per %.",
+        "link": "Chapter 13 — Consolidated and Separate Financial Statements of Group Entities"
+      }
+    },
+    {
+      "id": "p1q-ymvktz",
+      "ch": 13,
+      "topic": "Consolidation — goodwill",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Vertex Ltd acquires 75% of a subsidiary for Rs 600 lakh when its net identifiable assets (at FV) are Rs 500 lakh. NCI is measured at its proportionate share of net assets. Consolidated goodwill is:",
+      "o": [
+        "Rs 225 lakh (goodwill only for parent's share)",
+        "Rs 225 lakh of full goodwill",
+        "Rs 900 lakh",
+        "Nil — book values net off"
+      ],
+      "a": 0,
+      "why": "NCI = 25% × 500 = Rs 125 lakh. Goodwill = 600 + 125 − 500 = Rs 225 lakh — the partial-goodwill result; NCI shares no goodwill.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — goodwill computation with the NCI method tag is asked in most consolidations Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Consolidation — goodwill",
+        "tip": "Partial goodwill: goodwill = consideration + NCI-at-proportionate-net-assets − net assets acquired. Post-acquisition profits belong to group per %.",
+        "link": "Chapter 13 — Consolidated and Separate Financial Statements of Group Entities"
+      }
+    },
+    {
+      "id": "p1q-1gjp9mq",
+      "ch": 13,
+      "topic": "Consolidation — goodwill",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Meridian Ltd acquires 70% of a subsidiary for Rs 600 lakh when its net identifiable assets (at FV) are Rs 400 lakh. NCI is measured at its proportionate share of net assets. Consolidated goodwill is:",
+      "o": [
+        "Rs 320 lakh of full goodwill",
+        "Rs 320 lakh (goodwill only for parent's share)",
+        "Rs 1,057 lakh",
+        "Nil — book values net off"
+      ],
+      "a": 1,
+      "why": "NCI = 30% × 400 = Rs 120 lakh. Goodwill = 600 + 120 − 400 = Rs 320 lakh — the partial-goodwill result; NCI shares no goodwill.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — goodwill computation with the NCI method tag is asked in most consolidations Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Consolidation — goodwill",
+        "tip": "Partial goodwill: goodwill = consideration + NCI-at-proportionate-net-assets − net assets acquired. Post-acquisition profits belong to group per %.",
+        "link": "Chapter 13 — Consolidated and Separate Financial Statements of Group Entities"
+      }
+    },
+    {
+      "id": "p1q-4fp37w",
+      "ch": 13,
+      "topic": "Consolidation — goodwill",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Aster Ltd acquires 75% of a subsidiary for Rs 360 lakh when its net identifiable assets (at FV) are Rs 600 lakh. NCI is measured at its proportionate share of net assets. Consolidated goodwill is:",
+      "o": [
+        "Rs -90 lakh of full goodwill",
+        "Rs 240 lakh",
+        "Rs -90 lakh (goodwill only for parent's share)",
+        "Nil — book values net off"
+      ],
+      "a": 2,
+      "why": "NCI = 25% × 600 = Rs 150 lakh. Goodwill = 360 + 150 − 600 = Rs -90 lakh — the partial-goodwill result; NCI shares no goodwill.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — goodwill computation with the NCI method tag is asked in most consolidations Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Consolidation — goodwill",
+        "tip": "Partial goodwill: goodwill = consideration + NCI-at-proportionate-net-assets − net assets acquired. Post-acquisition profits belong to group per %.",
+        "link": "Chapter 13 — Consolidated and Separate Financial Statements of Group Entities"
+      }
+    },
+    {
+      "id": "p1q-1kl78z7",
+      "ch": 13,
+      "topic": "Consolidation — goodwill",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Cobalt Ltd acquires 80% of a subsidiary for Rs 600 lakh when its net identifiable assets (at FV) are Rs 400 lakh. NCI is measured at its proportionate share of net assets. Consolidated goodwill is:",
+      "o": [
+        "Rs 280 lakh of full goodwill",
+        "Rs 280 lakh (goodwill only for parent's share)",
+        "Rs 950 lakh",
+        "Nil — book values net off"
+      ],
+      "a": 1,
+      "why": "NCI = 20% × 400 = Rs 80 lakh. Goodwill = 600 + 80 − 400 = Rs 280 lakh — the partial-goodwill result; NCI shares no goodwill.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — goodwill computation with the NCI method tag is asked in most consolidations Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Consolidation — goodwill",
+        "tip": "Partial goodwill: goodwill = consideration + NCI-at-proportionate-net-assets − net assets acquired. Post-acquisition profits belong to group per %.",
+        "link": "Chapter 13 — Consolidated and Separate Financial Statements of Group Entities"
+      }
+    },
+    {
+      "id": "p1q-1dwb02b",
+      "ch": 13,
+      "topic": "Consolidation — goodwill",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Orbit Ltd acquires 75% of a subsidiary for Rs 360 lakh when its net identifiable assets (at FV) are Rs 400 lakh. NCI is measured at its proportionate share of net assets. Consolidated goodwill is:",
+      "o": [
+        "Rs 60 lakh of full goodwill",
+        "Rs 440 lakh",
+        "Rs 60 lakh (goodwill only for parent's share)",
+        "Nil — book values net off"
+      ],
+      "a": 2,
+      "why": "NCI = 25% × 400 = Rs 100 lakh. Goodwill = 360 + 100 − 400 = Rs 60 lakh — the partial-goodwill result; NCI shares no goodwill.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — goodwill computation with the NCI method tag is asked in most consolidations Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Consolidation — goodwill",
+        "tip": "Partial goodwill: goodwill = consideration + NCI-at-proportionate-net-assets − net assets acquired. Post-acquisition profits belong to group per %.",
+        "link": "Chapter 13 — Consolidated and Separate Financial Statements of Group Entities"
+      }
+    },
+    {
+      "id": "p1q-iqh34a",
+      "ch": 13,
+      "topic": "Consolidation — goodwill",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Cobalt Ltd acquires 70% of a subsidiary for Rs 600 lakh when its net identifiable assets (at FV) are Rs 400 lakh. NCI is measured at its proportionate share of net assets. Consolidated goodwill is:",
+      "o": [
+        "Rs 320 lakh (goodwill only for parent's share)",
+        "Rs 320 lakh of full goodwill",
+        "Rs 1,057 lakh",
+        "Nil — book values net off"
+      ],
+      "a": 0,
+      "why": "NCI = 30% × 400 = Rs 120 lakh. Goodwill = 600 + 120 − 400 = Rs 320 lakh — the partial-goodwill result; NCI shares no goodwill.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — goodwill computation with the NCI method tag is asked in most consolidations Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Consolidation — goodwill",
+        "tip": "Partial goodwill: goodwill = consideration + NCI-at-proportionate-net-assets − net assets acquired. Post-acquisition profits belong to group per %.",
+        "link": "Chapter 13 — Consolidated and Separate Financial Statements of Group Entities"
+      }
+    },
+    {
+      "id": "p1q-1fz65hf",
+      "ch": 13,
+      "topic": "Consolidation — goodwill",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Kaveri Ltd acquires 70% of a subsidiary for Rs 360 lakh when its net identifiable assets (at FV) are Rs 500 lakh. NCI is measured at its proportionate share of net assets. Consolidated goodwill is:",
+      "o": [
+        "Rs 10 lakh of full goodwill",
+        "Rs 10 lakh (goodwill only for parent's share)",
+        "Rs 374 lakh",
+        "Nil — book values net off"
+      ],
+      "a": 1,
+      "why": "NCI = 30% × 500 = Rs 150 lakh. Goodwill = 360 + 150 − 500 = Rs 10 lakh — the partial-goodwill result; NCI shares no goodwill.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — goodwill computation with the NCI method tag is asked in most consolidations Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Consolidation — goodwill",
+        "tip": "Partial goodwill: goodwill = consideration + NCI-at-proportionate-net-assets − net assets acquired. Post-acquisition profits belong to group per %.",
+        "link": "Chapter 13 — Consolidated and Separate Financial Statements of Group Entities"
+      }
+    },
+    {
+      "id": "p1q-p658ig",
+      "ch": 13,
+      "topic": "Consolidation — goodwill",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Vertex Ltd acquires 80% of a subsidiary for Rs 360 lakh when its net identifiable assets (at FV) are Rs 500 lakh. NCI is measured at its proportionate share of net assets. Consolidated goodwill is:",
+      "o": [
+        "Rs -40 lakh of full goodwill",
+        "Rs 310 lakh",
+        "Nil — book values net off",
+        "Rs -40 lakh (goodwill only for parent's share)"
+      ],
+      "a": 3,
+      "why": "NCI = 20% × 500 = Rs 100 lakh. Goodwill = 360 + 100 − 500 = Rs -40 lakh — the partial-goodwill result; NCI shares no goodwill.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — goodwill computation with the NCI method tag is asked in most consolidations Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Consolidation — goodwill",
+        "tip": "Partial goodwill: goodwill = consideration + NCI-at-proportionate-net-assets − net assets acquired. Post-acquisition profits belong to group per %.",
+        "link": "Chapter 13 — Consolidated and Separate Financial Statements of Group Entities"
+      }
+    },
+    {
+      "id": "p1q-j3hrx9",
+      "ch": 13,
+      "topic": "Consolidation — goodwill",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Zenith Ltd acquires 80% of a subsidiary for Rs 600 lakh when its net identifiable assets (at FV) are Rs 500 lakh. NCI is measured at its proportionate share of net assets. Consolidated goodwill is:",
+      "o": [
+        "Rs 200 lakh (goodwill only for parent's share)",
+        "Rs 200 lakh of full goodwill",
+        "Rs 850 lakh",
+        "Nil — book values net off"
+      ],
+      "a": 0,
+      "why": "NCI = 20% × 500 = Rs 100 lakh. Goodwill = 600 + 100 − 500 = Rs 200 lakh — the partial-goodwill result; NCI shares no goodwill.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — goodwill computation with the NCI method tag is asked in most consolidations Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Consolidation — goodwill",
+        "tip": "Partial goodwill: goodwill = consideration + NCI-at-proportionate-net-assets − net assets acquired. Post-acquisition profits belong to group per %.",
+        "link": "Chapter 13 — Consolidated and Separate Financial Statements of Group Entities"
+      }
+    },
+    {
+      "id": "p1q-16bhuyo",
+      "ch": 13,
+      "topic": "Consolidation — unrealised profit",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A subsidiary (75% owned) sold goods to its parent at a profit of Rs 78 lakh, which remain in the parent's closing inventory at year end. The upstream elimination:",
+      "o": [
+        "Group inventory down Rs 78 lakh; NCI untouched",
+        "Group inventory down Rs 78 × 75% lakh",
+        "No adjustment — arm's length sale",
+        "Group inventory down Rs 78 lakh; NCI profit down Rs 19.5 lakh"
+      ],
+      "a": 3,
+      "why": "Upstream ⇒ profit sits in the SUB's books; eliminate fully against group inventory, and the seller's profit reduction flows to NCI: 78 × 25% = Rs 19.5 lakh.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the NCI-flow of upstream eliminations is the consolidation discriminator AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Consolidation — unrealised profit",
+        "tip": "Upstream: eliminate profit against SELLER's (sub's) reserves; NCI absorbs its share.",
+        "link": "Chapter 13 — Consolidated and Separate Financial Statements of Group Entities"
+      }
+    },
+    {
+      "id": "p1q-2lsdpq",
+      "ch": 13,
+      "topic": "Consolidation — unrealised profit",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A subsidiary (75% owned) sold goods to its parent at a profit of Rs 47 lakh, which remain in the parent's closing inventory at year end. The upstream elimination:",
+      "o": [
+        "Group inventory down Rs 47 lakh; NCI untouched",
+        "Group inventory down Rs 47 × 75% lakh",
+        "Group inventory down Rs 47 lakh; NCI profit down Rs 11.8 lakh",
+        "No adjustment — arm's length sale"
+      ],
+      "a": 2,
+      "why": "Upstream ⇒ profit sits in the SUB's books; eliminate fully against group inventory, and the seller's profit reduction flows to NCI: 47 × 25% = Rs 11.8 lakh.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the NCI-flow of upstream eliminations is the consolidation discriminator AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Consolidation — unrealised profit",
+        "tip": "Upstream: eliminate profit against SELLER's (sub's) reserves; NCI absorbs its share.",
+        "link": "Chapter 13 — Consolidated and Separate Financial Statements of Group Entities"
+      }
+    },
+    {
+      "id": "p1q-13j6qtp",
+      "ch": 13,
+      "topic": "Consolidation — unrealised profit",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A subsidiary (75% owned) sold goods to its parent at a profit of Rs 55 lakh, which remain in the parent's closing inventory at year end. The upstream elimination:",
+      "o": [
+        "Group inventory down Rs 55 lakh; NCI untouched",
+        "Group inventory down Rs 55 × 75% lakh",
+        "Group inventory down Rs 55 lakh; NCI profit down Rs 13.8 lakh",
+        "No adjustment — arm's length sale"
+      ],
+      "a": 2,
+      "why": "Upstream ⇒ profit sits in the SUB's books; eliminate fully against group inventory, and the seller's profit reduction flows to NCI: 55 × 25% = Rs 13.8 lakh.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the NCI-flow of upstream eliminations is the consolidation discriminator AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Consolidation — unrealised profit",
+        "tip": "Upstream: eliminate profit against SELLER's (sub's) reserves; NCI absorbs its share.",
+        "link": "Chapter 13 — Consolidated and Separate Financial Statements of Group Entities"
+      }
+    },
+    {
+      "id": "p1q-hk2g9y",
+      "ch": 13,
+      "topic": "Consolidation — unrealised profit",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A subsidiary (75% owned) sold goods to its parent at a profit of Rs 65 lakh, which remain in the parent's closing inventory at year end. The upstream elimination:",
+      "o": [
+        "Group inventory down Rs 65 lakh; NCI untouched",
+        "Group inventory down Rs 65 × 75% lakh",
+        "No adjustment — arm's length sale",
+        "Group inventory down Rs 65 lakh; NCI profit down Rs 16.3 lakh"
+      ],
+      "a": 3,
+      "why": "Upstream ⇒ profit sits in the SUB's books; eliminate fully against group inventory, and the seller's profit reduction flows to NCI: 65 × 25% = Rs 16.3 lakh.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the NCI-flow of upstream eliminations is the consolidation discriminator AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Consolidation — unrealised profit",
+        "tip": "Upstream: eliminate profit against SELLER's (sub's) reserves; NCI absorbs its share.",
+        "link": "Chapter 13 — Consolidated and Separate Financial Statements of Group Entities"
+      }
+    },
+    {
+      "id": "p1q-1pgv1bj",
+      "ch": 13,
+      "topic": "Consolidation — unrealised profit",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A subsidiary (80% owned) sold goods to its parent at a profit of Rs 57 lakh, which remain in the parent's closing inventory at year end. The upstream elimination:",
+      "o": [
+        "Group inventory down Rs 57 lakh; NCI untouched",
+        "Group inventory down Rs 57 × 80% lakh",
+        "Group inventory down Rs 57 lakh; NCI profit down Rs 11.4 lakh",
+        "No adjustment — arm's length sale"
+      ],
+      "a": 2,
+      "why": "Upstream ⇒ profit sits in the SUB's books; eliminate fully against group inventory, and the seller's profit reduction flows to NCI: 57 × 20% = Rs 11.4 lakh.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the NCI-flow of upstream eliminations is the consolidation discriminator AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Consolidation — unrealised profit",
+        "tip": "Upstream: eliminate profit against SELLER's (sub's) reserves; NCI absorbs its share.",
+        "link": "Chapter 13 — Consolidated and Separate Financial Statements of Group Entities"
+      }
+    },
+    {
+      "id": "p1q-1pmzqih",
+      "ch": 13,
+      "topic": "Consolidation — unrealised profit",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A subsidiary (75% owned) sold goods to its parent at a profit of Rs 64 lakh, which remain in the parent's closing inventory at year end. The upstream elimination:",
+      "o": [
+        "Group inventory down Rs 64 lakh; NCI untouched",
+        "Group inventory down Rs 64 × 75% lakh",
+        "No adjustment — arm's length sale",
+        "Group inventory down Rs 64 lakh; NCI profit down Rs 16.0 lakh"
+      ],
+      "a": 3,
+      "why": "Upstream ⇒ profit sits in the SUB's books; eliminate fully against group inventory, and the seller's profit reduction flows to NCI: 64 × 25% = Rs 16.0 lakh.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the NCI-flow of upstream eliminations is the consolidation discriminator AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Consolidation — unrealised profit",
+        "tip": "Upstream: eliminate profit against SELLER's (sub's) reserves; NCI absorbs its share.",
+        "link": "Chapter 13 — Consolidated and Separate Financial Statements of Group Entities"
+      }
+    },
+    {
+      "id": "p1q-1udlaub",
+      "ch": 13,
+      "topic": "Consolidation — unrealised profit",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A subsidiary (80% owned) sold goods to its parent at a profit of Rs 53 lakh, which remain in the parent's closing inventory at year end. The upstream elimination:",
+      "o": [
+        "Group inventory down Rs 53 lakh; NCI untouched",
+        "Group inventory down Rs 53 × 80% lakh",
+        "Group inventory down Rs 53 lakh; NCI profit down Rs 10.6 lakh",
+        "No adjustment — arm's length sale"
+      ],
+      "a": 2,
+      "why": "Upstream ⇒ profit sits in the SUB's books; eliminate fully against group inventory, and the seller's profit reduction flows to NCI: 53 × 20% = Rs 10.6 lakh.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the NCI-flow of upstream eliminations is the consolidation discriminator AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Consolidation — unrealised profit",
+        "tip": "Upstream: eliminate profit against SELLER's (sub's) reserves; NCI absorbs its share.",
+        "link": "Chapter 13 — Consolidated and Separate Financial Statements of Group Entities"
+      }
+    },
+    {
+      "id": "p1q-1deg0qb",
+      "ch": 13,
+      "topic": "Consolidation — unrealised profit",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A subsidiary (80% owned) sold goods to its parent at a profit of Rs 80 lakh, which remain in the parent's closing inventory at year end. The upstream elimination:",
+      "o": [
+        "Group inventory down Rs 80 lakh; NCI untouched",
+        "Group inventory down Rs 80 × 80% lakh",
+        "Group inventory down Rs 80 lakh; NCI profit down Rs 16.0 lakh",
+        "No adjustment — arm's length sale"
+      ],
+      "a": 2,
+      "why": "Upstream ⇒ profit sits in the SUB's books; eliminate fully against group inventory, and the seller's profit reduction flows to NCI: 80 × 20% = Rs 16.0 lakh.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the NCI-flow of upstream eliminations is the consolidation discriminator AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Consolidation — unrealised profit",
+        "tip": "Upstream: eliminate profit against SELLER's (sub's) reserves; NCI absorbs its share.",
+        "link": "Chapter 13 — Consolidated and Separate Financial Statements of Group Entities"
+      }
+    },
+    {
+      "id": "p1q-1f1ojuj",
+      "ch": 13,
+      "topic": "Consolidation — unrealised profit",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A subsidiary (75% owned) sold goods to its parent at a profit of Rs 71 lakh, which remain in the parent's closing inventory at year end. The upstream elimination:",
+      "o": [
+        "Group inventory down Rs 71 lakh; NCI untouched",
+        "Group inventory down Rs 71 lakh; NCI profit down Rs 17.8 lakh",
+        "Group inventory down Rs 71 × 75% lakh",
+        "No adjustment — arm's length sale"
+      ],
+      "a": 1,
+      "why": "Upstream ⇒ profit sits in the SUB's books; eliminate fully against group inventory, and the seller's profit reduction flows to NCI: 71 × 25% = Rs 17.8 lakh.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the NCI-flow of upstream eliminations is the consolidation discriminator AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Consolidation — unrealised profit",
+        "tip": "Upstream: eliminate profit against SELLER's (sub's) reserves; NCI absorbs its share.",
+        "link": "Chapter 13 — Consolidated and Separate Financial Statements of Group Entities"
+      }
+    },
+    {
+      "id": "p1q-uc3sjg",
+      "ch": 13,
+      "topic": "Consolidation — unrealised profit",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A subsidiary (80% owned) sold goods to its parent at a profit of Rs 56 lakh, which remain in the parent's closing inventory at year end. The upstream elimination:",
+      "o": [
+        "Group inventory down Rs 56 lakh; NCI untouched",
+        "Group inventory down Rs 56 lakh; NCI profit down Rs 11.2 lakh",
+        "Group inventory down Rs 56 × 80% lakh",
+        "No adjustment — arm's length sale"
+      ],
+      "a": 1,
+      "why": "Upstream ⇒ profit sits in the SUB's books; eliminate fully against group inventory, and the seller's profit reduction flows to NCI: 56 × 20% = Rs 11.2 lakh.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the NCI-flow of upstream eliminations is the consolidation discriminator AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Consolidation — unrealised profit",
+        "tip": "Upstream: eliminate profit against SELLER's (sub's) reserves; NCI absorbs its share.",
+        "link": "Chapter 13 — Consolidated and Separate Financial Statements of Group Entities"
+      }
+    },
+    {
+      "id": "p1q-xa4skh",
+      "ch": 13,
+      "topic": "Consolidation — unrealised profit",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A subsidiary (75% owned) sold goods to its parent at a profit of Rs 46 lakh, which remain in the parent's closing inventory at year end. The upstream elimination:",
+      "o": [
+        "Group inventory down Rs 46 lakh; NCI untouched",
+        "Group inventory down Rs 46 lakh; NCI profit down Rs 11.5 lakh",
+        "Group inventory down Rs 46 × 75% lakh",
+        "No adjustment — arm's length sale"
+      ],
+      "a": 1,
+      "why": "Upstream ⇒ profit sits in the SUB's books; eliminate fully against group inventory, and the seller's profit reduction flows to NCI: 46 × 25% = Rs 11.5 lakh.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the NCI-flow of upstream eliminations is the consolidation discriminator AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Consolidation — unrealised profit",
+        "tip": "Upstream: eliminate profit against SELLER's (sub's) reserves; NCI absorbs its share.",
+        "link": "Chapter 13 — Consolidated and Separate Financial Statements of Group Entities"
+      }
+    },
+    {
+      "id": "p1q-surdh0",
+      "ch": 13,
+      "topic": "Consolidation — unrealised profit",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A subsidiary (75% owned) sold goods to its parent at a profit of Rs 52 lakh, which remain in the parent's closing inventory at year end. The upstream elimination:",
+      "o": [
+        "Group inventory down Rs 52 lakh; NCI untouched",
+        "Group inventory down Rs 52 × 75% lakh",
+        "Group inventory down Rs 52 lakh; NCI profit down Rs 13.0 lakh",
+        "No adjustment — arm's length sale"
+      ],
+      "a": 2,
+      "why": "Upstream ⇒ profit sits in the SUB's books; eliminate fully against group inventory, and the seller's profit reduction flows to NCI: 52 × 25% = Rs 13.0 lakh.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the NCI-flow of upstream eliminations is the consolidation discriminator AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Consolidation — unrealised profit",
+        "tip": "Upstream: eliminate profit against SELLER's (sub's) reserves; NCI absorbs its share.",
+        "link": "Chapter 13 — Consolidated and Separate Financial Statements of Group Entities"
+      }
+    }
+  ]
+}

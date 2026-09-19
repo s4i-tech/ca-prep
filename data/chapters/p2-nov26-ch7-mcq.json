@@ -1,0 +1,323 @@
+{
+  "meta": {
+    "id": "p2-nov26-ch7-mcq",
+    "paper": "P2",
+    "attempt": "NOV-2026",
+    "kind": "chapter",
+    "category": "CHAPTER-WISE MCQs",
+    "title": "Ch 7: Securitization — MCQ Bank",
+    "description": "Chapter-wise practice MCQs for Chapter 7 (Securitization).",
+    "count": 12,
+    "mcqCount": 12,
+    "descriptiveCount": 0,
+    "coverage": "Chapter 7 · 12 MCQs",
+    "chapters": [
+      7
+    ],
+    "durationMinutes": 18,
+    "difficulty": "Exam standard",
+    "high": 2,
+    "medium": 7,
+    "low": 3
+  },
+  "questions": [
+    {
+      "id": "p2q-1rblhr7",
+      "ch": 7,
+      "topic": "Securitization structure",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Credit-enhancement coverage for B (mezzanine) is primarily:",
+      "o": [
+        "Reserve 5% only",
+        "C's 7% (35/500) subordinated first, then B's 8% covers A's tail after that",
+        "Senior tranche",
+        "Servicing fee"
+      ],
+      "a": 1,
+      "why": "Loss order: equity C (7%) → mezzanine B (8%) → senior A; plus the 5% cash reserve (typically the very front line, then C/B). Structure thickness per tranche sizes the credit.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — this topic stays active in ICAI question-setting Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Securitization structure",
+        "tip": "Waterfall thickness = who gets hit first Structure is just plumbing with moral intent: the bottom layers are the airbags.",
+        "link": "Chapter 7 — Securitization"
+      },
+      "stem": "Fairway Logistics sells Rs 500 crore of receivables (weighted avg 90 days, DSO history 96) into an SPV: senior Rs 425 crore (A), mezzanine 40 (B), equity retained 35 (C); servicing fee 0.5%; expected delinquencies 4%; reserve account 5% of pool.",
+      "caseRef": "p2-case-7"
+    },
+    {
+      "id": "p2q-pdlky1",
+      "ch": 7,
+      "topic": "Securitization structure",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "With actual delinquencies 4%, losses before recoveries 2.8%, the tranches hit:",
+      "o": [
+        "C only (2.8% < 7%)",
+        "A and B",
+        "Senior only",
+        "None"
+      ],
+      "a": 0,
+      "why": "2.8% < 7% (C) + reserve — absorbed by reserve first then C; B and A untouched at this loss level.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — this topic stays active in ICAI question-setting AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Securitization structure",
+        "tip": "The cushion arithmetic decides the story Compare the leak size to the bucket depth before ringing the alarm.",
+        "link": "Chapter 7 — Securitization"
+      },
+      "stem": "Fairway Logistics sells Rs 500 crore of receivables (weighted avg 90 days, DSO history 96) into an SPV: senior Rs 425 crore (A), mezzanine 40 (B), equity retained 35 (C); servicing fee 0.5%; expected delinquencies 4%; reserve account 5% of pool.",
+      "caseRef": "p2-case-7"
+    },
+    {
+      "id": "p2q-18g7hbl",
+      "ch": 7,
+      "topic": "Securitization structure",
+      "m": 2,
+      "d": "HARD",
+      "q": "The true-sale requirement means:",
+      "o": [
+        "Originator keeps 100% risk",
+        "Receivables are transferred irrevocably; originator's insolvency should not claw back the SPV's assets (limited reps/warranties aside)",
+        "SPV guarantees payers",
+        "Sale of goods"
+      ],
+      "a": 1,
+      "why": "True sale = no recourse beyond agreed reps; the bankruptcy-remoteness legal pillar — if originator must repurchase on performance, it's a secured borrowing re-characterisation risk.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — this topic stays active in ICAI question-setting Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Securitization structure",
+        "tip": "True sale = real transfer, not dressed loan If you must buy back the bodies, you never left the morgue.",
+        "link": "Chapter 7 — Securitization"
+      },
+      "stem": "Fairway Logistics sells Rs 500 crore of receivables (weighted avg 90 days, DSO history 96) into an SPV: senior Rs 425 crore (A), mezzanine 40 (B), equity retained 35 (C); servicing fee 0.5%; expected delinquencies 4%; reserve account 5% of pool.",
+      "caseRef": "p2-case-7"
+    },
+    {
+      "id": "p2q-v56lz5",
+      "ch": 7,
+      "topic": "Securitization structure",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "The servicing fee of 0.5% compensates the originator for:",
+      "o": [
+        "Underwriting only",
+        "Collections, records, customer contact and remittance of collected amounts to the SPV",
+        "Guarantees",
+        "Rating"
+      ],
+      "a": 1,
+      "why": "Servicing role = collect, reconcile, enforce and remit; the fee is for operations, not for credit risk (that's the tranches').",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — this topic stays active in ICAI question-setting Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Securitization structure",
+        "tip": "Who does what in the SPV chain The janitor of receivables gets paid for chores, not for floods.",
+        "link": "Chapter 7 — Securitization"
+      },
+      "stem": "Fairway Logistics sells Rs 500 crore of receivables (weighted avg 90 days, DSO history 96) into an SPV: senior Rs 425 crore (A), mezzanine 40 (B), equity retained 35 (C); servicing fee 0.5%; expected delinquencies 4%; reserve account 5% of pool.",
+      "caseRef": "p2-case-7"
+    },
+    {
+      "id": "p2q-1awendl",
+      "ch": 7,
+      "topic": "Securitization structure",
+      "m": 2,
+      "d": "HARD",
+      "q": "Retaining C on the balance sheet after sale mainly affects:",
+      "o": [
+        "Nothing",
+        "Continuing-involvement accounting: measure the retained interest (ECL where applicable), and disclosure; and aligns originator with performance",
+        "Prevents securitization",
+        "Requires full consolidation of SPV always"
+      ],
+      "a": 1,
+      "why": "Under Ind AS, retained interests continue to be measured (FV/ECL); the 'first-loss' retention is the classic mis-selling safeguard (risk-sharing) — post 2008 reforms, retention norms (e.g., 5% skin-in-the-game in some regimes) are the regulatory echo.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — this topic stays active in ICAI question-setting Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Securitization structure",
+        "tip": "Retention = alignment, and a fair-value line Keep a finger in the pie and the pie behaves better — accounting says the finger still sweats.",
+        "link": "Chapter 7 — Securitization"
+      },
+      "stem": "Fairway Logistics sells Rs 500 crore of receivables (weighted avg 90 days, DSO history 96) into an SPV: senior Rs 425 crore (A), mezzanine 40 (B), equity retained 35 (C); servicing fee 0.5%; expected delinquencies 4%; reserve account 5% of pool.",
+      "caseRef": "p2-case-7"
+    },
+    {
+      "id": "p2q-14snsjc",
+      "ch": 7,
+      "topic": "Securitization mechanics",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "In a securitisation, SPV's role in achieving bankruptcy remoteness is best described as:",
+      "o": [
+        "The originator guarantees all losses",
+        "The SPV is a separate legal vehicle — assets transferred truly sale, insulated from originator insolvency",
+        "SPV holds equity only",
+        "SPV is the rating agency"
+      ],
+      "a": 1,
+      "why": "True sale + SPV legal separateness = remoteness; credit enhancement (overcollateralisation, tranching, guarantees) layers on top.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — SPV/true-sale concepts dominate Securitization MCQs AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Securitization mechanics",
+        "tip": "Cut the paper cord first (true sale); the tranches then climb the waterfall.",
+        "link": "Chapter 7 — Securitization"
+      }
+    },
+    {
+      "id": "p2q-1wtk7pk",
+      "ch": 7,
+      "topic": "Waterfall priority",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "In a securitisation waterfall, senior tranches receive principal:",
+      "o": [
+        "After equity absorbs losses, pro-rata with mezzanine",
+        "Only after mezzanine is redeemed",
+        "Last",
+        "Pro-rata at all times"
+      ],
+      "a": 0,
+      "why": "Tranche seniority: losses hit equity/first-loss pieces first; principal to senior per priority — mezzanine between, subject to triggers.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — loss-flow vs cash-flow order AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Waterfall priority",
+        "tip": "The queue is a shield wall: the front ranks get paid to take the fewest hits.",
+        "link": "Chapter 7 — Securitization"
+      }
+    },
+    {
+      "id": "p2q-1fbj92p",
+      "ch": 7,
+      "topic": "Waterfall loss absorption",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Securitised pool Rs 100 crore: senior 80, mezzanine 14, equity first-loss 6. With year-1 losses of Rs 9 crore:",
+      "o": [
+        "Senior repays slower but never impaired at these levels",
+        "Pro-rata across tranches",
+        "Originator pays",
+        "mezzanine absorbs 3 (senior intact while losses ≤ 20)"
+      ],
+      "a": 3,
+      "why": "Losses flow bottom-up: equity absorbs its 6; the balance 3 hits mezzanine; senior untouched while cumulative losses ≤ 20.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — structure-credit allocation tests the waterfall reading AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Waterfall loss absorption",
+        "tip": "First-loss tranche size = cushion until senior impaired.",
+        "link": "Chapter 7 — Securitization"
+      }
+    },
+    {
+      "id": "p2q-9mva4v",
+      "ch": 7,
+      "topic": "Waterfall loss absorption",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Securitised pool Rs 100 crore: senior 80, mezzanine 14, equity first-loss 6. With year-1 losses of Rs 12 crore:",
+      "o": [
+        "mezzanine absorbs 6 (senior intact while losses ≤ 20)",
+        "Senior repays slower but never impaired at these levels",
+        "Pro-rata across tranches",
+        "Originator pays"
+      ],
+      "a": 0,
+      "why": "Losses flow bottom-up: equity absorbs its 6; the balance 6 hits mezzanine; senior untouched while cumulative losses ≤ 20.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — structure-credit allocation tests the waterfall reading AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Waterfall loss absorption",
+        "tip": "First-loss tranche size = cushion until senior impaired.",
+        "link": "Chapter 7 — Securitization"
+      }
+    },
+    {
+      "id": "p2q-16ifwbg",
+      "ch": 7,
+      "topic": "True sale",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "In a securitisation, 'true sale' treatment means:",
+      "o": [
+        "Seller retains repurchase obligation",
+        "Transfer conveys the receivables irrevocably so the originator's insolvency does not claw them back into the estate",
+        "Sale is provisional",
+        "The SPV is a division of the seller"
+      ],
+      "a": "0",
+      "why": "True sale severs the asset from originator risk: no recourse/clawback into the originator's estate (beyond representations and warranties), accounting derecognition follows the transfer of risks and rewards — structures failing this are recharacterised as secured borrowings.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — once truly sold, the seller's ship can sink without wetting the cargo AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: True sale",
+        "tip": "The test is what the judge sees in bankruptcy court, not what the deed says Monday.",
+        "link": "Chapter 7 — Securitization"
+      }
+    },
+    {
+      "id": "p2q-py0pk3",
+      "ch": 7,
+      "topic": "Enhancement types",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Which is an INTERNAL credit enhancement for a tranched deal?",
+      "o": [
+        "Monoline insurance",
+        "Bank letter of credit",
+        "Subordination plus excess spread within the waterfall",
+        "Parent guarantee"
+      ],
+      "a": "2",
+      "why": "Internal = built from the structure itself: subordination, excess spread, reserve accounts funded from deal cash; external = third-party promises (guarantees, LCs, insurance) — the rating of each tranche rides on the internal stack order.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — internal is the wall, external is the guard AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Enhancement types",
+        "tip": "The waterfall is its own security blanket; the guarantor is someone else's.",
+        "link": "Chapter 7 — Securitization"
+      }
+    },
+    {
+      "id": "p2q-1jg865z",
+      "ch": 7,
+      "topic": "Prepayment risk",
+      "m": 1,
+      "d": "HARD",
+      "q": "For the MBS investor, falling interest rates create:",
+      "o": [
+        "Extension risk — cash flows stretch",
+        "Contraction risk — principal returns early at par while the bond trades premium, and reinvestment lands at lower rates",
+        "No risk",
+        "Default risk necessarily"
+      ],
+      "a": "1",
+      "why": "The homeowner refinances, so the investor's high-coupon asset is returned just when new money earns less (contraction); rising rates extend duration instead — negative convexity is the compact name for this squeeze.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — rates move, timing moves, and the mover holds the option Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Prepayment risk",
+        "tip": "The borrower's prepayment is a call option the investor sold for free.",
+        "link": "Chapter 7 — Securitization"
+      }
+    }
+  ]
+}

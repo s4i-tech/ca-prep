@@ -1,0 +1,875 @@
+{
+  "meta": {
+    "id": "p2-nov26-ch3-mcq",
+    "paper": "P2",
+    "attempt": "NOV-2026",
+    "kind": "chapter",
+    "category": "CHAPTER-WISE MCQs",
+    "title": "Ch 3: Advanced Capital Budgeting Decisions — MCQ Bank",
+    "description": "Chapter-wise practice MCQs for Chapter 3 (Advanced Capital Budgeting Decisions).",
+    "count": 35,
+    "mcqCount": 35,
+    "descriptiveCount": 0,
+    "coverage": "Chapter 3 · 35 MCQs",
+    "chapters": [
+      3
+    ],
+    "durationMinutes": 53,
+    "difficulty": "Exam standard",
+    "high": 13,
+    "medium": 16,
+    "low": 6
+  },
+  "questions": [
+    {
+      "id": "p2q-d59md6",
+      "ch": 3,
+      "topic": "New line — appraisal with all side effects",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Depreciation's tax shield per year is:",
+      "o": [
+        "Rs 25 crore",
+        "Rs 20 crore",
+        "Rs 30 crore",
+        "Zero — depreciation is never a cash flow, even its shield"
+      ],
+      "a": 0,
+      "why": "Dep = 500/5 = 100; shield = 100×25% = Rs 25 crore p.a. — depreciation itself is not a cash flow; the shield is.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — this topic stays active in ICAI question-setting Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: New line — appraisal with all side effects",
+        "tip": "The shield is the point of depreciation in appraisal Depreciation pays you in tax, not in cash — 25 every year.",
+        "link": "Chapter 3 — Advanced Capital Budgeting Decisions"
+      },
+      "stem": "Vista Chemicals considers a Rs 500 crore green-field line: life 5 years, straight-line depreciation, expected operating cash profit Rs 160 crore p.a. (before depreciation). A Rs 40 crore land parcel owned (market value Rs 40 crore; rent foregone nil) will be used. The project needs Rs 30 crore working capital released at the end. Tax 25%. Debt of 50% is available at 9%; company WACC is 12% but the line is riskier than the firm's average.",
+      "caseRef": "p2-case-0"
+    },
+    {
+      "id": "p2q-vgcugf",
+      "ch": 3,
+      "topic": "New line — appraisal with all side effects",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "The land's opportunity cost treatment:",
+      "o": [
+        "Not a cash flow — owned asset",
+        "Charge the market value Rs 40 crore (foregone sale) as an initial outflow",
+        "Charge book value",
+        "Rent imputed in P&L"
+      ],
+      "a": 1,
+      "why": "Relevant-cost rule: using an existing asset that could be sold at 40 ⇒ treat 40 as a year-0 outflow (opportunity cost); no rent since foregone rent is nil here.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — this topic stays active in ICAI question-setting AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: New line — appraisal with all side effects",
+        "tip": "Opportunity costs of ready assets are the most-missed line If you don't sell it, the sale is the cost.",
+        "link": "Chapter 3 — Advanced Capital Budgeting Decisions"
+      },
+      "stem": "Vista Chemicals considers a Rs 500 crore green-field line: life 5 years, straight-line depreciation, expected operating cash profit Rs 160 crore p.a. (before depreciation). A Rs 40 crore land parcel owned (market value Rs 40 crore; rent foregone nil) will be used. The project needs Rs 30 crore working capital released at the end. Tax 25%. Debt of 50% is available at 9%; company WACC is 12% but the line is riskier than the firm's average.",
+      "caseRef": "p2-case-0"
+    },
+    {
+      "id": "p2q-13ekax7",
+      "ch": 3,
+      "topic": "New line — appraisal with all side effects",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Working capital in the appraisal must appear as:",
+      "o": [
+        "Rs 30 crore outflow at t0 and inflow at t5",
+        "Rs 30 crore at t0 only",
+        "Ignored — non-current",
+        "Only the increment"
+      ],
+      "a": 0,
+      "why": "Incremental WC is an outflow at start and recovered (inflow) at project end; both discounted.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — this topic stays active in ICAI question-setting Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: New line — appraisal with all side effects",
+        "tip": "The two-ended WC flow is the classic half-mark Working capital is a loan to your own project — repaid on exit.",
+        "link": "Chapter 3 — Advanced Capital Budgeting Decisions"
+      },
+      "stem": "Vista Chemicals considers a Rs 500 crore green-field line: life 5 years, straight-line depreciation, expected operating cash profit Rs 160 crore p.a. (before depreciation). A Rs 40 crore land parcel owned (market value Rs 40 crore; rent foregone nil) will be used. The project needs Rs 30 crore working capital released at the end. Tax 25%. Debt of 50% is available at 9%; company WACC is 12% but the line is riskier than the firm's average.",
+      "caseRef": "p2-case-0"
+    },
+    {
+      "id": "p2q-171g07u",
+      "ch": 3,
+      "topic": "New line — appraisal with all side effects",
+      "m": 2,
+      "d": "HARD",
+      "q": "Discount rate choice for NPV:",
+      "o": [
+        "Company WACC 12%",
+        "Higher project-specific rate (risk-adjusted; relever the business-line beta)",
+        "Debt cost 9%",
+        "Average of all three"
+      ],
+      "a": 1,
+      "why": "Project riskier ⇒ own hurdle above 12%: derive asset beta of the line, relever to 50% debt; using firm WACC systematically over-values riskier divisions (the classic conglomerate blunder).",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — this topic stays active in ICAI question-setting Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: New line — appraisal with all side effects",
+        "tip": "WACC is only for firm-risk projects Right rate first, right number later; a good sum with a bad rate is still bad.",
+        "link": "Chapter 3 — Advanced Capital Budgeting Decisions"
+      },
+      "stem": "Vista Chemicals considers a Rs 500 crore green-field line: life 5 years, straight-line depreciation, expected operating cash profit Rs 160 crore p.a. (before depreciation). A Rs 40 crore land parcel owned (market value Rs 40 crore; rent foregone nil) will be used. The project needs Rs 30 crore working capital released at the end. Tax 25%. Debt of 50% is available at 9%; company WACC is 12% but the line is riskier than the firm's average.",
+      "caseRef": "p2-case-0"
+    },
+    {
+      "id": "p2q-ik7lk9",
+      "ch": 3,
+      "topic": "New line — appraisal with all side effects",
+      "m": 2,
+      "d": "HARD",
+      "q": "If the company instead finances via equity issue with flotation cost of 2%, appraisal impact is:",
+      "o": [
+        "Ignore — financing side effects never touch project NPV",
+        "Reduce proceeds by flotation cost (APV: charge the cost) or include in initial outflow; it raises the effective cost of funds",
+        "Add to OCF",
+        "Tax-deductible only"
+      ],
+      "a": 1,
+      "why": "Flotation costs are real (after-tax where applicable) — in APV deduct from financing side; in WACC route raise effective debt/equity costs; the trap is calling financing 'always irrelevant' — separation applies to the RATE logic, not to actual costs of raising money.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — this topic stays active in ICAI question-setting Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: New line — appraisal with all side effects",
+        "tip": "Flotation: not irrelevant, just separately placed MONEY has a price tag; a 2% haircut is 10 crore of project value.",
+        "link": "Chapter 3 — Advanced Capital Budgeting Decisions"
+      },
+      "stem": "Vista Chemicals considers a Rs 500 crore green-field line: life 5 years, straight-line depreciation, expected operating cash profit Rs 160 crore p.a. (before depreciation). A Rs 40 crore land parcel owned (market value Rs 40 crore; rent foregone nil) will be used. The project needs Rs 30 crore working capital released at the end. Tax 25%. Debt of 50% is available at 9%; company WACC is 12% but the line is riskier than the firm's average.",
+      "caseRef": "p2-case-0"
+    },
+    {
+      "id": "p2q-1cs8kg0",
+      "ch": 3,
+      "topic": "Relevant cash flows",
+      "m": 1,
+      "d": "HARD",
+      "q": "In project appraisal, a sunk cost and an opportunity cost are treated as:",
+      "o": [
+        "Both are relevant",
+        "Sunk is irrelevant; opportunity cost is relevant (e.g., foregone rent of owned land)",
+        "Neither",
+        "Sunk relevant, opportunity not"
+      ],
+      "a": 1,
+      "why": "Sunk costs (already incurred) are ignored; opportunity costs of using existing assets are charged as relevant outflows; incremental working capital is included.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the include/exclude lists drive the appraisal chapter Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Relevant cash flows",
+        "tip": "Only what changes with the decision matters: yesterday is written, next year's rent foregone is not.",
+        "link": "Chapter 3 — Advanced Capital Budgeting Decisions"
+      }
+    },
+    {
+      "id": "p2q-wqtu5e",
+      "ch": 3,
+      "topic": "Real vs nominal",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "When the discount rate includes inflation, cash flows must be:",
+      "o": [
+        "Real",
+        "Money (nominal) — consistent basis: both inflated or both deflated",
+        "Deflated first",
+        "Either, freely"
+      ],
+      "a": 1,
+      "why": "Fisher consistency: nominal flows @ nominal rate ≡ real flows @ real rate; mixing (real flows + nominal rate) underestimates value.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the consistency trap is the classic NPV misfit AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Real vs nominal",
+        "tip": "Inflate both or deflate both — never mix the currencies of time.",
+        "link": "Chapter 3 — Advanced Capital Budgeting Decisions"
+      }
+    },
+    {
+      "id": "p2q-1qegtqk",
+      "ch": 3,
+      "topic": "APV",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Adjusted present value values a leveraged project as:",
+      "o": [
+        "NPV at WACC",
+        "Unlevered equity NPV + PV of financing side-effects (tax shield − issue/ distress costs)",
+        "Flow-to-equity method",
+        "IRR − cost of debt"
+      ],
+      "a": 1,
+      "why": "APV = base-case NPV (all-equity rate) + PV of tax shield + subsidies − flotation/expected distress costs; ideal when leverage schedule is fixed.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — APV decomposition is tested as definition and as computation AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: APV",
+        "tip": "Finance is an add-on shop beside the project: value the asset, then bill the debt's effects.",
+        "link": "Chapter 3 — Advanced Capital Budgeting Decisions"
+      }
+    },
+    {
+      "id": "p2q-e16h6",
+      "ch": 3,
+      "topic": "Equivalent annual cost",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Comparing machines with unequal lives (4 vs 6 years) is correctly done with:",
+      "o": [
+        "NPV only",
+        "Equivalent annual cost/benefit annuitised over each life",
+        "IRR",
+        "Payback"
+      ],
+      "a": 1,
+      "why": "Unequal lives ⇒ annuitise NPV over the specific life (EAC = NPV/annuity factor) to compare annual costs.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the unequal-life annuity comparison is the classic trap AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Equivalent annual cost",
+        "tip": "Don't compare the totals; compare the annual price tags of service.",
+        "link": "Chapter 3 — Advanced Capital Budgeting Decisions"
+      }
+    },
+    {
+      "id": "p2q-cf9vp6",
+      "ch": 3,
+      "topic": "Side effects",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "In project evaluation, cannibalisation of existing products is:",
+      "o": [
+        "Ignored — separate business",
+        "An incremental outflow (lost contribution margin) charged to the project",
+        "A fixed cost",
+        "Sunk"
+      ],
+      "a": 1,
+      "why": "Erosion/cannibalisation is a real incremental cost; sunk costs ignored; externalities excluded unless regulated (tax/subsidies included).",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the erosion-is-a-cost rule is where most candidates lose a mark AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Side effects",
+        "tip": "A new product that eats the old one pays the bill for the eaten sales.",
+        "link": "Chapter 3 — Advanced Capital Budgeting Decisions"
+      }
+    },
+    {
+      "id": "p2q-1p71hnk",
+      "ch": 3,
+      "topic": "NPV vs IRR conflict",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "When NPV and IRR conflict between mutually exclusive projects, prefer NPV because:",
+      "o": [
+        "IRR ignores timing and scale; NPV uses cash-flow-consistent discounting",
+        "NPV is simpler",
+        "IRR uses cost of capital",
+        "Both equal"
+      ],
+      "a": 0,
+      "why": "IRR assumes intermediate reinvestment at its own rate, can be multiple/non-monotonic; NPV maximises wealth at the given opportunity cost — decision rule for conflicts.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the ranking-conflict rationale is a guaranteed one AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: NPV vs IRR conflict",
+        "tip": "Rate of return dazzles; value of rupees decides.",
+        "link": "Chapter 3 — Advanced Capital Budgeting Decisions"
+      }
+    },
+    {
+      "id": "p2q-1vvemgk",
+      "ch": 3,
+      "topic": "Payback limitations",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Which limitation is NOT of the simple payback method?",
+      "o": [
+        "Ignores time value",
+        "Ignores cash flows after cut-off",
+        "Ignores risk entirely and uses profit",
+        "Uses accounting profit not cash"
+      ],
+      "a": 3,
+      "why": "Payback uses CASH flows; its flaws are TVM and post-cut-off blindness (and no explicit risk adjustment beyond the cut-off).",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the not-a-limitation list format AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Payback limitations",
+        "tip": "Payback is a stopwatch, not a ledger — it counts time, not profit.",
+        "link": "Chapter 3 — Advanced Capital Budgeting Decisions"
+      }
+    },
+    {
+      "id": "p2q-szay31",
+      "ch": 3,
+      "topic": "Project NPV",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "A 800-crore asset (3-year life, straight-line to nil) yields cash operating profit of Rs 80 crore p.a. before depreciation? — assume 80 crore is operating profit AFTER depreciation but BEFORE tax. Tax 25%; cost of capital 12%. NPV and decision:",
+      "o": [
+        "Rs -575.8 crore",
+        "Rs -495.8 crore — accept",
+        "Rs 495.8 crore",
+        "Rs 304.2 crore (forgot outflow)"
+      ],
+      "a": 1,
+      "why": "Depreciation 266.7 crore; OCF = EAT + Dep = (80 − 266.7)×0.75 + 266.7 = Rs 126.7 crore; PV(3 years @ 12%) = 304.2; NPV = -495.8 crore ⇒ reject.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the OCF-then-discount chain is the chapter's core exam move Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Project NPV",
+        "tip": "OCF = (S−C)(1−t) + t·Dep; NPV = Σ OCF/1.1x − I0 + PV(SV·(1−t)) + ΔWC back.",
+        "link": "Chapter 3 — Advanced Capital Budgeting Decisions"
+      }
+    },
+    {
+      "id": "p2q-wcdaje",
+      "ch": 3,
+      "topic": "Project NPV",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "A 500-crore asset (3-year life, straight-line to nil) yields cash operating profit of Rs 150 crore p.a. before depreciation? — assume 150 crore is operating profit AFTER depreciation but BEFORE tax. Tax 25%; cost of capital 12%. NPV and decision:",
+      "o": [
+        "Rs -179.7 crore",
+        "Rs 129.7 crore",
+        "Rs 370.3 crore (forgot outflow)",
+        "Rs -129.7 crore — accept"
+      ],
+      "a": 3,
+      "why": "Depreciation 166.7 crore; OCF = EAT + Dep = (150 − 166.7)×0.75 + 166.7 = Rs 154.2 crore; PV(3 years @ 12%) = 370.3; NPV = -129.7 crore ⇒ reject.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the OCF-then-discount chain is the chapter's core exam move Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Project NPV",
+        "tip": "OCF = (S−C)(1−t) + t·Dep; NPV = Σ OCF/1.1x − I0 + PV(SV·(1−t)) + ΔWC back.",
+        "link": "Chapter 3 — Advanced Capital Budgeting Decisions"
+      }
+    },
+    {
+      "id": "p2q-1v0lifo",
+      "ch": 3,
+      "topic": "Project NPV",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "A 500-crore asset (3-year life, straight-line to nil) yields cash operating profit of Rs 80 crore p.a. before depreciation? — assume 80 crore is operating profit AFTER depreciation but BEFORE tax. Tax 30%; cost of capital 10%. NPV and decision:",
+      "o": [
+        "Rs -236.4 crore — accept",
+        "Rs -286.4 crore",
+        "Rs 236.4 crore",
+        "Rs 263.6 crore (forgot outflow)"
+      ],
+      "a": 0,
+      "why": "Depreciation 166.7 crore; OCF = EAT + Dep = (80 − 166.7)×0.7 + 166.7 = Rs 106.0 crore; PV(3 years @ 10%) = 263.6; NPV = -236.4 crore ⇒ reject.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the OCF-then-discount chain is the chapter's core exam move Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Project NPV",
+        "tip": "OCF = (S−C)(1−t) + t·Dep; NPV = Σ OCF/1.1x − I0 + PV(SV·(1−t)) + ΔWC back.",
+        "link": "Chapter 3 — Advanced Capital Budgeting Decisions"
+      }
+    },
+    {
+      "id": "p2q-ulyv11",
+      "ch": 3,
+      "topic": "Project NPV",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "A 800-crore asset (3-year life, straight-line to nil) yields cash operating profit of Rs 150 crore p.a. before depreciation? — assume 150 crore is operating profit AFTER depreciation but BEFORE tax. Tax 25%; cost of capital 10%. NPV and decision:",
+      "o": [
+        "Rs -434.4 crore",
+        "Rs 354.4 crore",
+        "Rs 445.6 crore (forgot outflow)",
+        "Rs -354.4 crore — accept"
+      ],
+      "a": 3,
+      "why": "Depreciation 266.7 crore; OCF = EAT + Dep = (150 − 266.7)×0.75 + 266.7 = Rs 179.2 crore; PV(3 years @ 10%) = 445.6; NPV = -354.4 crore ⇒ reject.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the OCF-then-discount chain is the chapter's core exam move Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Project NPV",
+        "tip": "OCF = (S−C)(1−t) + t·Dep; NPV = Σ OCF/1.1x − I0 + PV(SV·(1−t)) + ΔWC back.",
+        "link": "Chapter 3 — Advanced Capital Budgeting Decisions"
+      }
+    },
+    {
+      "id": "p2q-1t927ue",
+      "ch": 3,
+      "topic": "Project NPV",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "A 500-crore asset (3-year life, straight-line to nil) yields cash operating profit of Rs 120 crore p.a. before depreciation? — assume 120 crore is operating profit AFTER depreciation but BEFORE tax. Tax 25%; cost of capital 10%. NPV and decision:",
+      "o": [
+        "Rs -222.6 crore",
+        "Rs 172.6 crore",
+        "Rs 327.4 crore (forgot outflow)",
+        "Rs -172.6 crore — accept"
+      ],
+      "a": 3,
+      "why": "Depreciation 166.7 crore; OCF = EAT + Dep = (120 − 166.7)×0.75 + 166.7 = Rs 131.7 crore; PV(3 years @ 10%) = 327.4; NPV = -172.6 crore ⇒ reject.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the OCF-then-discount chain is the chapter's core exam move Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Project NPV",
+        "tip": "OCF = (S−C)(1−t) + t·Dep; NPV = Σ OCF/1.1x − I0 + PV(SV·(1−t)) + ΔWC back.",
+        "link": "Chapter 3 — Advanced Capital Budgeting Decisions"
+      }
+    },
+    {
+      "id": "p2q-1089k87",
+      "ch": 3,
+      "topic": "Project NPV",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "A 200-crore asset (3-year life, straight-line to nil) yields cash operating profit of Rs 120 crore p.a. before depreciation? — assume 120 crore is operating profit AFTER depreciation but BEFORE tax. Tax 30%; cost of capital 10%. NPV and decision:",
+      "o": [
+        "Rs 38.6 crore",
+        "Rs 58.6 crore — accept",
+        "Rs -58.6 crore",
+        "Rs 258.6 crore (forgot outflow)"
+      ],
+      "a": 1,
+      "why": "Depreciation 66.7 crore; OCF = EAT + Dep = (120 − 66.7)×0.7 + 66.7 = Rs 104.0 crore; PV(3 years @ 10%) = 258.6; NPV = 58.6 crore ⇒ accept.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the OCF-then-discount chain is the chapter's core exam move Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Project NPV",
+        "tip": "OCF = (S−C)(1−t) + t·Dep; NPV = Σ OCF/1.1x − I0 + PV(SV·(1−t)) + ΔWC back.",
+        "link": "Chapter 3 — Advanced Capital Budgeting Decisions"
+      }
+    },
+    {
+      "id": "p2q-3lrp96",
+      "ch": 3,
+      "topic": "Project NPV",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "A 500-crore asset (3-year life, straight-line to nil) yields cash operating profit of Rs 80 crore p.a. before depreciation? — assume 80 crore is operating profit AFTER depreciation but BEFORE tax. Tax 30%; cost of capital 12%. NPV and decision:",
+      "o": [
+        "Rs -295.4 crore",
+        "Rs -245.4 crore — accept",
+        "Rs 245.4 crore",
+        "Rs 254.6 crore (forgot outflow)"
+      ],
+      "a": 1,
+      "why": "Depreciation 166.7 crore; OCF = EAT + Dep = (80 − 166.7)×0.7 + 166.7 = Rs 106.0 crore; PV(3 years @ 12%) = 254.6; NPV = -245.4 crore ⇒ reject.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the OCF-then-discount chain is the chapter's core exam move Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Project NPV",
+        "tip": "OCF = (S−C)(1−t) + t·Dep; NPV = Σ OCF/1.1x − I0 + PV(SV·(1−t)) + ΔWC back.",
+        "link": "Chapter 3 — Advanced Capital Budgeting Decisions"
+      }
+    },
+    {
+      "id": "p2q-uw3lad",
+      "ch": 3,
+      "topic": "Project NPV",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "A 200-crore asset (3-year life, straight-line to nil) yields cash operating profit of Rs 120 crore p.a. before depreciation? — assume 120 crore is operating profit AFTER depreciation but BEFORE tax. Tax 25%; cost of capital 10%. NPV and decision:",
+      "o": [
+        "Rs 45.3 crore",
+        "Rs -65.3 crore",
+        "Rs 265.3 crore (forgot outflow)",
+        "Rs 65.3 crore — accept"
+      ],
+      "a": 3,
+      "why": "Depreciation 66.7 crore; OCF = EAT + Dep = (120 − 66.7)×0.75 + 66.7 = Rs 106.7 crore; PV(3 years @ 10%) = 265.3; NPV = 65.3 crore ⇒ accept.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the OCF-then-discount chain is the chapter's core exam move Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Project NPV",
+        "tip": "OCF = (S−C)(1−t) + t·Dep; NPV = Σ OCF/1.1x − I0 + PV(SV·(1−t)) + ΔWC back.",
+        "link": "Chapter 3 — Advanced Capital Budgeting Decisions"
+      }
+    },
+    {
+      "id": "p2q-1tflsfp",
+      "ch": 3,
+      "topic": "APV — tax shield",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Base-case NPV (all-equity) Rs 60 crore; the project will carry permanent debt of Rs 200 crore at 8% (shield at the same rate), tax 30%. APV ≈:",
+      "o": [
+        "Rs 60.0 crore (no financing)",
+        "Rs 64.8 crore (undiscounted)",
+        "Rs 60.0 crore",
+        "Rs 64.4 crore"
+      ],
+      "a": 3,
+      "why": "Perpetuity-style one-period shield on first-year interest: t×rd×D discounted at rd = 4.4; for a FIXED level of debt discount shield at rd; APV = 60 + 4.4 = 64.4 crore (illustrative single-period treatment).",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — APV decomposition with debt fixed is the Section-B variant AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: APV — tax shield",
+        "tip": "APV = base NPV at ru + PV(t·D·rd/(1+rd)^t...).",
+        "link": "Chapter 3 — Advanced Capital Budgeting Decisions"
+      }
+    },
+    {
+      "id": "p2q-rrdm4p",
+      "ch": 3,
+      "topic": "APV — tax shield",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Base-case NPV (all-equity) Rs 40 crore; the project will carry permanent debt of Rs 300 crore at 9% (shield at the same rate), tax 30%. APV ≈:",
+      "o": [
+        "Rs 40.0 crore (no financing)",
+        "Rs 48.1 crore (undiscounted)",
+        "Rs 40.0 crore",
+        "Rs 47.4 crore"
+      ],
+      "a": 3,
+      "why": "Perpetuity-style one-period shield on first-year interest: t×rd×D discounted at rd = 7.4; for a FIXED level of debt discount shield at rd; APV = 40 + 7.4 = 47.4 crore (illustrative single-period treatment).",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — APV decomposition with debt fixed is the Section-B variant AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: APV — tax shield",
+        "tip": "APV = base NPV at ru + PV(t·D·rd/(1+rd)^t...).",
+        "link": "Chapter 3 — Advanced Capital Budgeting Decisions"
+      }
+    },
+    {
+      "id": "p2q-1b9ab7c",
+      "ch": 3,
+      "topic": "APV — tax shield",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Base-case NPV (all-equity) Rs 60 crore; the project will carry permanent debt of Rs 200 crore at 9% (shield at the same rate), tax 25%. APV ≈:",
+      "o": [
+        "Rs 64.1 crore",
+        "Rs 60.0 crore (no financing)",
+        "Rs 64.5 crore (undiscounted)",
+        "Rs 60.0 crore"
+      ],
+      "a": 0,
+      "why": "Perpetuity-style one-period shield on first-year interest: t×rd×D discounted at rd = 4.1; for a FIXED level of debt discount shield at rd; APV = 60 + 4.1 = 64.1 crore (illustrative single-period treatment).",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — APV decomposition with debt fixed is the Section-B variant AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: APV — tax shield",
+        "tip": "APV = base NPV at ru + PV(t·D·rd/(1+rd)^t...).",
+        "link": "Chapter 3 — Advanced Capital Budgeting Decisions"
+      }
+    },
+    {
+      "id": "p2q-1fnzsr4",
+      "ch": 3,
+      "topic": "APV — tax shield",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Base-case NPV (all-equity) Rs 40 crore; the project will carry permanent debt of Rs 200 crore at 9% (shield at the same rate), tax 30%. APV ≈:",
+      "o": [
+        "Rs 45.0 crore",
+        "Rs 40.0 crore (no financing)",
+        "Rs 45.4 crore (undiscounted)",
+        "Rs 40.0 crore"
+      ],
+      "a": 0,
+      "why": "Perpetuity-style one-period shield on first-year interest: t×rd×D discounted at rd = 5.0; for a FIXED level of debt discount shield at rd; APV = 40 + 5.0 = 45.0 crore (illustrative single-period treatment).",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — APV decomposition with debt fixed is the Section-B variant AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: APV — tax shield",
+        "tip": "APV = base NPV at ru + PV(t·D·rd/(1+rd)^t...).",
+        "link": "Chapter 3 — Advanced Capital Budgeting Decisions"
+      }
+    },
+    {
+      "id": "p2q-hjpjoi",
+      "ch": 3,
+      "topic": "APV — tax shield",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Base-case NPV (all-equity) Rs 60 crore; the project will carry permanent debt of Rs 300 crore at 8% (shield at the same rate), tax 25%. APV ≈:",
+      "o": [
+        "Rs 65.6 crore",
+        "Rs 60.0 crore (no financing)",
+        "Rs 66.0 crore (undiscounted)",
+        "Rs 60.0 crore"
+      ],
+      "a": 0,
+      "why": "Perpetuity-style one-period shield on first-year interest: t×rd×D discounted at rd = 5.6; for a FIXED level of debt discount shield at rd; APV = 60 + 5.6 = 65.6 crore (illustrative single-period treatment).",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — APV decomposition with debt fixed is the Section-B variant AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: APV — tax shield",
+        "tip": "APV = base NPV at ru + PV(t·D·rd/(1+rd)^t...).",
+        "link": "Chapter 3 — Advanced Capital Budgeting Decisions"
+      }
+    },
+    {
+      "id": "p2q-1i54czm",
+      "ch": 3,
+      "topic": "APV — tax shield",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Base-case NPV (all-equity) Rs 40 crore; the project will carry permanent debt of Rs 300 crore at 8% (shield at the same rate), tax 30%. APV ≈:",
+      "o": [
+        "Rs 46.7 crore",
+        "Rs 40.0 crore (no financing)",
+        "Rs 47.2 crore (undiscounted)",
+        "Rs 40.0 crore"
+      ],
+      "a": 0,
+      "why": "Perpetuity-style one-period shield on first-year interest: t×rd×D discounted at rd = 6.7; for a FIXED level of debt discount shield at rd; APV = 40 + 6.7 = 46.7 crore (illustrative single-period treatment).",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — APV decomposition with debt fixed is the Section-B variant AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: APV — tax shield",
+        "tip": "APV = base NPV at ru + PV(t·D·rd/(1+rd)^t...).",
+        "link": "Chapter 3 — Advanced Capital Budgeting Decisions"
+      }
+    },
+    {
+      "id": "p2q-90utuf",
+      "ch": 3,
+      "topic": "APV — tax shield",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Base-case NPV (all-equity) Rs 60 crore; the project will carry permanent debt of Rs 300 crore at 9% (shield at the same rate), tax 30%. APV ≈:",
+      "o": [
+        "Rs 67.4 crore",
+        "Rs 60.0 crore (no financing)",
+        "Rs 68.1 crore (undiscounted)",
+        "Rs 60.0 crore"
+      ],
+      "a": 0,
+      "why": "Perpetuity-style one-period shield on first-year interest: t×rd×D discounted at rd = 7.4; for a FIXED level of debt discount shield at rd; APV = 60 + 7.4 = 67.4 crore (illustrative single-period treatment).",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — APV decomposition with debt fixed is the Section-B variant AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: APV — tax shield",
+        "tip": "APV = base NPV at ru + PV(t·D·rd/(1+rd)^t...).",
+        "link": "Chapter 3 — Advanced Capital Budgeting Decisions"
+      }
+    },
+    {
+      "id": "p2q-1fzoiij",
+      "ch": 3,
+      "topic": "APV — tax shield",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Base-case NPV (all-equity) Rs 60 crore; the project will carry permanent debt of Rs 200 crore at 8% (shield at the same rate), tax 25%. APV ≈:",
+      "o": [
+        "Rs 63.7 crore",
+        "Rs 60.0 crore (no financing)",
+        "Rs 64.0 crore (undiscounted)",
+        "Rs 60.0 crore"
+      ],
+      "a": 0,
+      "why": "Perpetuity-style one-period shield on first-year interest: t×rd×D discounted at rd = 3.7; for a FIXED level of debt discount shield at rd; APV = 60 + 3.7 = 63.7 crore (illustrative single-period treatment).",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — APV decomposition with debt fixed is the Section-B variant AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: APV — tax shield",
+        "tip": "APV = base NPV at ru + PV(t·D·rd/(1+rd)^t...).",
+        "link": "Chapter 3 — Advanced Capital Budgeting Decisions"
+      }
+    },
+    {
+      "id": "p2q-1kyj8rw",
+      "ch": 3,
+      "topic": "Discounted payback",
+      "m": 1,
+      "d": "HARD",
+      "q": "An investment of Rs 100 crore returns Rs 40 crore p.a. for 5 years; cost of capital 10%. The DISCOUNTED payback period is approximately:",
+      "o": [
+        "2.5 years (simple)",
+        "2.57 years",
+        "3 years",
+        "≈ 3.07 years"
+      ],
+      "a": 3,
+      "why": "Discounted flows: 36.36, 32.15, 28.32, 24.84, 24.40 (cum 36.36, 68.51, 96.83, 121.67): crossing between years 3 and 4 ⇒ ≈ 3.07 years vs simple 2.5.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the simple-vs-discounted contrast is the question Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Discounted payback",
+        "tip": "DPB sums discounted OCFs until they cover the outlay.",
+        "link": "Chapter 3 — Advanced Capital Budgeting Decisions"
+      }
+    },
+    {
+      "id": "p2q-iouo5a",
+      "ch": 3,
+      "topic": "Project hurdle CAPM",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A steel company's cement-division project IRR is 14% vs company WACC 12%. The correct appraisal stance:",
+      "o": [
+        "Firm WACC always",
+        "Relever the business's asset beta to project's finance — a risky project needs its own rate",
+        "Risk-free + 2%",
+        "Ignore for IRR compare"
+      ],
+      "a": 1,
+      "why": "Firm-wide WACC applies only if project risk ≡ firm risk; diversify by line: use business-beta-relevant discount rate — may reject the 14% if cement risk demands 16%.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — risk-adjusted-hurdle discipline is a decision-rule favorite AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Project hurdle CAPM",
+        "tip": "Use project risk (unlevered beta of line of business), relevered — not firm beta, unless same risk.",
+        "link": "Chapter 3 — Advanced Capital Budgeting Decisions"
+      }
+    },
+    {
+      "id": "p2q-1jlh3v6",
+      "ch": 3,
+      "topic": "Decision tree",
+      "m": 1,
+      "d": "HARD",
+      "q": "A capacity expansion pays +120 crore (60%) or −40 crore (40%). The EMV choice under the risk project rule:",
+      "o": [
+        "EMV = 80 − 40 = 40",
+        "Never decide by EMV",
+        "EMV = 0.6×120 + 0.4×(−40) = 56 crore — invest",
+        "EMV = 120"
+      ],
+      "a": 2,
+      "why": "EMV = 56 crore positive ⇒ accept (risk-adjusted alternative: utility/adjusted-discount analysis).",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — EMV one-line trees with negative tail are a Section-B opener Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Decision tree",
+        "tip": "EMV = Σ p × outcome; choose max branch.",
+        "link": "Chapter 3 — Advanced Capital Budgeting Decisions"
+      }
+    },
+    {
+      "id": "p2q-1z0889c",
+      "ch": 3,
+      "topic": "Sensitivity vs breakeven",
+      "m": 1,
+      "d": "HARD",
+      "q": "In a project's sensitivity study, which variable deserves the tightest management control?",
+      "o": [
+        "Largest move",
+        "The variable whose allowed move before NPV=0 is SMALLEST is the danger to manage",
+        "The discount rate always",
+        "Volume never"
+      ],
+      "a": 1,
+      "why": "Tightest = smallest tolerable adverse change (shortest runway to NPV zero); elasticity ranking follows the same logic.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the ranking logic (not the arithmetic) is the test Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Sensitivity vs breakeven",
+        "tip": "Sensitivity % = %Δ in variable × elasticity; find driver needing 100% swing to kill NPV.",
+        "link": "Chapter 3 — Advanced Capital Budgeting Decisions"
+      }
+    },
+    {
+      "id": "p2q-13t0e41",
+      "ch": 3,
+      "topic": "Lease vs buy",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Machine price Rs 100 crore; lease rentals Rs 22.0 crore p.a. for 4 years (tax-deductible to lessee); lessee's after-tax debt rate 6%; the lessee loses a depreciation tax shield of Rs 6.3 crore p.a. (same horizon). Evaluate NAL (lease minus buy) and state the decision direction.",
+      "o": [
+        "NAL ≈ Rs 42.8 crore — BUYING beats leasing (lease is costlier)",
+        "NAL = 12.0 (no tax, no discount)",
+        "Always buy",
+        "Always lease"
+      ],
+      "a": 0,
+      "why": "After-tax rentals 16.5 for 4 yrs @ 6.0% ⇒ PV 57.2 + forgone dep-shield PV 21.7 vs purchase price 100: NAL = 21.2 crore — sign decides lease-vs-buy.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — NAL with tax-shield offsets is the cap-budgeting crossover question Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Lease vs buy",
+        "tip": "NAL = price − PV(after-tax lease rentals + tax on dep saved?) — compare after-tax flows at rd(1−t).",
+        "link": "Chapter 3 — Advanced Capital Budgeting Decisions"
+      }
+    },
+    {
+      "id": "p2q-6x6b7n",
+      "ch": 3,
+      "topic": "Lease vs buy",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Machine price Rs 200 crore; lease rentals Rs 44.0 crore p.a. for 4 years (tax-deductible to lessee); lessee's after-tax debt rate 6%; the lessee loses a depreciation tax shield of Rs 12.5 crore p.a. (same horizon). Evaluate NAL (lease minus buy) and state the decision direction.",
+      "o": [
+        "NAL = 24.0 (no tax, no discount)",
+        "NAL ≈ Rs 85.7 crore — BUYING beats leasing (lease is costlier)",
+        "Always buy",
+        "Always lease"
+      ],
+      "a": 1,
+      "why": "After-tax rentals 33.0 for 4 yrs @ 6.0% ⇒ PV 114.3 + forgone dep-shield PV 43.3 vs purchase price 200: NAL = 42.3 crore — sign decides lease-vs-buy.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — NAL with tax-shield offsets is the cap-budgeting crossover question Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Lease vs buy",
+        "tip": "NAL = price − PV(after-tax lease rentals + tax on dep saved?) — compare after-tax flows at rd(1−t).",
+        "link": "Chapter 3 — Advanced Capital Budgeting Decisions"
+      }
+    },
+    {
+      "id": "p2q-o64w2k",
+      "ch": 3,
+      "topic": "RADR vs adjusted CF",
+      "m": 1,
+      "d": "HARD",
+      "q": "A project's cash flows are adjusted for risk using certainty equivalents. The discount rate to apply is:",
+      "o": [
+        "Both",
+        "Pick ONE: risk-adjusted discount rate OR certainty-equivalent flows",
+        "Neither",
+        "Shortfall at WACC"
+      ],
+      "a": 1,
+      "why": "Risk loading once: with CE flows (de-risked numerator), discount at the RISK-FREE rate (or without the project premium) — double-adjusting penalises twice.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the double-counting trap is the conceptual point Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: RADR vs adjusted CF",
+        "tip": "Certainty-equivalent: divide cash flows by risk factor; or risk-adjust the rate — never both.",
+        "link": "Chapter 3 — Advanced Capital Budgeting Decisions"
+      }
+    }
+  ]
+}

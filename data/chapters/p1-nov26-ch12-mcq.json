@@ -1,0 +1,779 @@
+{
+  "meta": {
+    "id": "p1-nov26-ch12-mcq",
+    "paper": "P1",
+    "attempt": "NOV-2026",
+    "kind": "chapter",
+    "category": "CHAPTER-WISE MCQs",
+    "title": "Ch 12: Ind AS 103 — Business Combinations — MCQ Bank",
+    "description": "Chapter-wise practice MCQs for Chapter 12 (Ind AS 103 — Business Combinations).",
+    "count": 31,
+    "mcqCount": 31,
+    "descriptiveCount": 0,
+    "coverage": "Chapter 12 · 31 MCQs",
+    "chapters": [
+      12
+    ],
+    "durationMinutes": 47,
+    "difficulty": "Exam standard",
+    "high": 3,
+    "medium": 21,
+    "low": 7
+  },
+  "questions": [
+    {
+      "id": "p1q-cjn89y",
+      "ch": 12,
+      "topic": "Business combination — PPA & goodwill",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Fair value of identifiable net assets acquired (Rs crore):",
+      "o": [
+        "1,190",
+        "1,250",
+        "1,000",
+        "1,290"
+      ],
+      "a": 0,
+      "why": "700 + 300 + 150 + 80 + 20 − 60 = 1,190 crore. Forgetting the assumed obligation (1,250) is the classic miss.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — this topic stays active in ICAI question-setting Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Business combination — PPA & goodwill",
+        "tip": "the assumed-liability adjustment is THE PPA trap FV sweep has two hands: lift the assets, grab the dirty laundry too.",
+        "link": "Chapter 12 — Ind AS 103 — Business Combinations"
+      },
+      "stem": "Cobalt Ltd acquires 100% of Dune Ltd for shares worth Rs 1,200 crore. Dune's book net worth is Rs 700 crore. The fair-value sweep identifies: land +300; a registered but unbooked brand +150; a customer list +80; inventory +20 (sells within 9 months); and a pending pollution claim, assessed at Rs 60 crore as probable, absent from Dune's books.",
+      "caseRef": "p1-case-2"
+    },
+    {
+      "id": "p1q-1rn52yo",
+      "ch": 12,
+      "topic": "Business combination — PPA & goodwill",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Consolidated goodwill (Rs crore):",
+      "o": [
+        "10",
+        "150",
+        "−50 (bargain gain to P&L)",
+        "90"
+      ],
+      "a": 0,
+      "why": "Goodwill = 1,200 − 1,190 = 10. Had the claim been missed the answer would be −50 (bargain purchase) — which itself needs reassessment first.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — this topic stays active in ICAI question-setting AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Business combination — PPA & goodwill",
+        "tip": "goodwill arithmetic rides on the sweep — one slip flips the story Goodwill is the receipt of the sweep: fix the list, then subtract.",
+        "link": "Chapter 12 — Ind AS 103 — Business Combinations"
+      },
+      "stem": "Cobalt Ltd acquires 100% of Dune Ltd for shares worth Rs 1,200 crore. Dune's book net worth is Rs 700 crore. The fair-value sweep identifies: land +300; a registered but unbooked brand +150; a customer list +80; inventory +20 (sells within 9 months); and a pending pollution claim, assessed at Rs 60 crore as probable, absent from Dune's books.",
+      "caseRef": "p1-case-2"
+    },
+    {
+      "id": "p1q-6zsffj",
+      "ch": 12,
+      "topic": "Business combination — PPA & goodwill",
+      "m": 2,
+      "d": "HARD",
+      "q": "The brand (never registered, only internally built) is recognised because:",
+      "o": [
+        "All intangibles in a business are recognised",
+        "It is separable and arises from legal rights — identifiable apart from goodwill",
+        "FV always exceeds book",
+        "It was booked by the seller"
+      ],
+      "a": 1,
+      "why": "Ind AS 103 recognises an acquired intangible if identifiable (separable OR from contractual/legal rights); a brand sold/licensed separately qualifies — contrast the prohibition only for INTERNALLY generated brands (Ind AS 38).",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — this topic stays active in ICAI question-setting Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Business combination — PPA & goodwill",
+        "tip": "identifiability-in-combination vs internal prohibition Acquisition unlocks what organic growth bars: the brand is real only when bought.",
+        "link": "Chapter 12 — Ind AS 103 — Business Combinations"
+      },
+      "stem": "Cobalt Ltd acquires 100% of Dune Ltd for shares worth Rs 1,200 crore. Dune's book net worth is Rs 700 crore. The fair-value sweep identifies: land +300; a registered but unbooked brand +150; a customer list +80; inventory +20 (sells within 9 months); and a pending pollution claim, assessed at Rs 60 crore as probable, absent from Dune's books.",
+      "caseRef": "p1-case-2"
+    },
+    {
+      "id": "p1q-h549v7",
+      "ch": 12,
+      "topic": "Business combination — PPA & goodwill",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "The inventory step-up of Rs 20 crore affects:",
+      "o": [
+        "Nothing post-acquisition",
+        "Consolidated P&L over 9 months as higher cost of sales",
+        "Goodwill later",
+        "OCI"
+      ],
+      "a": 1,
+      "why": "The written-up inventory sells within 9 months ⇒ the extra 20 flows through COGS in FY26 group P&L (the step-up is a gain that must be 'earned' by selling).",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — this topic stays active in ICAI question-setting AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Business combination — PPA & goodwill",
+        "tip": "amortising the bump is the standard follow-up question Every step-up must walk out the P&L door it came in.",
+        "link": "Chapter 12 — Ind AS 103 — Business Combinations"
+      },
+      "stem": "Cobalt Ltd acquires 100% of Dune Ltd for shares worth Rs 1,200 crore. Dune's book net worth is Rs 700 crore. The fair-value sweep identifies: land +300; a registered but unbooked brand +150; a customer list +80; inventory +20 (sells within 9 months); and a pending pollution claim, assessed at Rs 60 crore as probable, absent from Dune's books.",
+      "caseRef": "p1-case-2"
+    },
+    {
+      "id": "p1q-1bz0v6n",
+      "ch": 12,
+      "topic": "Business combination — PPA & goodwill",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Acquisition-related advisory and legal costs of Rs 12 crore are:",
+      "o": [
+        "Capitalised in goodwill",
+        "Expensed as incurred",
+        "Added to consideration",
+        "Netted against brand value"
+      ],
+      "a": 1,
+      "why": "Ind AS 103 expenses acquisition-cost items when incurred (debt/equity issuance costs follow 109/32).",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — this topic stays active in ICAI question-setting Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Business combination — PPA & goodwill",
+        "tip": "the expense-not-capitalise flip keeps testing recall Shopper's costs are shopping's, not the shop's: P&L, day one.",
+        "link": "Chapter 12 — Ind AS 103 — Business Combinations"
+      },
+      "stem": "Cobalt Ltd acquires 100% of Dune Ltd for shares worth Rs 1,200 crore. Dune's book net worth is Rs 700 crore. The fair-value sweep identifies: land +300; a registered but unbooked brand +150; a customer list +80; inventory +20 (sells within 9 months); and a pending pollution claim, assessed at Rs 60 crore as probable, absent from Dune's books.",
+      "caseRef": "p1-case-2"
+    },
+    {
+      "id": "p1q-1nxwqdj",
+      "ch": 12,
+      "topic": "Ind AS 103 — acquisition method",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "In a business combination under Ind AS 103, acquisition-related costs (valuation fees, finder's fees, legal costs) are:",
+      "o": [
+        "Capitalised in goodwill",
+        "Expensed as incurred (except debt/equity issuance costs against the instrument)",
+        "Added to consideration transferred",
+        "Charged to OCI"
+      ],
+      "a": 1,
+      "why": "Transaction costs are expensed when incurred under the acquisition method; costs of issuing debt/equity follow Ind AS 109/32. Contrast the pre-AS-14 regime — this reversal is heavily tested.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the 'expensed not capitalised' flip is a signature 103 MCQ Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 103 — acquisition method",
+        "tip": "Business-combination shopping fees: expense at the till. Only share/deal issuance costs ride the instrument.",
+        "link": "Ch 12"
+      }
+    },
+    {
+      "id": "p1q-ito4k4",
+      "ch": 12,
+      "topic": "Ind AS 103 — remeasurement",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "The acquirer previously held a 20% equity interest (equity method) in the acquiree. On obtaining control, the previously-held interest is:",
+      "o": [
+        "Carried forward at book value",
+        "Remeasured to fair value at acquisition date with gain/loss in P&L",
+        "Remeasured with gain/loss in OCI only",
+        "Eliminated against goodwill without P&L"
+      ],
+      "a": 1,
+      "why": "Ind AS 103 requires step-acquisition remeasurement of the previously held interest to fair value at the acquisition date; resulting gain/loss to P&L (with recycling of prior OCI where required).",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — step-up gain recognition is a consistent Section B theme AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 103 — remeasurement",
+        "tip": "Second bite bites the balance sheet: old stake → fair value, difference → P&L. Cross that control bridge and you must re-book.",
+        "link": "Ch 12 + Ch 13"
+      }
+    },
+    {
+      "id": "p1q-19zqquq",
+      "ch": 12,
+      "topic": "Contingent consideration",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "In a business combination, contingent consideration payable to sellers is classified as a LIABILITY because it requires delivering a variable cash amount. Post-acquisition changes in that liability's fair value are:",
+      "o": [
+        "Adjustments to goodwill",
+        "Recognised in profit or loss",
+        "Recognised in OCI",
+        "Reversal of goodwill with a floor at zero"
+      ],
+      "a": 1,
+      "why": "Classification at acquisition decides everything: LIABILITY-classified contingent consideration is remeasured through P&L; equity-classified is NOT remeasured. The old 'goodwill adjustment window' has been removed under Ind AS 103 (2016-aligned amendments).",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the P&L-vs-no-remeasurement split is a trap of the season AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Contingent consideration",
+        "tip": "Liability → remeasure to P&L; equity → frozen. Measurement-period adjustments (new info about facts existing at acquisition date, max 12 months) are the only goodwill touchers left.",
+        "link": "Ch 12"
+      }
+    },
+    {
+      "id": "p1q-a1d9n2",
+      "ch": 12,
+      "topic": "Ind AS 103 — asset acquisition",
+      "m": 1,
+      "d": "HARD",
+      "q": "If the acquired set of activities does NOT include a substantive process, the transaction is:",
+      "o": [
+        "A business combination with goodwill",
+        "An asset acquisition — cost allocated to identifiable assets, no goodwill",
+        "A joint venture",
+        "A lease"
+      ],
+      "a": 1,
+      "why": "The screen: outputs exist? If yes, assess substantive process. A set without a substantive process (and without an input-process-output nexus) is not a business ⇒ asset acquisition, no goodwill, transaction costs capitalised.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the screen logic distinguishes pros from guessers Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Ind AS 103 — asset acquisition",
+        "tip": "No substantive process ⇒ no business ⇒ no goodwill. Screen first, then choose the road.",
+        "link": "Ch 12"
+      }
+    },
+    {
+      "id": "p1q-19xk3y7",
+      "ch": 12,
+      "topic": "Business combination — bargain purchase",
+      "m": 2,
+      "d": "HARD",
+      "q": "Where the fair value of net identifiable assets acquired exceeds the consideration transferred, the excess is:",
+      "o": [
+        "Credited to capital reserve",
+        "Recognised in P&L as a gain on bargain purchase AFTER reassessing identification/measurement",
+        "Deferred to OCI",
+        "Added to general reserve"
+      ],
+      "a": 1,
+      "why": "Reassess → if excess remains, gain to P&L. (Old AS-14 wrote it to capital reserve — the contrast is the trap.)",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the 103-vs-AS-14 contrast is an every-set question Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Business combination — bargain purchase",
+        "tip": "Bargain purchase: double-check everything, then book the win to P&L. No reserve-hiding anymore.",
+        "link": "Ch 12"
+      }
+    },
+    {
+      "id": "p1q-12r8psf",
+      "ch": 12,
+      "topic": "Ind AS 103 — acquisition date",
+      "m": 1,
+      "d": "HARD",
+      "q": "The acquisition date is the date on which the acquirer:",
+      "o": [
+        "Signs the SPA",
+        "Obtains CONTROL of the acquiree",
+        "Files with the registrar",
+        "Pays the final instalment"
+      ],
+      "a": 1,
+      "why": "Ind AS 103: acquisition date = date the acquirer obtains control (the consideration/contract timing may differ).",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — control-over-contract phrasing Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Ind AS 103 — acquisition date",
+        "tip": "Signatures propose, control disposes. Measure everything from the day you can direct the relevant activities.",
+        "link": "Ch 12"
+      }
+    },
+    {
+      "id": "p1q-1aoiyt7",
+      "ch": 12,
+      "topic": "Ind AS 103 — push-down n/a",
+      "m": 1,
+      "d": "HARD",
+      "q": "Goodwill in a business combination under Ind AS 103 is initially measured as:",
+      "o": [
+        "Consideration + NCI + prior-interest FV − net identifiable assets at FV",
+        "Purchase price less book value",
+        "Only the cash component",
+        "Fair value of net assets"
+      ],
+      "a": 0,
+      "why": "Goodwill = sum of consideration transferred, NCI and (in step acquisitions) FV of previously held interest, less FV of identifiable net assets — the classic five-term formula.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the formula itself is the 1-marker Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Ind AS 103 — push-down n/a",
+        "tip": "Five-term goodwill: pay + NCI + old stake − assets (all at FV). If the result is negative, retest and call the bargain a gain.",
+        "link": "Ch 12"
+      }
+    },
+    {
+      "id": "p1q-2zrxaz",
+      "ch": 12,
+      "topic": "Common control combinations",
+      "m": 1,
+      "d": "HARD",
+      "q": "Business combinations under common control under ICAI's new-scheme syllabus are covered in the guidance note on common control; the approach generally used is:",
+      "o": [
+        "Acquisition method mandatorily",
+        "Pooling of interests (carry-over basis) as per the Guidance Note on Accounting for Amalgamation in Common Control scenarios",
+        "Equity method",
+        "Cost method with fair values"
+      ],
+      "a": 1,
+      "why": "ICAI's guidance for common-control amalgamations (Guidance Note on Business Combinations under Common Control) permits a pooling-of-interests-type accounting at carry-over book values; ICAI has been aligning with this — the new-scheme syllabus lists BCCC as a study area under Ch 12/AS-14 legacy discussions.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the acquisition-vs-pooling fork for related-entity merges Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Common control combinations",
+        "tip": "Same family merger? Keep the books (pooling); strangers? Re-measure (acquisition).",
+        "link": "Ch 12"
+      }
+    },
+    {
+      "id": "p1q-1pqk5s2",
+      "ch": 12,
+      "topic": "Reverse acquisition",
+      "m": 1,
+      "d": "HARD",
+      "q": "In a reverse acquisition (listed shell acquires operating co), the accounting acquirer is:",
+      "o": [
+        "Always the legal acquirer",
+        "The entity whose owners control the combined entity (usually the private operating co)",
+        "The shell always",
+        "NFRA appoints"
+      ],
+      "a": 1,
+      "why": "Ind AS 103: accounting acquirer = the one obtaining control — in reverse mergers, the legal acquiree's owners dominate ⇒ it 'acquires' the shell; goodwill measured from its perspective.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — substance-of-control questions define advanced 103 papers AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Reverse acquisition",
+        "tip": "Legal paper flips, but control decides who holds the pen.",
+        "link": "Chapter 12 — Ind AS 103 — Business Combinations"
+      }
+    },
+    {
+      "id": "p1q-1g3dg1t",
+      "ch": 12,
+      "topic": "Settlement outside the deal",
+      "m": 1,
+      "d": "HARD",
+      "q": "Part of the 'consideration' paid by the acquirer is actually settlement of a pre-existing lawsuit between them. It is:",
+      "o": [
+        "Consideration",
+        "Excluded from consideration and accounted in P&L as settlement per the acquiror's own situation",
+        "Goodwill",
+        "Capital reserve"
+      ],
+      "a": 1,
+      "why": "Pre-existing-relationship settlement amounts are NOT consideration — accounted under other standards (often P&L); identifying them is a classic ICAI trap.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — substance separation of 'consideration' vs settlement AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Settlement outside the deal",
+        "tip": "Some 'purchase price' is really a handshake over a lawsuit — unbundle it before goodwill.",
+        "link": "Chapter 12 — Ind AS 103 — Business Combinations"
+      }
+    },
+    {
+      "id": "p1q-ya7sak",
+      "ch": 12,
+      "topic": "Ind AS 103 — consideration",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Contingent consideration in a business combination is measured at:",
+      "o": [
+        "Best estimate on occurrence",
+        "Fair value at acquisition date",
+        "Zero until paid",
+        "Nominal"
+      ],
+      "a": 1,
+      "why": "AC transferred includes the acquisition-date FV of contingent consideration; post-AC changes follow its classification (asset/liability → P&L; equity → not remeasured).",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — AC-at-FV baseline AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 103 — consideration",
+        "tip": "Put a price on maybe at the closing table; then let the price live its own life.",
+        "link": "Chapter 12 — Ind AS 103 — Business Combinations"
+      }
+    },
+    {
+      "id": "p1q-1igif0l",
+      "ch": 12,
+      "topic": "PPA — pre-acquisition losses",
+      "m": 1,
+      "d": "HARD",
+      "q": "Pre-acquisition losses of the acquiree affecting deferred tax assets are recognised in AC accounting when:",
+      "o": [
+        "Never",
+        "It is probable at AC date that taxable profits will be available (assess in FV of net assets)",
+        "Always",
+        "Only after 12 months"
+      ],
+      "a": 1,
+      "why": "Acquiree unused tax losses: recognise DTA in PPA if probable at acquisition date; a change in availability after AC → P&L (not goodwill) post-window.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the losses-in-PPA nuance Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: PPA — pre-acquisition losses",
+        "tip": "Old losses enter goodwill only if they were as good as usable on day one.",
+        "link": "Chapter 12 — Ind AS 103 — Business Combinations"
+      }
+    },
+    {
+      "id": "p1q-1aupgvy",
+      "ch": 12,
+      "topic": "Ind AS 103 — measurement period",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "The measurement period in a business combination:",
+      "o": [
+        "Is 6 months",
+        "Does not exceed 12 months from the acquisition date",
+        "Is perpetual",
+        "Ends at AGM"
+      ],
+      "a": 1,
+      "why": "Up to 12 months to complete assessments of facts existing at AC date; adjustments restate comparatives (goodwill etc.).",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the 12-month window AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 103 — measurement period",
+        "tip": "New facts about old dates have a one-year leash on the books.",
+        "link": "Chapter 12 — Ind AS 103 — Business Combinations"
+      }
+    },
+    {
+      "id": "p1q-1c5k1i0",
+      "ch": 12,
+      "topic": "New syllabus — BCCC study area",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "The new syllabus explicitly lists business combinations under common control (BCCC) within FR. Accounting for BCCC under ICAI's guidance framework generally permits:",
+      "o": [
+        "Mandatory acquisition method",
+        "Carry-over (pooling-type) accounting — book-value continuity, no step-up of all assets to FV, no new goodwill from the reshuffle",
+        "Equity method always",
+        "Revaluation surplus for all changes"
+      ],
+      "a": 1,
+      "why": "Structural emphasis: BCCC sit outside the arm's-length acquisition method because ultimate control existed before and after; ICAI guidance (and AS-14 legacy in exam practice) allows book-value continuity — no fresh goodwill, comparatives adjusted per guidance.",
+      "trend": "Documented syllabus/amendment change — applicability from May 2026 exam onwards per ICAI BoS announcement.",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — newly-explicit syllabus lines get tested to prove they were read AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: New syllabus — BCCC study area",
+        "tip": "Same family, same books: pool, don't reprice.",
+        "link": "Chapter 12 — Ind AS 103 — Business Combinations"
+      }
+    },
+    {
+      "id": "p1q-1j5sbxx",
+      "ch": 12,
+      "topic": "Bargain purchase",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Cobalt Ltd acquires 75% of an entity for Rs 1100 lakh; FV of identifiable net assets is Rs 1,540 lakh; NCI at proportionate share. After reassessing identification, the acquirer books:",
+      "o": [
+        "Gain of Rs 55 lakh to P&L",
+        "Capital reserve of Rs 95 lakh",
+        "Goodwill of Rs 5 lakh",
+        "OCI gain of Rs 55 lakh"
+      ],
+      "a": 0,
+      "why": "Consideration 1100 + NCI 385 = 1485 vs net identifiable assets at FV 1540 ⇒ excess 55 lakh recognised in P&L (after reassessment) under Ind AS 103 — capital-reserve treatment belonged to the old AS-14.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the reserve-vs-P&L contrast makes this a reliable 1-marker AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Bargain purchase",
+        "tip": "Reassess; if excess persists, P&L gain. Compare FV net assets vs consideration + NCI.",
+        "link": "Chapter 12 — Ind AS 103 — Business Combinations"
+      }
+    },
+    {
+      "id": "p1q-jutiav",
+      "ch": 12,
+      "topic": "Bargain purchase",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Aster Ltd acquires 75% of an entity for Rs 1100 lakh; FV of identifiable net assets is Rs 1,540 lakh; NCI at proportionate share. After reassessing identification, the acquirer books:",
+      "o": [
+        "Gain of Rs 55 lakh to P&L",
+        "Capital reserve of Rs 95 lakh",
+        "Goodwill of Rs 5 lakh",
+        "OCI gain of Rs 55 lakh"
+      ],
+      "a": 0,
+      "why": "Consideration 1100 + NCI 385 = 1485 vs net identifiable assets at FV 1540 ⇒ excess 55 lakh recognised in P&L (after reassessment) under Ind AS 103 — capital-reserve treatment belonged to the old AS-14.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the reserve-vs-P&L contrast makes this a reliable 1-marker AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Bargain purchase",
+        "tip": "Reassess; if excess persists, P&L gain. Compare FV net assets vs consideration + NCI.",
+        "link": "Chapter 12 — Ind AS 103 — Business Combinations"
+      }
+    },
+    {
+      "id": "p1q-1oh9goo",
+      "ch": 12,
+      "topic": "Bargain purchase",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Nimbus Ltd acquires 75% of an entity for Rs 1100 lakh; FV of identifiable net assets is Rs 1,540 lakh; NCI at proportionate share. After reassessing identification, the acquirer books:",
+      "o": [
+        "Capital reserve of Rs 95 lakh",
+        "Goodwill of Rs 5 lakh",
+        "Gain of Rs 55 lakh to P&L",
+        "OCI gain of Rs 55 lakh"
+      ],
+      "a": 2,
+      "why": "Consideration 1100 + NCI 385 = 1485 vs net identifiable assets at FV 1540 ⇒ excess 55 lakh recognised in P&L (after reassessment) under Ind AS 103 — capital-reserve treatment belonged to the old AS-14.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the reserve-vs-P&L contrast makes this a reliable 1-marker AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Bargain purchase",
+        "tip": "Reassess; if excess persists, P&L gain. Compare FV net assets vs consideration + NCI.",
+        "link": "Chapter 12 — Ind AS 103 — Business Combinations"
+      }
+    },
+    {
+      "id": "p1q-1folrs1",
+      "ch": 12,
+      "topic": "Bargain purchase",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Sable Ltd acquires 75% of an entity for Rs 1100 lakh; FV of identifiable net assets is Rs 1,540 lakh; NCI at proportionate share. After reassessing identification, the acquirer books:",
+      "o": [
+        "Gain of Rs 55 lakh to P&L",
+        "Capital reserve of Rs 95 lakh",
+        "Goodwill of Rs 5 lakh",
+        "OCI gain of Rs 55 lakh"
+      ],
+      "a": 0,
+      "why": "Consideration 1100 + NCI 385 = 1485 vs net identifiable assets at FV 1540 ⇒ excess 55 lakh recognised in P&L (after reassessment) under Ind AS 103 — capital-reserve treatment belonged to the old AS-14.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the reserve-vs-P&L contrast makes this a reliable 1-marker AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Bargain purchase",
+        "tip": "Reassess; if excess persists, P&L gain. Compare FV net assets vs consideration + NCI.",
+        "link": "Chapter 12 — Ind AS 103 — Business Combinations"
+      }
+    },
+    {
+      "id": "p1q-17jdj60",
+      "ch": 12,
+      "topic": "Bargain purchase",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Orbit Ltd acquires 75% of an entity for Rs 1100 lakh; FV of identifiable net assets is Rs 1,540 lakh; NCI at proportionate share. After reassessing identification, the acquirer books:",
+      "o": [
+        "Capital reserve of Rs 95 lakh",
+        "Goodwill of Rs 5 lakh",
+        "OCI gain of Rs 55 lakh",
+        "Gain of Rs 55 lakh to P&L"
+      ],
+      "a": 3,
+      "why": "Consideration 1100 + NCI 385 = 1485 vs net identifiable assets at FV 1540 ⇒ excess 55 lakh recognised in P&L (after reassessment) under Ind AS 103 — capital-reserve treatment belonged to the old AS-14.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the reserve-vs-P&L contrast makes this a reliable 1-marker AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Bargain purchase",
+        "tip": "Reassess; if excess persists, P&L gain. Compare FV net assets vs consideration + NCI.",
+        "link": "Chapter 12 — Ind AS 103 — Business Combinations"
+      }
+    },
+    {
+      "id": "p1q-czoawk",
+      "ch": 12,
+      "topic": "Bargain purchase",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Kaveri Ltd acquires 75% of an entity for Rs 900 lakh; FV of identifiable net assets is Rs 1,260 lakh; NCI at proportionate share. After reassessing identification, the acquirer books:",
+      "o": [
+        "Capital reserve of Rs 85 lakh",
+        "Goodwill of Rs 15 lakh",
+        "Gain of Rs 45 lakh to P&L",
+        "OCI gain of Rs 45 lakh"
+      ],
+      "a": 2,
+      "why": "Consideration 900 + NCI 315 = 1215 vs net identifiable assets at FV 1260 ⇒ excess 45 lakh recognised in P&L (after reassessment) under Ind AS 103 — capital-reserve treatment belonged to the old AS-14.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the reserve-vs-P&L contrast makes this a reliable 1-marker AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Bargain purchase",
+        "tip": "Reassess; if excess persists, P&L gain. Compare FV net assets vs consideration + NCI.",
+        "link": "Chapter 12 — Ind AS 103 — Business Combinations"
+      }
+    },
+    {
+      "id": "p1q-1vwd1se",
+      "ch": 12,
+      "topic": "Bargain purchase",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Indus Fab Ltd acquires 75% of an entity for Rs 900 lakh; FV of identifiable net assets is Rs 1,260 lakh; NCI at proportionate share. After reassessing identification, the acquirer books:",
+      "o": [
+        "Gain of Rs 45 lakh to P&L",
+        "Capital reserve of Rs 85 lakh",
+        "Goodwill of Rs 15 lakh",
+        "OCI gain of Rs 45 lakh"
+      ],
+      "a": 0,
+      "why": "Consideration 900 + NCI 315 = 1215 vs net identifiable assets at FV 1260 ⇒ excess 45 lakh recognised in P&L (after reassessment) under Ind AS 103 — capital-reserve treatment belonged to the old AS-14.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the reserve-vs-P&L contrast makes this a reliable 1-marker AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Bargain purchase",
+        "tip": "Reassess; if excess persists, P&L gain. Compare FV net assets vs consideration + NCI.",
+        "link": "Chapter 12 — Ind AS 103 — Business Combinations"
+      }
+    },
+    {
+      "id": "p1q-1edvjf2",
+      "ch": 12,
+      "topic": "Bargain purchase",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Orbit Ltd acquires 75% of an entity for Rs 900 lakh; FV of identifiable net assets is Rs 1,260 lakh; NCI at proportionate share. After reassessing identification, the acquirer books:",
+      "o": [
+        "Gain of Rs 45 lakh to P&L",
+        "Capital reserve of Rs 85 lakh",
+        "Goodwill of Rs 15 lakh",
+        "OCI gain of Rs 45 lakh"
+      ],
+      "a": 0,
+      "why": "Consideration 900 + NCI 315 = 1215 vs net identifiable assets at FV 1260 ⇒ excess 45 lakh recognised in P&L (after reassessment) under Ind AS 103 — capital-reserve treatment belonged to the old AS-14.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the reserve-vs-P&L contrast makes this a reliable 1-marker AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Bargain purchase",
+        "tip": "Reassess; if excess persists, P&L gain. Compare FV net assets vs consideration + NCI.",
+        "link": "Chapter 12 — Ind AS 103 — Business Combinations"
+      }
+    },
+    {
+      "id": "p1q-1p8xgwh",
+      "ch": 12,
+      "topic": "Bargain purchase",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Marlin Ltd acquires 75% of an entity for Rs 900 lakh; FV of identifiable net assets is Rs 1,260 lakh; NCI at proportionate share. After reassessing identification, the acquirer books:",
+      "o": [
+        "Gain of Rs 45 lakh to P&L",
+        "Capital reserve of Rs 85 lakh",
+        "Goodwill of Rs 15 lakh",
+        "OCI gain of Rs 45 lakh"
+      ],
+      "a": 0,
+      "why": "Consideration 900 + NCI 315 = 1215 vs net identifiable assets at FV 1260 ⇒ excess 45 lakh recognised in P&L (after reassessment) under Ind AS 103 — capital-reserve treatment belonged to the old AS-14.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the reserve-vs-P&L contrast makes this a reliable 1-marker AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Bargain purchase",
+        "tip": "Reassess; if excess persists, P&L gain. Compare FV net assets vs consideration + NCI.",
+        "link": "Chapter 12 — Ind AS 103 — Business Combinations"
+      }
+    },
+    {
+      "id": "p1q-14qxubx",
+      "ch": 12,
+      "topic": "Bargain purchase",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Meridian Ltd acquires 75% of an entity for Rs 1100 lakh; FV of identifiable net assets is Rs 1,540 lakh; NCI at proportionate share. After reassessing identification, the acquirer books:",
+      "o": [
+        "Capital reserve of Rs 95 lakh",
+        "Goodwill of Rs 5 lakh",
+        "OCI gain of Rs 55 lakh",
+        "Gain of Rs 55 lakh to P&L"
+      ],
+      "a": 3,
+      "why": "Consideration 1100 + NCI 385 = 1485 vs net identifiable assets at FV 1540 ⇒ excess 55 lakh recognised in P&L (after reassessment) under Ind AS 103 — capital-reserve treatment belonged to the old AS-14.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the reserve-vs-P&L contrast makes this a reliable 1-marker AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Bargain purchase",
+        "tip": "Reassess; if excess persists, P&L gain. Compare FV net assets vs consideration + NCI.",
+        "link": "Chapter 12 — Ind AS 103 — Business Combinations"
+      }
+    },
+    {
+      "id": "p1q-15cfy6a",
+      "ch": 12,
+      "topic": "Bargain purchase",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Kaveri Ltd acquires 75% of an entity for Rs 1100 lakh; FV of identifiable net assets is Rs 1,540 lakh; NCI at proportionate share. After reassessing identification, the acquirer books:",
+      "o": [
+        "Capital reserve of Rs 95 lakh",
+        "Goodwill of Rs 5 lakh",
+        "Gain of Rs 55 lakh to P&L",
+        "OCI gain of Rs 55 lakh"
+      ],
+      "a": 2,
+      "why": "Consideration 1100 + NCI 385 = 1485 vs net identifiable assets at FV 1540 ⇒ excess 55 lakh recognised in P&L (after reassessment) under Ind AS 103 — capital-reserve treatment belonged to the old AS-14.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the reserve-vs-P&L contrast makes this a reliable 1-marker AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Bargain purchase",
+        "tip": "Reassess; if excess persists, P&L gain. Compare FV net assets vs consideration + NCI.",
+        "link": "Chapter 12 — Ind AS 103 — Business Combinations"
+      }
+    },
+    {
+      "id": "p1q-119nbrp",
+      "ch": 12,
+      "topic": "Bargain purchase",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Palladi Ltd acquires 75% of an entity for Rs 1100 lakh; FV of identifiable net assets is Rs 1,540 lakh; NCI at proportionate share. After reassessing identification, the acquirer books:",
+      "o": [
+        "Capital reserve of Rs 95 lakh",
+        "Gain of Rs 55 lakh to P&L",
+        "Goodwill of Rs 5 lakh",
+        "OCI gain of Rs 55 lakh"
+      ],
+      "a": 1,
+      "why": "Consideration 1100 + NCI 385 = 1485 vs net identifiable assets at FV 1540 ⇒ excess 55 lakh recognised in P&L (after reassessment) under Ind AS 103 — capital-reserve treatment belonged to the old AS-14.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the reserve-vs-P&L contrast makes this a reliable 1-marker AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Bargain purchase",
+        "tip": "Reassess; if excess persists, P&L gain. Compare FV net assets vs consideration + NCI.",
+        "link": "Chapter 12 — Ind AS 103 — Business Combinations"
+      }
+    }
+  ]
+}

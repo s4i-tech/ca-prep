@@ -1,0 +1,1547 @@
+{
+  "meta": {
+    "id": "p3-nov26-ch5-mcq",
+    "paper": "P3",
+    "attempt": "NOV-2026",
+    "kind": "chapter",
+    "category": "CHAPTER-WISE MCQs",
+    "title": "Ch 5: Audit Evidence — MCQ Bank",
+    "description": "Chapter-wise practice MCQs for Chapter 5 (Audit Evidence).",
+    "count": 63,
+    "mcqCount": 63,
+    "descriptiveCount": 0,
+    "coverage": "Chapter 5 · 63 MCQs",
+    "chapters": [
+      5
+    ],
+    "durationMinutes": 95,
+    "difficulty": "Exam standard",
+    "high": 8,
+    "medium": 34,
+    "low": 21
+  },
+  "questions": [
+    {
+      "id": "p3q-ie4qaj",
+      "ch": 5,
+      "topic": "Receivables puzzle — confirmations and cut-off",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "The six dispute replies are best used as:",
+      "o": [
+        "Ignored — immaterial",
+        "Evidence on valuation/cutoff AND a population to test individually: returns in transit hit both revenue and inventory — evaluate each for the period it belongs",
+        "Reclassified automatically",
+        "Sent to legal"
+      ],
+      "a": 1,
+      "why": "Exceptions are diagnostic: returns-in-transit disputes at year-end straddle the cut-off; each needs its own treatment test (right of return provisions, revenue reversal timing), and the pattern across six is an audit-relevant trend, not noise.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — this topic stays active in ICAI question-setting AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Receivables puzzle — confirmations and cut-off",
+        "tip": "Exceptions are the test the population is offering you Six small storms may be one weather system.",
+        "link": "Chapter 5 — Audit Evidence"
+      },
+      "stem": "Audit of Truline Distributors (wholesale, Rs 8,000 lakh receivables, 460 customers). The auditor sent 35 positive confirmations: 22 replied matching, 6 replied with disputes (returns in transit), 7 didn't reply. The client refuses more confirmations 'to protect customers'; also 9 large invoices were billed 31 March for goods that left 3 April.",
+      "caseRef": "p3-case-1"
+    },
+    {
+      "id": "p3q-11xklx6",
+      "ch": 5,
+      "topic": "Receivables puzzle — confirmations and cut-off",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "For the 7 non-replies:",
+      "o": [
+        "Assume agreement",
+        "Perform alternative procedures (subsequent cash, shipping docs, order terms); where absent, treat the balance as unevidenced and project the effect into the misstatement evaluation",
+        "Ask the client to phone them",
+        "Confirm with a different 7"
+      ],
+      "a": 1,
+      "why": "A positive request without a response requires alternative evidence; no alternative evidence ⇒ that balance joins the 'unable to obtain evidence' pool — its size drives whether the gap is trivial, material, or pervasive.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — this topic stays active in ICAI question-setting Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Receivables puzzle — confirmations and cut-off",
+        "tip": "Silence in a mailbox is a hole in the file If the world won't answer, the documents must.",
+        "link": "Chapter 5 — Audit Evidence"
+      },
+      "stem": "Audit of Truline Distributors (wholesale, Rs 8,000 lakh receivables, 460 customers). The auditor sent 35 positive confirmations: 22 replied matching, 6 replied with disputes (returns in transit), 7 didn't reply. The client refuses more confirmations 'to protect customers'; also 9 large invoices were billed 31 March for goods that left 3 April.",
+      "caseRef": "p3-case-1"
+    },
+    {
+      "id": "p3q-1u667lk",
+      "ch": 5,
+      "topic": "Receivables puzzle — confirmations and cut-off",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "The client's refusal to allow more confirmations is:",
+      "o": [
+        "Fine — 35 were sent",
+        "A management-imposed limitation to evaluate: why refuse? Consider fraud risk, the effect on evidence, opinion implications if material and pervasive",
+        "Accepted with a representation",
+        "Overruled by the audit firm"
+      ],
+      "a": 1,
+      "why": "Management restrictions on the audit scope are evaluated as a limitation (discuss, evaluate evidence sufficiency, implications for the opinion) — and the motive is itself risk information; SA 505/500 treat refusal like the representation refusal: evidence you can't get is a problem with consequences.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — this topic stays active in ICAI question-setting AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Receivables puzzle — confirmations and cut-off",
+        "tip": "Refusal is a statement A locked drawer is evidence about the lock.",
+        "link": "Chapter 5 — Audit Evidence"
+      },
+      "stem": "Audit of Truline Distributors (wholesale, Rs 8,000 lakh receivables, 460 customers). The auditor sent 35 positive confirmations: 22 replied matching, 6 replied with disputes (returns in transit), 7 didn't reply. The client refuses more confirmations 'to protect customers'; also 9 large invoices were billed 31 March for goods that left 3 April.",
+      "caseRef": "p3-case-1"
+    },
+    {
+      "id": "p3q-iornuu",
+      "ch": 5,
+      "topic": "Receivables puzzle — confirmations and cut-off",
+      "m": 2,
+      "d": "HARD",
+      "q": "The nine 31-March invoices for goods that left 3 April:",
+      "o": [
+        "Leave — invoiced is recorded",
+        "Reverse revenue and re-add inventory (goods not shipped/title not passed by 31 March: revenue recognition criteria fail); adjust the cut-off and consider whether the pattern is intentional",
+        "Move to next year with a note",
+        "Ask the customers"
+      ],
+      "a": 1,
+      "why": "Bill-and-ship split across year-end = premature revenue: the performance obligation (transfer of control) occurs on 3 April — this year's revenue is overstated with the matching inventory; a repeated pattern in the last week hints at manipulation and changes the risk assessment too.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — this topic stays active in ICAI question-setting Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Receivables puzzle — confirmations and cut-off",
+        "tip": "Control transfers with goods, not with paperwork An invoice can't outrun a truck.",
+        "link": "Chapter 5 — Audit Evidence"
+      },
+      "stem": "Audit of Truline Distributors (wholesale, Rs 8,000 lakh receivables, 460 customers). The auditor sent 35 positive confirmations: 22 replied matching, 6 replied with disputes (returns in transit), 7 didn't reply. The client refuses more confirmations 'to protect customers'; also 9 large invoices were billed 31 March for goods that left 3 April.",
+      "caseRef": "p3-case-1"
+    },
+    {
+      "id": "p3q-slshpn",
+      "ch": 5,
+      "topic": "Receivables puzzle — confirmations and cut-off",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "If after all this the auditor's uncorrected AR misstatement totals Rs 190 lakh vs overall materiality Rs 150 lakh:",
+      "o": [
+        "Ignore below PM",
+        "Aggregate with other uncorrected items, evaluate against materiality and qualitatively — likely material; decide qualified vs adverse by pervasiveness",
+        "Auto-withdraw",
+        "Disclose in KAM and sign"
+      ],
+      "a": 1,
+      "why": "SA 450: the sum of known + uncorrected judged against OM (and PM), then pervasiveness for the type; AR is a primary caption so material-and-pervasive is live — the answer is the modification matrix, not a preference.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — this topic stays active in ICAI question-setting Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Receivables puzzle — confirmations and cut-off",
+        "tip": "Total it, then check its blast radius One large line can tint the whole lens.",
+        "link": "Chapter 5 — Audit Evidence"
+      },
+      "stem": "Audit of Truline Distributors (wholesale, Rs 8,000 lakh receivables, 460 customers). The auditor sent 35 positive confirmations: 22 replied matching, 6 replied with disputes (returns in transit), 7 didn't reply. The client refuses more confirmations 'to protect customers'; also 9 large invoices were billed 31 March for goods that left 3 April.",
+      "caseRef": "p3-case-1"
+    },
+    {
+      "id": "p3q-1b4qis",
+      "ch": 5,
+      "topic": "Evidence hierarchy",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Which evidence is generally the MOST reliable under SA 500?",
+      "o": [
+        "Oral management explanation",
+        "A photocopied invoice",
+        "Bank confirmation obtained directly by the auditor",
+        "A system-generated report from an IT environment with untested controls"
+      ],
+      "a": 2,
+      "why": "Reliability hierarchy: from independent external sources (direct confirmation) > original documents > evidence under controls operating effectively — copies and internal system reports rank below; oral explanations are the weakest written nowhere.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — auditor-gathered + independent + original = the gold triangle Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Evidence hierarchy",
+        "tip": "Evidence you fetch beats evidence you're fed.",
+        "link": "Chapter 5 — Audit Evidence"
+      }
+    },
+    {
+      "id": "p3q-xdjjnu",
+      "ch": 5,
+      "topic": "External confirmations",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Under SA 505, the auditor:",
+      "o": [
+        "Must confirm the entire ledger",
+        "Presumes accounts receivable confirmations are relevant for balances and rights claims, and evaluates refusal to allow confirmation as affecting opinion",
+        "Uses only negative confirmations",
+        "Sends requests through client staff with no restrictions"
+      ],
+      "a": 1,
+      "why": "SA 505 has a presumption for receivables confirmations; the response's reliability is higher when the auditor controls send/receive; management refusal = limitation to discuss, consider implications for fraud risk and opinion.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — confirmation = auditor-controlled postage, or it isn't evidence AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: External confirmations",
+        "tip": "Letters through the client's hands are souvenirs.",
+        "link": "Chapter 5 — Audit Evidence"
+      }
+    },
+    {
+      "id": "p3q-j10f8m",
+      "ch": 5,
+      "topic": "Negative confirmations",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Negative confirmation requests provide LESS evidence because:",
+      "o": [
+        "They are illegal",
+        "Non-response may mean agreement, oversight, or misdelivery — silence is not reply",
+        "They test only existence",
+        "They must be sent by courier"
+      ],
+      "a": 1,
+      "why": "Negative forms ask the debtor to respond only if disagreeing — silence is ambiguous; usable for large populations of small balances with low assessed risk, but never adequate ALONE (SA 505 says this in terms).",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — silence is not assent in either direction in court AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Negative confirmations",
+        "tip": "A quiet mailbox is not a signed statement.",
+        "link": "Chapter 5 — Audit Evidence"
+      }
+    },
+    {
+      "id": "p3q-1w4ymw9",
+      "ch": 5,
+      "topic": "Analytical procedures — mandatory stages",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Analytical procedures are mandatory in:",
+      "o": [
+        "Only substantive testing",
+        "The planning (risk identification) stage and the overall review at completion",
+        "Neither — they are optional",
+        "Only internal audit"
+      ],
+      "a": 1,
+      "why": "SA 520: analytics are REQUIRED as risk assessment procedures, REQUIRED as an overall review near completion, and OPTIONAL as substantive tests (where they can be powerfully efficient for predictable relationships).",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — mandatory at both ends, optional in the middle Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Analytical procedures — mandatory stages",
+        "tip": "Analytics bookend the audit: read the forecast, sign off on the story.",
+        "link": "Chapter 5 — Audit Evidence"
+      }
+    },
+    {
+      "id": "p3q-4582cb",
+      "ch": 5,
+      "topic": "Data reliability in substantive analytics",
+      "m": 1,
+      "d": "HARD",
+      "q": "A substantive analytical procedure's precision is undermined by:",
+      "o": [
+        "A disaggregated expectation",
+        "Unreliable underlying data (e.g. unvalidated inventory quantities)",
+        "Expectations built from budgets vs actuals where budgets are tight",
+        "Using three years of history"
+      ],
+      "a": 1,
+      "why": "Precision depends on the quality of data used to build the expectation and the comparability/accuracy of the disaggregation; unreliable inputs cap the test's strength regardless of methodology — corroborating data reliability is part of the procedure.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — garbage in, elegant regression out Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Data reliability in substantive analytics",
+        "tip": "Your model is only as honest as its rawest input.",
+        "link": "Chapter 5 — Audit Evidence"
+      }
+    },
+    {
+      "id": "p3q-fdl4ci",
+      "ch": 5,
+      "topic": "Sampling — deviation rate logic",
+      "m": 2,
+      "d": "HARD",
+      "q": "In a test of controls, the tolerable deviation rate is 4%, expected population deviation rate 1.5%, and the computed upper deviation limit is 5.1%. The auditor should:",
+      "o": [
+        "Accept controls — sample results support risk at the assessed level",
+        "Conclude the controls cannot be relied upon at the planned level (extend or go substantive)",
+        "Reduce tolerable rate",
+        "Report fraud"
+      ],
+      "a": 1,
+      "why": "Decision rule: compare the upper deviation limit (not the sample rate) to the TOLERABLE rate — 5.1 > 4.0 ⇒ risk of over-reliance is too high; revise assessed control risk downward-reliance, or extend testing, or switch to substantive.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — UDL vs tolerable rate — the one comparison that decides everything AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Sampling — deviation rate logic",
+        "tip": "Judge the worst plausible number, not the pretty average.",
+        "link": "Chapter 5 — Audit Evidence"
+      }
+    },
+    {
+      "id": "p3q-1d16kq7",
+      "ch": 5,
+      "topic": "Stratification",
+      "m": 1,
+      "d": "HARD",
+      "q": "Auditors stratify a population primarily when:",
+      "o": [
+        "The population has large variability — to reduce each stratum's variation and sample size",
+        "The client prefers it",
+        "Every item is high-value",
+        "The tolerable rate is zero"
+      ],
+      "a": 0,
+      "why": "Stratification splits a variable population into sub-populations of similar items; with small within-stratum variation, a smaller total sample achieves the same precision — and high-value items may become 100% strata.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — same dollars, fewer surprises — or more focus Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Stratification",
+        "tip": "Cut the deck by suits and you need fewer cards.",
+        "link": "Chapter 5 — Audit Evidence"
+      }
+    },
+    {
+      "id": "p3q-1wfid1",
+      "ch": 5,
+      "topic": "Non-sampling risk",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "An auditor applies the right test to the wrong population. This is:",
+      "o": [
+        "Sampling risk",
+        "Non-sampling risk (human error in design/execution)",
+        "Tolerable deviation",
+        "Population error"
+      ],
+      "a": 1,
+      "why": "Sampling risk = wrong conclusion from testing less than 100% when the chosen procedure is sound; NON-sampling risk = everything else the auditor got wrong — wrong procedures, misreading an exception, wrong population — reducible by QA, not sample size.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — sampling risk shrinks with size; non-sampling with care AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Non-sampling risk",
+        "tip": "Bigger samples don't fix the wrong test.",
+        "link": "Chapter 5 — Audit Evidence"
+      }
+    },
+    {
+      "id": "p3q-jo9tnl",
+      "ch": 5,
+      "topic": "Confirmation dates",
+      "m": 1,
+      "d": "HARD",
+      "q": "Confirmations are ideally dated:",
+      "o": [
+        "A month after the year-end",
+        "At or near the balance-sheet date (earlier only with strong controls and roll-forward procedures)",
+        "At the AGM",
+        "Before the audit starts"
+      ],
+      "a": 1,
+      "why": "The date ties evidence to the reporting date; interim confirmations need control reliance + roll-forward to close the gap.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the closer to the 31st, the cleaner the evidence Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Confirmation dates",
+        "tip": "Postcards need addresses that match the date stamp.",
+        "link": "Chapter 5 — Audit Evidence"
+      }
+    },
+    {
+      "id": "p3q-11ftf2",
+      "ch": 5,
+      "topic": "Management representation dating",
+      "m": 1,
+      "d": "HARD",
+      "q": "Written representations are dated:",
+      "o": [
+        "At the audit start",
+        "As near as practicable to, and not after, the date of the auditor's report",
+        "One year later",
+        "Before the FS approval"
+      ],
+      "a": 1,
+      "why": "Representations must cover the same period as the report — a stale-dated letter is a hole through the reporting window.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — date it last, cover it full Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Management representation dating",
+        "tip": "Signatures expire; the period must not.",
+        "link": "Chapter 5 — Audit Evidence"
+      }
+    },
+    {
+      "id": "p3q-1ballgf",
+      "ch": 5,
+      "topic": "Deviation vs misstatement",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "In attribute sampling the auditor measures:",
+      "o": [
+        "Rupee errors",
+        "Rate of control DEVIATIONS, not misstatement amounts",
+        "Fraud",
+        "Profit"
+      ],
+      "a": 1,
+      "why": "Attribute = controls; variable = amounts — mixing them is the classic error: deviations don't translate to rupees without a link.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — one counts slips, the other counts rupees AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Deviation vs misstatement",
+        "tip": "A slipped stitch isn't the rip's size.",
+        "link": "Chapter 5 — Audit Evidence"
+      }
+    },
+    {
+      "id": "p3q-1h5s3t9",
+      "ch": 5,
+      "topic": "Sample size and risk",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Raising the desired confidence level (95%→99%) changes the attribute sample size:",
+      "o": [
+        "Down",
+        "Up",
+        "Same",
+        "Zero"
+      ],
+      "a": 1,
+      "why": "More confidence = more assurance = wider margin allowance = larger samples.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — confidence has a ticket price AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Sample size and risk",
+        "tip": "Certainty pays in extra pages.",
+        "link": "Chapter 5 — Audit Evidence"
+      }
+    },
+    {
+      "id": "p3q-8eoj6p",
+      "ch": 5,
+      "topic": "Sample size — drivers",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "An attribute-sampling plan adjusts one factor: Tolerable deviation rate reduced from 5% to 3%. The effect on required sample size is:",
+      "o": [
+        "Sample size INCREASES — tighter tolerance demands more assurance per rupee of error",
+        "Sample size decreases proportionally",
+        "The choice is not a sampling driver at all",
+        "The effect reverses if prior-year results support"
+      ],
+      "a": 0,
+      "why": "Sample size INCREASES — tighter tolerance demands more assurance per rupee of error. (Framework: size ∝ confidence and expected deviation; size inversely with tolerable deviation; population size has a minor effect once large.)",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — direction-of-impact questions need no tables, only the logic Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Sample size — drivers",
+        "tip": "Sample size rises with: lower tolerable rate, higher expected deviation, higher confidence; falls for stratification.",
+        "link": "Chapter 5 — Audit Evidence"
+      }
+    },
+    {
+      "id": "p3q-1av7n5j",
+      "ch": 5,
+      "topic": "Sample size — drivers",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "An attribute-sampling plan adjusts one factor: Population size grows from 8,000 to 40,000 with the same tolerable/expected rates. The effect on required sample size is:",
+      "o": [
+        "Sample size barely moves — population size is a weak driver",
+        "Sample size quadruples proportionally",
+        "The choice is not a sampling driver at all",
+        "The effect reverses if prior-year results support"
+      ],
+      "a": 0,
+      "why": "Sample size barely moves — population size is a weak driver. (Framework: size ∝ confidence and expected deviation; size inversely with tolerable deviation; population size has a minor effect once large.)",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — direction-of-impact questions need no tables, only the logic Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Sample size — drivers",
+        "tip": "Sample size rises with: lower tolerable rate, higher expected deviation, higher confidence; falls for stratification.",
+        "link": "Chapter 5 — Audit Evidence"
+      }
+    },
+    {
+      "id": "p3q-2k29kf",
+      "ch": 5,
+      "topic": "Sample size — drivers",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "An attribute-sampling plan adjusts one factor: Confidence level reduced from 95% to 90%. The effect on required sample size is:",
+      "o": [
+        "Sample size increases proportionally",
+        "The choice is not a sampling driver at all",
+        "Sample size DECREASES — lower confidence accepts more risk",
+        "The effect reverses if prior-year results support"
+      ],
+      "a": 2,
+      "why": "Sample size DECREASES — lower confidence accepts more risk. (Framework: size ∝ confidence and expected deviation; size inversely with tolerable deviation; population size has a minor effect once large.)",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — direction-of-impact questions need no tables, only the logic Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Sample size — drivers",
+        "tip": "Sample size rises with: lower tolerable rate, higher expected deviation, higher confidence; falls for stratification.",
+        "link": "Chapter 5 — Audit Evidence"
+      }
+    },
+    {
+      "id": "p3q-1c305z2",
+      "ch": 5,
+      "topic": "Sample size — drivers",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "An attribute-sampling plan adjusts one factor: Expected deviation rate revised up from 1% to 2.5%. The effect on required sample size is:",
+      "o": [
+        "No effect proportionally",
+        "The choice is not a sampling driver at all",
+        "The effect reverses if prior-year results support",
+        "Sample size INCREASES — a dirtier population needs more evidence that it stays within tolerance"
+      ],
+      "a": 3,
+      "why": "Sample size INCREASES — a dirtier population needs more evidence that it stays within tolerance. (Framework: size ∝ confidence and expected deviation; size inversely with tolerable deviation; population size has a minor effect once large.)",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — direction-of-impact questions need no tables, only the logic Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Sample size — drivers",
+        "tip": "Sample size rises with: lower tolerable rate, higher expected deviation, higher confidence; falls for stratification.",
+        "link": "Chapter 5 — Audit Evidence"
+      }
+    },
+    {
+      "id": "p3q-1r5kwim",
+      "ch": 5,
+      "topic": "Deviation conclusion",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "In a test of controls the auditor samples 40 items and finds 2 deviations; the reliability factor gives an upper deviation limit of (factor/40) ≈ 10.00%; tolerable rate 4%. Conclusion:",
+      "o": [
+        "Test fails — compare sample rate 5.00% to materiality",
+        "Do NOT support reliance — UDL 10.00% exceeds tolerable 4%",
+        "Supports reliance because the sample rate is small",
+        "Extend the sample automatically in every case"
+      ],
+      "a": 1,
+      "why": "The decision rule is UDL vs TOLERABLE RATE: 10.00% > 4% ⇒ REDUCE RELIANCE, REVISE RISK, EXTEND, OR GO SUBSTANTIVE. Sample rate alone is never the comparison.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the UDL-vs-tolerable decision is sampling's only exam-grade judgment AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Deviation conclusion",
+        "tip": "Compare the UPPER deviation limit (sample rate + allowance) to the TOLERABLE rate — not the sample rate alone.",
+        "link": "Chapter 5 — Audit Evidence"
+      }
+    },
+    {
+      "id": "p3q-17od6py",
+      "ch": 5,
+      "topic": "Deviation conclusion",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "In a test of controls the auditor samples 40 items and finds 1 deviations; the reliability factor gives an upper deviation limit of (factor/40) ≈ 8.75%; tolerable rate 4%. Conclusion:",
+      "o": [
+        "Test fails — compare sample rate 2.50% to materiality",
+        "Supports reliance because the sample rate is small",
+        "Extend the sample automatically in every case",
+        "Do NOT support reliance — UDL 8.75% exceeds tolerable 4%"
+      ],
+      "a": 3,
+      "why": "The decision rule is UDL vs TOLERABLE RATE: 8.75% > 4% ⇒ REDUCE RELIANCE, REVISE RISK, EXTEND, OR GO SUBSTANTIVE. Sample rate alone is never the comparison.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the UDL-vs-tolerable decision is sampling's only exam-grade judgment AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Deviation conclusion",
+        "tip": "Compare the UPPER deviation limit (sample rate + allowance) to the TOLERABLE rate — not the sample rate alone.",
+        "link": "Chapter 5 — Audit Evidence"
+      }
+    },
+    {
+      "id": "p3q-fue9s6",
+      "ch": 5,
+      "topic": "Deviation conclusion",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "In a test of controls the auditor samples 80 items and finds 3 deviations; the reliability factor gives an upper deviation limit of (factor/80) ≈ 5.63%; tolerable rate 4%. Conclusion:",
+      "o": [
+        "Test fails — compare sample rate 3.75% to materiality",
+        "Do NOT support reliance — UDL 5.63% exceeds tolerable 4%",
+        "Supports reliance because the sample rate is small",
+        "Extend the sample automatically in every case"
+      ],
+      "a": 1,
+      "why": "The decision rule is UDL vs TOLERABLE RATE: 5.63% > 4% ⇒ REDUCE RELIANCE, REVISE RISK, EXTEND, OR GO SUBSTANTIVE. Sample rate alone is never the comparison.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the UDL-vs-tolerable decision is sampling's only exam-grade judgment AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Deviation conclusion",
+        "tip": "Compare the UPPER deviation limit (sample rate + allowance) to the TOLERABLE rate — not the sample rate alone.",
+        "link": "Chapter 5 — Audit Evidence"
+      }
+    },
+    {
+      "id": "p3q-fqeukb",
+      "ch": 5,
+      "topic": "Deviation conclusion",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "In a test of controls the auditor samples 60 items and finds 0 deviations; the reliability factor gives an upper deviation limit of (factor/60) ≈ 5.00%; tolerable rate 5%. Conclusion:",
+      "o": [
+        "Support planned reliance — UDL 5.00% ≤ tolerable 5%",
+        "Test fails — compare sample rate 0.00% to materiality",
+        "Cannot conclude — UDL always exceeds tolerable rate",
+        "Extend the sample automatically in every case"
+      ],
+      "a": 0,
+      "why": "The decision rule is UDL vs TOLERABLE RATE: 5.00% ≤ 5% ⇒ RELIANCE SUPPORTED. Sample rate alone is never the comparison.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the UDL-vs-tolerable decision is sampling's only exam-grade judgment AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Deviation conclusion",
+        "tip": "Compare the UPPER deviation limit (sample rate + allowance) to the TOLERABLE rate — not the sample rate alone.",
+        "link": "Chapter 5 — Audit Evidence"
+      }
+    },
+    {
+      "id": "p3q-rg0kpl",
+      "ch": 5,
+      "topic": "Deviation conclusion",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "In a test of controls the auditor samples 60 items and finds 3 deviations; the reliability factor gives an upper deviation limit of (factor/60) ≈ 7.50%; tolerable rate 5%. Conclusion:",
+      "o": [
+        "Test fails — compare sample rate 5.00% to materiality",
+        "Supports reliance because the sample rate is small",
+        "Do NOT support reliance — UDL 7.50% exceeds tolerable 5%",
+        "Extend the sample automatically in every case"
+      ],
+      "a": 2,
+      "why": "The decision rule is UDL vs TOLERABLE RATE: 7.50% > 5% ⇒ REDUCE RELIANCE, REVISE RISK, EXTEND, OR GO SUBSTANTIVE. Sample rate alone is never the comparison.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the UDL-vs-tolerable decision is sampling's only exam-grade judgment AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Deviation conclusion",
+        "tip": "Compare the UPPER deviation limit (sample rate + allowance) to the TOLERABLE rate — not the sample rate alone.",
+        "link": "Chapter 5 — Audit Evidence"
+      }
+    },
+    {
+      "id": "p3q-1jsrpmd",
+      "ch": 5,
+      "topic": "Deviation conclusion",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "In a test of controls the auditor samples 80 items and finds 4 deviations; the reliability factor gives an upper deviation limit of (factor/80) ≈ 6.25%; tolerable rate 5%. Conclusion:",
+      "o": [
+        "Test fails — compare sample rate 5.00% to materiality",
+        "Do NOT support reliance — UDL 6.25% exceeds tolerable 5%",
+        "Supports reliance because the sample rate is small",
+        "Extend the sample automatically in every case"
+      ],
+      "a": 1,
+      "why": "The decision rule is UDL vs TOLERABLE RATE: 6.25% > 5% ⇒ REDUCE RELIANCE, REVISE RISK, EXTEND, OR GO SUBSTANTIVE. Sample rate alone is never the comparison.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the UDL-vs-tolerable decision is sampling's only exam-grade judgment AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Deviation conclusion",
+        "tip": "Compare the UPPER deviation limit (sample rate + allowance) to the TOLERABLE rate — not the sample rate alone.",
+        "link": "Chapter 5 — Audit Evidence"
+      }
+    },
+    {
+      "id": "p3q-tyxtce",
+      "ch": 5,
+      "topic": "Deviation conclusion",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "In a test of controls the auditor samples 60 items and finds 1 deviations; the reliability factor gives an upper deviation limit of (factor/60) ≈ 5.83%; tolerable rate 4%. Conclusion:",
+      "o": [
+        "Test fails — compare sample rate 1.67% to materiality",
+        "Do NOT support reliance — UDL 5.83% exceeds tolerable 4%",
+        "Supports reliance because the sample rate is small",
+        "Extend the sample automatically in every case"
+      ],
+      "a": 1,
+      "why": "The decision rule is UDL vs TOLERABLE RATE: 5.83% > 4% ⇒ REDUCE RELIANCE, REVISE RISK, EXTEND, OR GO SUBSTANTIVE. Sample rate alone is never the comparison.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the UDL-vs-tolerable decision is sampling's only exam-grade judgment AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Deviation conclusion",
+        "tip": "Compare the UPPER deviation limit (sample rate + allowance) to the TOLERABLE rate — not the sample rate alone.",
+        "link": "Chapter 5 — Audit Evidence"
+      }
+    },
+    {
+      "id": "p3q-1iy8r36",
+      "ch": 5,
+      "topic": "Deviation conclusion",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "In a test of controls the auditor samples 40 items and finds 4 deviations; the reliability factor gives an upper deviation limit of (factor/40) ≈ 12.50%; tolerable rate 5%. Conclusion:",
+      "o": [
+        "Test fails — compare sample rate 10.00% to materiality",
+        "Supports reliance because the sample rate is small",
+        "Extend the sample automatically in every case",
+        "Do NOT support reliance — UDL 12.50% exceeds tolerable 5%"
+      ],
+      "a": 3,
+      "why": "The decision rule is UDL vs TOLERABLE RATE: 12.50% > 5% ⇒ REDUCE RELIANCE, REVISE RISK, EXTEND, OR GO SUBSTANTIVE. Sample rate alone is never the comparison.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the UDL-vs-tolerable decision is sampling's only exam-grade judgment AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Deviation conclusion",
+        "tip": "Compare the UPPER deviation limit (sample rate + allowance) to the TOLERABLE rate — not the sample rate alone.",
+        "link": "Chapter 5 — Audit Evidence"
+      }
+    },
+    {
+      "id": "p3q-185kdnl",
+      "ch": 5,
+      "topic": "Deviation conclusion",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "In a test of controls the auditor samples 80 items and finds 2 deviations; the reliability factor gives an upper deviation limit of (factor/80) ≈ 5.00%; tolerable rate 5%. Conclusion:",
+      "o": [
+        "Test fails — compare sample rate 2.50% to materiality",
+        "Support planned reliance — UDL 5.00% ≤ tolerable 5%",
+        "Cannot conclude — UDL always exceeds tolerable rate",
+        "Extend the sample automatically in every case"
+      ],
+      "a": 1,
+      "why": "The decision rule is UDL vs TOLERABLE RATE: 5.00% ≤ 5% ⇒ RELIANCE SUPPORTED. Sample rate alone is never the comparison.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the UDL-vs-tolerable decision is sampling's only exam-grade judgment AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Deviation conclusion",
+        "tip": "Compare the UPPER deviation limit (sample rate + allowance) to the TOLERABLE rate — not the sample rate alone.",
+        "link": "Chapter 5 — Audit Evidence"
+      }
+    },
+    {
+      "id": "p3q-crhnt",
+      "ch": 5,
+      "topic": "Deviation conclusion",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "In a test of controls the auditor samples 40 items and finds 1 deviations; the reliability factor gives an upper deviation limit of (factor/40) ≈ 8.75%; tolerable rate 5%. Conclusion:",
+      "o": [
+        "Do NOT support reliance — UDL 8.75% exceeds tolerable 5%",
+        "Test fails — compare sample rate 2.50% to materiality",
+        "Supports reliance because the sample rate is small",
+        "Extend the sample automatically in every case"
+      ],
+      "a": 0,
+      "why": "The decision rule is UDL vs TOLERABLE RATE: 8.75% > 5% ⇒ REDUCE RELIANCE, REVISE RISK, EXTEND, OR GO SUBSTANTIVE. Sample rate alone is never the comparison.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the UDL-vs-tolerable decision is sampling's only exam-grade judgment AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Deviation conclusion",
+        "tip": "Compare the UPPER deviation limit (sample rate + allowance) to the TOLERABLE rate — not the sample rate alone.",
+        "link": "Chapter 5 — Audit Evidence"
+      }
+    },
+    {
+      "id": "p3q-nhh3l0",
+      "ch": 5,
+      "topic": "Monetary-unit sampling",
+      "m": 2,
+      "d": "HARD",
+      "q": "Accounts receivable Rs 6000 lakh, planned MUS sample 50. Selection is designed how, when a few items exceed the interval (Rs 120.0 lakh)?",
+      "o": [
+        "Interval Rs 120.0 lakh; big items only via random draw",
+        "Interval Rs 120.0 lakh; each of the 3 logical units ≥ interval is selected automatically; remaining dollars sampled at the interval",
+        "No interval concept — MUS is purely item-random",
+        "Interval = interval of items: 6000 ÷ 50 items"
+      ],
+      "a": 1,
+      "why": "MUS interval = Rs 6000 ÷ 50 = Rs 120.0 lakh. Logical units ≥ interval are 100% certain selections; smaller units enter via systematic interval over the residual dollars; high-value skew is why MUS shines for overstatement risk.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the selection design is the testable half of MUS Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Monetary-unit sampling",
+        "tip": "MUS interval = book value ÷ sample size; logical units = book units whose amount ≥ interval (always selected) plus the rest via systematic interval.",
+        "link": "Chapter 5 — Audit Evidence"
+      }
+    },
+    {
+      "id": "p3q-14g9rb1",
+      "ch": 5,
+      "topic": "Monetary-unit sampling",
+      "m": 2,
+      "d": "HARD",
+      "q": "Accounts receivable Rs 12000 lakh, planned MUS sample 60. Selection is designed how, when a few items exceed the interval (Rs 200.0 lakh)?",
+      "o": [
+        "Interval Rs 200.0 lakh; big items only via random draw",
+        "No interval concept — MUS is purely item-random",
+        "Interval Rs 200.0 lakh; each of the 2 logical units ≥ interval is selected automatically; remaining dollars sampled at the interval",
+        "Interval = interval of items: 12000 ÷ 60 items"
+      ],
+      "a": 2,
+      "why": "MUS interval = Rs 12000 ÷ 60 = Rs 200.0 lakh. Logical units ≥ interval are 100% certain selections; smaller units enter via systematic interval over the residual dollars; high-value skew is why MUS shines for overstatement risk.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the selection design is the testable half of MUS Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Monetary-unit sampling",
+        "tip": "MUS interval = book value ÷ sample size; logical units = book units whose amount ≥ interval (always selected) plus the rest via systematic interval.",
+        "link": "Chapter 5 — Audit Evidence"
+      }
+    },
+    {
+      "id": "p3q-1olvvk9",
+      "ch": 5,
+      "topic": "Monetary-unit sampling",
+      "m": 2,
+      "d": "HARD",
+      "q": "Accounts receivable Rs 9000 lakh, planned MUS sample 60. Selection is designed how, when a few items exceed the interval (Rs 150.0 lakh)?",
+      "o": [
+        "Interval Rs 150.0 lakh; big items only via random draw",
+        "No interval concept — MUS is purely item-random",
+        "Interval Rs 150.0 lakh; each of the 3 logical units ≥ interval is selected automatically; remaining dollars sampled at the interval",
+        "Interval = interval of items: 9000 ÷ 60 items"
+      ],
+      "a": 2,
+      "why": "MUS interval = Rs 9000 ÷ 60 = Rs 150.0 lakh. Logical units ≥ interval are 100% certain selections; smaller units enter via systematic interval over the residual dollars; high-value skew is why MUS shines for overstatement risk.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the selection design is the testable half of MUS Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Monetary-unit sampling",
+        "tip": "MUS interval = book value ÷ sample size; logical units = book units whose amount ≥ interval (always selected) plus the rest via systematic interval.",
+        "link": "Chapter 5 — Audit Evidence"
+      }
+    },
+    {
+      "id": "p3q-1olfj5l",
+      "ch": 5,
+      "topic": "Monetary-unit sampling",
+      "m": 2,
+      "d": "HARD",
+      "q": "Accounts receivable Rs 6000 lakh, planned MUS sample 60. Selection is designed how, when a few items exceed the interval (Rs 100.0 lakh)?",
+      "o": [
+        "Interval Rs 100.0 lakh; big items only via random draw",
+        "Interval Rs 100.0 lakh; each of the 2 logical units ≥ interval is selected automatically; remaining dollars sampled at the interval",
+        "No interval concept — MUS is purely item-random",
+        "Interval = interval of items: 6000 ÷ 60 items"
+      ],
+      "a": 1,
+      "why": "MUS interval = Rs 6000 ÷ 60 = Rs 100.0 lakh. Logical units ≥ interval are 100% certain selections; smaller units enter via systematic interval over the residual dollars; high-value skew is why MUS shines for overstatement risk.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the selection design is the testable half of MUS Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Monetary-unit sampling",
+        "tip": "MUS interval = book value ÷ sample size; logical units = book units whose amount ≥ interval (always selected) plus the rest via systematic interval.",
+        "link": "Chapter 5 — Audit Evidence"
+      }
+    },
+    {
+      "id": "p3q-1atbimd",
+      "ch": 5,
+      "topic": "Monetary-unit sampling",
+      "m": 2,
+      "d": "HARD",
+      "q": "Accounts receivable Rs 9000 lakh, planned MUS sample 50. Selection is designed how, when a few items exceed the interval (Rs 180.0 lakh)?",
+      "o": [
+        "Interval Rs 180.0 lakh; big items only via random draw",
+        "No interval concept — MUS is purely item-random",
+        "Interval Rs 180.0 lakh; each of the 5 logical units ≥ interval is selected automatically; remaining dollars sampled at the interval",
+        "Interval = interval of items: 9000 ÷ 50 items"
+      ],
+      "a": 2,
+      "why": "MUS interval = Rs 9000 ÷ 50 = Rs 180.0 lakh. Logical units ≥ interval are 100% certain selections; smaller units enter via systematic interval over the residual dollars; high-value skew is why MUS shines for overstatement risk.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the selection design is the testable half of MUS Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Monetary-unit sampling",
+        "tip": "MUS interval = book value ÷ sample size; logical units = book units whose amount ≥ interval (always selected) plus the rest via systematic interval.",
+        "link": "Chapter 5 — Audit Evidence"
+      }
+    },
+    {
+      "id": "p3q-1y98xoy",
+      "ch": 5,
+      "topic": "Monetary-unit sampling",
+      "m": 2,
+      "d": "HARD",
+      "q": "Accounts receivable Rs 12000 lakh, planned MUS sample 50. Selection is designed how, when a few items exceed the interval (Rs 240.0 lakh)?",
+      "o": [
+        "Interval Rs 240.0 lakh; big items only via random draw",
+        "No interval concept — MUS is purely item-random",
+        "Interval = interval of items: 12000 ÷ 50 items",
+        "Interval Rs 240.0 lakh; each of the 5 logical units ≥ interval is selected automatically; remaining dollars sampled at the interval"
+      ],
+      "a": 3,
+      "why": "MUS interval = Rs 12000 ÷ 50 = Rs 240.0 lakh. Logical units ≥ interval are 100% certain selections; smaller units enter via systematic interval over the residual dollars; high-value skew is why MUS shines for overstatement risk.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the selection design is the testable half of MUS Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Monetary-unit sampling",
+        "tip": "MUS interval = book value ÷ sample size; logical units = book units whose amount ≥ interval (always selected) plus the rest via systematic interval.",
+        "link": "Chapter 5 — Audit Evidence"
+      }
+    },
+    {
+      "id": "p3q-1avu4cc",
+      "ch": 5,
+      "topic": "Probability-proportional-to-size evaluation",
+      "m": 2,
+      "d": "HARD",
+      "q": "PPI sample of 40 units (interval Rs 200.0 lakh, book Rs 8000 lakh) finds misstatements of Rs 30 lakh in 10 sampled logical units. The evaluation uses:",
+      "o": [
+        "Only the raw Rs 30 lakh matters",
+        "Scale by book value, no projection",
+        "Ignore sampling precision — projected is exact",
+        "Projected misstatement Rs 120 lakh; compare with tolerable misstatement plus precision, not the raw Rs 30 lakh"
+      ],
+      "a": 3,
+      "why": "Projected misstatement ≈ 30 × 40 ÷ 10 = Rs 120 lakh (projecting sample to population), compared to tolerable misstatement (with allowance for sampling precision); the raw found number understates the population view.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — projection-vs-raw is the evaluation trap in any variable sampling method Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Probability-proportional-to-size evaluation",
+        "tip": "PPI projects each sampled item to its interval multiple; precision from variability — a size-weighted sibling of mean-per-unit.",
+        "link": "Chapter 5 — Audit Evidence"
+      }
+    },
+    {
+      "id": "p3q-anv6tb",
+      "ch": 5,
+      "topic": "Probability-proportional-to-size evaluation",
+      "m": 2,
+      "d": "HARD",
+      "q": "PPI sample of 40 units (interval Rs 200.0 lakh, book Rs 8000 lakh) finds misstatements of Rs 20 lakh in 10 sampled logical units. The evaluation uses:",
+      "o": [
+        "Only the raw Rs 20 lakh matters",
+        "Projected misstatement Rs 80 lakh; compare with tolerable misstatement plus precision, not the raw Rs 20 lakh",
+        "Scale by book value, no projection",
+        "Ignore sampling precision — projected is exact"
+      ],
+      "a": 1,
+      "why": "Projected misstatement ≈ 20 × 40 ÷ 10 = Rs 80 lakh (projecting sample to population), compared to tolerable misstatement (with allowance for sampling precision); the raw found number understates the population view.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — projection-vs-raw is the evaluation trap in any variable sampling method Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Probability-proportional-to-size evaluation",
+        "tip": "PPI projects each sampled item to its interval multiple; precision from variability — a size-weighted sibling of mean-per-unit.",
+        "link": "Chapter 5 — Audit Evidence"
+      }
+    },
+    {
+      "id": "p3q-itl6us",
+      "ch": 5,
+      "topic": "Probability-proportional-to-size evaluation",
+      "m": 2,
+      "d": "HARD",
+      "q": "PPI sample of 40 units (interval Rs 200.0 lakh, book Rs 8000 lakh) finds misstatements of Rs 12 lakh in 10 sampled logical units. The evaluation uses:",
+      "o": [
+        "Only the raw Rs 12 lakh matters",
+        "Scale by book value, no projection",
+        "Projected misstatement Rs 48 lakh; compare with tolerable misstatement plus precision, not the raw Rs 12 lakh",
+        "Ignore sampling precision — projected is exact"
+      ],
+      "a": 2,
+      "why": "Projected misstatement ≈ 12 × 40 ÷ 10 = Rs 48 lakh (projecting sample to population), compared to tolerable misstatement (with allowance for sampling precision); the raw found number understates the population view.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — projection-vs-raw is the evaluation trap in any variable sampling method Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Probability-proportional-to-size evaluation",
+        "tip": "PPI projects each sampled item to its interval multiple; precision from variability — a size-weighted sibling of mean-per-unit.",
+        "link": "Chapter 5 — Audit Evidence"
+      }
+    },
+    {
+      "id": "p3q-1rwp587",
+      "ch": 5,
+      "topic": "Probability-proportional-to-size evaluation",
+      "m": 2,
+      "d": "HARD",
+      "q": "PPI sample of 40 units (interval Rs 100.0 lakh, book Rs 4000 lakh) finds misstatements of Rs 30 lakh in 10 sampled logical units. The evaluation uses:",
+      "o": [
+        "Only the raw Rs 30 lakh matters",
+        "Scale by book value, no projection",
+        "Projected misstatement Rs 120 lakh; compare with tolerable misstatement plus precision, not the raw Rs 30 lakh",
+        "Ignore sampling precision — projected is exact"
+      ],
+      "a": 2,
+      "why": "Projected misstatement ≈ 30 × 40 ÷ 10 = Rs 120 lakh (projecting sample to population), compared to tolerable misstatement (with allowance for sampling precision); the raw found number understates the population view.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — projection-vs-raw is the evaluation trap in any variable sampling method Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Probability-proportional-to-size evaluation",
+        "tip": "PPI projects each sampled item to its interval multiple; precision from variability — a size-weighted sibling of mean-per-unit.",
+        "link": "Chapter 5 — Audit Evidence"
+      }
+    },
+    {
+      "id": "p3q-1w417t7",
+      "ch": 5,
+      "topic": "Probability-proportional-to-size evaluation",
+      "m": 2,
+      "d": "HARD",
+      "q": "PPI sample of 40 units (interval Rs 100.0 lakh, book Rs 4000 lakh) finds misstatements of Rs 12 lakh in 10 sampled logical units. The evaluation uses:",
+      "o": [
+        "Projected misstatement Rs 48 lakh; compare with tolerable misstatement plus precision, not the raw Rs 12 lakh",
+        "Only the raw Rs 12 lakh matters",
+        "Scale by book value, no projection",
+        "Ignore sampling precision — projected is exact"
+      ],
+      "a": 0,
+      "why": "Projected misstatement ≈ 12 × 40 ÷ 10 = Rs 48 lakh (projecting sample to population), compared to tolerable misstatement (with allowance for sampling precision); the raw found number understates the population view.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — projection-vs-raw is the evaluation trap in any variable sampling method Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Probability-proportional-to-size evaluation",
+        "tip": "PPI projects each sampled item to its interval multiple; precision from variability — a size-weighted sibling of mean-per-unit.",
+        "link": "Chapter 5 — Audit Evidence"
+      }
+    },
+    {
+      "id": "p3q-12p25pw",
+      "ch": 5,
+      "topic": "Probability-proportional-to-size evaluation",
+      "m": 2,
+      "d": "HARD",
+      "q": "PPI sample of 40 units (interval Rs 100.0 lakh, book Rs 4000 lakh) finds misstatements of Rs 20 lakh in 10 sampled logical units. The evaluation uses:",
+      "o": [
+        "Only the raw Rs 20 lakh matters",
+        "Scale by book value, no projection",
+        "Projected misstatement Rs 80 lakh; compare with tolerable misstatement plus precision, not the raw Rs 20 lakh",
+        "Ignore sampling precision — projected is exact"
+      ],
+      "a": 2,
+      "why": "Projected misstatement ≈ 20 × 40 ÷ 10 = Rs 80 lakh (projecting sample to population), compared to tolerable misstatement (with allowance for sampling precision); the raw found number understates the population view.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — projection-vs-raw is the evaluation trap in any variable sampling method Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Probability-proportional-to-size evaluation",
+        "tip": "PPI projects each sampled item to its interval multiple; precision from variability — a size-weighted sibling of mean-per-unit.",
+        "link": "Chapter 5 — Audit Evidence"
+      }
+    },
+    {
+      "id": "p3q-1mok8ou",
+      "ch": 5,
+      "topic": "Substantive analytics thresholds",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "For substantive analytical procedures over monthly store revenue (population Rs 900 lakh), the auditor sets a difference threshold of Rs 8 lakh. Directional effect of a decision to tighten the threshold is:",
+      "o": [
+        "The threshold choice affects only report wording",
+        "Lower thresholds raise sampling risk, nothing else",
+        "Thresholds must equal performance materiality",
+        "Threshold of Rs 8 lakh: to tighten it reduces risk of incorrect ACCEPTANCE but raises the count of investigations (rejection risk)"
+      ],
+      "a": 3,
+      "why": "Analytics balance incorrect rejection (investigate more) vs incorrect acceptance (miss more); the threshold, not the model, is the risk dial here; it may sit below PM because it tests one account — option 4's 'must equal PM' is the common wrong belief.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — threshold-vs-PM confusion is the exact trap in analytics questions AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Substantive analytics thresholds",
+        "tip": "A tighter difference threshold → more false alarms rejected (and less comfort from clean results); the trade-off is risk of incorrect rejection vs acceptance.",
+        "link": "Chapter 5 — Audit Evidence"
+      }
+    },
+    {
+      "id": "p3q-10me91b",
+      "ch": 5,
+      "topic": "Substantive analytics thresholds",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "For substantive analytical procedures over monthly store revenue (population Rs 900 lakh), the auditor sets a difference threshold of Rs 3 lakh. Directional effect of a decision to tighten the threshold is:",
+      "o": [
+        "The threshold choice affects only report wording",
+        "Lower thresholds raise sampling risk, nothing else",
+        "Thresholds must equal performance materiality",
+        "Threshold of Rs 3 lakh: to tighten it reduces risk of incorrect ACCEPTANCE but raises the count of investigations (rejection risk)"
+      ],
+      "a": 3,
+      "why": "Analytics balance incorrect rejection (investigate more) vs incorrect acceptance (miss more); the threshold, not the model, is the risk dial here; it may sit below PM because it tests one account — option 4's 'must equal PM' is the common wrong belief.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — threshold-vs-PM confusion is the exact trap in analytics questions AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Substantive analytics thresholds",
+        "tip": "A tighter difference threshold → more false alarms rejected (and less comfort from clean results); the trade-off is risk of incorrect rejection vs acceptance.",
+        "link": "Chapter 5 — Audit Evidence"
+      }
+    },
+    {
+      "id": "p3q-37vkmb",
+      "ch": 5,
+      "topic": "Substantive analytics thresholds",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "For substantive analytical procedures over monthly store revenue (population Rs 900 lakh), the auditor sets a difference threshold of Rs 8 lakh. Directional effect of a decision to relax the threshold is:",
+      "o": [
+        "The threshold choice affects only report wording",
+        "Lower thresholds raise sampling risk, nothing else",
+        "Thresholds must equal performance materiality",
+        "Threshold of Rs 8 lakh: to relax it raises the risk that a real misstatement hides under the threshold"
+      ],
+      "a": 3,
+      "why": "Analytics balance incorrect rejection (investigate more) vs incorrect acceptance (miss more); the threshold, not the model, is the risk dial here; it may sit below PM because it tests one account — option 4's 'must equal PM' is the common wrong belief.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — threshold-vs-PM confusion is the exact trap in analytics questions AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Substantive analytics thresholds",
+        "tip": "A tighter difference threshold → more false alarms rejected (and less comfort from clean results); the trade-off is risk of incorrect rejection vs acceptance.",
+        "link": "Chapter 5 — Audit Evidence"
+      }
+    },
+    {
+      "id": "p3q-1h0s9cg",
+      "ch": 5,
+      "topic": "Substantive analytics thresholds",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "For substantive analytical procedures over monthly store revenue (population Rs 900 lakh), the auditor sets a difference threshold of Rs 5 lakh. Directional effect of a decision to relax the threshold is:",
+      "o": [
+        "Threshold of Rs 5 lakh: to relax it raises the risk that a real misstatement hides under the threshold",
+        "The threshold choice affects only report wording",
+        "Lower thresholds raise sampling risk, nothing else",
+        "Thresholds must equal performance materiality"
+      ],
+      "a": 0,
+      "why": "Analytics balance incorrect rejection (investigate more) vs incorrect acceptance (miss more); the threshold, not the model, is the risk dial here; it may sit below PM because it tests one account — option 4's 'must equal PM' is the common wrong belief.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — threshold-vs-PM confusion is the exact trap in analytics questions AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Substantive analytics thresholds",
+        "tip": "A tighter difference threshold → more false alarms rejected (and less comfort from clean results); the trade-off is risk of incorrect rejection vs acceptance.",
+        "link": "Chapter 5 — Audit Evidence"
+      }
+    },
+    {
+      "id": "p3q-arvi6p",
+      "ch": 5,
+      "topic": "Substantive analytics thresholds",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "For substantive analytical procedures over monthly store revenue (population Rs 900 lakh), the auditor sets a difference threshold of Rs 5 lakh. Directional effect of a decision to tighten the threshold is:",
+      "o": [
+        "The threshold choice affects only report wording",
+        "Lower thresholds raise sampling risk, nothing else",
+        "Thresholds must equal performance materiality",
+        "Threshold of Rs 5 lakh: to tighten it reduces risk of incorrect ACCEPTANCE but raises the count of investigations (rejection risk)"
+      ],
+      "a": 3,
+      "why": "Analytics balance incorrect rejection (investigate more) vs incorrect acceptance (miss more); the threshold, not the model, is the risk dial here; it may sit below PM because it tests one account — option 4's 'must equal PM' is the common wrong belief.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — threshold-vs-PM confusion is the exact trap in analytics questions AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Substantive analytics thresholds",
+        "tip": "A tighter difference threshold → more false alarms rejected (and less comfort from clean results); the trade-off is risk of incorrect rejection vs acceptance.",
+        "link": "Chapter 5 — Audit Evidence"
+      }
+    },
+    {
+      "id": "p3q-zorg3m",
+      "ch": 5,
+      "topic": "Substantive analytics thresholds",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "For substantive analytical procedures over monthly store revenue (population Rs 900 lakh), the auditor sets a difference threshold of Rs 3 lakh. Directional effect of a decision to relax the threshold is:",
+      "o": [
+        "The threshold choice affects only report wording",
+        "Threshold of Rs 3 lakh: to relax it raises the risk that a real misstatement hides under the threshold",
+        "Lower thresholds raise sampling risk, nothing else",
+        "Thresholds must equal performance materiality"
+      ],
+      "a": 1,
+      "why": "Analytics balance incorrect rejection (investigate more) vs incorrect acceptance (miss more); the threshold, not the model, is the risk dial here; it may sit below PM because it tests one account — option 4's 'must equal PM' is the common wrong belief.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — threshold-vs-PM confusion is the exact trap in analytics questions AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Substantive analytics thresholds",
+        "tip": "A tighter difference threshold → more false alarms rejected (and less comfort from clean results); the trade-off is risk of incorrect rejection vs acceptance.",
+        "link": "Chapter 5 — Audit Evidence"
+      }
+    },
+    {
+      "id": "p3q-a84uk9",
+      "ch": 5,
+      "topic": "Post-year-end settlement test",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Year-end trade receivables Rs 600 lakh; the audit tests post-year-end cash receipts to 605 lakh through the report date. The correct evaluation:",
+      "o": [
+        "Of Rs 600 lakh, 605 lakh (101%) cleared by the report date; the un-cleared tail is the ECL and dispute-aging focus",
+        "Any un-cleared balance is a misstatement",
+        "Subsequent clearance tests existence only, never valuation",
+        "The test is pointless since clearance may continue after the report"
+      ],
+      "a": 0,
+      "why": "Clearance of 101% supports existence; the un-cleared remainder is where collectability (valuation/ECL), credit-note abuse and disputes are tested; non-clearance is not itself a misstatement, and the test speaks to valuation directly — option 3's 'existence only' is the usual wrong answer.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the one test that pulls double duty — know both shifts AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Post-year-end settlement test",
+        "tip": "Reviewing subsequent receipts/clearings for year-end debtors is both an existence/valuation test and a completeness check when traced from records.",
+        "link": "Chapter 5 — Audit Evidence"
+      }
+    },
+    {
+      "id": "p3q-17k85r3",
+      "ch": 5,
+      "topic": "Post-year-end settlement test",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Year-end trade receivables Rs 600 lakh; the audit tests post-year-end cash receipts to 360 lakh through the report date. The correct evaluation:",
+      "o": [
+        "Any un-cleared balance is a misstatement",
+        "Of Rs 600 lakh, 360 lakh (60%) cleared by the report date; the un-cleared tail is the ECL and dispute-aging focus",
+        "Subsequent clearance tests existence only, never valuation",
+        "The test is pointless since clearance may continue after the report"
+      ],
+      "a": 1,
+      "why": "Clearance of 60% supports existence; the un-cleared remainder is where collectability (valuation/ECL), credit-note abuse and disputes are tested; non-clearance is not itself a misstatement, and the test speaks to valuation directly — option 3's 'existence only' is the usual wrong answer.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the one test that pulls double duty — know both shifts AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Post-year-end settlement test",
+        "tip": "Reviewing subsequent receipts/clearings for year-end debtors is both an existence/valuation test and a completeness check when traced from records.",
+        "link": "Chapter 5 — Audit Evidence"
+      }
+    },
+    {
+      "id": "p3q-g4rjnz",
+      "ch": 5,
+      "topic": "Post-year-end settlement test",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Year-end trade receivables Rs 400 lakh; the audit tests post-year-end cash receipts to 605 lakh through the report date. The correct evaluation:",
+      "o": [
+        "Of Rs 400 lakh, 605 lakh (151%) cleared by the report date; the un-cleared tail is the ECL and dispute-aging focus",
+        "Any un-cleared balance is a misstatement",
+        "Subsequent clearance tests existence only, never valuation",
+        "The test is pointless since clearance may continue after the report"
+      ],
+      "a": 0,
+      "why": "Clearance of 151% supports existence; the un-cleared remainder is where collectability (valuation/ECL), credit-note abuse and disputes are tested; non-clearance is not itself a misstatement, and the test speaks to valuation directly — option 3's 'existence only' is the usual wrong answer.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the one test that pulls double duty — know both shifts AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Post-year-end settlement test",
+        "tip": "Reviewing subsequent receipts/clearings for year-end debtors is both an existence/valuation test and a completeness check when traced from records.",
+        "link": "Chapter 5 — Audit Evidence"
+      }
+    },
+    {
+      "id": "p3q-o6sv9u",
+      "ch": 5,
+      "topic": "Post-year-end settlement test",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Year-end trade receivables Rs 400 lakh; the audit tests post-year-end cash receipts to 310 lakh through the report date. The correct evaluation:",
+      "o": [
+        "Of Rs 400 lakh, 310 lakh (78%) cleared by the report date; the un-cleared tail is the ECL and dispute-aging focus",
+        "Any un-cleared balance is a misstatement",
+        "Subsequent clearance tests existence only, never valuation",
+        "The test is pointless since clearance may continue after the report"
+      ],
+      "a": 0,
+      "why": "Clearance of 78% supports existence; the un-cleared remainder is where collectability (valuation/ECL), credit-note abuse and disputes are tested; non-clearance is not itself a misstatement, and the test speaks to valuation directly — option 3's 'existence only' is the usual wrong answer.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the one test that pulls double duty — know both shifts AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Post-year-end settlement test",
+        "tip": "Reviewing subsequent receipts/clearings for year-end debtors is both an existence/valuation test and a completeness check when traced from records.",
+        "link": "Chapter 5 — Audit Evidence"
+      }
+    },
+    {
+      "id": "p3q-1kn30ex",
+      "ch": 5,
+      "topic": "Post-year-end settlement test",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Year-end trade receivables Rs 400 lakh; the audit tests post-year-end cash receipts to 360 lakh through the report date. The correct evaluation:",
+      "o": [
+        "Any un-cleared balance is a misstatement",
+        "Subsequent clearance tests existence only, never valuation",
+        "Of Rs 400 lakh, 360 lakh (90%) cleared by the report date; the un-cleared tail is the ECL and dispute-aging focus",
+        "The test is pointless since clearance may continue after the report"
+      ],
+      "a": 2,
+      "why": "Clearance of 90% supports existence; the un-cleared remainder is where collectability (valuation/ECL), credit-note abuse and disputes are tested; non-clearance is not itself a misstatement, and the test speaks to valuation directly — option 3's 'existence only' is the usual wrong answer.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the one test that pulls double duty — know both shifts AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Post-year-end settlement test",
+        "tip": "Reviewing subsequent receipts/clearings for year-end debtors is both an existence/valuation test and a completeness check when traced from records.",
+        "link": "Chapter 5 — Audit Evidence"
+      }
+    },
+    {
+      "id": "p3q-30hfq4",
+      "ch": 5,
+      "topic": "Post-year-end settlement test",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Year-end trade receivables Rs 600 lakh; the audit tests post-year-end cash receipts to 310 lakh through the report date. The correct evaluation:",
+      "o": [
+        "Any un-cleared balance is a misstatement",
+        "Subsequent clearance tests existence only, never valuation",
+        "Of Rs 600 lakh, 310 lakh (52%) cleared by the report date; the un-cleared tail is the ECL and dispute-aging focus",
+        "The test is pointless since clearance may continue after the report"
+      ],
+      "a": 2,
+      "why": "Clearance of 52% supports existence; the un-cleared remainder is where collectability (valuation/ECL), credit-note abuse and disputes are tested; non-clearance is not itself a misstatement, and the test speaks to valuation directly — option 3's 'existence only' is the usual wrong answer.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the one test that pulls double duty — know both shifts AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Post-year-end settlement test",
+        "tip": "Reviewing subsequent receipts/clearings for year-end debtors is both an existence/valuation test and a completeness check when traced from records.",
+        "link": "Chapter 5 — Audit Evidence"
+      }
+    },
+    {
+      "id": "p3q-sfcy3j",
+      "ch": 5,
+      "topic": "Cut-off testing arithmetic",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "During cut-off testing the auditor finds receipts logged in the current year though shipped and invoiced in the next (FOB shipping-date rule not applied) of Rs 120 lakh. Evaluation for THIS year's statements:",
+      "o": [
+        "No effect — cut-off self-corrects",
+        "Overstates payables by twice the amount",
+        "Effect is confined to next year's cash flow",
+        "overstates both inventory and payables by Rs 120 lakh (P&L neutral at year end if matched; profit overstated next year)"
+      ],
+      "a": 3,
+      "why": "Cut-off misstatements move the matching pair (inventory↔payables/receivables↔revenue); early billing of goods not shipped (title not passed) inflates revenue AND leaves stock — the worst pattern is the double; a clean in-transit pair merely books both sides a year early.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — FOB logic + double-count awareness is the classic cut-off exam case AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Cut-off testing arithmetic",
+        "tip": "Cut-off error in purchases: goods in transit recorded in neither/both — the error's net effect on P&L is the double, not the single.",
+        "link": "Chapter 5 — Audit Evidence"
+      }
+    },
+    {
+      "id": "p3q-1ivyto6",
+      "ch": 5,
+      "topic": "Cut-off testing arithmetic",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "During cut-off testing the auditor finds despatches invoiced this year, shipped (title transferring) next year of Rs 80 lakh. Evaluation for THIS year's statements:",
+      "o": [
+        "No effect — cut-off self-corrects",
+        "Overstates payables by twice the amount",
+        "Effect is confined to next year's cash flow",
+        "overstates revenue and inventory (double count — goods still in stock and billed) by Rs 80 lakh profit impact"
+      ],
+      "a": 3,
+      "why": "Cut-off misstatements move the matching pair (inventory↔payables/receivables↔revenue); early billing of goods not shipped (title not passed) inflates revenue AND leaves stock — the worst pattern is the double; a clean in-transit pair merely books both sides a year early.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — FOB logic + double-count awareness is the classic cut-off exam case AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Cut-off testing arithmetic",
+        "tip": "Cut-off error in purchases: goods in transit recorded in neither/both — the error's net effect on P&L is the double, not the single.",
+        "link": "Chapter 5 — Audit Evidence"
+      }
+    },
+    {
+      "id": "p3q-1jntycc",
+      "ch": 5,
+      "topic": "Cut-off testing arithmetic",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "During cut-off testing the auditor finds receipts logged in the current year though shipped and invoiced in the next (FOB shipping-date rule not applied) of Rs 80 lakh. Evaluation for THIS year's statements:",
+      "o": [
+        "overstates both inventory and payables by Rs 80 lakh (P&L neutral at year end if matched; profit overstated next year)",
+        "No effect — cut-off self-corrects",
+        "Overstates payables by twice the amount",
+        "Effect is confined to next year's cash flow"
+      ],
+      "a": 0,
+      "why": "Cut-off misstatements move the matching pair (inventory↔payables/receivables↔revenue); early billing of goods not shipped (title not passed) inflates revenue AND leaves stock — the worst pattern is the double; a clean in-transit pair merely books both sides a year early.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — FOB logic + double-count awareness is the classic cut-off exam case AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Cut-off testing arithmetic",
+        "tip": "Cut-off error in purchases: goods in transit recorded in neither/both — the error's net effect on P&L is the double, not the single.",
+        "link": "Chapter 5 — Audit Evidence"
+      }
+    },
+    {
+      "id": "p3q-9y1v2x",
+      "ch": 5,
+      "topic": "Cut-off testing arithmetic",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "During cut-off testing the auditor finds despatches invoiced this year, shipped (title transferring) next year of Rs 120 lakh. Evaluation for THIS year's statements:",
+      "o": [
+        "No effect — cut-off self-corrects",
+        "Overstates payables by twice the amount",
+        "Effect is confined to next year's cash flow",
+        "overstates revenue and inventory (double count — goods still in stock and billed) by Rs 120 lakh profit impact"
+      ],
+      "a": 3,
+      "why": "Cut-off misstatements move the matching pair (inventory↔payables/receivables↔revenue); early billing of goods not shipped (title not passed) inflates revenue AND leaves stock — the worst pattern is the double; a clean in-transit pair merely books both sides a year early.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — FOB logic + double-count awareness is the classic cut-off exam case AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Cut-off testing arithmetic",
+        "tip": "Cut-off error in purchases: goods in transit recorded in neither/both — the error's net effect on P&L is the double, not the single.",
+        "link": "Chapter 5 — Audit Evidence"
+      }
+    },
+    {
+      "id": "p3q-7hejvy",
+      "ch": 5,
+      "topic": "Related-party testing coverage",
+      "m": 2,
+      "d": "HARD",
+      "q": "Management's related-party list carries 12 counterparties; 18 appear in the notes. SA 550 design of work:",
+      "o": [
+        "Tick only disclosed transactions — that is the audit",
+        "Refuse reliance on the register and confirm with each counterparty instead",
+        "Sample any 12 — disclosures need no testing",
+        "Test the 18 disclosed first, then run completeness searches (inquiry, register cross-check, shareholder/DP data, unusual credits, bank confirmations with related-party boxes) — the gap (-6) is the real risk"
+      ],
+      "a": 3,
+      "why": "The risk in RPTs is UNDISCLOSED relationships (names hidden, structures layered) — completeness procedures (register, audit trail of counterparties common to cash cycles, confirmations that ask the relationship questions, background checks on major new counterparties) come first; disclosed items are then tested for authorisation and arm's-length substance.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the 'gap is the point' framing is how SA 550 answers score Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Related-party testing coverage",
+        "tip": "The RPT work is about identifying completeness (searching beyond the register) and substance, not ticking the disclosed list only.",
+        "link": "Chapter 5 — Audit Evidence"
+      }
+    },
+    {
+      "id": "p3q-zxtlw3",
+      "ch": 5,
+      "topic": "Related-party testing coverage",
+      "m": 2,
+      "d": "HARD",
+      "q": "Management's related-party list carries 12 counterparties; 6 appear in the notes. SA 550 design of work:",
+      "o": [
+        "Tick only disclosed transactions — that is the audit",
+        "Refuse reliance on the register and confirm with each counterparty instead",
+        "Sample any 12 — disclosures need no testing",
+        "Test the 6 disclosed first, then run completeness searches (inquiry, register cross-check, shareholder/DP data, unusual credits, bank confirmations with related-party boxes) — the gap (6) is the real risk"
+      ],
+      "a": 3,
+      "why": "The risk in RPTs is UNDISCLOSED relationships (names hidden, structures layered) — completeness procedures (register, audit trail of counterparties common to cash cycles, confirmations that ask the relationship questions, background checks on major new counterparties) come first; disclosed items are then tested for authorisation and arm's-length substance.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the 'gap is the point' framing is how SA 550 answers score Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Related-party testing coverage",
+        "tip": "The RPT work is about identifying completeness (searching beyond the register) and substance, not ticking the disclosed list only.",
+        "link": "Chapter 5 — Audit Evidence"
+      }
+    },
+    {
+      "id": "p3q-tyqioq",
+      "ch": 5,
+      "topic": "Related-party testing coverage",
+      "m": 2,
+      "d": "HARD",
+      "q": "Management's related-party list carries 30 counterparties; 18 appear in the notes. SA 550 design of work:",
+      "o": [
+        "Tick only disclosed transactions — that is the audit",
+        "Test the 18 disclosed first, then run completeness searches (inquiry, register cross-check, shareholder/DP data, unusual credits, bank confirmations with related-party boxes) — the gap (12) is the real risk",
+        "Refuse reliance on the register and confirm with each counterparty instead",
+        "Sample any 30 — disclosures need no testing"
+      ],
+      "a": 1,
+      "why": "The risk in RPTs is UNDISCLOSED relationships (names hidden, structures layered) — completeness procedures (register, audit trail of counterparties common to cash cycles, confirmations that ask the relationship questions, background checks on major new counterparties) come first; disclosed items are then tested for authorisation and arm's-length substance.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the 'gap is the point' framing is how SA 550 answers score Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Related-party testing coverage",
+        "tip": "The RPT work is about identifying completeness (searching beyond the register) and substance, not ticking the disclosed list only.",
+        "link": "Chapter 5 — Audit Evidence"
+      }
+    },
+    {
+      "id": "p3q-dc17hb",
+      "ch": 5,
+      "topic": "Related-party testing coverage",
+      "m": 2,
+      "d": "HARD",
+      "q": "Management's related-party list carries 30 counterparties; 6 appear in the notes. SA 550 design of work:",
+      "o": [
+        "Tick only disclosed transactions — that is the audit",
+        "Test the 6 disclosed first, then run completeness searches (inquiry, register cross-check, shareholder/DP data, unusual credits, bank confirmations with related-party boxes) — the gap (24) is the real risk",
+        "Refuse reliance on the register and confirm with each counterparty instead",
+        "Sample any 30 — disclosures need no testing"
+      ],
+      "a": 1,
+      "why": "The risk in RPTs is UNDISCLOSED relationships (names hidden, structures layered) — completeness procedures (register, audit trail of counterparties common to cash cycles, confirmations that ask the relationship questions, background checks on major new counterparties) come first; disclosed items are then tested for authorisation and arm's-length substance.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the 'gap is the point' framing is how SA 550 answers score Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Related-party testing coverage",
+        "tip": "The RPT work is about identifying completeness (searching beyond the register) and substance, not ticking the disclosed list only.",
+        "link": "Chapter 5 — Audit Evidence"
+      }
+    }
+  ]
+}

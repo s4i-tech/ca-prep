@@ -1,0 +1,323 @@
+{
+  "meta": {
+    "id": "p3-nov26-ch16-mcq",
+    "paper": "P3",
+    "attempt": "NOV-2026",
+    "kind": "chapter",
+    "category": "CHAPTER-WISE MCQs",
+    "title": "Ch 16: Internal Audit — MCQ Bank",
+    "description": "Chapter-wise practice MCQs for Chapter 16 (Internal Audit).",
+    "count": 12,
+    "mcqCount": 12,
+    "descriptiveCount": 0,
+    "coverage": "Chapter 16 · 12 MCQs",
+    "chapters": [
+      16
+    ],
+    "durationMinutes": 18,
+    "difficulty": "Exam standard",
+    "high": 4,
+    "medium": 5,
+    "low": 3
+  },
+  "questions": [
+    {
+      "id": "p3q-1303iy4",
+      "ch": 16,
+      "topic": "The internal audit bridge",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "The independence flaw that caps reliance most:",
+      "o": [
+        "Staffing of 3",
+        "Reporting to the CFO and owning process fixes (vendor-master cleanup) — the objectivity axis",
+        "Testing only finance",
+        "Thin workpapers"
+      ],
+      "a": 1,
+      "why": "Reporting to the CFO undercuts organisational independence; and OWNING a control activity (vendor master) = auditing its own work — both objectivity breaks; the rest are quality (competence/systematic approach) issues, which are separate SA 610 axes.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — this topic stays active in ICAI question-setting Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: The internal audit bridge",
+        "tip": "You cannot referee your own goal line An auditor with a side project brings a conflict home.",
+        "link": "Chapter 16 — Internal Audit"
+      },
+      "stem": "The statutory team for Delta Fab depends on internal audit: IA staffed by 3, reports to CFO, tested only finance cycles, workpapers thin (checklists without re-performance notes), and it did audit inventory counts at 2 of 6 plants. IA also 'improves processes' (owns the ERP vendor master cleanup).",
+      "caseRef": "p3-case-7"
+    },
+    {
+      "id": "p3q-w7sver",
+      "ch": 16,
+      "topic": "The internal audit bridge",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Thin workpapers (no re-performance notes) attack:",
+      "o": [
+        "Objectivity",
+        "The 'systematic and disciplined approach' axis — and the external auditor must then RE-PERFORM to rely",
+        "Competence",
+        "Scope"
+      ],
+      "a": 1,
+      "why": "Documentation quality is the 'systematic' prong; without it, the external auditor cannot evaluate sufficiency — reliance means testing their work, and if testing is impossible, the work is unusable.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — this topic stays active in ICAI question-setting Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: The internal audit bridge",
+        "tip": "A method you can't read is a method you can't borrow An audit trail of the audit itself is what makes a secondhand audit usable.",
+        "link": "Chapter 16 — Internal Audit"
+      },
+      "stem": "The statutory team for Delta Fab depends on internal audit: IA staffed by 3, reports to CFO, tested only finance cycles, workpapers thin (checklists without re-performance notes), and it did audit inventory counts at 2 of 6 plants. IA also 'improves processes' (owns the ERP vendor master cleanup).",
+      "caseRef": "p3-case-7"
+    },
+    {
+      "id": "p3q-60sk3x",
+      "ch": 16,
+      "topic": "The internal audit bridge",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Using IA for inventory observation at 2 plants:",
+      "o": [
+        "Directly adopt as the auditor's count evidence",
+        "The external auditor evaluates competence/objectivity, DIRECTLY SUPERVISES/reviews their work (or re-performs a subset), and retains judgment on the counts — for high-risk quantities the external auditor goes personally",
+        "Ask the storekeeper",
+        "Skip the plants"
+      ],
+      "a": 1,
+      "why": "Where the work IS low-judgment, IA's effort may be used under direction and review with the external auditor's own procedures for evaluation; counts carry judgment and materiality (2 plants can hold the year's error) — the response is supervision + sample re-performance, not delegation, and not a cold shoulder.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — this topic stays active in ICAI question-setting AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: The internal audit bridge",
+        "tip": "Borrow the hands, keep the eyes The auditor may watch the watchman — but must see the stock.",
+        "link": "Chapter 16 — Internal Audit"
+      },
+      "stem": "The statutory team for Delta Fab depends on internal audit: IA staffed by 3, reports to CFO, tested only finance cycles, workpapers thin (checklists without re-performance notes), and it did audit inventory counts at 2 of 6 plants. IA also 'improves processes' (owns the ERP vendor master cleanup).",
+      "caseRef": "p3-case-7"
+    },
+    {
+      "id": "p3q-1jb0pia",
+      "ch": 16,
+      "topic": "The internal audit bridge",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "The reliance ceiling for this IA function overall:",
+      "o": [
+        "Unlimited — they are trained",
+        "Low — the judgment-heavy work (fraud risk, estimates, the count conclusions for the material plants) stays with the external auditor; use IA for defined routine tasks after their evaluation",
+        "Only for payroll",
+        "None — the independence breaks it"
+      ],
+      "a": 1,
+      "why": "Even with a competent function, the areas of higher judgment (significance of misstatements, evaluation of sufficiency, fraud, estimates, the opinion) are reserved; here with the objectivity flaws, the ceiling is lower — but 'zero' is usually wrong where routine work exists; the nuance is the answer.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — this topic stays active in ICAI question-setting AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: The internal audit bridge",
+        "tip": "Relegation, not resignation Some borrowing is supervision in disguise.",
+        "link": "Chapter 16 — Internal Audit"
+      },
+      "stem": "The statutory team for Delta Fab depends on internal audit: IA staffed by 3, reports to CFO, tested only finance cycles, workpapers thin (checklists without re-performance notes), and it did audit inventory counts at 2 of 6 plants. IA also 'improves processes' (owns the ERP vendor master cleanup).",
+      "caseRef": "p3-case-7"
+    },
+    {
+      "id": "p3q-wokxop",
+      "ch": 16,
+      "topic": "The internal audit bridge",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "The audit committee's interest in IA findings that Delta Fab left unremediated:",
+      "o": [
+        "Not the auditor's data",
+        "Read the IA reports + management responses: uncorrected findings are the external auditor's risk map for the year (and the basis for a TCWG conversation)",
+        "Ask the client's auditor only",
+        "Skip — IA is confidential"
+      ],
+      "a": 1,
+      "why": "SA 610's communication point: the external auditor uses IA's outputs to shape risk assessment; persistent uncorrected findings are also a monitoring-component failure (control environment) — feeding the ICFR view as well as the substantive plan.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — this topic stays active in ICAI question-setting Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: The internal audit bridge",
+        "tip": "A finding ignored is a risk named twice The file's unread warnings are the year's real to-dos.",
+        "link": "Chapter 16 — Internal Audit"
+      },
+      "stem": "The statutory team for Delta Fab depends on internal audit: IA staffed by 3, reports to CFO, tested only finance cycles, workpapers thin (checklists without re-performance notes), and it did audit inventory counts at 2 of 6 plants. IA also 'improves processes' (owns the ERP vendor master cleanup).",
+      "caseRef": "p3-case-7"
+    },
+    {
+      "id": "p3q-7devcp",
+      "ch": 16,
+      "topic": "Internal audit independence",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "The effectiveness of an internal audit function depends MOST critically on:",
+      "o": [
+        "Its headcount relative to the entity size",
+        "Objectivity — organisational independence (reporting to those charged with governance, typically the audit committee) and competence",
+        "Its qualification levels",
+        "Software tools used"
+      ],
+      "a": 1,
+      "why": "SA 610 evaluation: nature of reporting lines, status within the organisation, freedom from conflicting responsibilities, competence and due professional care, and whether it is treated as systematic and disciplined — independence in structure, not in size.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — who it reports to decides what it can find AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Internal audit independence",
+        "tip": "An internal audit with a boss inside the room audits the furniture.",
+        "link": "Chapter 16 — Internal Audit"
+      }
+    },
+    {
+      "id": "p3q-1vgz0b3",
+      "ch": 16,
+      "topic": "Reliance on internal audit work",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "The statutory auditor may use the internal auditors' work for:",
+      "o": [
+        "Substantive evidence only",
+        "Direct assistance (after evaluating competence/objectivity/systematic approach), or testing their work — the judgment on sufficiency remains the auditor's alone",
+        "Signing the audit report",
+        "Relying without testing for high-risk areas"
+      ],
+      "a": 1,
+      "why": "SA 610: where internal audit is effective, use its work to modify procedures or as direct assistance (supervised, reviewed); the extent of reliance falls with the item's judgment/risk and prior deficiencies; the external auditor's responsibility is never shared.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — reliance is a dial, judgment is the driver's seat AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Reliance on internal audit work",
+        "tip": "The borrowed pair of binoculars still needs your eyes.",
+        "link": "Chapter 16 — Internal Audit"
+      }
+    },
+    {
+      "id": "p3q-1r0uf3d",
+      "ch": 16,
+      "topic": "Direct assistance limits",
+      "m": 1,
+      "d": "HARD",
+      "q": "Using internal audit for DIRECT ASSISTANCE requires:",
+      "o": [
+        "Nothing special",
+        "Law/regulation permitting it, plus evaluating their competence/objectivity, direction, supervision and review by the auditor — and no high-judgment tasks",
+        "Client consent only",
+        "A fee share"
+      ],
+      "a": 1,
+      "why": "The two-tier answer: allowed where the jurisdiction permits, with safeguards; judgment-heavy work (fraud, materiality, estimates) stays with the auditor.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the tasks you lend are the boring ones Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Direct assistance limits",
+        "tip": "Some pens only sign with their own hands.",
+        "link": "Chapter 16 — Internal Audit"
+      }
+    },
+    {
+      "id": "p3q-uaearm",
+      "ch": 16,
+      "topic": "Internal audit reporting line",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "The structural safeguard for internal audit's independence is:",
+      "o": [
+        "Reporting to the CFO",
+        "Functional reporting to the audit committee (with administrative reporting to the CEO/administration), approval of the IA plan and budget by the committee, and access rights",
+        "Membership in operations",
+        "Salary by the audited units"
+      ],
+      "a": "1",
+      "why": "The IIA-aligned and ICAI guidance pattern: charter approved by the board/committee, dual-line reporting with FUNCTIONAL primacy to the audit committee, unrestricted access, and committee approval of appointment/removal, plan, and results — that structure, not the title, is what the regulator and the exam ask you to defend.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — whoever signs your appraisal sets your courage Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Internal audit reporting line",
+        "tip": "Report to the referee you audit the game for.",
+        "link": "Chapter 16 — Internal Audit"
+      }
+    },
+    {
+      "id": "p3q-1fhmo3f",
+      "ch": 16,
+      "topic": "Co-sourcing",
+      "m": 1,
+      "d": "HARD",
+      "q": "A bank's internal audit department engaging a specialist firm for cybersecurity testing while retaining scope-setting and supervision is:",
+      "o": [
+        "Outsourcing the function",
+        "Co-sourcing — internal audit owns the plan and conclusions, external specialists supply skills",
+        "Insourcing",
+        "Consulting exemption"
+      ],
+      "a": "1",
+      "why": "Co-sourcing keeps the accountability inside (audit committee-approved plan, IA's workpaper ownership, sign-off) while borrowing scarce expertise; wholesale outsourcing of the function exists too — the distinction the exam wants is who owns the opinion and the follow-up.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — borrow the hands, keep the conscience Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Co-sourcing",
+        "tip": "Specialists rent their skills; internal audit cannot rent its responsibility.",
+        "link": "Chapter 16 — Internal Audit"
+      }
+    },
+    {
+      "id": "p3q-yuvjc1",
+      "ch": 16,
+      "topic": "Audit committee — charter items",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A well-positioned internal audit function reports functionally to the audit committee. The committee's role includes:",
+      "o": [
+        "Approving leave of IA staff",
+        "Reviewing IA's charter, plan, resourcing, significant findings and management responses; approving appointment/removal of the head",
+        "Running the company's CSR",
+        "Setting the audit fee of the statutory auditor only"
+      ],
+      "a": 1,
+      "why": "The committee's IA oversight is substantive — charter, plan-vs-execution, findings' resolution status — the governance seat that protects internal audit's independence from management pressure.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — structure independence by committee AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Audit committee — charter items",
+        "tip": "A function reporting sideways to the boss audits the boss's tolerance.",
+        "link": "Chapter 16 — Internal Audit"
+      }
+    },
+    {
+      "id": "p3q-vqanv3",
+      "ch": 16,
+      "topic": "Outsourced IA quality",
+      "m": 1,
+      "d": "HARD",
+      "q": "When IA is outsourced to a firm, the statutory auditor evaluating reliance must additionally consider:",
+      "o": [
+        "Nothing extra",
+        "Objectivity where the provider also performs operational work for the entity, and the same competence/systematic-approach axes",
+        "Its fee",
+        "Its office location"
+      ],
+      "a": 1,
+      "why": "The provider can be auditing its own building work (systems implemented, books maintained) — the self-review strand is amplified, so evaluate the service mix for conflicts, then the usual 610 axes.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the contractor's other contract is the problem Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Outsourced IA quality",
+        "tip": "Outsourcing can import a conflict with the invoice.",
+        "link": "Chapter 16 — Internal Audit"
+      }
+    }
+  ]
+}

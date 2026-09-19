@@ -1,0 +1,217 @@
+{
+  "meta": {
+    "id": "p3-nov26-ch11-mcq",
+    "paper": "P3",
+    "attempt": "NOV-2026",
+    "kind": "chapter",
+    "category": "CHAPTER-WISE MCQs",
+    "title": "Ch 11: Prospective Financial Information and Other Assurance Services — MCQ Bank",
+    "description": "Chapter-wise practice MCQs for Chapter 11 (Prospective Financial Information and Other Assurance Services).",
+    "count": 8,
+    "mcqCount": 8,
+    "descriptiveCount": 0,
+    "coverage": "Chapter 11 · 8 MCQs",
+    "chapters": [
+      11
+    ],
+    "durationMinutes": 12,
+    "difficulty": "Exam standard",
+    "high": 1,
+    "medium": 6,
+    "low": 1
+  },
+  "questions": [
+    {
+      "id": "p3q-144cjn6",
+      "ch": 11,
+      "topic": "Prospective information — reliance",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A practitioner examining prospective financial information reports on whether:",
+      "o": [
+        "The forecast will materialise",
+        "The PFI is prepared in accordance with stated criteria, assumptions are not obviously unsupportable, and presentation is appropriate",
+        "Past management honesty holds",
+        "The entity's controls are effective"
+      ],
+      "a": 1,
+      "why": "Examination of PFI (forecast/projection) = opinion on preparation basis + assumption reasonableness + presentation — the standard caution that events will NOT occur as forecast is in every template sentence; assurance is on the BASIS, not the outcome.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the forecast's accuracy is not an opinion's subject AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Prospective information — reliance",
+        "tip": "The auditor certifies the compass, not the weather.",
+        "link": "Chapter 11 — Prospective Financial Information and Other Assurance Services"
+      }
+    },
+    {
+      "id": "p3q-1ju3k55",
+      "ch": 11,
+      "topic": "Assurance engagement criteria",
+      "m": 1,
+      "d": "HARD",
+      "q": "An assurance engagement other than audit/review requires suitable criteria, appropriate subject matter, and sufficient appropriate evidence — the criteria's role is to:",
+      "o": [
+        "Measure the auditor's performance",
+        "Provide the benchmark against which the subject matter is evaluated, enabling consistency and comparability of conclusions",
+        "Be disclosed to users always",
+        "Replace management's responsibility"
+      ],
+      "a": 1,
+      "why": "Suitable criteria (relevant, complete, reliable, neutral, understandable) are the yardstick; inappropriate criteria invalidate the conclusion even with perfect evidence — an exam favourite on the five-element framework (parties, subject matter, criteria, evidence, conclusion).",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — criteria are the ruler; the subject is what you measure Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Assurance engagement criteria",
+        "tip": "A wrong yardstick gives a precise lie.",
+        "link": "Chapter 11 — Prospective Financial Information and Other Assurance Services"
+      }
+    },
+    {
+      "id": "p3q-1faw36h",
+      "ch": 11,
+      "topic": "Prospective info reliance",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "The examination report on a forecast states the practitioner:",
+      "o": [
+        "Guarantees the outcome",
+        "Opines on whether the PFI is properly prepared per the criteria and presented appropriately — actual results will differ",
+        "Audits the entity",
+        "Skips assumptions"
+      ],
+      "a": 1,
+      "why": "The basis-not-outcome opinion, plus the standard 'results will differ' sentence — both mandatory in the wording.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the opinion is a receipt for the method AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Prospective info reliance",
+        "tip": "Forecasts fail honestly; opinion wording says so.",
+        "link": "Chapter 11 — Prospective Financial Information and Other Assurance Services"
+      }
+    },
+    {
+      "id": "p3q-1kiaa0a",
+      "ch": 11,
+      "topic": "PFI — inappropriate assumptions",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "In an examination of prospective financial information, the practitioner's assurance covers:",
+      "o": [
+        "Whether the results will be achieved",
+        "That the PFI is prepared in accordance with the applicable framework, assumptions are suitably supported and not obviously inappropriate, and presentation is consistent",
+        "The client's forecasts being accurate",
+        "Management's competence"
+      ],
+      "a": "1",
+      "why": "The engagement attests to the construction, never the outcome: basis of preparation, support for assumptions, and absence of obviously inappropriate ones — even perfect work does not make the forecast come true.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — guarantee the arithmetic of the crystal ball, not the vision Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: PFI — inappropriate assumptions",
+        "tip": "The auditor certifies the map, not the weather ahead.",
+        "link": "Chapter 11 — Prospective Financial Information and Other Assurance Services"
+      }
+    },
+    {
+      "id": "p3q-ud3bc6",
+      "ch": 11,
+      "topic": "Restriction on use",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A PFI examination report may be restricted to specified users when:",
+      "o": [
+        "The practitioner likes privacy",
+        "The information suit only particular users, the intended users and purpose are understood, and the practitioner's consent is named — to limit liability to those who rely",
+        "Management requests it",
+        "The forecast exceeds five years"
+      ],
+      "a": "1",
+      "why": "General-use PFI must not be tailored for a single deal; restricted-use reports (e.g., for one lender or transaction) confine reliance to named parties — that is why deal teams circulate PFI packs with the report's use clause attached.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — who may read is part of what it says AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Restriction on use",
+        "tip": "A report addressed to one bank is a letter, not a leaflet.",
+        "link": "Chapter 11 — Prospective Financial Information and Other Assurance Services"
+      }
+    },
+    {
+      "id": "p3q-ccmnw9",
+      "ch": 11,
+      "topic": "Suitable criteria test set",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Suitable criteria in an assurance engagement must be relevant, complete, reliable, neutral and:",
+      "o": [
+        "Expensive",
+        "Understandable",
+        "Published",
+        "Numeric"
+      ],
+      "a": 1,
+      "why": "The five criteria attributes: relevance to the subject and purpose, completeness (including disclosure where relevant), reliability (determinable consistently), neutrality (free of bias), understandability (no private interpretation).",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the adjectives are the answer AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Suitable criteria test set",
+        "tip": "A ruler with private units measures nothing.",
+        "link": "Chapter 11 — Prospective Financial Information and Other Assurance Services"
+      }
+    },
+    {
+      "id": "p3q-8mypl2",
+      "ch": 11,
+      "topic": "Assurance parties",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "The three parties in an assurance engagement are:",
+      "o": [
+        "Client, bank, auditor",
+        "Practitioner, responsible party, intended users",
+        "Board, management, shareholders",
+        "Auditor, predecessor, regulator"
+      ],
+      "a": 1,
+      "why": "The triad: who gives the conclusion (practitioner), who is measured (responsible party — often the management), who reads it (intended users) — the responsible party may also be the intended user (internal audit assurance), but all three roles must be identifiable.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — roles, not names, decide the engagement AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Assurance parties",
+        "tip": "No triangle, no assurance.",
+        "link": "Chapter 11 — Prospective Financial Information and Other Assurance Services"
+      }
+    },
+    {
+      "id": "p3q-1gucqvd",
+      "ch": 11,
+      "topic": "Forecast vs projection",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A projection differs from a forecast because it:",
+      "o": [
+        "Covers shorter periods",
+        "Assumes hypothetical conditions different from the expected best estimate (a what-if restatement of the same assumptions)",
+        "Needs no criteria",
+        "Is never examined"
+      ],
+      "a": 1,
+      "why": "Forecast = best-estimate path; projection = 'if X were true' — one extra layer of hypothetical, and therefore a bigger warning label on its reliability.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — assumption distance decides the risk AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Forecast vs projection",
+        "tip": "A forecast is a plan; a projection is a dare.",
+        "link": "Chapter 11 — Prospective Financial Information and Other Assurance Services"
+      }
+    }
+  ]
+}

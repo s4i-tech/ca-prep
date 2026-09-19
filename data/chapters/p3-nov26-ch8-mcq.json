@@ -1,0 +1,323 @@
+{
+  "meta": {
+    "id": "p3-nov26-ch8-mcq",
+    "paper": "P3",
+    "attempt": "NOV-2026",
+    "kind": "chapter",
+    "category": "CHAPTER-WISE MCQs",
+    "title": "Ch 8: Specialised Areas — MCQ Bank",
+    "description": "Chapter-wise practice MCQs for Chapter 8 (Specialised Areas).",
+    "count": 12,
+    "mcqCount": 12,
+    "descriptiveCount": 0,
+    "coverage": "Chapter 8 · 12 MCQs",
+    "chapters": [
+      8
+    ],
+    "durationMinutes": 18,
+    "difficulty": "Exam standard",
+    "high": 2,
+    "medium": 5,
+    "low": 5
+  },
+  "questions": [
+    {
+      "id": "p3q-dwcyn9",
+      "ch": 8,
+      "topic": "Specialised weeks — a NBFC and a PSU",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "File A's provisioning test design:",
+      "o": [
+        "Trust the certificate",
+        "Independent recompute from the overdue data: run the 90-day trigger yourself; the certificate is a representation, not evidence",
+        "Ask the bank's auditor",
+        "Sample only the classification sheet"
+      ],
+      "a": 1,
+      "why": "Classification is an output of the ageing; testing it from the ledger is the only route to substance (the certificate is management's assertion on the very matter under audit — a classic self-validating control to distrust in banks/NBFCs).",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — this topic stays active in ICAI question-setting Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Specialised weeks — a NBFC and a PSU",
+        "tip": "Recompute the rule, then read the certificate The tag follows the calendar, and the auditor follows the tag's math.",
+        "link": "Chapter 8 — Specialised Areas"
+      },
+      "stem": "Two files share a partner: (A) Swiftcash NBFC — loan book 40,000 lakh, 90+ overdue at 11%, management certifies 'classification as per norms', provisioning computed from the classification tag not the ageing; (B) Jal Nigam Ltd (government company) — the auditor is weighing a management letter on water-project delays against the C&AG's directions.",
+      "caseRef": "p3-case-8"
+    },
+    {
+      "id": "p3q-f5hhcz",
+      "ch": 8,
+      "topic": "Specialised weeks — a NBFC and a PSU",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "File A's restructuring check:",
+      "o": [
+        "Accept the classification at restructure date",
+        "Test the qualifying criteria were met AND whether monitoring-period breaches require reversion to a higher grade — the provision step-up follows the reversion",
+        "Ignore restructures",
+        "Report to the exchange"
+      ],
+      "a": 1,
+      "why": "Restructured accounts must meet the framework's conditions to earn standard treatment (and the monitoring-period logic: default during it = back to classification with higher provisioning); a 'once restructured, forever standard' book is a provision hole — the 90-day population is the test target.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — this topic stays active in ICAI question-setting AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Specialised weeks — a NBFC and a PSU",
+        "tip": "A restructure is a trial period, not a diploma The forgiveness has a probation clock the auditor winds.",
+        "link": "Chapter 8 — Specialised Areas"
+      },
+      "stem": "Two files share a partner: (A) Swiftcash NBFC — loan book 40,000 lakh, 90+ overdue at 11%, management certifies 'classification as per norms', provisioning computed from the classification tag not the ageing; (B) Jal Nigam Ltd (government company) — the auditor is weighing a management letter on water-project delays against the C&AG's directions.",
+      "caseRef": "p3-case-8"
+    },
+    {
+      "id": "p3q-1h50vjf",
+      "ch": 8,
+      "topic": "Specialised weeks — a NBFC and a PSU",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "File B — the delay observation:",
+      "o": [
+        "Management letter only",
+        "Beyond the FS opinion: the C&AG directions may require the auditor to report on delays as an additional matter (economy/propriety lens) — so the observation travels into the directions-based report section, not only the private letter",
+        "Ignore",
+        "Hand it to the press"
+      ],
+      "a": 1,
+      "why": "In PSU audits the directions are the mechanism: compliance with administrative approvals, utilisation of grants/loans, and the economy/efficiency view can be part of the REPORT itself — the delay is a performance question with a reporting channel the private-sector auditor doesn't have.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — this topic stays active in ICAI question-setting AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Specialised weeks — a NBFC and a PSU",
+        "tip": "Public money buys a public sentence In a PSU, the management letter has a co-signer.",
+        "link": "Chapter 8 — Specialised Areas"
+      },
+      "stem": "Two files share a partner: (A) Swiftcash NBFC — loan book 40,000 lakh, 90+ overdue at 11%, management certifies 'classification as per norms', provisioning computed from the classification tag not the ageing; (B) Jal Nigam Ltd (government company) — the auditor is weighing a management letter on water-project delays against the C&AG's directions.",
+      "caseRef": "p3-case-8"
+    },
+    {
+      "id": "p3q-u75ukm",
+      "ch": 8,
+      "topic": "Specialised weeks — a NBFC and a PSU",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "If File B's project used a grant for a different purpose:",
+      "o": [
+        "A compliance footnote",
+        "A specified-matter report item: utilisation of grants/devolved funds is the classic additional-matter category — quantify and name the deviation in the directed matters, since it also has accounting (income/liability) and propriety implications",
+        "Let the accounts handle it",
+        "Wait for the CAG"
+      ],
+      "a": 1,
+      "why": "Misuse of earmarked grants is BOTH a financial-statement issue (the recognition of a liability to refund) and a propriety matter under the directions — the answer names the dual effect; the auditor books the liability AND reports the deviation.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — this topic stays active in ICAI question-setting AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Specialised weeks — a NBFC and a PSU",
+        "tip": "A grant that wanders becomes a debt and a headline Earmarks are fences; fences are audit scope.",
+        "link": "Chapter 8 — Specialised Areas"
+      },
+      "stem": "Two files share a partner: (A) Swiftcash NBFC — loan book 40,000 lakh, 90+ overdue at 11%, management certifies 'classification as per norms', provisioning computed from the classification tag not the ageing; (B) Jal Nigam Ltd (government company) — the auditor is weighing a management letter on water-project delays against the C&AG's directions.",
+      "caseRef": "p3-case-8"
+    },
+    {
+      "id": "p3q-1d3z6bv",
+      "ch": 8,
+      "topic": "Specialised weeks — a NBFC and a PSU",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "What the partner must not do with the two files:",
+      "o": [
+        "Compare methodologies",
+        "Let the NBFC's 'trust the certificate' habit leak into the PSU's grant testing — each file has its own evidence rules; also, never swap the team across independence lines",
+        "Use one planning template's headings",
+        "Schedule both counts"
+      ],
+      "a": 1,
+      "why": "The cross-file contamination risk is real (method laziness), and the ethics line is independence (partner on both is fine ONLY where no relationships cross); the 'evidence rules are file-specific' discipline is the audit-quality point.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — this topic stays active in ICAI question-setting Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Specialised weeks — a NBFC and a PSU",
+        "tip": "Context is the method Copy the checklist; never the conclusions.",
+        "link": "Chapter 8 — Specialised Areas"
+      },
+      "stem": "Two files share a partner: (A) Swiftcash NBFC — loan book 40,000 lakh, 90+ overdue at 11%, management certifies 'classification as per norms', provisioning computed from the classification tag not the ageing; (B) Jal Nigam Ltd (government company) — the auditor is weighing a management letter on water-project delays against the C&AG's directions.",
+      "caseRef": "p3-case-8"
+    },
+    {
+      "id": "p3q-1c18tsw",
+      "ch": 8,
+      "topic": "Bank audits — NPA trigger",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Under RBI prudential norms as applied in bank audits, a standard asset becomes an NPA when interest/principal remains overdue for more than:",
+      "o": [
+        "30 days",
+        "60 days",
+        "90 days",
+        "180 days"
+      ],
+      "a": 2,
+      "why": "90 days overdue ⇒ NPA classification (sub-standard at inception, then further categories with ageing); the rule is a core knowledge item for the bank-audit chapter and an audit-procedure hook (test the overdue ageing, not the management certificate).",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — ageing-based, never management-asserted AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Bank audits — NPA trigger",
+        "tip": "A loan's life support runs on days, not optimism.",
+        "link": "Chapter 8 — Specialised Areas"
+      }
+    },
+    {
+      "id": "p3q-1pdtxx",
+      "ch": 8,
+      "topic": "Carve-in vs carve-out",
+      "m": 1,
+      "d": "HARD",
+      "q": "A service organisation's controls are tested by the user auditor using the carve-out method when:",
+      "o": [
+        "They are included in the service auditor's report and tested by it",
+        "The service auditor's report EXCLUDES certain controls, so the user auditor must perform procedures on them directly (or by other means)",
+        "No reliance is placed on the service organisation",
+        "The user entity performs all its own processing"
+      ],
+      "a": 1,
+      "why": "Under SA 402, the service auditor's report follows the included (carve-in) or excluded (carve-out) approach; where controls relevant to user entities are carved OUT, the user auditor cannot rely on the report for them and must test or obtain evidence by other means.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — read the service report's 'included/excluded' scope before trusting the opinion Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Carve-in vs carve-out",
+        "tip": "The method names what the report covers — read the caption before the conclusion.",
+        "link": "Chapter 8 — Specialised Areas"
+      }
+    },
+    {
+      "id": "p3q-i3y6tb",
+      "ch": 8,
+      "topic": "IFMRRC & concurrent audit?",
+      "m": 1,
+      "d": "HARD",
+      "q": "Under the framework for bank branch audits, concurrent audit is oriented towards:",
+      "o": [
+        "Verifying financial statements of the bank",
+        "Frequent internal checks on branch transactions at an early stage for compliance and risk rectification",
+        "Statutory tax audits",
+        "Forensic investigations only"
+      ],
+      "a": 1,
+      "why": "Concurrent (and risk-based) internal systems and controls audits are an EARLY-warning internal layer at branches — a supplement to, not a substitute for, the statutory audit; understanding their reliance informs audit coverage decisions (SA 610 thinking applied to internal-audit-style mechanisms).",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — early-warning layer: internal, periodic, not an opinion Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: IFMRRC & concurrent audit?",
+        "tip": "Repetition is a remedy in a bank's audit model.",
+        "link": "Chapter 8 — Specialised Areas"
+      }
+    },
+    {
+      "id": "p3q-1b74gb7",
+      "ch": 8,
+      "topic": "Service report period",
+      "m": 1,
+      "d": "HARD",
+      "q": "A Type 2 service organisation report covers:",
+      "o": [
+        "A point in time",
+        "Design AND operating effectiveness over a specified PERIOD — gaps from the period end to the audit year-end need roll-forward work",
+        "Only management's claims",
+        "All user controls"
+      ],
+      "a": 1,
+      "why": "The '2' is the operations-over-a-period version; mismatched dates mean the user auditor fills the gap.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the calendar matters as much as the caption Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Service report period",
+        "tip": "Reports expire like milk on the client's dates.",
+        "link": "Chapter 8 — Specialised Areas"
+      }
+    },
+    {
+      "id": "p3q-1cf5vzi",
+      "ch": 8,
+      "topic": "Cost audit context",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A cost audit (where ordered under the Companies Act) is conducted under:",
+      "o": [
+        "The SAs by analogy and the cost audit rules/CASB standards",
+        "The FS framework",
+        "The tax act",
+        "The RBI directions"
+      ],
+      "a": 0,
+      "why": "Cost audits have their own statutory track (Section 148 + rules; CASB standards) with a specified scope of cost records and reporting to the board/regulator — the FS auditor reads the report for inventory and costing consistency, they don't share an opinion.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — two audit regimes, one warehouse AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Cost audit context",
+        "tip": "Cost audit counts the rupees in the process, not on the page.",
+        "link": "Chapter 8 — Specialised Areas"
+      }
+    },
+    {
+      "id": "p3q-6vka2g",
+      "ch": 8,
+      "topic": "Trust audits",
+      "m": 1,
+      "d": "HARD",
+      "q": "A trust audit of a charitable entity pays special attention to:",
+      "o": [
+        "Only the balance sheet",
+        "Application of funds to objects, 80G/12A compliance, related-party use, and the trust deed's constraints",
+        "Filing dates",
+        "The auditor's fee"
+      ],
+      "a": 1,
+      "why": "Non-profit audits pivot on application-of-income tests (are outgoings for the objects?), deed compliance, and the abuse routes (loans to trustees' entities, cash spending caps) — the standard profit lens misses the whole risk book.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — where the money went matters more than the surplus Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Trust audits",
+        "tip": "A charity's P&L is a receipt list for the mission.",
+        "link": "Chapter 8 — Specialised Areas"
+      }
+    },
+    {
+      "id": "p3q-1kqzjd",
+      "ch": 8,
+      "topic": "Arbitration award disclosure",
+      "m": 1,
+      "d": "HARD",
+      "q": "A material arbitration award against the client received just before year-end is:",
+      "o": [
+        "Ignore — confidential",
+        "Evaluated as a legal claim (accrue if present obligation with probable outflow; disclose in contingencies if not accrued), and discussed with TCWG",
+        "Only disclosed in the audit report",
+        "Never in the FS"
+      ],
+      "a": 1,
+      "why": "Awards crystallise contingent liabilities: the accrual/disclosure test applies from the date the obligation and estimate are evident — the lawyer's letter + the award's date decide the reporting year, not the enforcement.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the award is the event, not the recovery Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Arbitration award disclosure",
+        "tip": "A losing verdict is a debt with a stamp.",
+        "link": "Chapter 8 — Specialised Areas"
+      }
+    }
+  ]
+}

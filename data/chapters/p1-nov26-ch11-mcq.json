@@ -1,0 +1,1499 @@
+{
+  "meta": {
+    "id": "p1-nov26-ch11-mcq",
+    "paper": "P1",
+    "attempt": "NOV-2026",
+    "kind": "chapter",
+    "category": "CHAPTER-WISE MCQs",
+    "title": "Ch 11: Ind AS on Disclosures in the Financial Statements — MCQ Bank",
+    "description": "Chapter-wise practice MCQs for Chapter 11 (Ind AS on Disclosures in the Financial Statements).",
+    "count": 61,
+    "mcqCount": 61,
+    "descriptiveCount": 0,
+    "coverage": "Chapter 11 · 61 MCQs",
+    "chapters": [
+      11
+    ],
+    "durationMinutes": 92,
+    "difficulty": "Exam standard",
+    "high": 30,
+    "medium": 24,
+    "low": 7
+  },
+  "questions": [
+    {
+      "id": "p1q-1w0adii",
+      "ch": 11,
+      "topic": "Impairment — CGU with floors",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "The recoverable amount is:",
+      "o": [
+        "690",
+        "700",
+        "695",
+        "680"
+      ],
+      "a": 1,
+      "why": "Higher of FVLCS and VIU ⇒ 700. Do not average or subtract costs again (FVLCS is already net of disposal costs here).",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — this topic stays active in ICAI question-setting Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Impairment — CGU with floors",
+        "tip": "RA = higher-of is the case's freebie Take the taller of the two ladders; never the average.",
+        "link": "Chapter 11 — Ind AS on Disclosures in the Financial Statements"
+      },
+      "stem": "Aster Ltd's plant is a CGU: building 400, machines 300, goodwill allocated 100, inventory 60 (Rs crore). FVLCS of the CGU is 690; value in use is 700. Machines have an individual FVLCS of 280 crore.",
+      "caseRef": "p1-case-4"
+    },
+    {
+      "id": "p1q-62pxjb",
+      "ch": 11,
+      "topic": "Impairment — CGU with floors",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Total impairment loss (Rs crore):",
+      "o": [
+        "160",
+        "200",
+        "100",
+        "0"
+      ],
+      "a": 0,
+      "why": "Carrying 860 − RA 700 = 160.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — this topic stays active in ICAI question-setting Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Impairment — CGU with floors",
+        "tip": "sum-first, goodwill-first — the twin rules The gap you must fill, before the waterfall starts.",
+        "link": "Chapter 11 — Ind AS on Disclosures in the Financial Statements"
+      },
+      "stem": "Aster Ltd's plant is a CGU: building 400, machines 300, goodwill allocated 100, inventory 60 (Rs crore). FVLCS of the CGU is 690; value in use is 700. Machines have an individual FVLCS of 280 crore.",
+      "caseRef": "p1-case-4"
+    },
+    {
+      "id": "p1q-lf2tcn",
+      "ch": 11,
+      "topic": "Impairment — CGU with floors",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "The first absorbent of the loss is:",
+      "o": [
+        "Goodwill 100",
+        "Building",
+        "Machines",
+        "Inventory"
+      ],
+      "a": 0,
+      "why": "Goodwill takes the full 100 first; residual 60 pro rata over the rest.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — this topic stays active in ICAI question-setting Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Impairment — CGU with floors",
+        "tip": "goodwill-first waterfall Goodwill is the shock absorber of the CGU.",
+        "link": "Chapter 11 — Ind AS on Disclosures in the Financial Statements"
+      },
+      "stem": "Aster Ltd's plant is a CGU: building 400, machines 300, goodwill allocated 100, inventory 60 (Rs crore). FVLCS of the CGU is 690; value in use is 700. Machines have an individual FVLCS of 280 crore.",
+      "caseRef": "p1-case-4"
+    },
+    {
+      "id": "p1q-wiivph",
+      "ch": 11,
+      "topic": "Impairment — CGU with floors",
+      "m": 2,
+      "d": "HARD",
+      "q": "The residual Rs 60 is allocated:",
+      "o": [
+        "Pro rata (building 27.3, machines 20.5, inventory 4.1 — subject to floors; inventory cannot go below NRV so floors matter)",
+        "Equally",
+        "To machines only",
+        "To building only"
+      ],
+      "a": 0,
+      "why": "Pro rata on carrying amounts with floors; the machines' floor at 280 binds only if pro-rata would push them below it — 300 − 20.5 = 279.5 < 280 ⇒ machines stop at 280 and the excess 0.5 reallocates to the building — the beauty spot of this case is the floor reallocation.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — this topic stays active in ICAI question-setting Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Impairment — CGU with floors",
+        "tip": "floors block pro rata — the defining nuance Pro rata with a stop sign: no asset falls below its own dignity.",
+        "link": "Chapter 11 — Ind AS on Disclosures in the Financial Statements"
+      },
+      "stem": "Aster Ltd's plant is a CGU: building 400, machines 300, goodwill allocated 100, inventory 60 (Rs crore). FVLCS of the CGU is 690; value in use is 700. Machines have an individual FVLCS of 280 crore.",
+      "caseRef": "p1-case-4"
+    },
+    {
+      "id": "p1q-1t8d2hh",
+      "ch": 11,
+      "topic": "Impairment — CGU with floors",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "If impairment reverses next year, which can NEVER reverse?",
+      "o": [
+        "Goodwill",
+        "Building",
+        "Machines",
+        "Inventory"
+      ],
+      "a": 0,
+      "why": "Ind AS 36: goodwill impairment never reverses; others capped at depreciated historical cost.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — this topic stays active in ICAI question-setting Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Impairment — CGU with floors",
+        "tip": "the goodwill absolute bar You can un-break a machine, never un-buy a premium.",
+        "link": "Chapter 11 — Ind AS on Disclosures in the Financial Statements"
+      },
+      "stem": "Aster Ltd's plant is a CGU: building 400, machines 300, goodwill allocated 100, inventory 60 (Rs crore). FVLCS of the CGU is 690; value in use is 700. Machines have an individual FVLCS of 280 crore.",
+      "caseRef": "p1-case-4"
+    },
+    {
+      "id": "p1q-blmbm4",
+      "ch": 11,
+      "topic": "Ind AS 33 — EPS",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "For basic EPS, weighted-average number of shares is adjusted for:",
+      "o": [
+        "A bonus issue and a share split — by retrospective restatement of prior periods",
+        "Rights issue at full fair value",
+        "A fresh public issue at market price",
+        "Buy-back completed during the year only"
+      ],
+      "a": 0,
+      "why": "Bonus issues/splits/capitalisation issues are time-weighted from the beginning (retrospectively to the earliest period presented) since no consideration flows; rights issues use a correction factor = fair value per share / theoretical ex-rights price. New issues at fair value count from issue date.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — EPS mechanics with bonus-vs-rights distinction repeat constantly Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 33 — EPS",
+        "tip": "EPS adjustment ladder: bonus/split = pure restatement; rights = FER/TERP factor; IPO = day count. TERP always drags price down.",
+        "link": "Ch 11"
+      }
+    },
+    {
+      "id": "p1q-ecwevu",
+      "ch": 11,
+      "topic": "Ind AS 33 — dilution",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "An entity has 10% convertible debentures while its weighted-average borrowing rate is 6%. Effect on diluted EPS is:",
+      "o": [
+        "Anti-dilutive — convertible profits less tax-adjusted interest exceed the added share capital's EPS effect",
+        "Dilutive — always add conversions",
+        "Ignored as debt",
+        "Dilutive only if converted before year-end"
+      ],
+      "a": 0,
+      "why": "If the assumed conversion increases EPS per share added (i.e., add-back interest net of tax divided by new shares exceeds basic EPS), conversion is anti-dilutive and excluded from diluted EPS.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — anti-dilution checks are the trap within the trap AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 33 — dilution",
+        "tip": "Dilution test: compute per-share effect of each instrument vs basic EPS. Positive? Exclude — diluted EPS only travels DOWN.",
+        "link": "Ch 11"
+      }
+    },
+    {
+      "id": "p1q-13begod",
+      "ch": 11,
+      "topic": "Ind AS 36 — impairment",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Recoverable amount under Ind AS 36 is:",
+      "o": [
+        "Higher of FVLCS and value in use",
+        "Fair value less costs of disposal",
+        "Present value of pre-tax cash flows",
+        "Carrying amount discounted"
+      ],
+      "a": 0,
+      "why": "Recoverable amount = HIGHER of fair value less costs of disposal and value in use; impairment when CA > that. Value in use uses PRE-TAX cash flows and a pre-tax discount rate in Ind AS 36.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — recoverable-amount definition with tax nuance repeats Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 36 — impairment",
+        "tip": "Higher of the two exits (sell vs keep). CGU fails only if BOTH are below carrying — never on a single miss.",
+        "link": "Ch 11"
+      }
+    },
+    {
+      "id": "p1q-1dab526",
+      "ch": 11,
+      "topic": "Ind AS 36 — cash flows",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "While estimating value in use, which of the following is EXCLUDED from future cash flows?",
+      "o": [
+        "Cash outflows necessary for continuing use of the asset",
+        "Estimates of restructuring to which the entity is NOT yet committed",
+        "Maintenance capex for current condition",
+        "Taxes paid on operating cash flow at pre-tax rate basis"
+      ],
+      "a": 1,
+      "why": "VIU cash flows exclude restructuring commitments not yet made (only committed restructurings' benefits may be included), exclude financing and tax flows, and include expenditures to maintain the asset's current condition.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the not-yet-committed-restructuring exclusion is a classic distractor AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 36 — cash flows",
+        "tip": "No counting blessings from plans not yet done: uncommitted restructuring stays out; committed restructuring's savings come in.",
+        "link": "Ch 11"
+      }
+    },
+    {
+      "id": "p1q-9xxq47",
+      "ch": 11,
+      "topic": "Goodwill impairment",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Impairment of a CGU containing goodwill is allocated FIRST to:",
+      "o": [
+        "Pro rata across all assets",
+        "Goodwill",
+        "The longest-lived asset",
+        "Non-current tangible assets only"
+      ],
+      "a": 1,
+      "why": "CGU impairment sequence: goodwill first (full stop), then other assets pro rata, never below the highest of FVLCS, VIU and zero.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the waterfall order is a guaranteed 1-marker AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Goodwill impairment",
+        "tip": "Goodwill drinks first in the impairment waterfall — then pro rata floors (FV, VIU, 0) per asset.",
+        "link": "Ch 11 + Ch 12"
+      }
+    },
+    {
+      "id": "p1q-ilq36n",
+      "ch": 11,
+      "topic": "Segment reporting",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Under Ind AS 108, the quantitative thresholds for reportable segments use:",
+      "o": [
+        "10% of combined revenue, 10% of combined profit/loss, 10% of combined assets",
+        "15% of combined revenue only",
+        "25% of profit",
+        "10% of equity"
+      ],
+      "a": 0,
+      "why": "10% tests: revenue (incl inter-segment), profit/loss (larger of absolute combined profit or loss), assets. Plus management-approach identification via CODM.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — threshold recall is a freebie that appears AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Segment reporting",
+        "tip": "Segments report at 10% on three dials: revenue, bigger of profit/loss, assets — under CODM's watch.",
+        "link": "Ch 11"
+      }
+    },
+    {
+      "id": "p1q-1t0651w",
+      "ch": 11,
+      "topic": "Ind AS 1 — other comprehensive income",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Which item is NOT reclassified (recycled) to profit or loss subsequently?",
+      "o": [
+        "Exchange differences on translating a foreign operation",
+        "Remeasurements of defined benefit plans",
+        "Hedge: cash flow hedge reserve",
+        "Fair value on debt instrument at FVOCI"
+      ],
+      "a": 1,
+      "why": "Ind AS 1/19: DB-plan remeasurements stay in equity and are never recycled; the other options reclassify on disposal/settlement/realisation.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — recycle-vs-stay is the cleanest 2-marker of the chapter AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 1 — other comprehensive income",
+        "tip": "OCI items have passports: most eventually re-enter P&L (recycle); DB remeasurements and some equity FVOCI elections have no visa — they never return.",
+        "link": "Ch 11"
+      }
+    },
+    {
+      "id": "p1q-dxxyh",
+      "ch": 11,
+      "topic": "Ind AS 23 vs analysis",
+      "m": 1,
+      "d": "HARD",
+      "q": "Capitalising borrowing costs, relative to expensing, initially:",
+      "o": [
+        "Increases assets and defers expense — boosting current profit",
+        "Decreases assets",
+        "Reduces leverage",
+        "Has no P&L effect"
+      ],
+      "a": 0,
+      "why": "Capitalised interest becomes part of the asset: current expense lower ⇒ current profit higher; assets and debt both heavier (later depreciation higher).",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — impact-direction questions are common Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Ind AS 23 vs analysis",
+        "tip": "Interest into the asset = today's profits prettier, tomorrow's depreciation heavier, ratios both ways.",
+        "link": "Ch 15/7"
+      }
+    },
+    {
+      "id": "p1q-1yooq67",
+      "ch": 11,
+      "topic": "Ind AS 1 disclosure",
+      "m": 1,
+      "d": "HARD",
+      "q": "Judgments (not estimates) that management made in applying policies are disclosed:",
+      "o": [
+        "In the notes, identifying the most critical judgments",
+        "Only to the board",
+        "Never",
+        "In the auditor's report as the entity's own statement"
+      ],
+      "a": 0,
+      "why": "Ind AS 1 requires disclosure of judgments management made in applying accounting policies that have the most significant effect on recognised amounts — a separate note from key assumptions about estimates.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — judgments-vs-estimates disclosure split Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Ind AS 1 disclosure",
+        "tip": "Estimates get assumption notes; judgments get a dedicated 'critical judgments' note. Two rooms, same corridor.",
+        "link": "Ch 11"
+      }
+    },
+    {
+      "id": "p1q-19rbkoy",
+      "ch": 11,
+      "topic": "Ind AS 36 — CGU",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "The smallest identifiable group of assets that generates cash inflows largely independent of other assets is:",
+      "o": [
+        "Asset segment",
+        "Cash-generating unit (CGU)",
+        "Component unit",
+        "Reporting unit"
+      ],
+      "a": 1,
+      "why": "Definition of CGU (Ind AS 36). 'Reporting unit' is US-GAAP goodwill lingo, not an Ind AS 36 term.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — definition matching is the easy-half of impairment questions AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 36 — CGU",
+        "tip": "CGU = smallest independent cash machine. If it depends on other assets for inflows, look wider.",
+        "link": "Ch 11"
+      }
+    },
+    {
+      "id": "p1q-1scxey5",
+      "ch": 11,
+      "topic": "Ind AS 34",
+      "m": 1,
+      "d": "HARD",
+      "q": "Under Ind AS 34, material items of income/expense in an interim period are recognised:",
+      "o": [
+        "On the same recognition principles as annual FS",
+        "Per management's wish",
+        "Using cash basis for brevity",
+        "In proportion to budget"
+      ],
+      "a": 0,
+      "why": "Ind AS 34 uses the same recognition/measurement principles as annual reporting (discrete view) with specified aggregation/disclosure; not budget-based smoothing.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — discrete-vs-integral trap Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Ind AS 34",
+        "tip": "Interims are not mini-budgets: the same recognition laws apply, plus 34's extra disclosures.",
+        "link": "Ch 11"
+      }
+    },
+    {
+      "id": "p1q-opc6uv",
+      "ch": 11,
+      "topic": "OCI items list",
+      "m": 1,
+      "d": "HARD",
+      "q": "Which is a NON-reclassifying (no recycling) OCI item?",
+      "o": [
+        "Translation reserve on foreign subsidiary disposal",
+        "Financial liability FV own-credit changes (FVTPL election) AND DB remeasurements — both",
+        "Cash-flow hedge reserve",
+        "Debt FVOCI changes"
+      ],
+      "a": 1,
+      "why": "No-recycle OCI: DB remeasurements, own-credit on FVTPL-elect liabilities, and the FVOCI equity election. Translation reserve RECYCLES on disposal — the sound-alike that is not on the no-recycle roster.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the recycle roster with its famous exception AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: OCI items list",
+        "tip": "Most OCI eventually visits P&L; the three that never check out are re-measurement, own credit, and equity-FVOCI.",
+        "link": "Chapter 11 — Ind AS on Disclosures in the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-xogn0o",
+      "ch": 11,
+      "topic": "Ind AS 36 — cash flow exclusions",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Value in use calculations exclude:",
+      "o": [
+        "Future maintenance cash outflows",
+        "Estimates of restructuring improvements NOT yet committed",
+        "Income-tax receipts",
+        "Both B and C"
+      ],
+      "a": 3,
+      "why": "VIU: exclude income-tax cash flows, exclude financing inflows/outflows, exclude uncommitted restructuring benefits; include capex needed to maintain current condition.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the exclusion-list multi-select AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 36 — cash flow exclusions",
+        "tip": "Pre-tax, no finance lines, no daydreams about future restructurings — the three no's of VIU.",
+        "link": "Chapter 11 — Ind AS on Disclosures in the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-xtyxxx",
+      "ch": 11,
+      "topic": "Goodwill floors on disposal",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "When a portion of a CGU containing goodwill is disposed, the goodwill included in the gain/loss is measured:",
+      "o": [
+        "At original full amount",
+        "By relative values of the operation disposed and retained portion, unless another method better reflects the carrying",
+        "Zero",
+        "Revaluation surplus"
+      ],
+      "a": 1,
+      "why": "Ind AS 36 disposal-of-portion rule: relative-value default for goodwill; no NCI adjustment — P&L on the way out.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the relative-value convention AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Goodwill floors on disposal",
+        "tip": "Split goodwill by worth, not by nostalgia.",
+        "link": "Chapter 11 — Ind AS on Disclosures in the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-65xcvr",
+      "ch": 11,
+      "topic": "Provision for restructuring — content",
+      "m": 1,
+      "d": "HARD",
+      "q": "A restructuring provision includes:",
+      "o": [
+        "Retraining staff and marketing to rebuild image",
+        "Only direct, necessarily entailing and not associated with ongoing activities costs",
+        "Full annual operating losses",
+        "Future asset write-downs only"
+      ],
+      "a": 1,
+      "why": "Exclude: continuing ops training, marketing, new systems/staff training — include only the unavoidable, incremental, non-ongoing costs.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — include/exclude lists with recurring misfits AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Provision for restructuring — content",
+        "tip": "The provision covers the exit cost, not the re-entry business plan.",
+        "link": "Chapter 11 — Ind AS on Disclosures in the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-4zd131",
+      "ch": 11,
+      "topic": "Ind AS 34 — seasonality",
+      "m": 1,
+      "d": "HARD",
+      "q": "Ind AS 34 treats seasonal businesses by:",
+      "o": [
+        "Annualising full-year estimates in every quarter",
+        "Requiring discrete interim accounting for revenue received seasonally with disclosures",
+        "Cash basis",
+        "Budgets"
+      ],
+      "a": 1,
+      "why": "Seasonality: revenue received seasonally is not anticipated/deferred at interim dates (discrete) — disclose the seasonal nature.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the no-annualising-for-seasonal-revenue rule Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Ind AS 34 — seasonality",
+        "tip": "Do not pretend Christmas arrives in June at the interim table.",
+        "link": "Chapter 11 — Ind AS on Disclosures in the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1kjvcci",
+      "ch": 11,
+      "topic": "EPS — antidilution",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "An instrument whose assumed conversion would RAISE EPS is:",
+      "o": [
+        "Included",
+        "Excluded as anti-dilutive",
+        "Partly included",
+        "Put in basic EPS"
+      ],
+      "a": 1,
+      "why": "Only dilutive instruments enter diluted EPS; anti-dilutive ones are ignored (present separately in basic only if relevant).",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the exclusion rule AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: EPS — antidilution",
+        "tip": "Diluted EPS never climbs the ladder on purpose.",
+        "link": "Chapter 11 — Ind AS on Disclosures in the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-82k430",
+      "ch": 11,
+      "topic": "Ind AS 36 — corporate assets test",
+      "m": 1,
+      "d": "HARD",
+      "q": "Corporate assets are impairment-tested at the level of:",
+      "o": [
+        "Corporate HQ only",
+        "The CGU or group of CGUs that benefit from them (never above an operating segment)",
+        "Every CGU equally",
+        "Consolidation level"
+      ],
+      "a": 1,
+      "why": "Allocate to CGU if reasonable/consistent; else the smallest group of CGUs; testing for any impairment of corporate assets occurs at the group level including them.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the never-above-segment guardrail Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Ind AS 36 — corporate assets test",
+        "tip": "Head office follows the earners: where allocation fails, test a bigger, real cluster — not the whole map.",
+        "link": "Chapter 11 — Ind AS on Disclosures in the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1k10fsw",
+      "ch": 11,
+      "topic": "Amendment — gain on loss of control (narrow-scope)",
+      "m": 1,
+      "d": "HARD",
+      "q": "The narrow-scope amendment to Ind AS 110/Ind AS 28 (adopted in India for annual periods beginning on/after 1 April 2025) clarifies that when an entity loses control of a subsidiary that contains a business:",
+      "o": [
+        "Gain on the retained interest is not recognised",
+        "Full gain/loss is recognised on loss of control — the prohibition on remeasurement does not apply to the retained interest",
+        "Only half the OCI recycles",
+        "Goodwill is re-measured"
+      ],
+      "a": 1,
+      "why": "Documented narrow-scope amendment (IASB; ICAI effective per the notification for periods beginning on/after 1 April 2025): the parent recognises the FULL gain/loss arising from loss of control, including on the retained interest; the partial-disposal offset rule for associates/JVs remains. Verify the exact ICAI notification text in your study material — candidates should not treat effective dates as guaranteed.",
+      "trend": "Traceable to a real, publicly-notified amendment/standard (documented fact), tested in ICAI style.",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — narrow-scope fixes often arrive just before an exam cycle — high-alert area Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Amendment — gain on loss of control (narrow-scope)",
+        "tip": "Losing control is a full exit for tax-of-gain purposes even if you keep a seat at the table.",
+        "link": "Chapter 11 — Ind AS on Disclosures in the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-18gc2os",
+      "ch": 11,
+      "topic": "Ind AS 36 — CGU impairment",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "A CGU (goodwill Rs 41 lakh; identifiable assets Rs 500 lakh) has FVLCS Rs 480 lakh and value in use Rs 422 lakh. The impairment outcome is:",
+      "o": [
+        "Impairment Rs 61 lakh pro rata across all assets including goodwill equally",
+        "Impairment Rs 61 lakh on VIU being lower",
+        "No impairment since FVLCS exceeds book",
+        "Impairment Rs 61 lakh: goodwill 41, other assets 20"
+      ],
+      "a": 3,
+      "why": "RA = higher of 480 and 422 = 480; CA 541 ⇒ impairment 61 lakh, absorbed by goodwill (full 41) then the balance 20 pro rata over the other assets.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — goodwill-first waterfall sums are near-certain in Section B mixes Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 36 — CGU impairment",
+        "tip": "Recoverable amount = higher(FVLCS, VIU); impairment absorbs goodwill first, then pro rata.",
+        "link": "Chapter 11 — Ind AS on Disclosures in the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-14ku04i",
+      "ch": 11,
+      "topic": "Ind AS 36 — CGU impairment",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "A CGU (goodwill Rs 78 lakh; identifiable assets Rs 600 lakh) has FVLCS Rs 600 lakh and value in use Rs 573 lakh. The impairment outcome is:",
+      "o": [
+        "Impairment Rs 78 lakh pro rata across all assets including goodwill equally",
+        "Impairment Rs 78 lakh on VIU being lower",
+        "Impairment Rs 78 lakh: goodwill 78, other assets 0",
+        "No impairment since FVLCS exceeds book"
+      ],
+      "a": 2,
+      "why": "RA = higher of 600 and 573 = 600; CA 678 ⇒ impairment 78 lakh, absorbed by goodwill (full 78) then the balance 0 pro rata over the other assets.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — goodwill-first waterfall sums are near-certain in Section B mixes Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 36 — CGU impairment",
+        "tip": "Recoverable amount = higher(FVLCS, VIU); impairment absorbs goodwill first, then pro rata.",
+        "link": "Chapter 11 — Ind AS on Disclosures in the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-8xelzc",
+      "ch": 11,
+      "topic": "Ind AS 36 — CGU impairment",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "A CGU (goodwill Rs 54 lakh; identifiable assets Rs 600 lakh) has FVLCS Rs 579 lakh and value in use Rs 547 lakh. The impairment outcome is:",
+      "o": [
+        "Impairment Rs 75 lakh pro rata across all assets including goodwill equally",
+        "Impairment Rs 75 lakh on VIU being lower",
+        "No impairment since FVLCS exceeds book",
+        "Impairment Rs 75 lakh: goodwill 54, other assets 21"
+      ],
+      "a": 3,
+      "why": "RA = higher of 579 and 547 = 579; CA 654 ⇒ impairment 75 lakh, absorbed by goodwill (full 54) then the balance 21 pro rata over the other assets.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — goodwill-first waterfall sums are near-certain in Section B mixes Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 36 — CGU impairment",
+        "tip": "Recoverable amount = higher(FVLCS, VIU); impairment absorbs goodwill first, then pro rata.",
+        "link": "Chapter 11 — Ind AS on Disclosures in the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-hp7emi",
+      "ch": 11,
+      "topic": "Ind AS 36 — CGU impairment",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "A CGU (goodwill Rs 69 lakh; identifiable assets Rs 400 lakh) has FVLCS Rs 383 lakh and value in use Rs 342 lakh. The impairment outcome is:",
+      "o": [
+        "Impairment Rs 86 lakh: goodwill 69, other assets 17",
+        "Impairment Rs 86 lakh pro rata across all assets including goodwill equally",
+        "Impairment Rs 86 lakh on VIU being lower",
+        "No impairment since FVLCS exceeds book"
+      ],
+      "a": 0,
+      "why": "RA = higher of 383 and 342 = 383; CA 469 ⇒ impairment 86 lakh, absorbed by goodwill (full 69) then the balance 17 pro rata over the other assets.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — goodwill-first waterfall sums are near-certain in Section B mixes Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 36 — CGU impairment",
+        "tip": "Recoverable amount = higher(FVLCS, VIU); impairment absorbs goodwill first, then pro rata.",
+        "link": "Chapter 11 — Ind AS on Disclosures in the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-14ltjxb",
+      "ch": 11,
+      "topic": "Ind AS 36 — CGU impairment",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "A CGU (goodwill Rs 42 lakh; identifiable assets Rs 400 lakh) has FVLCS Rs 392 lakh and value in use Rs 368 lakh. The impairment outcome is:",
+      "o": [
+        "Impairment Rs 50 lakh pro rata across all assets including goodwill equally",
+        "Impairment Rs 50 lakh on VIU being lower",
+        "No impairment since FVLCS exceeds book",
+        "Impairment Rs 50 lakh: goodwill 42, other assets 8"
+      ],
+      "a": 3,
+      "why": "RA = higher of 392 and 368 = 392; CA 442 ⇒ impairment 50 lakh, absorbed by goodwill (full 42) then the balance 8 pro rata over the other assets.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — goodwill-first waterfall sums are near-certain in Section B mixes Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 36 — CGU impairment",
+        "tip": "Recoverable amount = higher(FVLCS, VIU); impairment absorbs goodwill first, then pro rata.",
+        "link": "Chapter 11 — Ind AS on Disclosures in the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1muqqcf",
+      "ch": 11,
+      "topic": "Ind AS 36 — CGU impairment",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "A CGU (goodwill Rs 60 lakh; identifiable assets Rs 500 lakh) has FVLCS Rs 505 lakh and value in use Rs 482 lakh. The impairment outcome is:",
+      "o": [
+        "Impairment Rs 55 lakh pro rata across all assets including goodwill equally",
+        "Impairment Rs 55 lakh: goodwill 55, other assets 0",
+        "Impairment Rs 55 lakh on VIU being lower",
+        "No impairment since FVLCS exceeds book"
+      ],
+      "a": 1,
+      "why": "RA = higher of 505 and 482 = 505; CA 560 ⇒ impairment 55 lakh, absorbed by goodwill (full 55) then the balance 0 pro rata over the other assets.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — goodwill-first waterfall sums are near-certain in Section B mixes Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 36 — CGU impairment",
+        "tip": "Recoverable amount = higher(FVLCS, VIU); impairment absorbs goodwill first, then pro rata.",
+        "link": "Chapter 11 — Ind AS on Disclosures in the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-y3433q",
+      "ch": 11,
+      "topic": "Ind AS 36 — CGU impairment",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "A CGU (goodwill Rs 46 lakh; identifiable assets Rs 400 lakh) has FVLCS Rs 393 lakh and value in use Rs 348 lakh. The impairment outcome is:",
+      "o": [
+        "Impairment Rs 53 lakh pro rata across all assets including goodwill equally",
+        "Impairment Rs 53 lakh: goodwill 46, other assets 7",
+        "Impairment Rs 53 lakh on VIU being lower",
+        "No impairment since FVLCS exceeds book"
+      ],
+      "a": 1,
+      "why": "RA = higher of 393 and 348 = 393; CA 446 ⇒ impairment 53 lakh, absorbed by goodwill (full 46) then the balance 7 pro rata over the other assets.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — goodwill-first waterfall sums are near-certain in Section B mixes Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 36 — CGU impairment",
+        "tip": "Recoverable amount = higher(FVLCS, VIU); impairment absorbs goodwill first, then pro rata.",
+        "link": "Chapter 11 — Ind AS on Disclosures in the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1x09nxt",
+      "ch": 11,
+      "topic": "Ind AS 36 — CGU impairment",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "A CGU (goodwill Rs 63 lakh; identifiable assets Rs 600 lakh) has FVLCS Rs 578 lakh and value in use Rs 529 lakh. The impairment outcome is:",
+      "o": [
+        "Impairment Rs 85 lakh pro rata across all assets including goodwill equally",
+        "Impairment Rs 85 lakh on VIU being lower",
+        "No impairment since FVLCS exceeds book",
+        "Impairment Rs 85 lakh: goodwill 63, other assets 22"
+      ],
+      "a": 3,
+      "why": "RA = higher of 578 and 529 = 578; CA 663 ⇒ impairment 85 lakh, absorbed by goodwill (full 63) then the balance 22 pro rata over the other assets.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — goodwill-first waterfall sums are near-certain in Section B mixes Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 36 — CGU impairment",
+        "tip": "Recoverable amount = higher(FVLCS, VIU); impairment absorbs goodwill first, then pro rata.",
+        "link": "Chapter 11 — Ind AS on Disclosures in the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1c246m8",
+      "ch": 11,
+      "topic": "Ind AS 36 — CGU impairment",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "A CGU (goodwill Rs 76 lakh; identifiable assets Rs 500 lakh) has FVLCS Rs 536 lakh and value in use Rs 479 lakh. The impairment outcome is:",
+      "o": [
+        "Impairment Rs 40 lakh pro rata across all assets including goodwill equally",
+        "Impairment Rs 40 lakh on VIU being lower",
+        "No impairment since FVLCS exceeds book",
+        "Impairment Rs 40 lakh: goodwill 40, other assets 0"
+      ],
+      "a": 3,
+      "why": "RA = higher of 536 and 479 = 536; CA 576 ⇒ impairment 40 lakh, absorbed by goodwill (full 40) then the balance 0 pro rata over the other assets.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — goodwill-first waterfall sums are near-certain in Section B mixes Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 36 — CGU impairment",
+        "tip": "Recoverable amount = higher(FVLCS, VIU); impairment absorbs goodwill first, then pro rata.",
+        "link": "Chapter 11 — Ind AS on Disclosures in the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-ag9wra",
+      "ch": 11,
+      "topic": "Ind AS 36 — CGU impairment",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "A CGU (goodwill Rs 57 lakh; identifiable assets Rs 500 lakh) has FVLCS Rs 511 lakh and value in use Rs 462 lakh. The impairment outcome is:",
+      "o": [
+        "Impairment Rs 46 lakh pro rata across all assets including goodwill equally",
+        "Impairment Rs 46 lakh on VIU being lower",
+        "No impairment since FVLCS exceeds book",
+        "Impairment Rs 46 lakh: goodwill 46, other assets 0"
+      ],
+      "a": 3,
+      "why": "RA = higher of 511 and 462 = 511; CA 557 ⇒ impairment 46 lakh, absorbed by goodwill (full 46) then the balance 0 pro rata over the other assets.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — goodwill-first waterfall sums are near-certain in Section B mixes Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 36 — CGU impairment",
+        "tip": "Recoverable amount = higher(FVLCS, VIU); impairment absorbs goodwill first, then pro rata.",
+        "link": "Chapter 11 — Ind AS on Disclosures in the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-g8ylbn",
+      "ch": 11,
+      "topic": "Ind AS 36 — CGU impairment",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "A CGU (goodwill Rs 78 lakh; identifiable assets Rs 600 lakh) has FVLCS Rs 639 lakh and value in use Rs 598 lakh. The impairment outcome is:",
+      "o": [
+        "Impairment Rs 39 lakh: goodwill 39, other assets 0",
+        "Impairment Rs 39 lakh pro rata across all assets including goodwill equally",
+        "Impairment Rs 39 lakh on VIU being lower",
+        "No impairment since FVLCS exceeds book"
+      ],
+      "a": 0,
+      "why": "RA = higher of 639 and 598 = 639; CA 678 ⇒ impairment 39 lakh, absorbed by goodwill (full 39) then the balance 0 pro rata over the other assets.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — goodwill-first waterfall sums are near-certain in Section B mixes Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 36 — CGU impairment",
+        "tip": "Recoverable amount = higher(FVLCS, VIU); impairment absorbs goodwill first, then pro rata.",
+        "link": "Chapter 11 — Ind AS on Disclosures in the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1dpi6sx",
+      "ch": 11,
+      "topic": "Ind AS 36 — CGU impairment",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "A CGU (goodwill Rs 59 lakh; identifiable assets Rs 600 lakh) has FVLCS Rs 629 lakh and value in use Rs 581 lakh. The impairment outcome is:",
+      "o": [
+        "Impairment Rs 30 lakh pro rata across all assets including goodwill equally",
+        "Impairment Rs 30 lakh: goodwill 30, other assets 0",
+        "Impairment Rs 30 lakh on VIU being lower",
+        "No impairment since FVLCS exceeds book"
+      ],
+      "a": 1,
+      "why": "RA = higher of 629 and 581 = 629; CA 659 ⇒ impairment 30 lakh, absorbed by goodwill (full 30) then the balance 0 pro rata over the other assets.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — goodwill-first waterfall sums are near-certain in Section B mixes Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 36 — CGU impairment",
+        "tip": "Recoverable amount = higher(FVLCS, VIU); impairment absorbs goodwill first, then pro rata.",
+        "link": "Chapter 11 — Ind AS on Disclosures in the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-xa5w2x",
+      "ch": 11,
+      "topic": "Ind AS 33 — EPS",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Aster Ltd reports weighted-average 500 lakh equity shares for the year. Immediately after year end (before approval) it issues a 1-for-10 bonus. Profit attributable to equity holders is Rs 120 lakh. Basic EPS in the current-year Ind AS financial statements is:",
+      "o": [
+        "Basic EPS Rs 0.22",
+        "Basic EPS Rs 0.24 (bonus ignored)",
+        "Basic EPS Rs 0.24 (bonus half-counted)",
+        "Cannot compute without share price"
+      ],
+      "a": 0,
+      "why": "Bonus inflates shares with no consideration ⇒ restate the weighted average: 500 × 1.100 = 550.0 lakh. EPS = 120/550.0 = Rs 0.22.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — bonus-adjusted EPS arithmetic is the most tested single mechanic in Ch 11 Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 33 — EPS",
+        "tip": "Bonus issue: multiply pre-bonus shares by the bonus factor for ALL prior periods presented.",
+        "link": "Chapter 11 — Ind AS on Disclosures in the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1rv2c81",
+      "ch": 11,
+      "topic": "Ind AS 33 — EPS",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Orbit Ltd reports weighted-average 400 lakh equity shares for the year. Immediately after year end (before approval) it issues a 1-for-5 bonus. Profit attributable to equity holders is Rs 120 lakh. Basic EPS in the current-year Ind AS financial statements is:",
+      "o": [
+        "Basic EPS Rs 0.30 (bonus ignored)",
+        "Basic EPS Rs 0.28 (bonus half-counted)",
+        "Cannot compute without share price",
+        "Basic EPS Rs 0.25"
+      ],
+      "a": 3,
+      "why": "Bonus inflates shares with no consideration ⇒ restate the weighted average: 400 × 1.200 = 480.0 lakh. EPS = 120/480.0 = Rs 0.25.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — bonus-adjusted EPS arithmetic is the most tested single mechanic in Ch 11 Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 33 — EPS",
+        "tip": "Bonus issue: multiply pre-bonus shares by the bonus factor for ALL prior periods presented.",
+        "link": "Chapter 11 — Ind AS on Disclosures in the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-iwag1k",
+      "ch": 11,
+      "topic": "Ind AS 33 — EPS",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Orbit Ltd reports weighted-average 400 lakh equity shares for the year. Immediately after year end (before approval) it issues a 1-for-10 bonus. Profit attributable to equity holders is Rs 150 lakh. Basic EPS in the current-year Ind AS financial statements is:",
+      "o": [
+        "Basic EPS Rs 0.38 (bonus ignored)",
+        "Basic EPS Rs 0.38 (bonus half-counted)",
+        "Cannot compute without share price",
+        "Basic EPS Rs 0.34"
+      ],
+      "a": 3,
+      "why": "Bonus inflates shares with no consideration ⇒ restate the weighted average: 400 × 1.100 = 440.0 lakh. EPS = 150/440.0 = Rs 0.34.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — bonus-adjusted EPS arithmetic is the most tested single mechanic in Ch 11 Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 33 — EPS",
+        "tip": "Bonus issue: multiply pre-bonus shares by the bonus factor for ALL prior periods presented.",
+        "link": "Chapter 11 — Ind AS on Disclosures in the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-19g7uzn",
+      "ch": 11,
+      "topic": "Ind AS 33 — EPS",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Nimbus Ltd reports weighted-average 400 lakh equity shares for the year. Immediately after year end (before approval) it issues a 1-for-10 bonus. Profit attributable to equity holders is Rs 120 lakh. Basic EPS in the current-year Ind AS financial statements is:",
+      "o": [
+        "Basic EPS Rs 0.27",
+        "Basic EPS Rs 0.30 (bonus ignored)",
+        "Basic EPS Rs 0.30 (bonus half-counted)",
+        "Cannot compute without share price"
+      ],
+      "a": 0,
+      "why": "Bonus inflates shares with no consideration ⇒ restate the weighted average: 400 × 1.100 = 440.0 lakh. EPS = 120/440.0 = Rs 0.27.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — bonus-adjusted EPS arithmetic is the most tested single mechanic in Ch 11 Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 33 — EPS",
+        "tip": "Bonus issue: multiply pre-bonus shares by the bonus factor for ALL prior periods presented.",
+        "link": "Chapter 11 — Ind AS on Disclosures in the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-ia4zou",
+      "ch": 11,
+      "topic": "Ind AS 33 — EPS",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Sable Ltd reports weighted-average 200 lakh equity shares for the year. Immediately after year end (before approval) it issues a 1-for-5 bonus. Profit attributable to equity holders is Rs 120 lakh. Basic EPS in the current-year Ind AS financial statements is:",
+      "o": [
+        "Basic EPS Rs 0.60 (bonus ignored)",
+        "Basic EPS Rs 0.50",
+        "Basic EPS Rs 0.55 (bonus half-counted)",
+        "Cannot compute without share price"
+      ],
+      "a": 1,
+      "why": "Bonus inflates shares with no consideration ⇒ restate the weighted average: 200 × 1.200 = 240.0 lakh. EPS = 120/240.0 = Rs 0.50.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — bonus-adjusted EPS arithmetic is the most tested single mechanic in Ch 11 Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 33 — EPS",
+        "tip": "Bonus issue: multiply pre-bonus shares by the bonus factor for ALL prior periods presented.",
+        "link": "Chapter 11 — Ind AS on Disclosures in the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1boav3p",
+      "ch": 11,
+      "topic": "Ind AS 33 — EPS",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Meridian Ltd reports weighted-average 500 lakh equity shares for the year. Immediately after year end (before approval) it issues a 1-for-10 bonus. Profit attributable to equity holders is Rs 90 lakh. Basic EPS in the current-year Ind AS financial statements is:",
+      "o": [
+        "Basic EPS Rs 0.18 (bonus ignored)",
+        "Basic EPS Rs 0.18 (bonus half-counted)",
+        "Cannot compute without share price",
+        "Basic EPS Rs 0.16"
+      ],
+      "a": 3,
+      "why": "Bonus inflates shares with no consideration ⇒ restate the weighted average: 500 × 1.100 = 550.0 lakh. EPS = 90/550.0 = Rs 0.16.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — bonus-adjusted EPS arithmetic is the most tested single mechanic in Ch 11 Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 33 — EPS",
+        "tip": "Bonus issue: multiply pre-bonus shares by the bonus factor for ALL prior periods presented.",
+        "link": "Chapter 11 — Ind AS on Disclosures in the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1cx9lhr",
+      "ch": 11,
+      "topic": "Ind AS 33 — EPS",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Marlin Ltd reports weighted-average 500 lakh equity shares for the year. Immediately after year end (before approval) it issues a 1-for-10 bonus. Profit attributable to equity holders is Rs 120 lakh. Basic EPS in the current-year Ind AS financial statements is:",
+      "o": [
+        "Basic EPS Rs 0.24 (bonus ignored)",
+        "Basic EPS Rs 0.24 (bonus half-counted)",
+        "Cannot compute without share price",
+        "Basic EPS Rs 0.22"
+      ],
+      "a": 3,
+      "why": "Bonus inflates shares with no consideration ⇒ restate the weighted average: 500 × 1.100 = 550.0 lakh. EPS = 120/550.0 = Rs 0.22.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — bonus-adjusted EPS arithmetic is the most tested single mechanic in Ch 11 Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 33 — EPS",
+        "tip": "Bonus issue: multiply pre-bonus shares by the bonus factor for ALL prior periods presented.",
+        "link": "Chapter 11 — Ind AS on Disclosures in the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1fe45vr",
+      "ch": 11,
+      "topic": "Ind AS 33 — EPS",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Nimbus Ltd reports weighted-average 200 lakh equity shares for the year. Immediately after year end (before approval) it issues a 1-for-5 bonus. Profit attributable to equity holders is Rs 120 lakh. Basic EPS in the current-year Ind AS financial statements is:",
+      "o": [
+        "Basic EPS Rs 0.50",
+        "Basic EPS Rs 0.60 (bonus ignored)",
+        "Basic EPS Rs 0.55 (bonus half-counted)",
+        "Cannot compute without share price"
+      ],
+      "a": 0,
+      "why": "Bonus inflates shares with no consideration ⇒ restate the weighted average: 200 × 1.200 = 240.0 lakh. EPS = 120/240.0 = Rs 0.50.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — bonus-adjusted EPS arithmetic is the most tested single mechanic in Ch 11 Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 33 — EPS",
+        "tip": "Bonus issue: multiply pre-bonus shares by the bonus factor for ALL prior periods presented.",
+        "link": "Chapter 11 — Ind AS on Disclosures in the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-2akpe3",
+      "ch": 11,
+      "topic": "Ind AS 33 — EPS",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Meridian Ltd reports weighted-average 500 lakh equity shares for the year. Immediately after year end (before approval) it issues a 1-for-5 bonus. Profit attributable to equity holders is Rs 90 lakh. Basic EPS in the current-year Ind AS financial statements is:",
+      "o": [
+        "Basic EPS Rs 0.15",
+        "Basic EPS Rs 0.18 (bonus ignored)",
+        "Basic EPS Rs 0.17 (bonus half-counted)",
+        "Cannot compute without share price"
+      ],
+      "a": 0,
+      "why": "Bonus inflates shares with no consideration ⇒ restate the weighted average: 500 × 1.200 = 600.0 lakh. EPS = 90/600.0 = Rs 0.15.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — bonus-adjusted EPS arithmetic is the most tested single mechanic in Ch 11 Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 33 — EPS",
+        "tip": "Bonus issue: multiply pre-bonus shares by the bonus factor for ALL prior periods presented.",
+        "link": "Chapter 11 — Ind AS on Disclosures in the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1q7q7zt",
+      "ch": 11,
+      "topic": "Ind AS 33 — EPS",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Vertex Ltd reports weighted-average 200 lakh equity shares for the year. Immediately after year end (before approval) it issues a 1-for-5 bonus. Profit attributable to equity holders is Rs 90 lakh. Basic EPS in the current-year Ind AS financial statements is:",
+      "o": [
+        "Basic EPS Rs 0.45 (bonus ignored)",
+        "Basic EPS Rs 0.38",
+        "Basic EPS Rs 0.41 (bonus half-counted)",
+        "Cannot compute without share price"
+      ],
+      "a": 1,
+      "why": "Bonus inflates shares with no consideration ⇒ restate the weighted average: 200 × 1.200 = 240.0 lakh. EPS = 90/240.0 = Rs 0.38.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — bonus-adjusted EPS arithmetic is the most tested single mechanic in Ch 11 Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 33 — EPS",
+        "tip": "Bonus issue: multiply pre-bonus shares by the bonus factor for ALL prior periods presented.",
+        "link": "Chapter 11 — Ind AS on Disclosures in the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-w0zmpo",
+      "ch": 11,
+      "topic": "Ind AS 33 — EPS",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Cobalt Ltd reports weighted-average 400 lakh equity shares for the year. Immediately after year end (before approval) it issues a 1-for-5 bonus. Profit attributable to equity holders is Rs 120 lakh. Basic EPS in the current-year Ind AS financial statements is:",
+      "o": [
+        "Basic EPS Rs 0.30 (bonus ignored)",
+        "Basic EPS Rs 0.25",
+        "Basic EPS Rs 0.28 (bonus half-counted)",
+        "Cannot compute without share price"
+      ],
+      "a": 1,
+      "why": "Bonus inflates shares with no consideration ⇒ restate the weighted average: 400 × 1.200 = 480.0 lakh. EPS = 120/480.0 = Rs 0.25.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — bonus-adjusted EPS arithmetic is the most tested single mechanic in Ch 11 Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 33 — EPS",
+        "tip": "Bonus issue: multiply pre-bonus shares by the bonus factor for ALL prior periods presented.",
+        "link": "Chapter 11 — Ind AS on Disclosures in the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1arv7xc",
+      "ch": 11,
+      "topic": "Ind AS 33 — EPS",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Aster Ltd reports weighted-average 200 lakh equity shares for the year. Immediately after year end (before approval) it issues a 1-for-10 bonus. Profit attributable to equity holders is Rs 120 lakh. Basic EPS in the current-year Ind AS financial statements is:",
+      "o": [
+        "Basic EPS Rs 0.60 (bonus ignored)",
+        "Basic EPS Rs 0.60 (bonus half-counted)",
+        "Basic EPS Rs 0.55",
+        "Cannot compute without share price"
+      ],
+      "a": 2,
+      "why": "Bonus inflates shares with no consideration ⇒ restate the weighted average: 200 × 1.100 = 220.0 lakh. EPS = 120/220.0 = Rs 0.55.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — bonus-adjusted EPS arithmetic is the most tested single mechanic in Ch 11 Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 33 — EPS",
+        "tip": "Bonus issue: multiply pre-bonus shares by the bonus factor for ALL prior periods presented.",
+        "link": "Chapter 11 — Ind AS on Disclosures in the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-180pz6p",
+      "ch": 11,
+      "topic": "Diluted EPS",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Basic EPS: Rs 0.32 (profit Rs 160 lakh / 500 lakh shares). 5% convertibles could add 500 lakh shares and save post-tax interest Rs 18 lakh on assumed conversion. Diluted EPS:",
+      "o": [
+        "Basic 0.32 only — ignored",
+        "Rs 0.32 (reverse)",
+        "Rs 0.28",
+        "Rs 0.18"
+      ],
+      "a": 3,
+      "why": "Incremental effect per added share = 18/500 = Rs 0.04 vs basic Rs 0.32 ⇒ dilutive; diluted = (160+18)/(500+500) = Rs 0.18",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the incremental-effect ranking is the definitive dilution MCQ AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Diluted EPS",
+        "tip": "Diluted: add back convertible interest net of tax; add new shares; compare per-share effect to basic.",
+        "link": "Chapter 11 — Ind AS on Disclosures in the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-137phyc",
+      "ch": 11,
+      "topic": "Diluted EPS",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Basic EPS: Rs 0.40 (profit Rs 160 lakh / 400 lakh shares). 5% convertibles could add 200 lakh shares and save post-tax interest Rs 12 lakh on assumed conversion. Diluted EPS:",
+      "o": [
+        "Rs 0.29",
+        "Basic 0.40 only — ignored",
+        "Rs 0.80 (reverse)",
+        "Rs 0.37"
+      ],
+      "a": 0,
+      "why": "Incremental effect per added share = 12/200 = Rs 0.06 vs basic Rs 0.40 ⇒ dilutive; diluted = (160+12)/(400+200) = Rs 0.29",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the incremental-effect ranking is the definitive dilution MCQ AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Diluted EPS",
+        "tip": "Diluted: add back convertible interest net of tax; add new shares; compare per-share effect to basic.",
+        "link": "Chapter 11 — Ind AS on Disclosures in the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1bedr24",
+      "ch": 11,
+      "topic": "Diluted EPS",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Basic EPS: Rs 0.50 (profit Rs 200 lakh / 400 lakh shares). 5% convertibles could add 400 lakh shares and save post-tax interest Rs 18 lakh on assumed conversion. Diluted EPS:",
+      "o": [
+        "Rs 0.27",
+        "Basic 0.50 only — ignored",
+        "Rs 0.50 (reverse)",
+        "Rs 0.46"
+      ],
+      "a": 0,
+      "why": "Incremental effect per added share = 18/400 = Rs 0.05 vs basic Rs 0.50 ⇒ dilutive; diluted = (200+18)/(400+400) = Rs 0.27",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the incremental-effect ranking is the definitive dilution MCQ AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Diluted EPS",
+        "tip": "Diluted: add back convertible interest net of tax; add new shares; compare per-share effect to basic.",
+        "link": "Chapter 11 — Ind AS on Disclosures in the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-ff999i",
+      "ch": 11,
+      "topic": "Diluted EPS",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Basic EPS: Rs 0.40 (profit Rs 160 lakh / 400 lakh shares). 5% convertibles could add 400 lakh shares and save post-tax interest Rs 30 lakh on assumed conversion. Diluted EPS:",
+      "o": [
+        "Basic 0.40 only — ignored",
+        "Rs 0.24",
+        "Rs 0.40 (reverse)",
+        "Rs 0.33"
+      ],
+      "a": 1,
+      "why": "Incremental effect per added share = 30/400 = Rs 0.08 vs basic Rs 0.40 ⇒ dilutive; diluted = (160+30)/(400+400) = Rs 0.24",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the incremental-effect ranking is the definitive dilution MCQ AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Diluted EPS",
+        "tip": "Diluted: add back convertible interest net of tax; add new shares; compare per-share effect to basic.",
+        "link": "Chapter 11 — Ind AS on Disclosures in the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-8smdsv",
+      "ch": 11,
+      "topic": "Diluted EPS",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Basic EPS: Rs 0.40 (profit Rs 200 lakh / 500 lakh shares). 5% convertibles could add 500 lakh shares and save post-tax interest Rs 30 lakh on assumed conversion. Diluted EPS:",
+      "o": [
+        "Rs 0.23",
+        "Basic 0.40 only — ignored",
+        "Rs 0.40 (reverse)",
+        "Rs 0.34"
+      ],
+      "a": 0,
+      "why": "Incremental effect per added share = 30/500 = Rs 0.06 vs basic Rs 0.40 ⇒ dilutive; diluted = (200+30)/(500+500) = Rs 0.23",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the incremental-effect ranking is the definitive dilution MCQ AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Diluted EPS",
+        "tip": "Diluted: add back convertible interest net of tax; add new shares; compare per-share effect to basic.",
+        "link": "Chapter 11 — Ind AS on Disclosures in the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1t95ydv",
+      "ch": 11,
+      "topic": "Diluted EPS",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Basic EPS: Rs 0.40 (profit Rs 200 lakh / 500 lakh shares). 5% convertibles could add 250 lakh shares and save post-tax interest Rs 30 lakh on assumed conversion. Diluted EPS:",
+      "o": [
+        "Basic 0.40 only — ignored",
+        "Rs 0.80 (reverse)",
+        "Rs 0.31",
+        "Rs 0.34"
+      ],
+      "a": 2,
+      "why": "Incremental effect per added share = 30/250 = Rs 0.12 vs basic Rs 0.40 ⇒ dilutive; diluted = (200+30)/(500+250) = Rs 0.31",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the incremental-effect ranking is the definitive dilution MCQ AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Diluted EPS",
+        "tip": "Diluted: add back convertible interest net of tax; add new shares; compare per-share effect to basic.",
+        "link": "Chapter 11 — Ind AS on Disclosures in the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-15m7d7",
+      "ch": 11,
+      "topic": "Diluted EPS",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Basic EPS: Rs 0.40 (profit Rs 200 lakh / 500 lakh shares). 5% convertibles could add 250 lakh shares and save post-tax interest Rs 12 lakh on assumed conversion. Diluted EPS:",
+      "o": [
+        "Rs 0.28",
+        "Basic 0.40 only — ignored",
+        "Rs 0.80 (reverse)",
+        "Rs 0.38"
+      ],
+      "a": 0,
+      "why": "Incremental effect per added share = 12/250 = Rs 0.05 vs basic Rs 0.40 ⇒ dilutive; diluted = (200+12)/(500+250) = Rs 0.28",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the incremental-effect ranking is the definitive dilution MCQ AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Diluted EPS",
+        "tip": "Diluted: add back convertible interest net of tax; add new shares; compare per-share effect to basic.",
+        "link": "Chapter 11 — Ind AS on Disclosures in the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-15qaeoa",
+      "ch": 11,
+      "topic": "Diluted EPS",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Basic EPS: Rs 0.40 (profit Rs 160 lakh / 400 lakh shares). 5% convertibles could add 400 lakh shares and save post-tax interest Rs 12 lakh on assumed conversion. Diluted EPS:",
+      "o": [
+        "Basic 0.40 only — ignored",
+        "Rs 0.40 (reverse)",
+        "Rs 0.37",
+        "Rs 0.22"
+      ],
+      "a": 3,
+      "why": "Incremental effect per added share = 12/400 = Rs 0.03 vs basic Rs 0.40 ⇒ dilutive; diluted = (160+12)/(400+400) = Rs 0.22",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the incremental-effect ranking is the definitive dilution MCQ AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Diluted EPS",
+        "tip": "Diluted: add back convertible interest net of tax; add new shares; compare per-share effect to basic.",
+        "link": "Chapter 11 — Ind AS on Disclosures in the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-zt5khu",
+      "ch": 11,
+      "topic": "Diluted EPS",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Basic EPS: Rs 0.50 (profit Rs 200 lakh / 400 lakh shares). 5% convertibles could add 400 lakh shares and save post-tax interest Rs 30 lakh on assumed conversion. Diluted EPS:",
+      "o": [
+        "Rs 0.29",
+        "Basic 0.50 only — ignored",
+        "Rs 0.50 (reverse)",
+        "Rs 0.43"
+      ],
+      "a": 0,
+      "why": "Incremental effect per added share = 30/400 = Rs 0.08 vs basic Rs 0.50 ⇒ dilutive; diluted = (200+30)/(400+400) = Rs 0.29",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the incremental-effect ranking is the definitive dilution MCQ AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Diluted EPS",
+        "tip": "Diluted: add back convertible interest net of tax; add new shares; compare per-share effect to basic.",
+        "link": "Chapter 11 — Ind AS on Disclosures in the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-16p1imq",
+      "ch": 11,
+      "topic": "Diluted EPS",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Basic EPS: Rs 0.50 (profit Rs 200 lakh / 400 lakh shares). 5% convertibles could add 200 lakh shares and save post-tax interest Rs 18 lakh on assumed conversion. Diluted EPS:",
+      "o": [
+        "Basic 0.50 only — ignored",
+        "Rs 1.00 (reverse)",
+        "Rs 0.46",
+        "Rs 0.36"
+      ],
+      "a": 3,
+      "why": "Incremental effect per added share = 18/200 = Rs 0.09 vs basic Rs 0.50 ⇒ dilutive; diluted = (200+18)/(400+200) = Rs 0.36",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the incremental-effect ranking is the definitive dilution MCQ AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Diluted EPS",
+        "tip": "Diluted: add back convertible interest net of tax; add new shares; compare per-share effect to basic.",
+        "link": "Chapter 11 — Ind AS on Disclosures in the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-3h1c0r",
+      "ch": 11,
+      "topic": "Diluted EPS",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Basic EPS: Rs 0.32 (profit Rs 160 lakh / 500 lakh shares). 5% convertibles could add 500 lakh shares and save post-tax interest Rs 30 lakh on assumed conversion. Diluted EPS:",
+      "o": [
+        "Basic 0.32 only — ignored",
+        "Rs 0.19",
+        "Rs 0.32 (reverse)",
+        "Rs 0.26"
+      ],
+      "a": 1,
+      "why": "Incremental effect per added share = 30/500 = Rs 0.06 vs basic Rs 0.32 ⇒ dilutive; diluted = (160+30)/(500+500) = Rs 0.19",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the incremental-effect ranking is the definitive dilution MCQ AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Diluted EPS",
+        "tip": "Diluted: add back convertible interest net of tax; add new shares; compare per-share effect to basic.",
+        "link": "Chapter 11 — Ind AS on Disclosures in the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-kc402t",
+      "ch": 11,
+      "topic": "Diluted EPS",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Basic EPS: Rs 0.32 (profit Rs 160 lakh / 500 lakh shares). 5% convertibles could add 250 lakh shares and save post-tax interest Rs 18 lakh on assumed conversion. Diluted EPS:",
+      "o": [
+        "Rs 0.24",
+        "Basic 0.32 only — ignored",
+        "Rs 0.64 (reverse)",
+        "Rs 0.28"
+      ],
+      "a": 0,
+      "why": "Incremental effect per added share = 18/250 = Rs 0.07 vs basic Rs 0.32 ⇒ dilutive; diluted = (160+18)/(500+250) = Rs 0.24",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the incremental-effect ranking is the definitive dilution MCQ AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Diluted EPS",
+        "tip": "Diluted: add back convertible interest net of tax; add new shares; compare per-share effect to basic.",
+        "link": "Chapter 11 — Ind AS on Disclosures in the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-156zykf",
+      "ch": 11,
+      "topic": "Reversal cap",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "A machine (cost Rs 100 lakh, life 10 years, nil residual) was written down to Rs 45 lakh after 3 years of depreciation. In year 4, indicators reverse; what ceiling applies to the year-4 reversal (Rs lakh)?",
+      "o": [
+        "Full FV increase, any amount",
+        "Cap at original cost Rs 100 lakh",
+        "Reversal never permitted",
+        "Maximum recovery of Rs 60 lakh — capped at what the CA would have been"
+      ],
+      "a": 3,
+      "why": "Ceiling = carrying amount net of depreciation that WOULD have existed had no impairment occurred: 100 − 4×10 = Rs 60 lakh. Post-impairment the year-4 CA is 45 − 4.5 = 40.5, so at most Rs 19.5 lakh can be reversed — and goodwill never reverses.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the ceiling formula (and goodwill absolute bar) is a known trap AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Reversal cap",
+        "tip": "Ind AS 36: reversal caps at carrying amount that WOULD have existed (net of depreciation); goodwill never reverses.",
+        "link": "Chapter 11 — Ind AS on Disclosures in the Financial Statements"
+      }
+    }
+  ]
+}

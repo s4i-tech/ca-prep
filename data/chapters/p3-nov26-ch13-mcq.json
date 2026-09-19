@@ -1,0 +1,313 @@
+{
+  "meta": {
+    "id": "p3-nov26-ch13-mcq",
+    "paper": "P3",
+    "attempt": "NOV-2026",
+    "kind": "chapter",
+    "category": "CHAPTER-WISE MCQs",
+    "title": "Ch 13: Group Audits — MCQ Bank",
+    "description": "Chapter-wise practice MCQs for Chapter 13 (Group Audits).",
+    "count": 12,
+    "mcqCount": 12,
+    "descriptiveCount": 0,
+    "coverage": "Chapter 13 · 12 MCQs",
+    "chapters": [
+      13
+    ],
+    "durationMinutes": 18,
+    "difficulty": "Exam standard",
+    "high": 1,
+    "medium": 10,
+    "low": 1
+  },
+  "questions": [
+    {
+      "id": "p3q-sl9854",
+      "ch": 13,
+      "topic": "Group auditor responsibility",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "The group engagement partner's responsibility for the group audit opinion:",
+      "o": [
+        "Is diluted where components are audited by other firms",
+        "Is not reduced by reliance on component auditors' work — the partner alone signs the group opinion",
+        "Delegates final review to the component auditors",
+        "Is satisfied by receiving signed reports"
+      ],
+      "a": 1,
+      "why": "SA 600: the group auditor is solely responsible for the opinion; component auditors' work is directed, reviewed and (where needed) re-performed — 'I relied on them' is not a defence; materiality allocation and involvement are the levers.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the opinion's weight is not shareable — nor is the blame Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Group auditor responsibility",
+        "tip": "One signature, many sub-audits' debts.",
+        "link": "Chapter 13 — Group Audits"
+      }
+    },
+    {
+      "id": "p3q-1uzh8yg",
+      "ch": 13,
+      "topic": "Component materiality",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Materiality for a component (when the group auditor sets it) is:",
+      "o": [
+        "Equal to group materiality",
+        "Lower than group performance/overall materiality, sized so that a component's uncorrected + undetected misstatements, aggregated group-wide, stay under group thresholds",
+        "10% of the component's assets",
+        "Decided by the component auditor alone"
+      ],
+      "a": 1,
+      "why": "Component materiality is set by the group engagement team; must be lower than group materiality to cover aggregation risk; components can be 'significant' by size or risk characteristics (e.g. specific transactions that matter to the group).",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — a slice's budget must protect the whole pie AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Component materiality",
+        "tip": "Divide materiality, multiply caution.",
+        "link": "Chapter 13 — Group Audits"
+      }
+    },
+    {
+      "id": "p3q-1tq0h0o",
+      "ch": 13,
+      "topic": "Two-way communication with component auditors",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "When the group team receives a component auditor's findings on a significant risk, it should:",
+      "o": [
+        "Attach the component report to the file untouched",
+        "Evaluate, request additional work where needed, and assess implications for group risk assessment and the report",
+        "Rely as a legal opinion",
+        "Ignore where the component is immaterial in size"
+      ],
+      "a": 1,
+      "why": "Communication is two-way and includes the group's inquiries on independence, the component's identified risks/misstatements/exceptions; the group team EVALUATES — that is the verb the standards use; a small component can hold a big risk.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — 'component is small' is about size, not significance-by-nature AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Two-way communication with component auditors",
+        "tip": "A quiet room can house the loudest pipe.",
+        "link": "Chapter 13 — Group Audits"
+      }
+    },
+    {
+      "id": "p3q-1esjxpy",
+      "ch": 13,
+      "topic": "Group materiality floor",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Component materiality compared with group materiality is:",
+      "o": [
+        "Higher",
+        "Lower",
+        "Equal",
+        "Half of PM"
+      ],
+      "a": 1,
+      "why": "Set lower by the group team to keep the aggregate of component undetected/unfound errors under the group threshold.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the slice's cap is below the pie's AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Group materiality floor",
+        "tip": "Divide the budget, double the caution.",
+        "link": "Chapter 13 — Group Audits"
+      }
+    },
+    {
+      "id": "p3q-1lj8gf4",
+      "ch": 13,
+      "topic": "Sole responsibility",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Who is responsible for the group audit opinion?",
+      "o": [
+        "Every component auditor",
+        "The group engagement partner/team — sole, not diluted",
+        "The audit committee",
+        "The exchange"
+      ],
+      "a": 1,
+      "why": "Reliance transfers work, not responsibility; the group team directs and reviews.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the signature doesn't share the blame AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Sole responsibility",
+        "tip": "One report, one signature, no co-authors.",
+        "link": "Chapter 13 — Group Audits"
+      }
+    },
+    {
+      "id": "p3q-ygits6",
+      "ch": 13,
+      "topic": "Group audit — component auditor access",
+      "m": 1,
+      "d": "HARD",
+      "q": "Under the revised group-audit standards, the group engagement team's rights over component auditors include:",
+      "o": [
+        "No rights beyond the report",
+        "Direction (component materiality, required work), timely TWO-WAY communication, and access to / involvement with their documentation as the risk warrants",
+        "Only re-performing all their work",
+        "Outsourcing the report to them"
+      ],
+      "a": 1,
+      "why": "The revision tightened the group team's control over the component auditor's work (and access to documentation) — the exam point: reliance is active, supervised, and evidenced, not postal.",
+      "trend": "Documented syllabus/amendment change — applicability from May 2026 exam onwards per ICAI BoS announcement.",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — direction, involvement, review — the verbs AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Group audit — component auditor access",
+        "tip": "A group audit is conducted, not collected.",
+        "link": "Chapter 13 — Group Audits"
+      }
+    },
+    {
+      "id": "p3q-18ps5m4",
+      "ch": 13,
+      "topic": "Group scope of consolidation",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Before directing component auditors, the group team must establish:",
+      "o": [
+        "The fee split",
+        "The consolidation scope (which components are included and on what basis) — the boundary error (omitted entity) is a group-level misstatement risk",
+        "The language",
+        "Local tax filings"
+      ],
+      "a": 1,
+      "why": "Group audits fail at the boundary: an unconsolidated special-purpose vehicle or a post-year disposal treated wrongly poisons the consolidated numbers whatever the components audit says — the scoping memo is the first review.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — consolidation errors are group-material by construction AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Group scope of consolidation",
+        "tip": "Get the perimeter wrong and the sum of right parts is wrong.",
+        "link": "Chapter 13 — Group Audits"
+      }
+    },
+    {
+      "id": "p3q-1oqni7l",
+      "ch": 13,
+      "topic": "Disclaimers at group level",
+      "m": 1,
+      "d": "HARD",
+      "q": "A group team cannot obtain sufficient evidence over a non-significant but pervasive segment. The correct report:",
+      "o": [
+        "Is always unmodified",
+        "The limitation applies to the GROUP audit: qualified or disclaimed depending on materiality/pervasiveness of the unavailable segment's possible effects",
+        "Mentions the component auditor's fee",
+        "Is delayed by one year"
+      ],
+      "a": 1,
+      "why": "Component materiality and significance don't set the report ceiling — the effect at GROUP level does; a small but decisive line (a key subsidiary's cash, unconfirmed) can push the group to a disclaimer.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — significance at component, consequence at group Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Disclaimers at group level",
+        "tip": "A missing piece is judged by the picture, not its size.",
+        "link": "Chapter 13 — Group Audits"
+      }
+    },
+    {
+      "id": "p3q-9eru6m",
+      "ch": 13,
+      "topic": "Component materiality sizing",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Group overall materiality Rs 1,200 lakh; the engagement team sets a component's materiality at 60%. The correct framing of the resulting Rs 720 lakh is:",
+      "o": [
+        "Component materiality Rs 720 lakh (60% of group OM) — must be below group OM; and group PM governs the total",
+        "Equal to group OM of Rs 1,200 lakh",
+        "Larger for a 'significant' component so it gets less work",
+        "Set independently by the component auditor with no group input"
+      ],
+      "a": 0,
+      "why": "Component materiality must be lower than group materiality — the sum of undetected component errors should remain below group thresholds; it is set by the GROUP engagement team (option 4 is wrong), and significant status doesn't raise it (more scrutiny, lower floor).",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — allocation logic beats allocation numbers in group-audit questions AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Component materiality sizing",
+        "tip": "Component materiality < group overall; aggregation risk is why; a component's uncorrected errors must stay small enough to be safe in total.",
+        "link": "Chapter 13 — Group Audits"
+      }
+    },
+    {
+      "id": "p3q-15c8tyz",
+      "ch": 13,
+      "topic": "Component materiality sizing",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Group overall materiality Rs 2,000 lakh; the engagement team sets a component's materiality at 60%. The correct framing of the resulting Rs 1,200 lakh is:",
+      "o": [
+        "Component materiality Rs 1,200 lakh (60% of group OM) — must be below group OM; and group PM governs the total",
+        "Equal to group OM of Rs 2,000 lakh",
+        "Larger for a 'significant' component so it gets less work",
+        "Set independently by the component auditor with no group input"
+      ],
+      "a": 0,
+      "why": "Component materiality must be lower than group materiality — the sum of undetected component errors should remain below group thresholds; it is set by the GROUP engagement team (option 4 is wrong), and significant status doesn't raise it (more scrutiny, lower floor).",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — allocation logic beats allocation numbers in group-audit questions AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Component materiality sizing",
+        "tip": "Component materiality < group overall; aggregation risk is why; a component's uncorrected errors must stay small enough to be safe in total.",
+        "link": "Chapter 13 — Group Audits"
+      }
+    },
+    {
+      "id": "p3q-1w62wxy",
+      "ch": 13,
+      "topic": "Component materiality sizing",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Group overall materiality Rs 2,000 lakh; the engagement team sets a component's materiality at 40%. The correct framing of the resulting Rs 800 lakh is:",
+      "o": [
+        "Component materiality Rs 800 lakh (40% of group OM) — must be below group OM; and group PM governs the total",
+        "Equal to group OM of Rs 2,000 lakh",
+        "Larger for a 'significant' component so it gets less work",
+        "Set independently by the component auditor with no group input"
+      ],
+      "a": 0,
+      "why": "Component materiality must be lower than group materiality — the sum of undetected component errors should remain below group thresholds; it is set by the GROUP engagement team (option 4 is wrong), and significant status doesn't raise it (more scrutiny, lower floor).",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — allocation logic beats allocation numbers in group-audit questions AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Component materiality sizing",
+        "tip": "Component materiality < group overall; aggregation risk is why; a component's uncorrected errors must stay small enough to be safe in total.",
+        "link": "Chapter 13 — Group Audits"
+      }
+    },
+    {
+      "id": "p3q-1w1wjx9",
+      "ch": 13,
+      "topic": "Component materiality sizing",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Group overall materiality Rs 1,200 lakh; the engagement team sets a component's materiality at 40%. The correct framing of the resulting Rs 480 lakh is:",
+      "o": [
+        "Equal to group OM of Rs 1,200 lakh",
+        "Component materiality Rs 480 lakh (40% of group OM) — must be below group OM; and group PM governs the total",
+        "Larger for a 'significant' component so it gets less work",
+        "Set independently by the component auditor with no group input"
+      ],
+      "a": 1,
+      "why": "Component materiality must be lower than group materiality — the sum of undetected component errors should remain below group thresholds; it is set by the GROUP engagement team (option 4 is wrong), and significant status doesn't raise it (more scrutiny, lower floor).",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — allocation logic beats allocation numbers in group-audit questions AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Component materiality sizing",
+        "tip": "Component materiality < group overall; aggregation risk is why; a component's uncorrected errors must stay small enough to be safe in total.",
+        "link": "Chapter 13 — Group Audits"
+      }
+    }
+  ]
+}

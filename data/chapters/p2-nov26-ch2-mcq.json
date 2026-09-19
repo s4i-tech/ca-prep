@@ -1,0 +1,289 @@
+{
+  "meta": {
+    "id": "p2-nov26-ch2-mcq",
+    "paper": "P2",
+    "attempt": "NOV-2026",
+    "kind": "chapter",
+    "category": "CHAPTER-WISE MCQs",
+    "title": "Ch 2: Risk Management — MCQ Bank",
+    "description": "Chapter-wise practice MCQs for Chapter 2 (Risk Management).",
+    "count": 11,
+    "mcqCount": 11,
+    "descriptiveCount": 0,
+    "coverage": "Chapter 2 · 11 MCQs",
+    "chapters": [
+      2
+    ],
+    "durationMinutes": 17,
+    "difficulty": "Exam standard",
+    "high": 2,
+    "medium": 6,
+    "low": 3
+  },
+  "questions": [
+    {
+      "id": "p2q-g7hi6b",
+      "ch": 2,
+      "topic": "Risk types",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Which risk can be eliminated through diversification?",
+      "o": [
+        "Systematic (market) risk",
+        "Unsystematic (firm/industry-specific) risk",
+        "Interest-rate risk",
+        "Inflation risk"
+      ],
+      "a": 1,
+      "why": "Beta (systematic) cannot be diversified; idiosyncratic risk averages away in large portfolios.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the diversification boundary is the most-tested risk concept Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Risk types",
+        "tip": "Diversification shaves the hills you own, never the mountain the economy builds.",
+        "link": "Chapter 2 — Risk Management"
+      }
+    },
+    {
+      "id": "p2q-1uv4xkz",
+      "ch": 2,
+      "topic": "VaR",
+      "m": 1,
+      "d": "HARD",
+      "q": "A 5% one-day VaR of Rs 2 crore on a portfolio means:",
+      "o": [
+        "Maximum loss is exactly 2 crore",
+        "On 5 of every 100 days (approx), the one-day loss EXCEEDS Rs 2 crore",
+        "Mean loss is 2 crore",
+        "5% of portfolio lost in a crash"
+      ],
+      "a": 1,
+      "why": "VaR = threshold loss at the confidence level (1−α) over the horizon; tail beyond is unspecified — the 'possible exceedance days' phrasing is the correct reading.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the probability-reading of VaR is the definition test AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: VaR",
+        "tip": "VaR names the line you cross on bad days; it never promises you won't cross it deeply.",
+        "link": "Chapter 2 — Risk Management"
+      }
+    },
+    {
+      "id": "p2q-1pt1r1x",
+      "ch": 2,
+      "topic": "Hedging vs speculation",
+      "m": 1,
+      "d": "HARD",
+      "q": "The key economic difference between hedging and speculation is:",
+      "o": [
+        "Contract type",
+        "Hedging reduces existing exposure; speculation creates exposure for profit",
+        "Tenor",
+        "Exchange venue"
+      ],
+      "a": 1,
+      "why": "Hedge = offset an exposure you already have; speculation = take an open position expecting to profit.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the economic-intent distinction Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Hedging vs speculation",
+        "tip": "Hedging buys certainty for a risk you have; speculation rents a risk you didn't.",
+        "link": "Chapter 2 — Risk Management"
+      }
+    },
+    {
+      "id": "p2q-1579mu9",
+      "ch": 2,
+      "topic": "Portfolio VaR — scaling",
+      "m": 1,
+      "d": "HARD",
+      "q": "Scaling daily VaR to 10 days (i.i.d. returns) multiplies it by:",
+      "o": [
+        "10",
+        "√10",
+        "100",
+        "5"
+      ],
+      "a": 1,
+      "why": "Square-root-of-time rule with uncorrelated normal returns: 10-day ≈ daily × √10 — NOT ×10.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the √t rule with its ×t distractor Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Portfolio VaR — scaling",
+        "tip": "Risk stacks like a random walk: by the square root of time, not the clock.",
+        "link": "Chapter 2 — Risk Management"
+      }
+    },
+    {
+      "id": "p2q-1cpnepe",
+      "ch": 2,
+      "topic": "Futures margin call",
+      "m": 1,
+      "d": "HARD",
+      "q": "A long futures position with initial margin and a large loss below maintenance margin triggers:",
+      "o": [
+        "Contract termination",
+        "A margin CALL to top up to INITIAL margin levels (variation margin is separate)",
+        "Exchange takeover",
+        "Zero value"
+      ],
+      "a": 1,
+      "why": "Maintenance breach ⇒ variation/margin call bringing account to the maintenance (Indian practice: to initial per exchange norms for many segments) — the exam expects: amount brought to cover shortfall, with contract continuing; do not confuse daily variation margin with maintenance calls.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the margin hierarchy sequence is the plumbing question AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Futures margin call",
+        "tip": "Daily settle the score; when the tank runs dry, refill the tank, not the contract.",
+        "link": "Chapter 2 — Risk Management"
+      }
+    },
+    {
+      "id": "p2q-1m80rvl",
+      "ch": 2,
+      "topic": "VaR parametric",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Portfolio Rs 100 crore, daily σ 1.5%, one-tailed z of 2.33 (95%/99%). Parametric VaR for one and ten days:",
+      "o": [
+        "Rs 34.95 for 10-day",
+        "Rs 3.50 for any horizon",
+        "Mean loss",
+        "1-day ≈ Rs 3.50 crore; 10-day ≈ Rs 11.05 crore"
+      ],
+      "a": 3,
+      "why": "Daily = 100×1.5%×2.33 = 3.50 crore; 10-day by √10 rule ≈ 11.05 crore (i.i.d. assumption).",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the √t scaling with the wrong ×10 distractor AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: VaR parametric",
+        "tip": "VaR = z × σ × √t × value.",
+        "link": "Chapter 2 — Risk Management"
+      }
+    },
+    {
+      "id": "p2q-gd7vv1",
+      "ch": 2,
+      "topic": "VaR parametric",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Portfolio Rs 100 crore, daily σ 1.5%, one-tailed z of 1.65 (95%/99%). Parametric VaR for one and ten days:",
+      "o": [
+        "Rs 24.75 for 10-day",
+        "Rs 2.47 for any horizon",
+        "1-day ≈ Rs 2.47 crore; 10-day ≈ Rs 7.83 crore",
+        "Mean loss"
+      ],
+      "a": 2,
+      "why": "Daily = 100×1.5%×1.65 = 2.47 crore; 10-day by √10 rule ≈ 7.83 crore (i.i.d. assumption).",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the √t scaling with the wrong ×10 distractor AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: VaR parametric",
+        "tip": "VaR = z × σ × √t × value.",
+        "link": "Chapter 2 — Risk Management"
+      }
+    },
+    {
+      "id": "p2q-ych9ij",
+      "ch": 2,
+      "topic": "Hedging vs speculating",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "The line between hedging and speculation in a derivatives policy is drawn by:",
+      "o": [
+        "The instrument used",
+        "Whether an offsetting exposure exists that the position is sized and aimed to reduce",
+        "The exchange traded on",
+        "Profit earned"
+      ],
+      "a": "1",
+      "why": "A hedge answers an existing exposure (same notional logic, opposite direction, matched tenor); without an underlying exposure, the same contract is a directional bet — policy documents must define eligible exposures and prohibit naked positions.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — exposure first, instrument second AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Hedging vs speculating",
+        "tip": "A hedge is an umbrella; speculation is a bet on rain.",
+        "link": "Chapter 2 — Risk Management"
+      }
+    },
+    {
+      "id": "p2q-zqmqvg",
+      "ch": 2,
+      "topic": "Cross-hedge ratio",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Hedging jet fuel with crude futures is a cross-hedge; effectiveness then depends mainly on:",
+      "o": [
+        "Contract month",
+        "The stability of the correlation and regression beta (minimum-variance hedge ratio) between jet fuel and crude",
+        "Margin calls",
+        "Lot size"
+      ],
+      "a": "1",
+      "why": "Cross-hedges replace the untradeable exposure with a correlated proxy; optimal size = 1.0 adjusted by the hedge ratio from regression of spot changes on futures changes — basis-correlation instability is the killer risk.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — same-good hedge: ratio near 1; cross-good: the ratio is the risk AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Cross-hedge ratio",
+        "tip": "Borrowed umbrella only works while two weathers agree.",
+        "link": "Chapter 2 — Risk Management"
+      }
+    },
+    {
+      "id": "p2q-1d3vfax",
+      "ch": 2,
+      "topic": "Value at Risk reading",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A bank reports 1-day 99% VaR of ₹50 crore. Correct interpretation:",
+      "o": [
+        "Loss will be exactly 50 crore",
+        "On 99 of 100 days the loss will not exceed 50 crore (1-day horizon, current positions, normal markets)",
+        "50 crore is the worst possible loss",
+        "50 crore profit floor"
+      ],
+      "a": "1",
+      "why": "VaR = the loss threshold exceeded on (1−c) fraction of days under the model's assumptions; it says nothing about the size of the tail it doesn't measure — hence stress tests and expected shortfall supplement it.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — VaR names the cliff edge, not the depth of the fall Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Value at Risk reading",
+        "tip": "99 days of weather, 1 day of free-fall — and VaR won't tell you how far.",
+        "link": "Chapter 2 — Risk Management"
+      }
+    },
+    {
+      "id": "p2q-186f7pi",
+      "ch": 2,
+      "topic": "Basis",
+      "m": 1,
+      "d": "HARD",
+      "q": "Long position hedged with futures; at closing the spot has risen MORE than the futures price. The hedge:",
+      "o": [
+        "Completely eliminates price risk",
+        "Leaves a net gain because the basis (spot − futures) strengthened",
+        "Leaves a net loss",
+        "Breaks the contract"
+      ],
+      "a": "1",
+      "why": "Perfect hedging requires the spot and futures to move one-for-one; a strengthening basis favours the long spot/short futures hedger (selling the relatively weaker futures) — basis risk is the residue hedging cannot remove.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — hedging converts price risk into basis risk Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Basis",
+        "tip": "Umbrella in one hand, rain in the other — basis is the gap.",
+        "link": "Chapter 2 — Risk Management"
+      }
+    }
+  ]
+}

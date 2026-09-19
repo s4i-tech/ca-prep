@@ -1,0 +1,443 @@
+{
+  "meta": {
+    "id": "p3-nov26-ch7-mcq",
+    "paper": "P3",
+    "attempt": "NOV-2026",
+    "kind": "chapter",
+    "category": "CHAPTER-WISE MCQs",
+    "title": "Ch 7: Reporting — MCQ Bank",
+    "description": "Chapter-wise practice MCQs for Chapter 7 (Reporting).",
+    "count": 17,
+    "mcqCount": 17,
+    "descriptiveCount": 0,
+    "coverage": "Chapter 7 · 17 MCQs",
+    "chapters": [
+      7
+    ],
+    "durationMinutes": 26,
+    "difficulty": "Exam standard",
+    "high": 4,
+    "medium": 9,
+    "low": 4
+  },
+  "questions": [
+    {
+      "id": "p3q-iwc76f",
+      "ch": 7,
+      "topic": "The report drafting week",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Issue (i) drives:",
+      "o": [
+        "Qualified opinion",
+        "Disclaimer — material and pervasive evidence gap (28% of assets is the whole trading story)",
+        "Adverse opinion",
+        "KAM only"
+      ],
+      "a": 1,
+      "why": "Known-vs-unknown axis: inventory is evidence NOT obtained (not a measured misstatement) ⇒ the limitation route; with 28% of assets and pervasive effect on cost of sales/profit/covenants, disclaimer over qualification.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — this topic stays active in ICAI question-setting AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: The report drafting week",
+        "tip": "The account's weight decides pervasiveness You cannot qualify your way out of not knowing what you didn't check.",
+        "link": "Chapter 7 — Reporting"
+      },
+      "stem": "Finix Electronics (listed): (i) inventory = 28% of assets, count not observed, no alternatives possible; (ii) a court-linked customs demand for 3 years' duties is unrecognised though legal opinion says 'more likely than not outflow'; (iii) management will not provide the fraud representation; (iv) the auditor also audited the internal financial controls framework and found a material weakness in the revenue cut-off control.",
+      "caseRef": "p3-case-2"
+    },
+    {
+      "id": "p3q-1pdyzpp",
+      "ch": 7,
+      "topic": "The report drafting week",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Issue (ii) — the unrecognised customs demand:",
+      "o": [
+        "Disclose and done",
+        "Propose accrual (probable + reliable estimate met); if unadjusted, a known misstatement — qualified/adverse by magnitude vs materiality and pervasiveness",
+        "Legal says 'opinion' — not audit evidence",
+        "Send to next year"
+      ],
+      "a": 1,
+      "why": "Provision criteria: present obligation, probable outflow (more-likely-than-not), reliable estimate ⇒ accrue; refusing to accrue a quantified probable liability is a MISSTATEMENT (the adverse side of the matrix if big) — the legal letter's probability wording is precisely the audit input, not a dismissal.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — this topic stays active in ICAI question-setting Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: The report drafting week",
+        "tip": "'More likely than not' is a booking word A probable bill is a present debt wearing a future date.",
+        "link": "Chapter 7 — Reporting"
+      },
+      "stem": "Finix Electronics (listed): (i) inventory = 28% of assets, count not observed, no alternatives possible; (ii) a court-linked customs demand for 3 years' duties is unrecognised though legal opinion says 'more likely than not outflow'; (iii) management will not provide the fraud representation; (iv) the auditor also audited the internal financial controls framework and found a material weakness in the revenue cut-off control.",
+      "caseRef": "p3-case-2"
+    },
+    {
+      "id": "p3q-eabrlt",
+      "ch": 7,
+      "topic": "The report drafting week",
+      "m": 2,
+      "d": "HARD",
+      "q": "Issue (iii) — refusal of the fraud representation:",
+      "o": [
+        "Treat as an unresolved integrity red flag; evaluate the effect: consider scope-limitation consequences and withdrawal",
+        "Accept the annual accounts instead",
+        "Escalate to the registrar immediately",
+        "Skip it — fraud reps are optional"
+      ],
+      "a": 0,
+      "why": "The fraud representation is among the mandatory ones; refusal is not paperwork missing — it triggers integrity re-assessment and, when the auditor cannot rely on management any longer, withdrawal becomes the answer (not a qualification of the numbers alone).",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — this topic stays active in ICAI question-setting Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: The report drafting week",
+        "tip": "The missing signature IS a signature Some absences shout.",
+        "link": "Chapter 7 — Reporting"
+      },
+      "stem": "Finix Electronics (listed): (i) inventory = 28% of assets, count not observed, no alternatives possible; (ii) a court-linked customs demand for 3 years' duties is unrecognised though legal opinion says 'more likely than not outflow'; (iii) management will not provide the fraud representation; (iv) the auditor also audited the internal financial controls framework and found a material weakness in the revenue cut-off control.",
+      "caseRef": "p3-case-2"
+    },
+    {
+      "id": "p3q-1vfbe78",
+      "ch": 7,
+      "topic": "The report drafting week",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Issue (iv) — the ICFR material weakness in revenue cut-off:",
+      "o": [
+        "Ignore it for the FS opinion — it's a separate opinion",
+        "It feeds the FS audit (no reliance on that control, expand substantive cut-off testing) AND the separate ICFR opinion — a material weakness there drives a modified ICFR conclusion even if the FS end unmodified",
+        "Fix it yourself",
+        "Report to the exchange directly"
+      ],
+      "a": 1,
+      "why": "Dual opinions, shared plumbing: the weakness removes control reliance (bigger substantive effort for cut-off — connecting to the 31-March invoices in the facts), and the ICFR opinion says the controls aren't effective — the numbers may still prove right for THIS year; that split is the point of the architecture.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — this topic stays active in ICAI question-setting AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: The report drafting week",
+        "tip": "Two opinions, one truth table The machine and the output get separate verdicts — the output can be right by luck.",
+        "link": "Chapter 7 — Reporting"
+      },
+      "stem": "Finix Electronics (listed): (i) inventory = 28% of assets, count not observed, no alternatives possible; (ii) a court-linked customs demand for 3 years' duties is unrecognised though legal opinion says 'more likely than not outflow'; (iii) management will not provide the fraud representation; (iv) the auditor also audited the internal financial controls framework and found a material weakness in the revenue cut-off control.",
+      "caseRef": "p3-case-2"
+    },
+    {
+      "id": "p3q-1id2ajx",
+      "ch": 7,
+      "topic": "The report drafting week",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "With (i) unresolvable plus the (iii) integrity failure, the report most likely:",
+      "o": [
+        "Unmodified with KAMs",
+        "The audit may END: withdrawal, communicating to TCWG and (where applicable) the reasons and any statutory reporting — no opinion issued",
+        "Qualified + adverse mix",
+        "Signed with a double date"
+      ],
+      "a": 1,
+      "why": "Pervasive limitations plus a management-integrity break is the textbook withdrawal situation: the auditor cannot form an opinion on an environment they can no longer rely on; the communication duty (TCWG, and the regulatory reporting where applicable) survives the resignation — the 'no opinion' answer, not a decorated one.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — this topic stays active in ICAI question-setting Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: The report drafting week",
+        "tip": "When the audit can't finish, it resigns You may not be able to sign — but you will still have to speak.",
+        "link": "Chapter 7 — Reporting"
+      },
+      "stem": "Finix Electronics (listed): (i) inventory = 28% of assets, count not observed, no alternatives possible; (ii) a court-linked customs demand for 3 years' duties is unrecognised though legal opinion says 'more likely than not outflow'; (iii) management will not provide the fraud representation; (iv) the auditor also audited the internal financial controls framework and found a material weakness in the revenue cut-off control.",
+      "caseRef": "p3-case-2"
+    },
+    {
+      "id": "p3q-18piwrj",
+      "ch": 7,
+      "topic": "Modified opinions — grammar",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A 'disclaimer of opinion' is appropriate when:",
+      "o": [
+        "Misstatements are material and pervasive",
+        "Possible effects of an inability to obtain sufficient appropriate evidence are material AND pervasive",
+        "The client requests it",
+        "The auditor is unfamiliar with the industry"
+      ],
+      "a": 1,
+      "why": "Two axes: material only ⇒ qualified; material AND pervasive ⇒ adverse (misstatements) or disclaimer (insufficient evidence); pervasive = pervasive effects/unresolvable: 'cannot form an opinion'.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the decision tree by two branches and a root word Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Modified opinions — grammar",
+        "tip": "'Adverse' is an answer; a disclaimer is the absence of one.",
+        "link": "Chapter 7 — Reporting"
+      }
+    },
+    {
+      "id": "p3q-139dvwl",
+      "ch": 7,
+      "topic": "Adverse vs qualified",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Widespread misstatement of inventories with no records, affecting several statement captions and ratios, under SA 705 is:",
+      "o": [
+        "Qualified — except for",
+        "Adverse — material and pervasive",
+        "Disclaimer",
+        "Unmodified with EMPR"
+      ],
+      "a": 1,
+      "why": "Evidence-based misstatements known to be material AND pervasive ⇒ adverse; disclaimers are for INABILITY to obtain evidence; 'except for' qualification is reserved when material but NOT pervasive.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — adverse = what we found; disclaimer = what we could not find AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Adverse vs qualified",
+        "tip": "A bad audit of wrong books says 'wrong'; of missing books, 'unknown'.",
+        "link": "Chapter 7 — Reporting"
+      }
+    },
+    {
+      "id": "p3q-8p22fy",
+      "ch": 7,
+      "topic": "Emphasis of matter",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "An emphasis-of-matter paragraph is used to:",
+      "o": [
+        "Report a scope limitation",
+        "Draw users' attention to a matter already disclosed in the notes that is fundamental to understanding",
+        "Override a client disagreement",
+        "Substitute for a KAM"
+      ],
+      "a": 1,
+      "why": "SA 706: EMPR = attention to a properly disclosed, fundamental matter — it is NOT a modification and NOT a substitute for KAM (listed) or for a required going-concern or modified-opinion paragraph; management approval to include it — say the caveat.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — EMPR amplifies the statements; it does not correct them AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Emphasis of matter",
+        "tip": "A highlighter, not a red pen.",
+        "link": "Chapter 7 — Reporting"
+      }
+    },
+    {
+      "id": "p3q-19c4jny",
+      "ch": 7,
+      "topic": "Other matter paragraph",
+      "m": 1,
+      "d": "HARD",
+      "q": "An 'other matter' paragraph differs from an emphasis-of-matter paragraph because it refers to:",
+      "o": [
+        "A note already in the statements",
+        "A matter not presented or disclosed in the statements that is relevant to users' understanding",
+        "A misstatement",
+        "The auditor's remuneration"
+      ],
+      "a": 1,
+      "why": "OM = matters not in the statements (e.g. reference to another auditor's report on a component's statements, statutory reporting on matters outside FS that are deemed relevant); EMPR = matters already IN the statements.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — EMPR points at the map; OM brings something new to the table Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Other matter paragraph",
+        "tip": "One highlights the picture; one hangs a second frame.",
+        "link": "Chapter 7 — Reporting"
+      }
+    },
+    {
+      "id": "p3q-1xxsibk",
+      "ch": 7,
+      "topic": "Key audit matters",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "KAM under SA 701 are:",
+      "o": [
+        "All significant-risk areas without exception",
+        "Matters that in the auditor's professional judgment were of most significance in the audit of the current period, selected from matters communicated with TCWG",
+        "Matters involving suspected fraud",
+        "Any matter the client volunteers"
+      ],
+      "a": 1,
+      "why": "The funnel: matters from communication → areas requiring significant attention/judgment → most significant for THIS audit, reported with description + how addressed; mandatory for listed entity audits; matters requiring a modified opinion are disclosed via that modification, NOT under KAM label — the overlap is an either/or.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the funnel from 'communicated' to 'most significant' — and no overlap with modifications Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Key audit matters",
+        "tip": "KAMs are the story of the audit; the opinion is its verdict.",
+        "link": "Chapter 7 — Reporting"
+      }
+    },
+    {
+      "id": "p3q-8nqnjp",
+      "ch": 7,
+      "topic": "KAM vs EMPR overlap",
+      "m": 1,
+      "d": "HARD",
+      "q": "A matter that also requires a modified opinion should appear:",
+      "o": [
+        "In KAM instead of the modification",
+        "In the Basis for Modification, not KAM",
+        "In both sections",
+        "In neither"
+      ],
+      "a": 1,
+      "why": "SA 701: if the matter requires a modification, the modification section describes it; KAMs may then refer to it only to cross-note; using KAM in place of a modification is prohibited — the phrasing trap tests the direction of substitution.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — modifications are not softened by spotlighting them — say it where it hurts Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: KAM vs EMPR overlap",
+        "tip": "A KAM is a showcase; a modification is a verdict — don't swap them.",
+        "link": "Chapter 7 — Reporting"
+      }
+    },
+    {
+      "id": "p3q-1gv45vq",
+      "ch": 7,
+      "topic": "Laws and regulations — direct/indirect",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Under SA 250, non-compliance with laws having a direct effect on the determination of material amounts (e.g. financial reporting law) places on the auditor the responsibility to:",
+      "o": [
+        "Obtain audit evidence regarding compliance",
+        "Inquire only",
+        "Perform procedures only when a reasonable suspicion arises",
+        "Refer to internal counsel and close"
+      ],
+      "a": 0,
+      "why": "Direct-type laws (those affecting amounts and disclosures, like the Companies Act/banking acts on reserves) ⇒ the audit must obtain evidence regarding COMPLIANCE as part of the procedures; indirect-type ⇒ designed procedures limited to identifying non-compliance with a potential material effect.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — direct effect: compliance evidence; indirect: awareness procedures AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Laws and regulations — direct/indirect",
+        "tip": "Some laws sit inside the numbers; some lurk behind them.",
+        "link": "Chapter 7 — Reporting"
+      }
+    },
+    {
+      "id": "p3q-ykqb9d",
+      "ch": 7,
+      "topic": "Client lawyer letters",
+      "m": 1,
+      "d": "HARD",
+      "q": "Where management refuses to let the auditor write to its lawyer about litigation, the auditor should consider:",
+      "o": [
+        "The matter is closed — lawyers are confidential",
+        "The refusal a limitation on evidence (discuss, evaluate opinion impact, and if material+uncertain may lead to qualification/disclaimer)",
+        "Suing for access",
+        "Relying on client's oral assurance"
+      ],
+      "a": 1,
+      "why": "SA 501 on litigation: with management consent, the auditor communicates externally to legal counsel; refusal = audit evidence not available (scope issue), evaluate like a limitation — and consider whether the reason for restriction itself is a fraud indicator.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — no access to counsel = a hole in the audit, not in privilege Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Client lawyer letters",
+        "tip": "A locked drawer holds both the file and the suspicion.",
+        "link": "Chapter 7 — Reporting"
+      }
+    },
+    {
+      "id": "p3q-dsh1xp",
+      "ch": 7,
+      "topic": "Emphasis vs scope",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "An auditor wants to stress an uncertainty that is NOT a misstatement and NOT a limitation. Correct tool:",
+      "o": [
+        "Adverse opinion",
+        "Emphasis of Matter (if appropriately disclosed and fundamental) — and for going concern specifically, the MUTRC section",
+        "OM",
+        "KAM as a replacement"
+      ],
+      "a": 1,
+      "why": "The split: disclosed fundamental matter ⇒ EMPR (GC: MUTRC section); off-statement matter ⇒ OM; limitations and misstatements are modification territory.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — each paragraph has its lane AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Emphasis vs scope",
+        "tip": "Different facts, different footnotes.",
+        "link": "Chapter 7 — Reporting"
+      }
+    },
+    {
+      "id": "p3q-f9pvie",
+      "ch": 7,
+      "topic": "Basis section quantification",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "The 'Basis for Qualified Opinion' must:",
+      "o": [
+        "Recite the law",
+        "Describe the matter, and where practicable quantify its effects — the why and the how much",
+        "Blame management",
+        "Repeat the opinion"
+      ],
+      "a": 1,
+      "why": "Modification sections describe + quantify (or say quantification isn't practicable) — the reader must grasp the size to judge the numbers.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — name it, measure it, or admit you can't AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Basis section quantification",
+        "tip": "A warning with a figure is a warning understood.",
+        "link": "Chapter 7 — Reporting"
+      }
+    },
+    {
+      "id": "p3q-m49c1j",
+      "ch": 7,
+      "topic": "KAM and listed entities",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "KAM reporting under SA 701 applies to:",
+      "o": [
+        "All audits",
+        "Audits of listed entities' general-purpose FS (mandatory)",
+        "Tax audits",
+        "PSUs only"
+      ],
+      "a": 1,
+      "why": "KAM is the listed-company regime; unlisted entities' reports carry no KAM section by requirement.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the listing decides the section AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: KAM and listed entities",
+        "tip": "Bigger audiences, fuller reports.",
+        "link": "Chapter 7 — Reporting"
+      }
+    },
+    {
+      "id": "p3q-2ibd09",
+      "ch": 7,
+      "topic": "Audit trail requirement — companies",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "The statutory amendment requiring entities with borrowings from banks/FIs to maintain an audit trail (edit log) of financial data and disclose whether any such record was manipulated:",
+      "o": [
+        "Is voluntary",
+        "Makes the existence and integrity of logs a reportable audit assertion — the auditor reports on it in the CARO-style reporting, and 'the log was overwritten' becomes an audit AND compliance fact",
+        "Applies only to tax",
+        "Replaces documentation SAs"
+      ],
+      "a": 1,
+      "why": "DOCUMENTED amendment (Companies Act rules + reporting orders): the audit-trail clause moved log integrity from IT hygiene to audited/asserted fact — the manipulation question is a yes/no with consequences.",
+      "trend": "Traceable to a real, publicly-notified amendment/standard (documented fact), tested in ICAI style.",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — logs became assertions AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Audit trail requirement — companies",
+        "tip": "The system's memory is now on the report.",
+        "link": "Chapter 7 — Reporting"
+      }
+    }
+  ]
+}

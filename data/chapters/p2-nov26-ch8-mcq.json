@@ -1,0 +1,323 @@
+{
+  "meta": {
+    "id": "p2-nov26-ch8-mcq",
+    "paper": "P2",
+    "attempt": "NOV-2026",
+    "kind": "chapter",
+    "category": "CHAPTER-WISE MCQs",
+    "title": "Ch 8: Mutual Funds — MCQ Bank",
+    "description": "Chapter-wise practice MCQs for Chapter 8 (Mutual Funds).",
+    "count": 12,
+    "mcqCount": 12,
+    "descriptiveCount": 0,
+    "coverage": "Chapter 8 · 12 MCQs",
+    "chapters": [
+      8
+    ],
+    "durationMinutes": 18,
+    "difficulty": "Exam standard",
+    "high": 4,
+    "medium": 6,
+    "low": 2
+  },
+  "questions": [
+    {
+      "id": "p2q-9zekli",
+      "ch": 8,
+      "topic": "MF scheme comparison",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Alpha's adjusted NAV for the dividend year:",
+      "o": [
+        "43.20",
+        "47.20",
+        "45.20",
+        "44.00"
+      ],
+      "a": 0,
+      "why": "Post-dividend NAV = 45.20 − 2.00 = 43.20 (ex-div adjustment).",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — this topic stays active in ICAI question-setting Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: MF scheme comparison",
+        "tip": "Dividend-adjust the NAV A dividend is a slice from the cake, not a second cake.",
+        "link": "Chapter 8 — Mutual Funds"
+      },
+      "stem": "Two schemes: 'Alpha Balanced' — TER 2.4%, NAV last year 45.20 with dividend 2; 'Beta Index' — TER 0.4%, tracks Nifty; investor horizon 10 years; market expectation 11%.",
+      "caseRef": "p2-case-6"
+    },
+    {
+      "id": "p2q-152pvc8",
+      "ch": 8,
+      "topic": "MF scheme comparison",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Beta's expected net return ≈:",
+      "o": [
+        "10.6%",
+        "11.0%",
+        "12.0%",
+        "9.2%"
+      ],
+      "a": 0,
+      "why": "11% market − 0.4% TER ≈ 10.6% (ignoring tracking error).",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — this topic stays active in ICAI question-setting AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: MF scheme comparison",
+        "tip": "Net = gross − cost The index promises the market minus the toll, nothing more.",
+        "link": "Chapter 8 — Mutual Funds"
+      },
+      "stem": "Two schemes: 'Alpha Balanced' — TER 2.4%, NAV last year 45.20 with dividend 2; 'Beta Index' — TER 0.4%, tracks Nifty; investor horizon 10 years; market expectation 11%.",
+      "caseRef": "p2-case-6"
+    },
+    {
+      "id": "p2q-1dcl0sy",
+      "ch": 8,
+      "topic": "MF scheme comparison",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "For Alpha to match Beta over 10 years, it must outperform gross by about:",
+      "o": [
+        "2% p.a.",
+        "0.4%",
+        "2.4%",
+        "1%"
+      ],
+      "a": 0,
+      "why": "TER differential 2.0% p.a. — active must beat the index gross by ≥2.0% to equal it net (compounded hurdle larger over time).",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — this topic stays active in ICAI question-setting AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: MF scheme comparison",
+        "tip": "Fee gap = hurdle Active management is a climb: every year pays the toll before the view.",
+        "link": "Chapter 8 — Mutual Funds"
+      },
+      "stem": "Two schemes: 'Alpha Balanced' — TER 2.4%, NAV last year 45.20 with dividend 2; 'Beta Index' — TER 0.4%, tracks Nifty; investor horizon 10 years; market expectation 11%.",
+      "caseRef": "p2-case-6"
+    },
+    {
+      "id": "p2q-1vfdx8x",
+      "ch": 8,
+      "topic": "MF scheme comparison",
+      "m": 2,
+      "d": "HARD",
+      "q": "The correct NAV-vs-NAV total return for Alpha over the year (45.20→43.20 + div 2):",
+      "o": [
+        "0%",
+        "4.42%",
+        "5%",
+        "−4.4%"
+      ],
+      "a": 0,
+      "why": "(43.20+2)/45.20 − 1 = 0.0 — a flat year with the dividend merely returning its own value; a trap for 'return looks like yield'.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — this topic stays active in ICAI question-setting Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: MF scheme comparison",
+        "tip": "Dividends can masquerade as growth If the cake shrinks by the slice you were handed, you had a year, not a return.",
+        "link": "Chapter 8 — Mutual Funds"
+      },
+      "stem": "Two schemes: 'Alpha Balanced' — TER 2.4%, NAV last year 45.20 with dividend 2; 'Beta Index' — TER 0.4%, tracks Nifty; investor horizon 10 years; market expectation 11%.",
+      "caseRef": "p2-case-6"
+    },
+    {
+      "id": "p2q-wnvseq",
+      "ch": 8,
+      "topic": "MF scheme comparison",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "SIP in an index fund vs lump-sum (10-yr evidence):",
+      "o": [
+        "SIP always wins",
+        "Lump-sum has higher expected return (more time in market); SIP reduces timing regret — behaviour vs math",
+        "Both equal",
+        "Neither"
+      ],
+      "a": 1,
+      "why": "Expected-return math favours more exposure earlier; SIP buys cost-averaging and discipline (behavioural). Answer: no guaranteed winner — state both sides.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — this topic stays active in ICAI question-setting Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: MF scheme comparison",
+        "tip": "Time-in-market beats timing, usually Money works from the day it lands; SIPs pay a premium in peace of mind.",
+        "link": "Chapter 8 — Mutual Funds"
+      },
+      "stem": "Two schemes: 'Alpha Balanced' — TER 2.4%, NAV last year 45.20 with dividend 2; 'Beta Index' — TER 0.4%, tracks Nifty; investor horizon 10 years; market expectation 11%.",
+      "caseRef": "p2-case-6"
+    },
+    {
+      "id": "p2q-10nymnd",
+      "ch": 8,
+      "topic": "NAV & loads",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "An open-ended fund NAV: corpus Rs 940 crore, liabilities Rs 40 crore, units 45 crore; NAV per unit is:",
+      "o": [
+        "Rs 20.00",
+        "Rs 21.78",
+        "Rs 19.11",
+        "Rs 22.00"
+      ],
+      "a": 0,
+      "why": "NAV = (assets − liabilities)/units = (940−40)/45 = 900/45 = Rs 20.00.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — NAV arithmetic with a liability deduction is a recurring quickie Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: NAV & loads",
+        "tip": "Subtract liabilities, then slice by units — never forget the minus.",
+        "link": "Chapter 8 — Mutual Funds"
+      }
+    },
+    {
+      "id": "p2q-f3kbki",
+      "ch": 8,
+      "topic": "ETF vs index fund",
+      "m": 1,
+      "d": "HARD",
+      "q": "ETFs differ from conventional index funds by:",
+      "o": [
+        "Tracking error only",
+        "Trading on exchanges intraday with creation/redemption in kind via AMCs",
+        "No market exposure",
+        "Guaranteed returns"
+      ],
+      "a": 1,
+      "why": "ETFs: exchange-listed, intraday price discovery, in-kind creation basket mechanism; index MFs: NAV-based purchase/redemption at day-end.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — structure-vs-pricing distinction Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: ETF vs index fund",
+        "tip": "The ETF is a fund wearing a stock's badge all day.",
+        "link": "Chapter 8 — Mutual Funds"
+      }
+    },
+    {
+      "id": "p2q-dvdhnl",
+      "ch": 8,
+      "topic": "TER impact",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A fund with 2% TER vs index at 0.2% must outperform gross by at least:",
+      "o": [
+        "0.2%",
+        "1.8% net annually to match post-fee",
+        "2.2%",
+        "Nothing"
+      ],
+      "a": 1,
+      "why": "Fee drag = differential 1.8% p.a. compounded — active management must beat gross before matching net.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — fee-arithmetic compounding point AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: TER impact",
+        "tip": "The hurdle isn't the index; it's the index plus your own toll booth.",
+        "link": "Chapter 8 — Mutual Funds"
+      }
+    },
+    {
+      "id": "p2q-2an2v9",
+      "ch": 8,
+      "topic": "NAV + load",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "NAV Rs 40; entry load 2% (if any), exit load 1%. The per-unit amounts a new investor pays and receives on exit:",
+      "o": [
+        "Buy Rs 39.60",
+        "Both at NAV",
+        "Buy Rs 40.80; at exit Rs 39.60",
+        "Buy Rs 40"
+      ],
+      "a": 2,
+      "why": "Bid = NAV (no repurchase discount beyond exit load): 40×0.99 = 39.60; offer = 40×1.02 = 40.80.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — load-arithmetic is MF chapter's most reliable 1-marker AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: NAV + load",
+        "tip": "Purchase price = NAV × (1+load); sale = NAV × (1−exit load).",
+        "link": "Chapter 8 — Mutual Funds"
+      }
+    },
+    {
+      "id": "p2q-168a60e",
+      "ch": 8,
+      "topic": "NAV computation",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Scheme assets 900 cr at cost (market 1,000), liabilities 60, units 200 cr. NAV per unit:",
+      "o": [
+        "4.20",
+        "4.70",
+        "5.00",
+        "4.47"
+      ],
+      "a": "1",
+      "why": "SEBI valuation norms: investments at market value; NAV = (1,000 − 60)/200 = 4.70 — the trap is valuing at cost (4.20).",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — NAV is a market story, not a history story Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: NAV computation",
+        "tip": "The books remember cost; the unit certificate asks today.",
+        "link": "Chapter 8 — Mutual Funds"
+      }
+    },
+    {
+      "id": "p2q-jvftq6",
+      "ch": 8,
+      "topic": "TER and loads",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Which is NOT part of the recurring total expense ratio of a mutual fund?",
+      "o": [
+        "Investment management fee",
+        "Trustee and auditor expenses",
+        "Exit load charged on redemption",
+        "Transfer and registrar expenses"
+      ],
+      "a": "2",
+      "why": "TER annualises operating expenses (management, trustee, audit, RTA, advertising caps per SEBI); exit load and entry load are transactional — the load is a toll at the gate, the TER is the rent.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — rent inside, toll at the door AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: TER and loads",
+        "tip": "The TER charges your staying; the load charges your leaving.",
+        "link": "Chapter 8 — Mutual Funds"
+      }
+    },
+    {
+      "id": "p2q-1tz0miq",
+      "ch": 8,
+      "topic": "Close vs open ended",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Units of a close-ended scheme are:",
+      "o": [
+        "Redeemed daily with the AMC",
+        "Traded on the stock exchange, with redemption only on buy-back/liquidation as offered — market price may be below NAV",
+        "Sold by the AMC only",
+        "Non-transferable"
+      ],
+      "a": "1",
+      "why": "Open-ended = continuous liquidity at NAV; close-ended = a fixed corpus whose units change hands at whatever the exchange says — the discount/premium to NAV is the structural feature to quote in any 2-mark answer.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — NAV sets the open-ended price; the crowd sets the close-ended one AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Close vs open ended",
+        "tip": "An open fund promises a door; a closed fund sells a window seat.",
+        "link": "Chapter 8 — Mutual Funds"
+      }
+    }
+  ]
+}

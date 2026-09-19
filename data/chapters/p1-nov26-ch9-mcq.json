@@ -1,0 +1,1451 @@
+{
+  "meta": {
+    "id": "p1-nov26-ch9-mcq",
+    "paper": "P1",
+    "attempt": "NOV-2026",
+    "kind": "chapter",
+    "category": "CHAPTER-WISE MCQs",
+    "title": "Ch 9: Accounting and Reporting of Financial Instruments — MCQ Bank",
+    "description": "Chapter-wise practice MCQs for Chapter 9 (Accounting and Reporting of Financial Instruments).",
+    "count": 59,
+    "mcqCount": 59,
+    "descriptiveCount": 0,
+    "coverage": "Chapter 9 · 59 MCQs",
+    "chapters": [
+      9
+    ],
+    "durationMinutes": 89,
+    "difficulty": "Exam standard",
+    "high": 16,
+    "medium": 38,
+    "low": 5
+  },
+  "questions": [
+    {
+      "id": "p1q-157nb9t",
+      "ch": 9,
+      "topic": "Convertible bonds — full cycle",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "The liability component on issue is closest to (Rs crore):",
+      "o": [
+        "883",
+        "922",
+        "1,000",
+        "845"
+      ],
+      "a": 0,
+      "why": "PV = 60 × 3.8897 + 1,000 × 0.6499 = 233.4 + 649.9 = 883.3 crore. 922 misprices with 7%; 1,000 ignores the bifurcation requirement.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — this topic stays active in ICAI question-setting AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Convertible bonds — full cycle",
+        "tip": "the split depends on the market rate, never the coupon Price the debt like plain debt; conversion is the leftover story.",
+        "link": "Chapter 9 — Accounting and Reporting of Financial Instruments"
+      },
+      "stem": "Orbit Ltd issues 5-year convertible bonds of Rs 1,000 crore at par; coupon 6% p.a. each bond of Rs 100 converts into 8 shares. Plain non-convertible debt of similar risk yields 9%. PVIFA(9%,5) = 3.8897; PVIF(9%,5) = 0.6499.",
+      "caseRef": "p1-case-5"
+    },
+    {
+      "id": "p1q-12ruzdi",
+      "ch": 9,
+      "topic": "Convertible bonds — full cycle",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Equity component (Rs crore):",
+      "o": [
+        "117",
+        "883",
+        "1000",
+        "77"
+      ],
+      "a": 0,
+      "why": "Residual: 1,000 − 883 = 117 to equity (conversion reserve) under Ind AS 32 — never remeasured.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — this topic stays active in ICAI question-setting Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Convertible bonds — full cycle",
+        "tip": "residual-to-equity is Ind AS 32's signature Equity is what the investor paid above plain-debt value — frozen in place.",
+        "link": "Chapter 9 — Accounting and Reporting of Financial Instruments"
+      },
+      "stem": "Orbit Ltd issues 5-year convertible bonds of Rs 1,000 crore at par; coupon 6% p.a. each bond of Rs 100 converts into 8 shares. Plain non-convertible debt of similar risk yields 9%. PVIFA(9%,5) = 3.8897; PVIF(9%,5) = 0.6499.",
+      "caseRef": "p1-case-5"
+    },
+    {
+      "id": "p1q-1t269ux",
+      "ch": 9,
+      "topic": "Convertible bonds — full cycle",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Year-1 finance cost in P&L (Rs crore):",
+      "o": [
+        "79.5",
+        "60.0",
+        "88.0",
+        "66.9"
+      ],
+      "a": 0,
+      "why": "883 × 9% = 79.5 crore; coupon paid 60 ⇒ liability accretes by 19.5 to ~902.5.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — this topic stays active in ICAI question-setting Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Convertible bonds — full cycle",
+        "tip": "EIR-not-coupon is the spine of the case Interest in books = liability × market rate; cash follows the coupon, the ledger follows the truth.",
+        "link": "Chapter 9 — Accounting and Reporting of Financial Instruments"
+      },
+      "stem": "Orbit Ltd issues 5-year convertible bonds of Rs 1,000 crore at par; coupon 6% p.a. each bond of Rs 100 converts into 8 shares. Plain non-convertible debt of similar risk yields 9%. PVIFA(9%,5) = 3.8897; PVIF(9%,5) = 0.6499.",
+      "caseRef": "p1-case-5"
+    },
+    {
+      "id": "p1q-aoo5w1",
+      "ch": 9,
+      "topic": "Convertible bonds — full cycle",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "On conversion into shares, the entry:",
+      "o": [
+        "Records a gain equal to the liability derecognised less shares",
+        "Debits the liability at carrying amount, credits share capital + premium; no P&L",
+        "Credits OCI",
+        "Reverses the equity component to P&L"
+      ],
+      "a": 1,
+      "why": "Conversion is an equity-for-equity-for-liability internal move: no gain/loss (Ind AS 32/109 derecognition is not a P&L event for the issuer's own equity instrument).",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — this topic stays active in ICAI question-setting Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Convertible bonds — full cycle",
+        "tip": "conversion never earns income Paying in shares is not a profit — the reserve simply meets the liability.",
+        "link": "Chapter 9 — Accounting and Reporting of Financial Instruments"
+      },
+      "stem": "Orbit Ltd issues 5-year convertible bonds of Rs 1,000 crore at par; coupon 6% p.a. each bond of Rs 100 converts into 8 shares. Plain non-convertible debt of similar risk yields 9%. PVIFA(9%,5) = 3.8897; PVIF(9%,5) = 0.6499.",
+      "caseRef": "p1-case-5"
+    },
+    {
+      "id": "p1q-1pglo0m",
+      "ch": 9,
+      "topic": "Convertible bonds — full cycle",
+      "m": 2,
+      "d": "HARD",
+      "q": "If instead the bonds are REDEEMED at maturity for cash Rs 1,060 crore while carrying at 902.5 (rounded), the P&L cost approximates (Rs crore):",
+      "o": [
+        "157.5",
+        "0",
+        "60",
+        "97.5"
+      ],
+      "a": 0,
+      "why": "Excess of settlement over carrying = 1,060 − 902.5 = 157.5 crore to P&L; the 117 conversion reserve is transferred within equity, not released to P&L.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — this topic stays active in ICAI question-setting Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Convertible bonds — full cycle",
+        "tip": "derecognition difference rule When the option dies unpaid, the reserve stays in equity and the premium hits income.",
+        "link": "Chapter 9 — Accounting and Reporting of Financial Instruments"
+      },
+      "stem": "Orbit Ltd issues 5-year convertible bonds of Rs 1,000 crore at par; coupon 6% p.a. each bond of Rs 100 converts into 8 shares. Plain non-convertible debt of similar risk yields 9%. PVIFA(9%,5) = 3.8897; PVIF(9%,5) = 0.6499.",
+      "caseRef": "p1-case-5"
+    },
+    {
+      "id": "p1q-172zczc",
+      "ch": 9,
+      "topic": "Ind AS 109 — classification",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "A corporate bond is held under a business model to collect contractual cash flows. Its terms give rise, on specified dates, to interest on the principal outstanding PLUS a modest prepayment penalty reflecting remaining interest compensation. Classification is:",
+      "o": [
+        "FVTPL mandatorily due to the prepayment feature",
+        "Amortised cost — the prepayment is consistent with SPPI",
+        "FVOCI mandatory, else FVTPL",
+        "Recoverable amount model"
+      ],
+      "a": 1,
+      "why": "SPPI is met even with prepayment features where the prepayment substantially represents unpaid principal and interest (with reasonable additional compensation); combined with the hold-to-collect model ⇒ amortised cost.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — SPPI-prepayment nuance separates strong candidates Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 109 — classification",
+        "tip": "SPPI test: prepay fine if it's (nearly) principal + interest + reasonable break fee. Model decides SPPI-passer's destination.",
+        "link": "Ch 9"
+      }
+    },
+    {
+      "id": "p1q-ag0am3",
+      "ch": 9,
+      "topic": "Ind AS 109 — modification",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "A financial liability's terms are modified such that the discounted present value of the new cash flows differs from the original liability's remaining PV by 15%. The borrower should:",
+      "o": [
+        "Continue with the same liability, adjust effective interest",
+        "Derecognise the original liability and recognise the new one at fair value, taking the difference to P&L",
+        "Reclassify to equity",
+        "Recognise the difference in OCI"
+      ],
+      "a": 1,
+      "why": "The 10% 'substantially different' test: a modification of at least 10% PV of remaining cash flows ⇒ original liability derecognised, new liability recognised, difference to profit or loss (Ind AS 109).",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — 10% threshold arithmetic is an MCQ regular AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 109 — modification",
+        "tip": "10% rule for both assets and liabilities derecognition: <10% tweak it; ≥10% replace it. Difference goes to P&L — not OCI.",
+        "link": "Ch 9"
+      }
+    },
+    {
+      "id": "p1q-xgk9j4",
+      "ch": 9,
+      "topic": "Ind AS 109 — expected credit loss",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Under the simplified approach of Ind AS 109, impairment for trade receivables without a significant financing component is measured as:",
+      "o": [
+        "12-month expected credit losses",
+        "Lifetime expected credit losses at all times",
+        "Lifetime ECL unless credit risk has increased significantly since initial recognition",
+        "0.5% of balances"
+      ],
+      "a": 1,
+      "why": "The simplified approach permits/requires (for the mandated scope including such trade receivables) lifetime ECL at all times — no 3-stage general model.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — simplified-vs-general model choice is repeatedly tested AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 109 — expected credit loss",
+        "tip": "Trade receivables & contract assets (no SFC) ⇒ simplified: lifetime ECL, skip stage-2 detective work. Financing component? General model returns.",
+        "link": "Ch 9"
+      }
+    },
+    {
+      "id": "p1q-1l534zs",
+      "ch": 9,
+      "topic": "Ind AS 32 — compound instruments",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A convertible bond is split under Ind AS 32. The equity component equals:",
+      "o": [
+        "Fair value of the whole instrument",
+        "Proceeds less the fair value of the debt component at a market rate for non-convertible debt",
+        "Par value × conversion ratio",
+        "PV of conversion option only"
+      ],
+      "a": 1,
+      "why": "Top-down split: measure the LIABILITY first as the PV of contractual cash flows discounted at the market rate for plain-vanilla debt; residual proceeds go to equity (no re-measurement).",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the residual-claim logic recurs in Section B AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 32 — compound instruments",
+        "tip": "Debt measured first, equity is the leftover — an inheritance, not an appraisal. Residual = equity, always.",
+        "link": "Ch 9"
+      }
+    },
+    {
+      "id": "p1q-jr45f9",
+      "ch": 9,
+      "topic": "Hedge accounting — fair value hedge",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "In a qualifying fair value hedge of a fixed-rate debt instrument, the gain/loss on the hedging instrument and the loss/gain on the hedged item attributable to the hedged risk are recognised:",
+      "o": [
+        "Both in OCI",
+        "Both in profit or loss",
+        "Instrument in P&L; hedged item in OCI",
+        "Hedged item ignored"
+      ],
+      "a": 1,
+      "why": "Fair-value hedge: both the hedging instrument and the adjustment to the hedged item (for the hedged risk) go to P&L — they offset there. Cash flow hedges put the effective portion in OCI.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the P&L-vs-OCI split across hedge types is a standing MCQ AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Hedge accounting — fair value hedge",
+        "tip": "FV hedge → both P&L (they kiss immediately); CF hedge → effective in OCI, wait for the forecast; net investment → OCI too.",
+        "link": "Ch 9"
+      }
+    },
+    {
+      "id": "p1q-ap793d",
+      "ch": 9,
+      "topic": "Ind AS 107 — derecognition",
+      "m": 1,
+      "d": "HARD",
+      "q": "Transferring a financial asset with full retention of prepayment risk and default risk means:",
+      "o": [
+        "Derecognise fully",
+        "Continue to recognise to the extent of continuing involvement",
+        "No transfer is recognised",
+        "Reclassify as equity"
+      ],
+      "a": 1,
+      "why": "Derecognition is governed by transfer of risks & rewards plus control. Substantially all risks retained ⇒ continue recognition (gain/loss not booked). 'Extent of continuing involvement' applies when neither retains nor transfers substantially all.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the three-lane derecognition test recurs as a quickie Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Ind AS 107 — derecognition",
+        "tip": "Full risk ride ⇒ full recognition; half-way ⇒ involvement-limited; all gone ⇒ off the books, gain booked.",
+        "link": "Ch 9"
+      }
+    },
+    {
+      "id": "p1q-tcc3v5",
+      "ch": 9,
+      "topic": "Ind AS 102 share-based — cash-settled",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "For cash-settled share-based payments (e.g., cash appreciation rights), Ind AS 102 requires:",
+      "o": [
+        "Grant-date fixed measurement",
+        "Remeasure the liability at each reporting date and at settlement, with changes in P&L",
+        "Measurement in OCI",
+        "No expense until payment"
+      ],
+      "a": 1,
+      "why": "Cash-settled SBP = liability: fair value at each reporting date and settlement, movements to P&L; expense spread over vesting using expected number vesting.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the equity-vs-liability measurement split is evergreen AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 102 share-based — cash-settled",
+        "tip": "Cash out at settlement ⇒ mark to market yearly. Equity at settlement ⇒ freeze at grant. The settlement currency picks the model.",
+        "link": "Ch 9"
+      }
+    },
+    {
+      "id": "p1q-ptdmp4",
+      "ch": 9,
+      "topic": "Ind AS 109 — FVOCI debt",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A debt instrument measured at FVOCI under the hold-and-sell model is impaired by:",
+      "o": [
+        "Reducing the asset in the balance sheet with a P&L charge",
+        "Recognising the loss allowance in OCI while the carrying amount in the balance sheet remains at fair value",
+        "Reclassifying to amortised cost",
+        "Writing off against equity reserves only"
+      ],
+      "a": 1,
+      "why": "FVOCI debt: impairment recognised in OCI (accumulated in equity) and reduces OCI carrying, with NO reduction of the balance-sheet carrying amount (it's already at FV) — P&L charge arises and reclassification adjustment occurs.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the OCI-loss-allowance mechanic is the exact discriminator AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 109 — FVOCI debt",
+        "tip": "Debt at FVOCI: impairment hits P&L and OCI allowance; the B/S stays at fair value. The ledger holds two books in one.",
+        "link": "Ch 9"
+      }
+    },
+    {
+      "id": "p1q-1bfwpsk",
+      "ch": 9,
+      "topic": "Ind AS 109 — reclassification",
+      "m": 1,
+      "d": "HARD",
+      "q": "When a hold-to-collect model is changed so that a debt instrument moves from amortised cost to FVOCI, the reclassification is:",
+      "o": [
+        "Prospective at fair value with prior OCI unaffected",
+        "Retrospective restatement",
+        "At carrying amount, OCI recycled immediately",
+        "Disallowed under Ind AS"
+      ],
+      "a": 0,
+      "why": "Business-model changes (rare, significant & determinable by external parties) cause PROSPECTIVE reclassification at fair value on the change date; prior OCI/impairment not adjusted.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the 'rare & prospective' pair is a known trap Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Ind AS 109 — reclassification",
+        "tip": "Model changes are rare, external and prospective — fair value on the switching day, no time travel.",
+        "link": "Ch 9"
+      }
+    },
+    {
+      "id": "p1q-1dwefds",
+      "ch": 9,
+      "topic": "SPPI with leverage",
+      "m": 1,
+      "d": "HARD",
+      "q": "A structured note whose return equals 3× the movement in an equity index passes SPPI.",
+      "o": [
+        "True for all listed notes",
+        "False — leveraged equity exposure fails SPPI ⇒ FVTPL",
+        "True with amortised cost",
+        "Depends on issuer rating"
+      ],
+      "a": 1,
+      "why": "Leverage and non-loan risk exposures (equity multiples) fail the 'solely payments of principal and interest' test — mandatory FVTPL.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the SPPI fail-list is the heart of 109 MCQs Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: SPPI with leverage",
+        "tip": "Multiply the index and you've multiplied risk away from a loan — SPPI dies, FVTPL applies.",
+        "link": "Ch 9"
+      }
+    },
+    {
+      "id": "p1q-1buvg8y",
+      "ch": 9,
+      "topic": "Ind AS 109 — derecognition of liability",
+      "m": 1,
+      "d": "HARD",
+      "q": "A financial liability is derecognised when:",
+      "o": [
+        "It is refinanced",
+        "It is extinguished — discharged/cancelled/expired",
+        "It is reclassified to equity",
+        "It becomes a related-party balance"
+      ],
+      "a": 0,
+      "why": "Extinguishment test: the obligation is discharged, cancelled or expired. (Old-vs-new substantially-different 10% test decides whether the modification is an extinguishment.)",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — definition-level with the 10% cousin Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Ind AS 109 — derecognition of liability",
+        "tip": "Liabilities die by discharge, cancellation or expiry — a new face at 10%+ PV difference is a resurrection.",
+        "link": "Ch 9"
+      }
+    },
+    {
+      "id": "p1q-bl41q",
+      "ch": 9,
+      "topic": "Expected value in ECL",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Measurement of expected credit losses must reflect:",
+      "o": [
+        "The single most likely outcome only",
+        "An unbiased, probability-weighted amount considering reasonable and supportable forward-looking info",
+        "Only historical loss rates",
+        "Management optimism"
+      ],
+      "a": 1,
+      "why": "ECL is probability-weighted over possible outcomes with time value and supportable forward-looking estimates — not worst- or best-case.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the three ingredients (unbiased weighting, TVM, forecasts) definition AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Expected value in ECL",
+        "tip": "Weight every scenario you can support, discount it, and keep your hopes out of the model.",
+        "link": "Chapter 9 — Accounting and Reporting of Financial Instruments"
+      }
+    },
+    {
+      "id": "p1q-15rtk32",
+      "ch": 9,
+      "topic": "Equity instrument definition",
+      "m": 1,
+      "d": "HARD",
+      "q": "Which instrument is classified as EQUITY under Ind AS 32?",
+      "o": [
+        "Convertible with cash-settled mandatory redemption",
+        "Non-redeemable preference shares with discretionary dividends",
+        "Mandatorily redeemable share at fixed date",
+        "Warrant with cash settlement obligation"
+      ],
+      "a": 1,
+      "why": "Equity = residual after liabilities; a fixed-date redemption or issuer's obligation to pay cash creates a liability — discretionary dividends + no obligation = equity.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the obligation-vs-discretion test drives everything AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Equity instrument definition",
+        "tip": "The issuer's duty defines the label: must pay ⇒ liability; may decide ⇒ equity.",
+        "link": "Chapter 9 — Accounting and Reporting of Financial Instruments"
+      }
+    },
+    {
+      "id": "p1q-dpgo55",
+      "ch": 9,
+      "topic": "FVOCI equity election irrevocability",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "The FVOCI election for a non-trading equity instrument is:",
+      "o": [
+        "Reversible each year",
+        "Made at initial recognition and irrevocable per instrument",
+        "Automatic",
+        "Set by auditor"
+      ],
+      "a": 1,
+      "why": "The other-OCI election is made on initial recognition, instrument by instrument, irrevocably.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — election-terms questions AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: FVOCI equity election irrevocability",
+        "tip": "Sign once, per share class — no annual change of heart.",
+        "link": "Chapter 9 — Accounting and Reporting of Financial Instruments"
+      }
+    },
+    {
+      "id": "p1q-11g7hmk",
+      "ch": 9,
+      "topic": "Financial guarantee contracts",
+      "m": 1,
+      "d": "HARD",
+      "q": "A financial guarantee issued by the entity (not insurance-specific) is measured:",
+      "o": [
+        "Under Ind AS 37 provision rules only",
+        "Initially at FV; thereafter higher of ECL (109) and the amount under Ind AS 37",
+        "FVTPL",
+        "Cost"
+      ],
+      "a": 1,
+      "why": "FBC: initially fair value, then the higher of ECL allowance and the amount recognised (Ind AS 37) — a dual-lens standard.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the higher-of-after pair is a known format AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Financial guarantee contracts",
+        "tip": "Guarantees age like fine wine and insurance: take whichever liability looks bigger.",
+        "link": "Chapter 9 — Accounting and Reporting of Financial Instruments"
+      }
+    },
+    {
+      "id": "p1q-186un7s",
+      "ch": 9,
+      "topic": "Hedge — net investment",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "The hedged item in a hedge of a net investment in a foreign operation is:",
+      "o": [
+        "Forecast sales",
+        "The net assets of the foreign operation (against FX risk)",
+        "Cash of the parent",
+        "Goodwill"
+      ],
+      "a": 1,
+      "why": "Net-investment hedge: exposure to FX risk of net assets of a foreign operation; effective portion to OCI (CTDR side), like cash-flow hedges.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — hedge-type matching one-liner AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Hedge — net investment",
+        "tip": "You hedge the stake you hold abroad; the reserve is the currency's diary.",
+        "link": "Chapter 9 — Accounting and Reporting of Financial Instruments"
+      }
+    },
+    {
+      "id": "p1q-1hzt4zk",
+      "ch": 9,
+      "topic": "Trade date accounting",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Regular-way purchase of shares is recognised (policy) on:",
+      "o": [
+        "Trade date or settlement date (consistent policy)",
+        "Always trade",
+        "Always settlement",
+        "When dividends accrue"
+      ],
+      "a": 0,
+      "why": "Ind AS 109 policy choice for regular-way purchases; derecognition of financial assets uses derecognition tests; equity securities may use trade or settlement accounting consistently.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the policy-pair choice AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Trade date accounting",
+        "tip": "Pick a day — trade or settle — then never switch for fun.",
+        "link": "Chapter 9 — Accounting and Reporting of Financial Instruments"
+      }
+    },
+    {
+      "id": "p1q-1bun1xr",
+      "ch": 9,
+      "topic": "Emphasis — ECL provision matrices",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "The new scheme's stress on Ind AS 109 (simplified approach) typically surfaces in questions that combine:",
+      "o": [
+        "Historical cost with revaluation",
+        "Trade receivable provision matrices, aging buckets, forward-looking macro adjustments and contract assets",
+        "Hedge effectiveness tests",
+        "EPS restatements"
+      ],
+      "a": 1,
+      "why": "Emphasis (not amendment): ICAI material leans on practical ECL measurement — matrices, expected-loss rates, forward adjustments — across MCQ and short sums.",
+      "trend": "Documented syllabus/amendment change — applicability from May 2026 exam onwards per ICAI BoS announcement.",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — emphasis areas become the easy-pick computation zone AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Emphasis — ECL provision matrices",
+        "tip": "Aging + forecast × exposure = the ECL exam equation.",
+        "link": "Chapter 9 — Accounting and Reporting of Financial Instruments"
+      }
+    },
+    {
+      "id": "p1q-1jpi7nu",
+      "ch": 9,
+      "topic": "Ind AS 109 — amortised cost",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "1000-face-value 100 per bond? — Marlin Ltd buys a bond of face value Rs 1,000 paying 8% annually, maturity 4 years, at a price yielding EIR 10%. Classified at amortised cost. Carrying amount after one full year (Rs, rounded) is closest to:",
+      "o": [
+        "Rs 950",
+        "Rs 937",
+        "Rs 952",
+        "Rs 870"
+      ],
+      "a": 0,
+      "why": "Initial CA = PV = Rs 937. Roll: ×(1+0.1) − interest received 80 = Rs 950. Straight-line accretion (952) ignores the effective-interest requirement.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — one-step amortised-cost roll-forwards appear in every attempt's MCQ Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 109 — amortised cost",
+        "tip": "Carrying amount = PV at EIR rolled forward one year: CA × (1+EIR) − coupon. Never coupon on face for the next year.",
+        "link": "Chapter 9 — Accounting and Reporting of Financial Instruments"
+      }
+    },
+    {
+      "id": "p1q-14gyifq",
+      "ch": 9,
+      "topic": "Ind AS 109 — amortised cost",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "1000-face-value 100 per bond? — Zenith Ltd buys a bond of face value Rs 1,000 paying 6% annually, maturity 4 years, at a price yielding EIR 8%. Classified at amortised cost. Carrying amount after one full year (Rs, rounded) is closest to:",
+      "o": [
+        "Rs 948",
+        "Rs 934",
+        "Rs 950",
+        "Rs 888"
+      ],
+      "a": 0,
+      "why": "Initial CA = PV = Rs 934. Roll: ×(1+0.08) − interest received 60 = Rs 948. Straight-line accretion (950) ignores the effective-interest requirement.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — one-step amortised-cost roll-forwards appear in every attempt's MCQ Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 109 — amortised cost",
+        "tip": "Carrying amount = PV at EIR rolled forward one year: CA × (1+EIR) − coupon. Never coupon on face for the next year.",
+        "link": "Chapter 9 — Accounting and Reporting of Financial Instruments"
+      }
+    },
+    {
+      "id": "p1q-1jl4b6e",
+      "ch": 9,
+      "topic": "Ind AS 109 — amortised cost",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "10000-face-value 100 per bond? — Orbit Ltd buys a bond of face value Rs 10,000 paying 6% annually, maturity 5 years, at a price yielding EIR 7%. Classified at amortised cost. Carrying amount after one full year (Rs, rounded) is closest to:",
+      "o": [
+        "Rs 9,661",
+        "Rs 9,590",
+        "Rs 9,672",
+        "Rs 9,061"
+      ],
+      "a": 0,
+      "why": "Initial CA = PV = Rs 9,590. Roll: ×(1+0.07) − interest received 600 = Rs 9,661. Straight-line accretion (9,672) ignores the effective-interest requirement.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — one-step amortised-cost roll-forwards appear in every attempt's MCQ Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 109 — amortised cost",
+        "tip": "Carrying amount = PV at EIR rolled forward one year: CA × (1+EIR) − coupon. Never coupon on face for the next year.",
+        "link": "Chapter 9 — Accounting and Reporting of Financial Instruments"
+      }
+    },
+    {
+      "id": "p1q-1lv8d5e",
+      "ch": 9,
+      "topic": "Ind AS 109 — amortised cost",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "5000-face-value 100 per bond? — Kaveri Ltd buys a bond of face value Rs 5,000 paying 8% annually, maturity 5 years, at a price yielding EIR 10%. Classified at amortised cost. Carrying amount after one full year (Rs, rounded) is closest to:",
+      "o": [
+        "Rs 4,621",
+        "Rs 4,697",
+        "Rs 4,683",
+        "Rs 4,283"
+      ],
+      "a": 2,
+      "why": "Initial CA = PV = Rs 4,621. Roll: ×(1+0.1) − interest received 400 = Rs 4,683. Straight-line accretion (4,697) ignores the effective-interest requirement.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — one-step amortised-cost roll-forwards appear in every attempt's MCQ Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 109 — amortised cost",
+        "tip": "Carrying amount = PV at EIR rolled forward one year: CA × (1+EIR) − coupon. Never coupon on face for the next year.",
+        "link": "Chapter 9 — Accounting and Reporting of Financial Instruments"
+      }
+    },
+    {
+      "id": "p1q-1ck6t53",
+      "ch": 9,
+      "topic": "Ind AS 109 — amortised cost",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "1000-face-value 100 per bond? — Palladi Ltd buys a bond of face value Rs 1,000 paying 8% annually, maturity 5 years, at a price yielding EIR 9%. Classified at amortised cost. Carrying amount after one full year (Rs, rounded) is closest to:",
+      "o": [
+        "Rs 961",
+        "Rs 968",
+        "Rs 969",
+        "Rs 888"
+      ],
+      "a": 1,
+      "why": "Initial CA = PV = Rs 961. Roll: ×(1+0.09) − interest received 80 = Rs 968. Straight-line accretion (969) ignores the effective-interest requirement.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — one-step amortised-cost roll-forwards appear in every attempt's MCQ Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 109 — amortised cost",
+        "tip": "Carrying amount = PV at EIR rolled forward one year: CA × (1+EIR) − coupon. Never coupon on face for the next year.",
+        "link": "Chapter 9 — Accounting and Reporting of Financial Instruments"
+      }
+    },
+    {
+      "id": "p1q-1p7bp6c",
+      "ch": 9,
+      "topic": "Ind AS 109 — amortised cost",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "10000-face-value 100 per bond? — Cobalt Ltd buys a bond of face value Rs 10,000 paying 9% annually, maturity 4 years, at a price yielding EIR 11%. Classified at amortised cost. Carrying amount after one full year (Rs, rounded) is closest to:",
+      "o": [
+        "Rs 9,380",
+        "Rs 9,535",
+        "Rs 9,511",
+        "Rs 8,611"
+      ],
+      "a": 2,
+      "why": "Initial CA = PV = Rs 9,380. Roll: ×(1+0.11) − interest received 900 = Rs 9,511. Straight-line accretion (9,535) ignores the effective-interest requirement.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — one-step amortised-cost roll-forwards appear in every attempt's MCQ Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 109 — amortised cost",
+        "tip": "Carrying amount = PV at EIR rolled forward one year: CA × (1+EIR) − coupon. Never coupon on face for the next year.",
+        "link": "Chapter 9 — Accounting and Reporting of Financial Instruments"
+      }
+    },
+    {
+      "id": "p1q-xwe02q",
+      "ch": 9,
+      "topic": "Ind AS 109 — amortised cost",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "5000-face-value 100 per bond? — Indus Fab Ltd buys a bond of face value Rs 5,000 paying 6% annually, maturity 5 years, at a price yielding EIR 7%. Classified at amortised cost. Carrying amount after one full year (Rs, rounded) is closest to:",
+      "o": [
+        "Rs 4,831",
+        "Rs 4,795",
+        "Rs 4,836",
+        "Rs 4,531"
+      ],
+      "a": 0,
+      "why": "Initial CA = PV = Rs 4,795. Roll: ×(1+0.07) − interest received 300 = Rs 4,831. Straight-line accretion (4,836) ignores the effective-interest requirement.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — one-step amortised-cost roll-forwards appear in every attempt's MCQ Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 109 — amortised cost",
+        "tip": "Carrying amount = PV at EIR rolled forward one year: CA × (1+EIR) − coupon. Never coupon on face for the next year.",
+        "link": "Chapter 9 — Accounting and Reporting of Financial Instruments"
+      }
+    },
+    {
+      "id": "p1q-7nazff",
+      "ch": 9,
+      "topic": "Ind AS 109 — amortised cost",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "1000-face-value 100 per bond? — Aster Ltd buys a bond of face value Rs 1,000 paying 9% annually, maturity 5 years, at a price yielding EIR 11%. Classified at amortised cost. Carrying amount after one full year (Rs, rounded) is closest to:",
+      "o": [
+        "Rs 926",
+        "Rs 941",
+        "Rs 938",
+        "Rs 848"
+      ],
+      "a": 2,
+      "why": "Initial CA = PV = Rs 926. Roll: ×(1+0.11) − interest received 90 = Rs 938. Straight-line accretion (941) ignores the effective-interest requirement.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — one-step amortised-cost roll-forwards appear in every attempt's MCQ Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 109 — amortised cost",
+        "tip": "Carrying amount = PV at EIR rolled forward one year: CA × (1+EIR) − coupon. Never coupon on face for the next year.",
+        "link": "Chapter 9 — Accounting and Reporting of Financial Instruments"
+      }
+    },
+    {
+      "id": "p1q-zjboya",
+      "ch": 9,
+      "topic": "Ind AS 109 — amortised cost",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "10000-face-value 100 per bond? — Sable Ltd buys a bond of face value Rs 10,000 paying 9% annually, maturity 5 years, at a price yielding EIR 10%. Classified at amortised cost. Carrying amount after one full year (Rs, rounded) is closest to:",
+      "o": [
+        "Rs 9,621",
+        "Rs 9,697",
+        "Rs 8,783",
+        "Rs 9,683"
+      ],
+      "a": 3,
+      "why": "Initial CA = PV = Rs 9,621. Roll: ×(1+0.1) − interest received 900 = Rs 9,683. Straight-line accretion (9,697) ignores the effective-interest requirement.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — one-step amortised-cost roll-forwards appear in every attempt's MCQ Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 109 — amortised cost",
+        "tip": "Carrying amount = PV at EIR rolled forward one year: CA × (1+EIR) − coupon. Never coupon on face for the next year.",
+        "link": "Chapter 9 — Accounting and Reporting of Financial Instruments"
+      }
+    },
+    {
+      "id": "p1q-jtd577",
+      "ch": 9,
+      "topic": "Ind AS 109 — amortised cost",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "5000-face-value 100 per bond? — Marlin Ltd buys a bond of face value Rs 5,000 paying 9% annually, maturity 5 years, at a price yielding EIR 11%. Classified at amortised cost. Carrying amount after one full year (Rs, rounded) is closest to:",
+      "o": [
+        "Rs 4,630",
+        "Rs 4,690",
+        "Rs 4,704",
+        "Rs 4,240"
+      ],
+      "a": 1,
+      "why": "Initial CA = PV = Rs 4,630. Roll: ×(1+0.11) − interest received 450 = Rs 4,690. Straight-line accretion (4,704) ignores the effective-interest requirement.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — one-step amortised-cost roll-forwards appear in every attempt's MCQ Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 109 — amortised cost",
+        "tip": "Carrying amount = PV at EIR rolled forward one year: CA × (1+EIR) − coupon. Never coupon on face for the next year.",
+        "link": "Chapter 9 — Accounting and Reporting of Financial Instruments"
+      }
+    },
+    {
+      "id": "p1q-16cp85w",
+      "ch": 9,
+      "topic": "Ind AS 109 — amortised cost",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "5000-face-value 100 per bond? — Palladi Ltd buys a bond of face value Rs 5,000 paying 8% annually, maturity 4 years, at a price yielding EIR 10%. Classified at amortised cost. Carrying amount after one full year (Rs, rounded) is closest to:",
+      "o": [
+        "Rs 4,751",
+        "Rs 4,683",
+        "Rs 4,762",
+        "Rs 4,351"
+      ],
+      "a": 0,
+      "why": "Initial CA = PV = Rs 4,683. Roll: ×(1+0.1) − interest received 400 = Rs 4,751. Straight-line accretion (4,762) ignores the effective-interest requirement.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — one-step amortised-cost roll-forwards appear in every attempt's MCQ Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 109 — amortised cost",
+        "tip": "Carrying amount = PV at EIR rolled forward one year: CA × (1+EIR) − coupon. Never coupon on face for the next year.",
+        "link": "Chapter 9 — Accounting and Reporting of Financial Instruments"
+      }
+    },
+    {
+      "id": "p1q-csbvfy",
+      "ch": 9,
+      "topic": "Ind AS 109 — amortised cost",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "10000-face-value 100 per bond? — Zenith Ltd buys a bond of face value Rs 10,000 paying 6% annually, maturity 5 years, at a price yielding EIR 7%. Classified at amortised cost. Carrying amount after one full year (Rs, rounded) is closest to:",
+      "o": [
+        "Rs 9,590",
+        "Rs 9,672",
+        "Rs 9,061",
+        "Rs 9,661"
+      ],
+      "a": 3,
+      "why": "Initial CA = PV = Rs 9,590. Roll: ×(1+0.07) − interest received 600 = Rs 9,661. Straight-line accretion (9,672) ignores the effective-interest requirement.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — one-step amortised-cost roll-forwards appear in every attempt's MCQ Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 109 — amortised cost",
+        "tip": "Carrying amount = PV at EIR rolled forward one year: CA × (1+EIR) − coupon. Never coupon on face for the next year.",
+        "link": "Chapter 9 — Accounting and Reporting of Financial Instruments"
+      }
+    },
+    {
+      "id": "p1q-fhkhko",
+      "ch": 9,
+      "topic": "Ind AS 32 — convertible debt",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Marlin Ltd issues convertible bonds for proceeds of Rs 2000 lakh; coupon 5% p.a., maturity 6 years; identical non-convertible bonds would yield 9%. Initial split between liability and equity components (rounded) is:",
+      "o": [
+        "Debt Rs 1,641 lakh; Equity Rs 359 lakh",
+        "Debt Rs 2000 lakh; Equity 0",
+        "Debt Rs 359 lakh; Equity Rs 1,641 lakh",
+        "Debt Rs 1,477 lakh; Equity Rs 523 lakh"
+      ],
+      "a": 0,
+      "why": "Measure the liability at PV of flows at the 9% market rate ⇒ Rs 1,641 lakh; equity is the residual Rs 359 lakh. Recording the whole proceeds as debt ignores the conversion option; the residual must be equity, never a discount.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the residual-split arithmetic appears as a 2-mark sum regularly AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 32 — convertible debt",
+        "tip": "Debt first at market rate of plain debt; equity = residual = proceeds − debt.",
+        "link": "Chapter 9 — Accounting and Reporting of Financial Instruments"
+      }
+    },
+    {
+      "id": "p1q-14uvexd",
+      "ch": 9,
+      "topic": "Ind AS 32 — convertible debt",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Meridian Ltd issues convertible bonds for proceeds of Rs 1000 lakh; coupon 6% p.a., maturity 5 years; identical non-convertible bonds would yield 10%. Initial split between liability and equity components (rounded) is:",
+      "o": [
+        "Debt Rs 1000 lakh; Equity 0",
+        "Debt Rs 152 lakh; Equity Rs 848 lakh",
+        "Debt Rs 764 lakh; Equity Rs 236 lakh",
+        "Debt Rs 848 lakh; Equity Rs 152 lakh"
+      ],
+      "a": 3,
+      "why": "Measure the liability at PV of flows at the 10% market rate ⇒ Rs 848 lakh; equity is the residual Rs 152 lakh. Recording the whole proceeds as debt ignores the conversion option; the residual must be equity, never a discount.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the residual-split arithmetic appears as a 2-mark sum regularly AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 32 — convertible debt",
+        "tip": "Debt first at market rate of plain debt; equity = residual = proceeds − debt.",
+        "link": "Chapter 9 — Accounting and Reporting of Financial Instruments"
+      }
+    },
+    {
+      "id": "p1q-1i5ji",
+      "ch": 9,
+      "topic": "Ind AS 32 — convertible debt",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Vertex Ltd issues convertible bonds for proceeds of Rs 1000 lakh; coupon 6% p.a., maturity 5 years; identical non-convertible bonds would yield 12%. Initial split between liability and equity components (rounded) is:",
+      "o": [
+        "Debt Rs 1000 lakh; Equity 0",
+        "Debt Rs 784 lakh; Equity Rs 216 lakh",
+        "Debt Rs 216 lakh; Equity Rs 784 lakh",
+        "Debt Rs 705 lakh; Equity Rs 295 lakh"
+      ],
+      "a": 1,
+      "why": "Measure the liability at PV of flows at the 12% market rate ⇒ Rs 784 lakh; equity is the residual Rs 216 lakh. Recording the whole proceeds as debt ignores the conversion option; the residual must be equity, never a discount.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the residual-split arithmetic appears as a 2-mark sum regularly AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 32 — convertible debt",
+        "tip": "Debt first at market rate of plain debt; equity = residual = proceeds − debt.",
+        "link": "Chapter 9 — Accounting and Reporting of Financial Instruments"
+      }
+    },
+    {
+      "id": "p1q-yxy9h5",
+      "ch": 9,
+      "topic": "Ind AS 32 — convertible debt",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Palladi Ltd issues convertible bonds for proceeds of Rs 1000 lakh; coupon 6% p.a., maturity 5 years; identical non-convertible bonds would yield 10%. Initial split between liability and equity components (rounded) is:",
+      "o": [
+        "Debt Rs 848 lakh; Equity Rs 152 lakh",
+        "Debt Rs 1000 lakh; Equity 0",
+        "Debt Rs 152 lakh; Equity Rs 848 lakh",
+        "Debt Rs 764 lakh; Equity Rs 236 lakh"
+      ],
+      "a": 0,
+      "why": "Measure the liability at PV of flows at the 10% market rate ⇒ Rs 848 lakh; equity is the residual Rs 152 lakh. Recording the whole proceeds as debt ignores the conversion option; the residual must be equity, never a discount.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the residual-split arithmetic appears as a 2-mark sum regularly AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 32 — convertible debt",
+        "tip": "Debt first at market rate of plain debt; equity = residual = proceeds − debt.",
+        "link": "Chapter 9 — Accounting and Reporting of Financial Instruments"
+      }
+    },
+    {
+      "id": "p1q-1j81g76",
+      "ch": 9,
+      "topic": "Ind AS 32 — convertible debt",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Meridian Ltd issues convertible bonds for proceeds of Rs 1000 lakh; coupon 5% p.a., maturity 6 years; identical non-convertible bonds would yield 11%. Initial split between liability and equity components (rounded) is:",
+      "o": [
+        "Debt Rs 1000 lakh; Equity 0",
+        "Debt Rs 254 lakh; Equity Rs 746 lakh",
+        "Debt Rs 672 lakh; Equity Rs 328 lakh",
+        "Debt Rs 746 lakh; Equity Rs 254 lakh"
+      ],
+      "a": 3,
+      "why": "Measure the liability at PV of flows at the 11% market rate ⇒ Rs 746 lakh; equity is the residual Rs 254 lakh. Recording the whole proceeds as debt ignores the conversion option; the residual must be equity, never a discount.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the residual-split arithmetic appears as a 2-mark sum regularly AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 32 — convertible debt",
+        "tip": "Debt first at market rate of plain debt; equity = residual = proceeds − debt.",
+        "link": "Chapter 9 — Accounting and Reporting of Financial Instruments"
+      }
+    },
+    {
+      "id": "p1q-1tlbyta",
+      "ch": 9,
+      "topic": "Ind AS 32 — convertible debt",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Vertex Ltd issues convertible bonds for proceeds of Rs 2000 lakh; coupon 5% p.a., maturity 6 years; identical non-convertible bonds would yield 11%. Initial split between liability and equity components (rounded) is:",
+      "o": [
+        "Debt Rs 2000 lakh; Equity 0",
+        "Debt Rs 1,492 lakh; Equity Rs 508 lakh",
+        "Debt Rs 508 lakh; Equity Rs 1,492 lakh",
+        "Debt Rs 1,343 lakh; Equity Rs 657 lakh"
+      ],
+      "a": 1,
+      "why": "Measure the liability at PV of flows at the 11% market rate ⇒ Rs 1,492 lakh; equity is the residual Rs 508 lakh. Recording the whole proceeds as debt ignores the conversion option; the residual must be equity, never a discount.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the residual-split arithmetic appears as a 2-mark sum regularly AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 32 — convertible debt",
+        "tip": "Debt first at market rate of plain debt; equity = residual = proceeds − debt.",
+        "link": "Chapter 9 — Accounting and Reporting of Financial Instruments"
+      }
+    },
+    {
+      "id": "p1q-nbb6n3",
+      "ch": 9,
+      "topic": "Ind AS 32 — convertible debt",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Palladi Ltd issues convertible bonds for proceeds of Rs 2000 lakh; coupon 6% p.a., maturity 6 years; identical non-convertible bonds would yield 12%. Initial split between liability and equity components (rounded) is:",
+      "o": [
+        "Debt Rs 2000 lakh; Equity 0",
+        "Debt Rs 493 lakh; Equity Rs 1,507 lakh",
+        "Debt Rs 1,356 lakh; Equity Rs 644 lakh",
+        "Debt Rs 1,507 lakh; Equity Rs 493 lakh"
+      ],
+      "a": 3,
+      "why": "Measure the liability at PV of flows at the 12% market rate ⇒ Rs 1,507 lakh; equity is the residual Rs 493 lakh. Recording the whole proceeds as debt ignores the conversion option; the residual must be equity, never a discount.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the residual-split arithmetic appears as a 2-mark sum regularly AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 32 — convertible debt",
+        "tip": "Debt first at market rate of plain debt; equity = residual = proceeds − debt.",
+        "link": "Chapter 9 — Accounting and Reporting of Financial Instruments"
+      }
+    },
+    {
+      "id": "p1q-ty65l0",
+      "ch": 9,
+      "topic": "Ind AS 32 — convertible debt",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Cobalt Ltd issues convertible bonds for proceeds of Rs 2000 lakh; coupon 6% p.a., maturity 5 years; identical non-convertible bonds would yield 10%. Initial split between liability and equity components (rounded) is:",
+      "o": [
+        "Debt Rs 1,697 lakh; Equity Rs 303 lakh",
+        "Debt Rs 2000 lakh; Equity 0",
+        "Debt Rs 303 lakh; Equity Rs 1,697 lakh",
+        "Debt Rs 1,527 lakh; Equity Rs 473 lakh"
+      ],
+      "a": 0,
+      "why": "Measure the liability at PV of flows at the 10% market rate ⇒ Rs 1,697 lakh; equity is the residual Rs 303 lakh. Recording the whole proceeds as debt ignores the conversion option; the residual must be equity, never a discount.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the residual-split arithmetic appears as a 2-mark sum regularly AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 32 — convertible debt",
+        "tip": "Debt first at market rate of plain debt; equity = residual = proceeds − debt.",
+        "link": "Chapter 9 — Accounting and Reporting of Financial Instruments"
+      }
+    },
+    {
+      "id": "p1q-96n40",
+      "ch": 9,
+      "topic": "Ind AS 32 — convertible debt",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Marlin Ltd issues convertible bonds for proceeds of Rs 2000 lakh; coupon 6% p.a., maturity 5 years; identical non-convertible bonds would yield 10%. Initial split between liability and equity components (rounded) is:",
+      "o": [
+        "Debt Rs 2000 lakh; Equity 0",
+        "Debt Rs 303 lakh; Equity Rs 1,697 lakh",
+        "Debt Rs 1,697 lakh; Equity Rs 303 lakh",
+        "Debt Rs 1,527 lakh; Equity Rs 473 lakh"
+      ],
+      "a": 2,
+      "why": "Measure the liability at PV of flows at the 10% market rate ⇒ Rs 1,697 lakh; equity is the residual Rs 303 lakh. Recording the whole proceeds as debt ignores the conversion option; the residual must be equity, never a discount.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the residual-split arithmetic appears as a 2-mark sum regularly AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 32 — convertible debt",
+        "tip": "Debt first at market rate of plain debt; equity = residual = proceeds − debt.",
+        "link": "Chapter 9 — Accounting and Reporting of Financial Instruments"
+      }
+    },
+    {
+      "id": "p1q-j32a21",
+      "ch": 9,
+      "topic": "Ind AS 32 — convertible debt",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Aster Ltd issues convertible bonds for proceeds of Rs 1000 lakh; coupon 6% p.a., maturity 5 years; identical non-convertible bonds would yield 12%. Initial split between liability and equity components (rounded) is:",
+      "o": [
+        "Debt Rs 1000 lakh; Equity 0",
+        "Debt Rs 784 lakh; Equity Rs 216 lakh",
+        "Debt Rs 216 lakh; Equity Rs 784 lakh",
+        "Debt Rs 705 lakh; Equity Rs 295 lakh"
+      ],
+      "a": 1,
+      "why": "Measure the liability at PV of flows at the 12% market rate ⇒ Rs 784 lakh; equity is the residual Rs 216 lakh. Recording the whole proceeds as debt ignores the conversion option; the residual must be equity, never a discount.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the residual-split arithmetic appears as a 2-mark sum regularly AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 32 — convertible debt",
+        "tip": "Debt first at market rate of plain debt; equity = residual = proceeds − debt.",
+        "link": "Chapter 9 — Accounting and Reporting of Financial Instruments"
+      }
+    },
+    {
+      "id": "p1q-18uweue",
+      "ch": 9,
+      "topic": "Ind AS 32 — convertible debt",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Indus Fab Ltd issues convertible bonds for proceeds of Rs 2000 lakh; coupon 5% p.a., maturity 6 years; identical non-convertible bonds would yield 11%. Initial split between liability and equity components (rounded) is:",
+      "o": [
+        "Debt Rs 2000 lakh; Equity 0",
+        "Debt Rs 1,492 lakh; Equity Rs 508 lakh",
+        "Debt Rs 508 lakh; Equity Rs 1,492 lakh",
+        "Debt Rs 1,343 lakh; Equity Rs 657 lakh"
+      ],
+      "a": 1,
+      "why": "Measure the liability at PV of flows at the 11% market rate ⇒ Rs 1,492 lakh; equity is the residual Rs 508 lakh. Recording the whole proceeds as debt ignores the conversion option; the residual must be equity, never a discount.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the residual-split arithmetic appears as a 2-mark sum regularly AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 32 — convertible debt",
+        "tip": "Debt first at market rate of plain debt; equity = residual = proceeds − debt.",
+        "link": "Chapter 9 — Accounting and Reporting of Financial Instruments"
+      }
+    },
+    {
+      "id": "p1q-pbriso",
+      "ch": 9,
+      "topic": "Ind AS 32 — convertible debt",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Indus Fab Ltd issues convertible bonds for proceeds of Rs 1000 lakh; coupon 5% p.a., maturity 6 years; identical non-convertible bonds would yield 9%. Initial split between liability and equity components (rounded) is:",
+      "o": [
+        "Debt Rs 1000 lakh; Equity 0",
+        "Debt Rs 179 lakh; Equity Rs 821 lakh",
+        "Debt Rs 821 lakh; Equity Rs 179 lakh",
+        "Debt Rs 739 lakh; Equity Rs 261 lakh"
+      ],
+      "a": 2,
+      "why": "Measure the liability at PV of flows at the 9% market rate ⇒ Rs 821 lakh; equity is the residual Rs 179 lakh. Recording the whole proceeds as debt ignores the conversion option; the residual must be equity, never a discount.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the residual-split arithmetic appears as a 2-mark sum regularly AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 32 — convertible debt",
+        "tip": "Debt first at market rate of plain debt; equity = residual = proceeds − debt.",
+        "link": "Chapter 9 — Accounting and Reporting of Financial Instruments"
+      }
+    },
+    {
+      "id": "p1q-g4g35p",
+      "ch": 9,
+      "topic": "FVOCI equity recycling",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Vertex Ltd irrevocably elected FVOCI for a strategic equity investment bought at Rs 480 lakh; it stood at Rs 530 lakh last year-end and was sold this year for Rs 544 lakh. On disposal, P&L shows:",
+      "o": [
+        "P&L gain Rs 14 lakh",
+        "P&L gain Rs 64 lakh",
+        "Loss to P&L of recycling",
+        "P&L gain nil; entire Rs 64 lakh gain stays in OCI/equity"
+      ],
+      "a": 3,
+      "why": "The FVOCI equity election takes ALL gains/losses to OCI permanently; on sale, the cumulative Rs 64 lakh is re-presented within equity (OCI → retained earnings) — no P&L recycling, unlike debt.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — no-recycle-on-disposal for equity FVOCI is a recurring option trap AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: FVOCI equity recycling",
+        "tip": "FVOCI equity (no-sale model election): all fair value moves to OCI; on sale, NO recycling to P&L — transfer within equity.",
+        "link": "Chapter 9 — Accounting and Reporting of Financial Instruments"
+      }
+    },
+    {
+      "id": "p1q-1rc11zg",
+      "ch": 9,
+      "topic": "FVOCI equity recycling",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Palladi Ltd irrevocably elected FVOCI for a strategic equity investment bought at Rs 300 lakh; it stood at Rs 355 lakh last year-end and was sold this year for Rs 366 lakh. On disposal, P&L shows:",
+      "o": [
+        "P&L gain nil; entire Rs 66 lakh gain stays in OCI/equity",
+        "P&L gain Rs 11 lakh",
+        "P&L gain Rs 66 lakh",
+        "Loss to P&L of recycling"
+      ],
+      "a": 0,
+      "why": "The FVOCI equity election takes ALL gains/losses to OCI permanently; on sale, the cumulative Rs 66 lakh is re-presented within equity (OCI → retained earnings) — no P&L recycling, unlike debt.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — no-recycle-on-disposal for equity FVOCI is a recurring option trap AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: FVOCI equity recycling",
+        "tip": "FVOCI equity (no-sale model election): all fair value moves to OCI; on sale, NO recycling to P&L — transfer within equity.",
+        "link": "Chapter 9 — Accounting and Reporting of Financial Instruments"
+      }
+    },
+    {
+      "id": "p1q-2ea64e",
+      "ch": 9,
+      "topic": "FVOCI equity recycling",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Kaveri Ltd irrevocably elected FVOCI for a strategic equity investment bought at Rs 480 lakh; it stood at Rs 532 lakh last year-end and was sold this year for Rs 549 lakh. On disposal, P&L shows:",
+      "o": [
+        "P&L gain Rs 17 lakh",
+        "P&L gain Rs 69 lakh",
+        "P&L gain nil; entire Rs 69 lakh gain stays in OCI/equity",
+        "Loss to P&L of recycling"
+      ],
+      "a": 2,
+      "why": "The FVOCI equity election takes ALL gains/losses to OCI permanently; on sale, the cumulative Rs 69 lakh is re-presented within equity (OCI → retained earnings) — no P&L recycling, unlike debt.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — no-recycle-on-disposal for equity FVOCI is a recurring option trap AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: FVOCI equity recycling",
+        "tip": "FVOCI equity (no-sale model election): all fair value moves to OCI; on sale, NO recycling to P&L — transfer within equity.",
+        "link": "Chapter 9 — Accounting and Reporting of Financial Instruments"
+      }
+    },
+    {
+      "id": "p1q-zuxdsq",
+      "ch": 9,
+      "topic": "FVOCI equity recycling",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Palladi Ltd irrevocably elected FVOCI for a strategic equity investment bought at Rs 300 lakh; it stood at Rs 355 lakh last year-end and was sold this year for Rs 368 lakh. On disposal, P&L shows:",
+      "o": [
+        "P&L gain Rs 13 lakh",
+        "P&L gain Rs 68 lakh",
+        "P&L gain nil; entire Rs 68 lakh gain stays in OCI/equity",
+        "Loss to P&L of recycling"
+      ],
+      "a": 2,
+      "why": "The FVOCI equity election takes ALL gains/losses to OCI permanently; on sale, the cumulative Rs 68 lakh is re-presented within equity (OCI → retained earnings) — no P&L recycling, unlike debt.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — no-recycle-on-disposal for equity FVOCI is a recurring option trap AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: FVOCI equity recycling",
+        "tip": "FVOCI equity (no-sale model election): all fair value moves to OCI; on sale, NO recycling to P&L — transfer within equity.",
+        "link": "Chapter 9 — Accounting and Reporting of Financial Instruments"
+      }
+    },
+    {
+      "id": "p1q-14ru6ta",
+      "ch": 9,
+      "topic": "FVOCI equity recycling",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Aster Ltd irrevocably elected FVOCI for a strategic equity investment bought at Rs 480 lakh; it stood at Rs 524 lakh last year-end and was sold this year for Rs 543 lakh. On disposal, P&L shows:",
+      "o": [
+        "P&L gain Rs 19 lakh",
+        "P&L gain Rs 63 lakh",
+        "P&L gain nil; entire Rs 63 lakh gain stays in OCI/equity",
+        "Loss to P&L of recycling"
+      ],
+      "a": 2,
+      "why": "The FVOCI equity election takes ALL gains/losses to OCI permanently; on sale, the cumulative Rs 63 lakh is re-presented within equity (OCI → retained earnings) — no P&L recycling, unlike debt.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — no-recycle-on-disposal for equity FVOCI is a recurring option trap AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: FVOCI equity recycling",
+        "tip": "FVOCI equity (no-sale model election): all fair value moves to OCI; on sale, NO recycling to P&L — transfer within equity.",
+        "link": "Chapter 9 — Accounting and Reporting of Financial Instruments"
+      }
+    },
+    {
+      "id": "p1q-1cz4jkf",
+      "ch": 9,
+      "topic": "FVOCI equity recycling",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Cobalt Ltd irrevocably elected FVOCI for a strategic equity investment bought at Rs 300 lakh; it stood at Rs 341 lakh last year-end and was sold this year for Rs 379 lakh. On disposal, P&L shows:",
+      "o": [
+        "P&L gain Rs 38 lakh",
+        "P&L gain Rs 79 lakh",
+        "Loss to P&L of recycling",
+        "P&L gain nil; entire Rs 79 lakh gain stays in OCI/equity"
+      ],
+      "a": 3,
+      "why": "The FVOCI equity election takes ALL gains/losses to OCI permanently; on sale, the cumulative Rs 79 lakh is re-presented within equity (OCI → retained earnings) — no P&L recycling, unlike debt.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — no-recycle-on-disposal for equity FVOCI is a recurring option trap AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: FVOCI equity recycling",
+        "tip": "FVOCI equity (no-sale model election): all fair value moves to OCI; on sale, NO recycling to P&L — transfer within equity.",
+        "link": "Chapter 9 — Accounting and Reporting of Financial Instruments"
+      }
+    },
+    {
+      "id": "p1q-1teqq3v",
+      "ch": 9,
+      "topic": "FVOCI equity recycling",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Meridian Ltd irrevocably elected FVOCI for a strategic equity investment bought at Rs 300 lakh; it stood at Rs 340 lakh last year-end and was sold this year for Rs 369 lakh. On disposal, P&L shows:",
+      "o": [
+        "P&L gain nil; entire Rs 69 lakh gain stays in OCI/equity",
+        "P&L gain Rs 29 lakh",
+        "P&L gain Rs 69 lakh",
+        "Loss to P&L of recycling"
+      ],
+      "a": 0,
+      "why": "The FVOCI equity election takes ALL gains/losses to OCI permanently; on sale, the cumulative Rs 69 lakh is re-presented within equity (OCI → retained earnings) — no P&L recycling, unlike debt.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — no-recycle-on-disposal for equity FVOCI is a recurring option trap AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: FVOCI equity recycling",
+        "tip": "FVOCI equity (no-sale model election): all fair value moves to OCI; on sale, NO recycling to P&L — transfer within equity.",
+        "link": "Chapter 9 — Accounting and Reporting of Financial Instruments"
+      }
+    },
+    {
+      "id": "p1q-9av6z6",
+      "ch": 9,
+      "topic": "FVOCI equity recycling",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Sable Ltd irrevocably elected FVOCI for a strategic equity investment bought at Rs 480 lakh; it stood at Rs 523 lakh last year-end and was sold this year for Rs 535 lakh. On disposal, P&L shows:",
+      "o": [
+        "P&L gain Rs 12 lakh",
+        "P&L gain Rs 55 lakh",
+        "Loss to P&L of recycling",
+        "P&L gain nil; entire Rs 55 lakh gain stays in OCI/equity"
+      ],
+      "a": 3,
+      "why": "The FVOCI equity election takes ALL gains/losses to OCI permanently; on sale, the cumulative Rs 55 lakh is re-presented within equity (OCI → retained earnings) — no P&L recycling, unlike debt.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — no-recycle-on-disposal for equity FVOCI is a recurring option trap AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: FVOCI equity recycling",
+        "tip": "FVOCI equity (no-sale model election): all fair value moves to OCI; on sale, NO recycling to P&L — transfer within equity.",
+        "link": "Chapter 9 — Accounting and Reporting of Financial Instruments"
+      }
+    },
+    {
+      "id": "p1q-9i2voi",
+      "ch": 9,
+      "topic": "FVOCI equity recycling",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Cobalt Ltd irrevocably elected FVOCI for a strategic equity investment bought at Rs 300 lakh; it stood at Rs 385 lakh last year-end and was sold this year for Rs 408 lakh. On disposal, P&L shows:",
+      "o": [
+        "P&L gain Rs 23 lakh",
+        "P&L gain nil; entire Rs 108 lakh gain stays in OCI/equity",
+        "P&L gain Rs 108 lakh",
+        "Loss to P&L of recycling"
+      ],
+      "a": 1,
+      "why": "The FVOCI equity election takes ALL gains/losses to OCI permanently; on sale, the cumulative Rs 108 lakh is re-presented within equity (OCI → retained earnings) — no P&L recycling, unlike debt.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — no-recycle-on-disposal for equity FVOCI is a recurring option trap AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: FVOCI equity recycling",
+        "tip": "FVOCI equity (no-sale model election): all fair value moves to OCI; on sale, NO recycling to P&L — transfer within equity.",
+        "link": "Chapter 9 — Accounting and Reporting of Financial Instruments"
+      }
+    },
+    {
+      "id": "p1q-1hw8eqr",
+      "ch": 9,
+      "topic": "FVOCI equity recycling",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Vertex Ltd irrevocably elected FVOCI for a strategic equity investment bought at Rs 480 lakh; it stood at Rs 525 lakh last year-end and was sold this year for Rs 557 lakh. On disposal, P&L shows:",
+      "o": [
+        "P&L gain Rs 32 lakh",
+        "P&L gain Rs 77 lakh",
+        "P&L gain nil; entire Rs 77 lakh gain stays in OCI/equity",
+        "Loss to P&L of recycling"
+      ],
+      "a": 2,
+      "why": "The FVOCI equity election takes ALL gains/losses to OCI permanently; on sale, the cumulative Rs 77 lakh is re-presented within equity (OCI → retained earnings) — no P&L recycling, unlike debt.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — no-recycle-on-disposal for equity FVOCI is a recurring option trap AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: FVOCI equity recycling",
+        "tip": "FVOCI equity (no-sale model election): all fair value moves to OCI; on sale, NO recycling to P&L — transfer within equity.",
+        "link": "Chapter 9 — Accounting and Reporting of Financial Instruments"
+      }
+    },
+    {
+      "id": "p1q-1axl359",
+      "ch": 9,
+      "topic": "FVOCI equity recycling",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Kaveri Ltd irrevocably elected FVOCI for a strategic equity investment bought at Rs 300 lakh; it stood at Rs 376 lakh last year-end and was sold this year for Rs 398 lakh. On disposal, P&L shows:",
+      "o": [
+        "P&L gain nil; entire Rs 98 lakh gain stays in OCI/equity",
+        "P&L gain Rs 22 lakh",
+        "P&L gain Rs 98 lakh",
+        "Loss to P&L of recycling"
+      ],
+      "a": 0,
+      "why": "The FVOCI equity election takes ALL gains/losses to OCI permanently; on sale, the cumulative Rs 98 lakh is re-presented within equity (OCI → retained earnings) — no P&L recycling, unlike debt.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — no-recycle-on-disposal for equity FVOCI is a recurring option trap AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: FVOCI equity recycling",
+        "tip": "FVOCI equity (no-sale model election): all fair value moves to OCI; on sale, NO recycling to P&L — transfer within equity.",
+        "link": "Chapter 9 — Accounting and Reporting of Financial Instruments"
+      }
+    },
+    {
+      "id": "p1q-zz6zti",
+      "ch": 9,
+      "topic": "FVOCI equity recycling",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Nimbus Ltd irrevocably elected FVOCI for a strategic equity investment bought at Rs 480 lakh; it stood at Rs 536 lakh last year-end and was sold this year for Rs 569 lakh. On disposal, P&L shows:",
+      "o": [
+        "P&L gain Rs 33 lakh",
+        "P&L gain nil; entire Rs 89 lakh gain stays in OCI/equity",
+        "P&L gain Rs 89 lakh",
+        "Loss to P&L of recycling"
+      ],
+      "a": 1,
+      "why": "The FVOCI equity election takes ALL gains/losses to OCI permanently; on sale, the cumulative Rs 89 lakh is re-presented within equity (OCI → retained earnings) — no P&L recycling, unlike debt.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — no-recycle-on-disposal for equity FVOCI is a recurring option trap AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: FVOCI equity recycling",
+        "tip": "FVOCI equity (no-sale model election): all fair value moves to OCI; on sale, NO recycling to P&L — transfer within equity.",
+        "link": "Chapter 9 — Accounting and Reporting of Financial Instruments"
+      }
+    }
+  ]
+}

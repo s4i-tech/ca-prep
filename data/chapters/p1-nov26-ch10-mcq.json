@@ -1,0 +1,1009 @@
+{
+  "meta": {
+    "id": "p1-nov26-ch10-mcq",
+    "paper": "P1",
+    "attempt": "NOV-2026",
+    "kind": "chapter",
+    "category": "CHAPTER-WISE MCQs",
+    "title": "Ch 10: Ind AS on Items Impacting the Financial Statements — MCQ Bank",
+    "description": "Chapter-wise practice MCQs for Chapter 10 (Ind AS on Items Impacting the Financial Statements).",
+    "count": 41,
+    "mcqCount": 41,
+    "descriptiveCount": 0,
+    "coverage": "Chapter 10 · 41 MCQs",
+    "chapters": [
+      10
+    ],
+    "durationMinutes": 62,
+    "difficulty": "Exam standard",
+    "high": 1,
+    "medium": 32,
+    "low": 8
+  },
+  "questions": [
+    {
+      "id": "p1q-dsuxg0",
+      "ch": 10,
+      "topic": "Ind AS 10 — adjusting events",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "On 15 April 20X7 (after the 31 March reporting date but before approval), a customer that was in default since February confirms bankruptcy. This is:",
+      "o": [
+        "A non-adjusting event — insolvency arose after year-end",
+        "An adjusting event — it confirms a condition (impairment) existing at the reporting date",
+        "Adjusting only if the court order is passed before the balance sheet date",
+        "Non-adjusting; disclose only if material"
+      ],
+      "a": 1,
+      "why": "The customer was ALREADY in financial difficulty at the reporting date; post-year-end bankruptcy CONFIRMS that condition ⇒ adjust receivables/write-downs. If the event had no year-end condition (e.g., post-year-end flood), it would be non-adjusting disclosure only.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the confirm-vs-cause test is the definitive Ind AS 10 question Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 10 — adjusting events",
+        "tip": "Adjusting = confirms a year-end condition; non-adjusting = brand-new cause. Trace the evidence back — was the seed present at 31 March?",
+        "link": "Ch 10"
+      }
+    },
+    {
+      "id": "p1q-1snasms",
+      "ch": 10,
+      "topic": "Ind AS 10 — dividends",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "The board recommends a dividend after the reporting date but before approval of the financial statements. Under Ind AS 10 and Ind AS 37:",
+      "o": [
+        "Recognise a liability at the reporting date",
+        "Do NOT recognise a liability at the reporting date, because the obligation arises only when declared/approved by shareholders where required",
+        "Disclose as a provision",
+        "Adjust retained earnings of the prior year without disclosure"
+      ],
+      "a": 1,
+      "why": "Dividends declared after the reporting date are a classic non-adjusting event — no present obligation at year-end (where shareholder approval is needed, the obligation arises only on approval). Disclose under Ind AS 1 if declared after approval but entity permits.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — dividends-after-reporting-date is an every-attempt MCQ AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 10 — dividends",
+        "tip": "Recommended at year-end, declared never: liability waits for the declaration/approval. No retroactive obligations for a cheerleading board.",
+        "link": "Ch 10"
+      }
+    },
+    {
+      "id": "p1q-13ajjmx",
+      "ch": 10,
+      "topic": "Ind AS 24 — related parties",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Which transaction must be disclosed as a related-party transaction under Ind AS 24?",
+      "o": [
+        "Transactions with a party under significant influence solely because of common government control of both entities (government-related entity exemption applies as claimed by that logic)",
+        "Key management personnel compensation",
+        "Routine transactions with customers at arm's length",
+        "Bank loans to a listed public company"
+      ],
+      "a": 1,
+      "why": "Ind AS 24 mandates disclosure of key management personnel compensation (by category) and KMP-related items; the government-related-entity exemptions RELIEVE certain disclosures but do not eliminate KMP compensation. Arm's-length trade with customers is not RPT.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the government-related-entity exemption vs KMP carve-out is a known trap AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 24 — related parties",
+        "tip": "Even a government-owned everything still owes KMP compensation disclosure — exemptions never touch KMP pay.",
+        "link": "Ch 10"
+      }
+    },
+    {
+      "id": "p1q-1oqel1j",
+      "ch": 10,
+      "topic": "Share-based payment",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "An entity grants 10,000 options with a fair value of Rs 60 each that vest in 3 years, with service conditions only. Annual expense under Ind AS 102 (equity-settled) is:",
+      "o": [
+        "Rs 6,00,000 per year, total Rs 18,00,000 credited to equity",
+        "Rs 18,00,000 on grant date",
+        "Rs 6,00,000 per year against a liability",
+        "Only on vesting date"
+      ],
+      "a": 0,
+      "why": "Equity-settled SBP is measured at grant-date fair value and spread over the vesting period, credited to equity (SBP reserve). No remeasurement after grant date for service/market conditions.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the grant-date-frozen, spread-over-vesting rule recurs AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Share-based payment",
+        "tip": "Equity-settled SBP: price on grant day, freeze, spread across vesting, park in equity. Liability awards (cash options) remeasure every year — don't mix.",
+        "link": "Ch 10"
+      }
+    },
+    {
+      "id": "p1q-1w8smj1",
+      "ch": 10,
+      "topic": "Post-employment benefits",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Under the projected unit credit method, actuarial gains and losses on defined-benefit obligations are:",
+      "o": [
+        "Routed to P&L fully",
+        "Recognised immediately in OCI and not recycled",
+        "Amortised over average working life (corridor)",
+        "Ignored"
+      ],
+      "a": 1,
+      "why": "Ind AS 19: remeasurements (actuarial gains/losses, return on plan assets excl. amounts in net interest, effect of asset ceiling) go to OCI immediately and are NOT reclassified to P&L later.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the 'OCI-no-recycle' feature of Ind AS 19 is a testable line AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Post-employment benefits",
+        "tip": "DB plan remeasurement: OCI forever — a one-way door (no recycling). Service cost + net interest live in P&L.",
+        "link": "Ch 10"
+      }
+    },
+    {
+      "id": "p1q-1d4czm8",
+      "ch": 10,
+      "topic": "Ind AS 19 — termination benefits",
+      "m": 1,
+      "d": "HARD",
+      "q": "Termination benefits are recognised when the entity:",
+      "o": [
+        "Notifies affected employees only",
+        "Is demonstrably committed to a detailed formal plan (to the point of no withdrawal) or offers the incentive for redundancy",
+        "Pays the first instalment",
+        "Books the provision at year-end always"
+      ],
+      "a": 1,
+      "why": "Ind AS 19: recognise termination benefits at the EARLIER of when the entity can no longer withdraw the offer or when restructuring provisions (Ind AS 37) are recognised.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — earlier-of triggers are the standard phrasing Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Ind AS 19 — termination benefits",
+        "tip": "Termination pay booked at the first point of no return — can't withdraw the offer, or restructuring charge already on.",
+        "link": "Ch 10"
+      }
+    },
+    {
+      "id": "p1q-v917qh",
+      "ch": 10,
+      "topic": "Ind AS 12 — remeasurement of deferred tax",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A change in the enacted income tax rate affects deferred tax balances; the effect is recognised:",
+      "o": [
+        "In OCI only",
+        "In profit or loss, except to the extent it relates to items previously charged/credited outside P&L",
+        "Retrospectively as an error",
+        "Prospectively to EPS only"
+      ],
+      "a": 1,
+      "why": "Ind AS 12: current and deferred tax go to P&L unless they arise from a transaction recognised in OCI/P&L earlier (then same place), or business-combination goodwill adjustment.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the 'follow your father' rule of tax recognition AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 12 — remeasurement of deferred tax",
+        "tip": "Deferred tax follows its source: transaction's tax home (P&L/OCI). Rate-change catches where the original went.",
+        "link": "Ch 10"
+      }
+    },
+    {
+      "id": "p1q-1vzewfx",
+      "ch": 10,
+      "topic": "Ind AS 24 — KMP",
+      "m": 1,
+      "d": "HARD",
+      "q": "Key management personnel are those with authority and responsibility for:",
+      "o": [
+        "Statutory audit of the company",
+        "Planning, directing and controlling the activities of the entity, directly or indirectly",
+        "Taxation of the company",
+        "Internal audit reviews"
+      ],
+      "a": 1,
+      "why": "Ind AS 24 defines KMP by authority/responsibility for planning-directing-controlling activities (directors + such senior executives); the auditor is not KMP of the client.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — definition-with-exception format for a 1-marker Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Ind AS 24 — KMP",
+        "tip": "KMP steer the ship; auditors inspect the logbook — never the same seat.",
+        "link": "Ch 10"
+      }
+    },
+    {
+      "id": "p1q-1oqr5ce",
+      "ch": 10,
+      "topic": "Ind AS 19 — short-term benefits",
+      "m": 1,
+      "d": "HARD",
+      "q": "Short-term employee benefits are undiscounted and expensed:",
+      "o": [
+        "When the employee leaves",
+        "As the service is rendered",
+        "Annually at year-end only",
+        "When paid by the employer"
+      ],
+      "a": 1,
+      "why": "Short-term benefits recognised undiscounted when the employee renders the service (liability for unpaid, expense for consumed).",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the 'as services rendered' phrase Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Ind AS 19 — short-term benefits",
+        "tip": "Pay follows service, not paperwork or pay-date — accrue while they work.",
+        "link": "Ch 10"
+      }
+    },
+    {
+      "id": "p1q-1bnnzur",
+      "ch": 10,
+      "topic": "Ind AS 37 — onerous vs impairment overlap",
+      "m": 1,
+      "d": "HARD",
+      "q": "For a right-of-use asset rendered useless by a disaster with the lease still payable, the likely entries are:",
+      "o": [
+        "Impair ROU asset; Ind AS 37 provision only for unavoidable payments exceeding expected benefits",
+        "Only Ind AS 37 provision",
+        "No entries",
+        "Reclassify lease to operating"
+      ],
+      "a": 0,
+      "why": "Useless ROU ⇒ Ind AS 36 impairment; continuing unavoidable payments (less benefits) ⇒ onerous-lease provision under Ind AS 37 — both concepts, each in its house.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — standard-boundary questions love overlaps Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Ind AS 37 — onerous vs impairment overlap",
+        "tip": "Break the asset and you pay twice: impairment for the corpse, provision for the still-running contract.",
+        "link": "Ch 7/10"
+      }
+    },
+    {
+      "id": "p1q-16l0xdk",
+      "ch": 10,
+      "topic": "Recoverability — share-based",
+      "m": 1,
+      "d": "HARD",
+      "q": "For equity-settled SBP, when an employee leaves before vesting (service condition unmet), the expense previously recognised is:",
+      "o": [
+        "Treated as forfeiture adjustment — reversed",
+        "A penalty income",
+        "Retained forever in P&L",
+        "Reclassified to OCI"
+      ],
+      "a": 0,
+      "why": "Actual/expected forfeiture of non-market vesting adjusts cumulative expense — true-down reversals allowed.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — forfeiture true-up one-liner Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Recoverability — share-based",
+        "tip": "Unvested exits unwind the charge; the equity reserve gives the money back.",
+        "link": "Chapter 10 — Ind AS on Items Impacting the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-19ar934",
+      "ch": 10,
+      "topic": "Termination vs severance",
+      "m": 1,
+      "d": "HARD",
+      "q": "A voluntary redundancy incentive offered to the entire workforce for two weeks is:",
+      "o": [
+        "Post-employment benefit",
+        "Termination benefit — recognised when the entity can no longer withdraw the offer",
+        "Short-term benefit",
+        "A provision for restructuring only"
+      ],
+      "a": 1,
+      "why": "Benefits for ending employment = termination benefits: recognised at the earlier of no-withdrawal / restructuring provision.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the recognition-timing pairing AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Termination vs severance",
+        "tip": "Two weeks to decide, then no going back: the books move with the entity's lockout.",
+        "link": "Chapter 10 — Ind AS on Items Impacting the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-38znsw",
+      "ch": 10,
+      "topic": "Ind AS 19 — curtailment",
+      "m": 1,
+      "d": "HARD",
+      "q": "A defined-benefit plan amendment that stops future accrual for a senior cohort is:",
+      "o": [
+        "A settlement",
+        "A curtailment (past service cost/gain in P&L)",
+        "Remeasurement in OCI",
+        "A plan asset return"
+      ],
+      "a": 1,
+      "why": "Curtailment = significant reduction in the plan's covered membership/duration; the effect on the obligation and past service cost/gain goes to P&L; settlement = all legal obligations extinguished.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — curtailment-vs-settlement pair Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Ind AS 19 — curtailment",
+        "tip": "Stopping the clock for a group is curtailment; paying everyone out is settlement.",
+        "link": "Chapter 10 — Ind AS on Items Impacting the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-i7lzva",
+      "ch": 10,
+      "topic": "Ind AS 23 vs 40 boundary",
+      "m": 1,
+      "d": "HARD",
+      "q": "Investment property being constructed qualifies for borrowing-cost capitalisation under:",
+      "o": [
+        "Only Ind AS 40 (fair value)",
+        "Ind AS 23 for qualifying asset + 40 model — the interaction matters when cost model is used",
+        "Ind AS 16 only",
+        "Never"
+      ],
+      "a": 1,
+      "why": "A qualifying asset includes investment property under construction — capitalisation rules apply where the cost model is used; under fair-value model (40) capitalising then also revaluing would double-count.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the cross-standard interplay MCQ Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Ind AS 23 vs 40 boundary",
+        "tip": "When 23 meets 40: capitalise only where the model does not revalue your choice away.",
+        "link": "Chapter 10 — Ind AS on Items Impacting the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-zyhqtm",
+      "ch": 10,
+      "topic": "SBP — market condition",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A market performance condition (e.g., target share price) in an option grant affects:",
+      "o": [
+        "The grant-date fair value, not the expense for expected vesting",
+        "Each period's expense separately",
+        "Never",
+        "Cash settlement"
+      ],
+      "a": 0,
+      "why": "Market conditions are reflected in the grant-date FV; no true-up for failure of market condition. Non-market (service/performance) conditions adjust expected number vesting.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — market-vs-non-market split is the standard trap AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: SBP — market condition",
+        "tip": "Price targets are priced once (in FV); people-counts are re-estimated yearly.",
+        "link": "Chapter 10 — Ind AS on Items Impacting the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-83y54k",
+      "ch": 10,
+      "topic": "Prohibition — constructive obligations",
+      "m": 1,
+      "d": "HARD",
+      "q": "A constructive obligation arises from:",
+      "o": [
+        "A contract word",
+        "An established pattern of practice/published policy creating valid expectation",
+        "A statute",
+        "Board minutes only"
+      ],
+      "a": 1,
+      "why": "Ind AS 37: constructive obligation from past practice or sufficient publicity giving the other party a valid expectation you'll discharge (note: board approval alone is insufficient).",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — valid-expectation source Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Prohibition — constructive obligations",
+        "tip": "You create a promise by behaving as if you're bound — and being seen doing it.",
+        "link": "Chapter 10 — Ind AS on Items Impacting the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1l24vic",
+      "ch": 10,
+      "topic": "Amendment — Deferred tax: single transaction",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "The Ind AS 12 amendment 'Deferred tax related to Assets and Liabilities arising from a Single Transaction' removes the initial-recognition exemption mainly for:",
+      "o": [
+        "Goodwill in all combinations",
+        "Leases and decommissioning provisions creating equal deductible and taxable differences",
+        "Share-based payments",
+        "Inventory capitalisation"
+      ],
+      "a": 1,
+      "why": "Documented amendment (India: effective for annual periods beginning on/after 1 April 2023): the exemption no longer applies to transactions that give rise, on initial recognition, to EQUAL deductible and taxable temporary differences — the lessee's ROU/liability pair and decommissioning provisions must now carry DTL and DTA separately.",
+      "trend": "Traceable to a real, publicly-notified amendment/standard (documented fact), tested in ICAI style.",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — a targeted exemption carve-out always earns a question AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Amendment — Deferred tax: single transaction",
+        "tip": "Equal-and-opposite differences escape the old exemption: leases and provisions re-opened deferred tax.",
+        "link": "Chapter 10 — Ind AS on Items Impacting the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1fgh7ns",
+      "ch": 10,
+      "topic": "Ind AS 12 — provision & DTA",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Meridian Ltd recognises an Ind AS 37 provision of Rs 74 lakh for warranties; the tax law allows the deduction only when the warranty costs are paid. At 34% tax rate, what deferred-tax effect arises at year end?",
+      "o": [
+        "DTL Rs 25.16 lakh",
+        "No deferred tax — provisions never create differences",
+        "DTA Rs 49 lakh",
+        "DTA Rs 25.16 lakh"
+      ],
+      "a": 3,
+      "why": "Liability CA 74, tax base 0 ⇒ deductible temporary difference 74 ⇒ DTA = 74 × 34% = Rs 25.16 lakh. It is a DTA (future deduction), not a DTL; 'no DTA because provisions aren't deductible yet' confuses the reason the difference exists with a bar on recognition.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — provision–tax-base mini-sums are an objective-paper habit AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 12 — provision & DTA",
+        "tip": "Provision not deductible until paid ⇒ carrying amount > tax base ⇒ DTA = rate × difference. DTA recognised for probable future profits.",
+        "link": "Chapter 10 — Ind AS on Items Impacting the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-nnnro4",
+      "ch": 10,
+      "topic": "Ind AS 12 — provision & DTA",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Cobalt Ltd recognises an Ind AS 37 provision of Rs 78 lakh for warranties; the tax law allows the deduction only when the warranty costs are paid. At 34% tax rate, what deferred-tax effect arises at year end?",
+      "o": [
+        "DTA Rs 26.52 lakh",
+        "DTL Rs 26.52 lakh",
+        "No deferred tax — provisions never create differences",
+        "DTA Rs 51 lakh"
+      ],
+      "a": 0,
+      "why": "Liability CA 78, tax base 0 ⇒ deductible temporary difference 78 ⇒ DTA = 78 × 34% = Rs 26.52 lakh. It is a DTA (future deduction), not a DTL; 'no DTA because provisions aren't deductible yet' confuses the reason the difference exists with a bar on recognition.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — provision–tax-base mini-sums are an objective-paper habit AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 12 — provision & DTA",
+        "tip": "Provision not deductible until paid ⇒ carrying amount > tax base ⇒ DTA = rate × difference. DTA recognised for probable future profits.",
+        "link": "Chapter 10 — Ind AS on Items Impacting the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1ydo410",
+      "ch": 10,
+      "topic": "Ind AS 12 — provision & DTA",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Sable Ltd recognises an Ind AS 37 provision of Rs 69 lakh for warranties; the tax law allows the deduction only when the warranty costs are paid. At 25% tax rate, what deferred-tax effect arises at year end?",
+      "o": [
+        "DTL Rs 17.25 lakh",
+        "No deferred tax — provisions never create differences",
+        "DTA Rs 52 lakh",
+        "DTA Rs 17.25 lakh"
+      ],
+      "a": 3,
+      "why": "Liability CA 69, tax base 0 ⇒ deductible temporary difference 69 ⇒ DTA = 69 × 25% = Rs 17.25 lakh. It is a DTA (future deduction), not a DTL; 'no DTA because provisions aren't deductible yet' confuses the reason the difference exists with a bar on recognition.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — provision–tax-base mini-sums are an objective-paper habit AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 12 — provision & DTA",
+        "tip": "Provision not deductible until paid ⇒ carrying amount > tax base ⇒ DTA = rate × difference. DTA recognised for probable future profits.",
+        "link": "Chapter 10 — Ind AS on Items Impacting the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1p2c1kc",
+      "ch": 10,
+      "topic": "Ind AS 12 — provision & DTA",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Cobalt Ltd recognises an Ind AS 37 provision of Rs 98 lakh for warranties; the tax law allows the deduction only when the warranty costs are paid. At 25% tax rate, what deferred-tax effect arises at year end?",
+      "o": [
+        "DTL Rs 24.5 lakh",
+        "No deferred tax — provisions never create differences",
+        "DTA Rs 24.5 lakh",
+        "DTA Rs 74 lakh"
+      ],
+      "a": 2,
+      "why": "Liability CA 98, tax base 0 ⇒ deductible temporary difference 98 ⇒ DTA = 98 × 25% = Rs 24.5 lakh. It is a DTA (future deduction), not a DTL; 'no DTA because provisions aren't deductible yet' confuses the reason the difference exists with a bar on recognition.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — provision–tax-base mini-sums are an objective-paper habit AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 12 — provision & DTA",
+        "tip": "Provision not deductible until paid ⇒ carrying amount > tax base ⇒ DTA = rate × difference. DTA recognised for probable future profits.",
+        "link": "Chapter 10 — Ind AS on Items Impacting the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1dcnch1",
+      "ch": 10,
+      "topic": "Ind AS 12 — provision & DTA",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Aster Ltd recognises an Ind AS 37 provision of Rs 84 lakh for warranties; the tax law allows the deduction only when the warranty costs are paid. At 25% tax rate, what deferred-tax effect arises at year end?",
+      "o": [
+        "DTA Rs 21 lakh",
+        "DTL Rs 21 lakh",
+        "No deferred tax — provisions never create differences",
+        "DTA Rs 63 lakh"
+      ],
+      "a": 0,
+      "why": "Liability CA 84, tax base 0 ⇒ deductible temporary difference 84 ⇒ DTA = 84 × 25% = Rs 21 lakh. It is a DTA (future deduction), not a DTL; 'no DTA because provisions aren't deductible yet' confuses the reason the difference exists with a bar on recognition.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — provision–tax-base mini-sums are an objective-paper habit AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 12 — provision & DTA",
+        "tip": "Provision not deductible until paid ⇒ carrying amount > tax base ⇒ DTA = rate × difference. DTA recognised for probable future profits.",
+        "link": "Chapter 10 — Ind AS on Items Impacting the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-iatamp",
+      "ch": 10,
+      "topic": "Ind AS 12 — provision & DTA",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Meridian Ltd recognises an Ind AS 37 provision of Rs 112 lakh for warranties; the tax law allows the deduction only when the warranty costs are paid. At 25% tax rate, what deferred-tax effect arises at year end?",
+      "o": [
+        "DTA Rs 28 lakh",
+        "DTL Rs 28 lakh",
+        "No deferred tax — provisions never create differences",
+        "DTA Rs 84 lakh"
+      ],
+      "a": 0,
+      "why": "Liability CA 112, tax base 0 ⇒ deductible temporary difference 112 ⇒ DTA = 112 × 25% = Rs 28 lakh. It is a DTA (future deduction), not a DTL; 'no DTA because provisions aren't deductible yet' confuses the reason the difference exists with a bar on recognition.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — provision–tax-base mini-sums are an objective-paper habit AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 12 — provision & DTA",
+        "tip": "Provision not deductible until paid ⇒ carrying amount > tax base ⇒ DTA = rate × difference. DTA recognised for probable future profits.",
+        "link": "Chapter 10 — Ind AS on Items Impacting the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-217tlc",
+      "ch": 10,
+      "topic": "Ind AS 12 — provision & DTA",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Cobalt Ltd recognises an Ind AS 37 provision of Rs 119 lakh for warranties; the tax law allows the deduction only when the warranty costs are paid. At 30% tax rate, what deferred-tax effect arises at year end?",
+      "o": [
+        "DTL Rs 35.7 lakh",
+        "No deferred tax — provisions never create differences",
+        "DTA Rs 35.7 lakh",
+        "DTA Rs 83 lakh"
+      ],
+      "a": 2,
+      "why": "Liability CA 119, tax base 0 ⇒ deductible temporary difference 119 ⇒ DTA = 119 × 30% = Rs 35.7 lakh. It is a DTA (future deduction), not a DTL; 'no DTA because provisions aren't deductible yet' confuses the reason the difference exists with a bar on recognition.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — provision–tax-base mini-sums are an objective-paper habit AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 12 — provision & DTA",
+        "tip": "Provision not deductible until paid ⇒ carrying amount > tax base ⇒ DTA = rate × difference. DTA recognised for probable future profits.",
+        "link": "Chapter 10 — Ind AS on Items Impacting the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-8vc0w1",
+      "ch": 10,
+      "topic": "Ind AS 12 — provision & DTA",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Zenith Ltd recognises an Ind AS 37 provision of Rs 111 lakh for warranties; the tax law allows the deduction only when the warranty costs are paid. At 34% tax rate, what deferred-tax effect arises at year end?",
+      "o": [
+        "DTA Rs 37.74 lakh",
+        "DTL Rs 37.74 lakh",
+        "No deferred tax — provisions never create differences",
+        "DTA Rs 73 lakh"
+      ],
+      "a": 0,
+      "why": "Liability CA 111, tax base 0 ⇒ deductible temporary difference 111 ⇒ DTA = 111 × 34% = Rs 37.74 lakh. It is a DTA (future deduction), not a DTL; 'no DTA because provisions aren't deductible yet' confuses the reason the difference exists with a bar on recognition.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — provision–tax-base mini-sums are an objective-paper habit AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 12 — provision & DTA",
+        "tip": "Provision not deductible until paid ⇒ carrying amount > tax base ⇒ DTA = rate × difference. DTA recognised for probable future profits.",
+        "link": "Chapter 10 — Ind AS on Items Impacting the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1ruu96w",
+      "ch": 10,
+      "topic": "Ind AS 12 — provision & DTA",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Orbit Ltd recognises an Ind AS 37 provision of Rs 103 lakh for warranties; the tax law allows the deduction only when the warranty costs are paid. At 25% tax rate, what deferred-tax effect arises at year end?",
+      "o": [
+        "DTL Rs 25.75 lakh",
+        "No deferred tax — provisions never create differences",
+        "DTA Rs 25.75 lakh",
+        "DTA Rs 77 lakh"
+      ],
+      "a": 2,
+      "why": "Liability CA 103, tax base 0 ⇒ deductible temporary difference 103 ⇒ DTA = 103 × 25% = Rs 25.75 lakh. It is a DTA (future deduction), not a DTL; 'no DTA because provisions aren't deductible yet' confuses the reason the difference exists with a bar on recognition.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — provision–tax-base mini-sums are an objective-paper habit AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 12 — provision & DTA",
+        "tip": "Provision not deductible until paid ⇒ carrying amount > tax base ⇒ DTA = rate × difference. DTA recognised for probable future profits.",
+        "link": "Chapter 10 — Ind AS on Items Impacting the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-349dyb",
+      "ch": 10,
+      "topic": "Ind AS 12 — provision & DTA",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Vertex Ltd recognises an Ind AS 37 provision of Rs 133 lakh for warranties; the tax law allows the deduction only when the warranty costs are paid. At 34% tax rate, what deferred-tax effect arises at year end?",
+      "o": [
+        "DTL Rs 45.22 lakh",
+        "No deferred tax — provisions never create differences",
+        "DTA Rs 45.22 lakh",
+        "DTA Rs 88 lakh"
+      ],
+      "a": 2,
+      "why": "Liability CA 133, tax base 0 ⇒ deductible temporary difference 133 ⇒ DTA = 133 × 34% = Rs 45.22 lakh. It is a DTA (future deduction), not a DTL; 'no DTA because provisions aren't deductible yet' confuses the reason the difference exists with a bar on recognition.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — provision–tax-base mini-sums are an objective-paper habit AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 12 — provision & DTA",
+        "tip": "Provision not deductible until paid ⇒ carrying amount > tax base ⇒ DTA = rate × difference. DTA recognised for probable future profits.",
+        "link": "Chapter 10 — Ind AS on Items Impacting the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1fn6ds",
+      "ch": 10,
+      "topic": "Ind AS 12 — provision & DTA",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Meridian Ltd recognises an Ind AS 37 provision of Rs 137 lakh for warranties; the tax law allows the deduction only when the warranty costs are paid. At 34% tax rate, what deferred-tax effect arises at year end?",
+      "o": [
+        "DTL Rs 46.58 lakh",
+        "DTA Rs 46.58 lakh",
+        "No deferred tax — provisions never create differences",
+        "DTA Rs 90 lakh"
+      ],
+      "a": 1,
+      "why": "Liability CA 137, tax base 0 ⇒ deductible temporary difference 137 ⇒ DTA = 137 × 34% = Rs 46.58 lakh. It is a DTA (future deduction), not a DTL; 'no DTA because provisions aren't deductible yet' confuses the reason the difference exists with a bar on recognition.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — provision–tax-base mini-sums are an objective-paper habit AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 12 — provision & DTA",
+        "tip": "Provision not deductible until paid ⇒ carrying amount > tax base ⇒ DTA = rate × difference. DTA recognised for probable future profits.",
+        "link": "Chapter 10 — Ind AS on Items Impacting the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-totfij",
+      "ch": 10,
+      "topic": "Ind AS 12 — provision & DTA",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Aster Ltd recognises an Ind AS 37 provision of Rs 129 lakh for warranties; the tax law allows the deduction only when the warranty costs are paid. At 30% tax rate, what deferred-tax effect arises at year end?",
+      "o": [
+        "DTL Rs 38.7 lakh",
+        "DTA Rs 38.7 lakh",
+        "No deferred tax — provisions never create differences",
+        "DTA Rs 90 lakh"
+      ],
+      "a": 1,
+      "why": "Liability CA 129, tax base 0 ⇒ deductible temporary difference 129 ⇒ DTA = 129 × 30% = Rs 38.7 lakh. It is a DTA (future deduction), not a DTL; 'no DTA because provisions aren't deductible yet' confuses the reason the difference exists with a bar on recognition.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — provision–tax-base mini-sums are an objective-paper habit AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 12 — provision & DTA",
+        "tip": "Provision not deductible until paid ⇒ carrying amount > tax base ⇒ DTA = rate × difference. DTA recognised for probable future profits.",
+        "link": "Chapter 10 — Ind AS on Items Impacting the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-tugdge",
+      "ch": 10,
+      "topic": "Ind AS 102 — expense",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Nimbus Ltd grants 1,00,000 options at grant-date FV Rs 180 each, vesting after 3 years. By end of year 2, expected forfeitures reduce vesting to 80,000 options. Under Ind AS 102 (equity-settled), cumulative expense recognised by end of year 2 is:",
+      "o": [
+        "Rs 120.0 lakh (grant-date count, ignoring expected forfeitures)",
+        "Rs 144.0 lakh (expensed fully in year 2)",
+        "Rs 96.0 lakh (cumulative basis by end of year 2)",
+        "Rs 48.0 lakh (one year only)"
+      ],
+      "a": 2,
+      "why": "Cumulative = vesting-expected count × FV × 2/3 = 80,000 × 180 × 2/3 = Rs 0.00 lakh. The cumulative catch-up replaces 'n×FV' — actual forfeiture experience adjusts estimates, not grant-date FV.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — cumulative-true-up SBP sums are a known 2-mark favourite AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 102 — expense",
+        "tip": "Cumulative expense = FV × best-estimate number vesting × elapsed fraction; true-up in each year.",
+        "link": "Chapter 10 — Ind AS on Items Impacting the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1k81nxr",
+      "ch": 10,
+      "topic": "Ind AS 102 — expense",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Kaveri Ltd grants 50,000 options at grant-date FV Rs 180 each, vesting after 3 years. By end of year 2, expected forfeitures reduce vesting to 42,500 options. Under Ind AS 102 (equity-settled), cumulative expense recognised by end of year 2 is:",
+      "o": [
+        "Rs 60.0 lakh (grant-date count, ignoring expected forfeitures)",
+        "Rs 51.0 lakh (cumulative basis by end of year 2)",
+        "Rs 76.5 lakh (expensed fully in year 2)",
+        "Rs 25.5 lakh (one year only)"
+      ],
+      "a": 1,
+      "why": "Cumulative = vesting-expected count × FV × 2/3 = 42,500 × 180 × 2/3 = Rs 0.00 lakh. The cumulative catch-up replaces 'n×FV' — actual forfeiture experience adjusts estimates, not grant-date FV.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — cumulative-true-up SBP sums are a known 2-mark favourite AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 102 — expense",
+        "tip": "Cumulative expense = FV × best-estimate number vesting × elapsed fraction; true-up in each year.",
+        "link": "Chapter 10 — Ind AS on Items Impacting the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-ds892",
+      "ch": 10,
+      "topic": "Ind AS 102 — expense",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Marlin Ltd grants 1,00,000 options at grant-date FV Rs 180 each, vesting after 3 years. By end of year 2, expected forfeitures reduce vesting to 85,000 options. Under Ind AS 102 (equity-settled), cumulative expense recognised by end of year 2 is:",
+      "o": [
+        "Rs 120.0 lakh (grant-date count, ignoring expected forfeitures)",
+        "Rs 102.0 lakh (cumulative basis by end of year 2)",
+        "Rs 153.0 lakh (expensed fully in year 2)",
+        "Rs 51.0 lakh (one year only)"
+      ],
+      "a": 1,
+      "why": "Cumulative = vesting-expected count × FV × 2/3 = 85,000 × 180 × 2/3 = Rs 0.00 lakh. The cumulative catch-up replaces 'n×FV' — actual forfeiture experience adjusts estimates, not grant-date FV.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — cumulative-true-up SBP sums are a known 2-mark favourite AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 102 — expense",
+        "tip": "Cumulative expense = FV × best-estimate number vesting × elapsed fraction; true-up in each year.",
+        "link": "Chapter 10 — Ind AS on Items Impacting the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-9tt6vs",
+      "ch": 10,
+      "topic": "Ind AS 102 — expense",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Aster Ltd grants 80,000 options at grant-date FV Rs 120 each, vesting after 3 years. By end of year 2, expected forfeitures reduce vesting to 64,000 options. Under Ind AS 102 (equity-settled), cumulative expense recognised by end of year 2 is:",
+      "o": [
+        "Rs 64.0 lakh (grant-date count, ignoring expected forfeitures)",
+        "Rs 76.8 lakh (expensed fully in year 2)",
+        "Rs 25.6 lakh (one year only)",
+        "Rs 51.2 lakh (cumulative basis by end of year 2)"
+      ],
+      "a": 3,
+      "why": "Cumulative = vesting-expected count × FV × 2/3 = 64,000 × 120 × 2/3 = Rs 0.00 lakh. The cumulative catch-up replaces 'n×FV' — actual forfeiture experience adjusts estimates, not grant-date FV.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — cumulative-true-up SBP sums are a known 2-mark favourite AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 102 — expense",
+        "tip": "Cumulative expense = FV × best-estimate number vesting × elapsed fraction; true-up in each year.",
+        "link": "Chapter 10 — Ind AS on Items Impacting the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1e6ec50",
+      "ch": 10,
+      "topic": "Ind AS 102 — expense",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Nimbus Ltd grants 80,000 options at grant-date FV Rs 150 each, vesting after 3 years. By end of year 2, expected forfeitures reduce vesting to 68,000 options. Under Ind AS 102 (equity-settled), cumulative expense recognised by end of year 2 is:",
+      "o": [
+        "Rs 80.0 lakh (grant-date count, ignoring expected forfeitures)",
+        "Rs 102.0 lakh (expensed fully in year 2)",
+        "Rs 34.0 lakh (one year only)",
+        "Rs 68.0 lakh (cumulative basis by end of year 2)"
+      ],
+      "a": 3,
+      "why": "Cumulative = vesting-expected count × FV × 2/3 = 68,000 × 150 × 2/3 = Rs 0.00 lakh. The cumulative catch-up replaces 'n×FV' — actual forfeiture experience adjusts estimates, not grant-date FV.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — cumulative-true-up SBP sums are a known 2-mark favourite AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 102 — expense",
+        "tip": "Cumulative expense = FV × best-estimate number vesting × elapsed fraction; true-up in each year.",
+        "link": "Chapter 10 — Ind AS on Items Impacting the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1kc0703",
+      "ch": 10,
+      "topic": "Ind AS 102 — expense",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Orbit Ltd grants 80,000 options at grant-date FV Rs 120 each, vesting after 3 years. By end of year 2, expected forfeitures reduce vesting to 68,000 options. Under Ind AS 102 (equity-settled), cumulative expense recognised by end of year 2 is:",
+      "o": [
+        "Rs 64.0 lakh (grant-date count, ignoring expected forfeitures)",
+        "Rs 54.4 lakh (cumulative basis by end of year 2)",
+        "Rs 81.6 lakh (expensed fully in year 2)",
+        "Rs 27.2 lakh (one year only)"
+      ],
+      "a": 1,
+      "why": "Cumulative = vesting-expected count × FV × 2/3 = 68,000 × 120 × 2/3 = Rs 0.00 lakh. The cumulative catch-up replaces 'n×FV' — actual forfeiture experience adjusts estimates, not grant-date FV.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — cumulative-true-up SBP sums are a known 2-mark favourite AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 102 — expense",
+        "tip": "Cumulative expense = FV × best-estimate number vesting × elapsed fraction; true-up in each year.",
+        "link": "Chapter 10 — Ind AS on Items Impacting the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-14105r2",
+      "ch": 10,
+      "topic": "Ind AS 102 — expense",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Zenith Ltd grants 50,000 options at grant-date FV Rs 120 each, vesting after 3 years. By end of year 2, expected forfeitures reduce vesting to 40,000 options. Under Ind AS 102 (equity-settled), cumulative expense recognised by end of year 2 is:",
+      "o": [
+        "Rs 32.0 lakh (cumulative basis by end of year 2)",
+        "Rs 40.0 lakh (grant-date count, ignoring expected forfeitures)",
+        "Rs 48.0 lakh (expensed fully in year 2)",
+        "Rs 16.0 lakh (one year only)"
+      ],
+      "a": 0,
+      "why": "Cumulative = vesting-expected count × FV × 2/3 = 40,000 × 120 × 2/3 = Rs 0.00 lakh. The cumulative catch-up replaces 'n×FV' — actual forfeiture experience adjusts estimates, not grant-date FV.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — cumulative-true-up SBP sums are a known 2-mark favourite AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 102 — expense",
+        "tip": "Cumulative expense = FV × best-estimate number vesting × elapsed fraction; true-up in each year.",
+        "link": "Chapter 10 — Ind AS on Items Impacting the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-gfqyl7",
+      "ch": 10,
+      "topic": "Ind AS 102 — expense",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Palladi Ltd grants 1,00,000 options at grant-date FV Rs 180 each, vesting after 3 years. By end of year 2, expected forfeitures reduce vesting to 80,000 options. Under Ind AS 102 (equity-settled), cumulative expense recognised by end of year 2 is:",
+      "o": [
+        "Rs 120.0 lakh (grant-date count, ignoring expected forfeitures)",
+        "Rs 96.0 lakh (cumulative basis by end of year 2)",
+        "Rs 144.0 lakh (expensed fully in year 2)",
+        "Rs 48.0 lakh (one year only)"
+      ],
+      "a": 1,
+      "why": "Cumulative = vesting-expected count × FV × 2/3 = 80,000 × 180 × 2/3 = Rs 0.00 lakh. The cumulative catch-up replaces 'n×FV' — actual forfeiture experience adjusts estimates, not grant-date FV.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — cumulative-true-up SBP sums are a known 2-mark favourite AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 102 — expense",
+        "tip": "Cumulative expense = FV × best-estimate number vesting × elapsed fraction; true-up in each year.",
+        "link": "Chapter 10 — Ind AS on Items Impacting the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-16r0hmm",
+      "ch": 10,
+      "topic": "Ind AS 102 — expense",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Orbit Ltd grants 1,00,000 options at grant-date FV Rs 150 each, vesting after 3 years. By end of year 2, expected forfeitures reduce vesting to 85,000 options. Under Ind AS 102 (equity-settled), cumulative expense recognised by end of year 2 is:",
+      "o": [
+        "Rs 85.0 lakh (cumulative basis by end of year 2)",
+        "Rs 100.0 lakh (grant-date count, ignoring expected forfeitures)",
+        "Rs 127.5 lakh (expensed fully in year 2)",
+        "Rs 42.5 lakh (one year only)"
+      ],
+      "a": 0,
+      "why": "Cumulative = vesting-expected count × FV × 2/3 = 85,000 × 150 × 2/3 = Rs 0.00 lakh. The cumulative catch-up replaces 'n×FV' — actual forfeiture experience adjusts estimates, not grant-date FV.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — cumulative-true-up SBP sums are a known 2-mark favourite AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 102 — expense",
+        "tip": "Cumulative expense = FV × best-estimate number vesting × elapsed fraction; true-up in each year.",
+        "link": "Chapter 10 — Ind AS on Items Impacting the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-oznme4",
+      "ch": 10,
+      "topic": "Ind AS 102 — expense",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Aster Ltd grants 80,000 options at grant-date FV Rs 120 each, vesting after 3 years. By end of year 2, expected forfeitures reduce vesting to 68,000 options. Under Ind AS 102 (equity-settled), cumulative expense recognised by end of year 2 is:",
+      "o": [
+        "Rs 54.4 lakh (cumulative basis by end of year 2)",
+        "Rs 64.0 lakh (grant-date count, ignoring expected forfeitures)",
+        "Rs 81.6 lakh (expensed fully in year 2)",
+        "Rs 27.2 lakh (one year only)"
+      ],
+      "a": 0,
+      "why": "Cumulative = vesting-expected count × FV × 2/3 = 68,000 × 120 × 2/3 = Rs 0.00 lakh. The cumulative catch-up replaces 'n×FV' — actual forfeiture experience adjusts estimates, not grant-date FV.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — cumulative-true-up SBP sums are a known 2-mark favourite AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 102 — expense",
+        "tip": "Cumulative expense = FV × best-estimate number vesting × elapsed fraction; true-up in each year.",
+        "link": "Chapter 10 — Ind AS on Items Impacting the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-6skjcs",
+      "ch": 10,
+      "topic": "Ind AS 102 — expense",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Sable Ltd grants 1,00,000 options at grant-date FV Rs 120 each, vesting after 3 years. By end of year 2, expected forfeitures reduce vesting to 85,000 options. Under Ind AS 102 (equity-settled), cumulative expense recognised by end of year 2 is:",
+      "o": [
+        "Rs 68.0 lakh (cumulative basis by end of year 2)",
+        "Rs 80.0 lakh (grant-date count, ignoring expected forfeitures)",
+        "Rs 102.0 lakh (expensed fully in year 2)",
+        "Rs 34.0 lakh (one year only)"
+      ],
+      "a": 0,
+      "why": "Cumulative = vesting-expected count × FV × 2/3 = 85,000 × 120 × 2/3 = Rs 0.00 lakh. The cumulative catch-up replaces 'n×FV' — actual forfeiture experience adjusts estimates, not grant-date FV.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — cumulative-true-up SBP sums are a known 2-mark favourite AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 102 — expense",
+        "tip": "Cumulative expense = FV × best-estimate number vesting × elapsed fraction; true-up in each year.",
+        "link": "Chapter 10 — Ind AS on Items Impacting the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-4lfm6v",
+      "ch": 10,
+      "topic": "Ind AS 102 — expense",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Zenith Ltd grants 80,000 options at grant-date FV Rs 180 each, vesting after 3 years. By end of year 2, expected forfeitures reduce vesting to 68,000 options. Under Ind AS 102 (equity-settled), cumulative expense recognised by end of year 2 is:",
+      "o": [
+        "Rs 81.6 lakh (cumulative basis by end of year 2)",
+        "Rs 96.0 lakh (grant-date count, ignoring expected forfeitures)",
+        "Rs 122.4 lakh (expensed fully in year 2)",
+        "Rs 40.8 lakh (one year only)"
+      ],
+      "a": 0,
+      "why": "Cumulative = vesting-expected count × FV × 2/3 = 68,000 × 180 × 2/3 = Rs 0.00 lakh. The cumulative catch-up replaces 'n×FV' — actual forfeiture experience adjusts estimates, not grant-date FV.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — cumulative-true-up SBP sums are a known 2-mark favourite AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 102 — expense",
+        "tip": "Cumulative expense = FV × best-estimate number vesting × elapsed fraction; true-up in each year.",
+        "link": "Chapter 10 — Ind AS on Items Impacting the Financial Statements"
+      }
+    }
+  ]
+}

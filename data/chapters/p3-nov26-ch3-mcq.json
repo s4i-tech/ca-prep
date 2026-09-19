@@ -1,0 +1,323 @@
+{
+  "meta": {
+    "id": "p3-nov26-ch3-mcq",
+    "paper": "P3",
+    "attempt": "NOV-2026",
+    "kind": "chapter",
+    "category": "CHAPTER-WISE MCQs",
+    "title": "Ch 3: Audit Planning, Strategy and Execution — MCQ Bank",
+    "description": "Chapter-wise practice MCQs for Chapter 3 (Audit Planning, Strategy and Execution).",
+    "count": 12,
+    "mcqCount": 12,
+    "descriptiveCount": 0,
+    "coverage": "Chapter 3 · 12 MCQs",
+    "chapters": [
+      3
+    ],
+    "durationMinutes": 18,
+    "difficulty": "Exam standard",
+    "high": 3,
+    "medium": 5,
+    "low": 4
+  },
+  "questions": [
+    {
+      "id": "p3q-8nlqvx",
+      "ch": 3,
+      "topic": "First-year audit of a chain — planning the engagement",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "The FIRST planning action is:",
+      "o": [
+        "Draft the engagement letter",
+        "Predecessor inquiry under the Code + acceptance/continuance evaluation including why the resignation happened",
+        "Confirm the fee with TCWG",
+        "Send AR confirmations"
+      ],
+      "a": 1,
+      "why": "Before any audit work, the incoming auditor must make the required written inquiry of the previous auditor (professional code) and weigh ethics/competence/capacity for acceptance — a resignation citing unverified receivables is exactly the fact pattern the acceptance check exists to process.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — this topic stays active in ICAI question-setting Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: First-year audit of a chain — planning the engagement",
+        "tip": "Acceptance first — the resignation is the risk memo The door you check before entering is the predecessor's file.",
+        "link": "Chapter 3 — Audit Planning, Strategy and Execution"
+      },
+      "stem": "Newly appointed auditor of Café Kette Ltd (listed, 42 outlets, central ERP, franchise model). Prior auditor resigned citing unverified receivables; management says the issue is 'settled'. The team is two staff; the audit report is due in eight weeks; one franchisee accounting is manual.",
+      "caseRef": "p3-case-0"
+    },
+    {
+      "id": "p3q-hc7cfu",
+      "ch": 3,
+      "topic": "First-year audit of a chain — planning the engagement",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "With two staff and eight weeks, the strategy should reflect:",
+      "o": [
+        "Ignore capacity — do what is needed",
+        "Resource constraints shape scope depth (which components get direct testing vs reliance), staffing (add a specialist for ERP controls), and where PM tightens",
+        "Cut the inventory observation",
+        "Delay the report"
+      ],
+      "a": 1,
+      "why": "Strategy includes team composition, resources, and timing; a constraint this tight is handled by design (more ITGC reliance with specialist, targeted substantive depth), not by skipping mandatory work (counts, confirmations are procedures to design, not to delete when convenient — deleting without replacement is an evidence failure).",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — this topic stays active in ICAI question-setting AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: First-year audit of a chain — planning the engagement",
+        "tip": "Capacity is a strategy input, never an excuse The schedule squeezes how you audit, never whether.",
+        "link": "Chapter 3 — Audit Planning, Strategy and Execution"
+      },
+      "stem": "Newly appointed auditor of Café Kette Ltd (listed, 42 outlets, central ERP, franchise model). Prior auditor resigned citing unverified receivables; management says the issue is 'settled'. The team is two staff; the audit report is due in eight weeks; one franchisee accounting is manual.",
+      "caseRef": "p3-case-0"
+    },
+    {
+      "id": "p3q-51ohau",
+      "ch": 3,
+      "topic": "First-year audit of a chain — planning the engagement",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "For the manual-franchisee receivables (2% of total, 15 counterparties):",
+      "o": [
+        "Sample like the rest",
+        "Test all 15 (small population, high risk from the resignation history)",
+        "Skip — immaterial",
+        "Use last year's audit file"
+      ],
+      "a": 1,
+      "why": "Small, risky, individually checkable population ⇒ 100% testing is the cheap, complete answer — the prior-year audit file isn't evidence, and '2% of total' misses that the resignation reason concentrates risk there.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — this topic stays active in ICAI question-setting Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: First-year audit of a chain — planning the engagement",
+        "tip": "Small population + hot issue = full coverage When the herd is small and the wolf is near, count every sheep.",
+        "link": "Chapter 3 — Audit Planning, Strategy and Execution"
+      },
+      "stem": "Newly appointed auditor of Café Kette Ltd (listed, 42 outlets, central ERP, franchise model). Prior auditor resigned citing unverified receivables; management says the issue is 'settled'. The team is two staff; the audit report is due in eight weeks; one franchisee accounting is manual.",
+      "caseRef": "p3-case-0"
+    },
+    {
+      "id": "p3q-wn493a",
+      "ch": 3,
+      "topic": "First-year audit of a chain — planning the engagement",
+      "m": 2,
+      "d": "HARD",
+      "q": "The client asks you to use last year's controls testing to save time. You should:",
+      "o": [
+        "Refuse absolutely",
+        "Use prior evidence only for non-significant-risk controls per the frequency rules, confirm the controls still exist, and test this year's significant-risk controls regardless",
+        "Rely if management certifies",
+        "Rely only if the fee is cut"
+      ],
+      "a": 1,
+      "why": "SA 330 architecture: reliance on prior tests is permitted for controls not tied to significant risks (with the period rule and a confirmation of continued operation); significant-risk and ITGC-reliance controls get tested this year — the resignation history may even re-classify AR to significant.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — this topic stays active in ICAI question-setting Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: First-year audit of a chain — planning the engagement",
+        "tip": "The prior-year shortcut has a rulebook, not a vibe Rely on last year's proof only where the standard allows the lease.",
+        "link": "Chapter 3 — Audit Planning, Strategy and Execution"
+      },
+      "stem": "Newly appointed auditor of Café Kette Ltd (listed, 42 outlets, central ERP, franchise model). Prior auditor resigned citing unverified receivables; management says the issue is 'settled'. The team is two staff; the audit report is due in eight weeks; one franchisee accounting is manual.",
+      "caseRef": "p3-case-0"
+    },
+    {
+      "id": "p3q-13zfl05",
+      "ch": 3,
+      "topic": "First-year audit of a chain — planning the engagement",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Overall materiality for this listed service business is best set by:",
+      "o": [
+        "Total outlets count",
+        "A benchmark (revenue, since the cafés are margin-thin and PBT swings) with the percentage tied to user focus, then PM below it",
+        "Fee revenue",
+        "Management's comfort level"
+      ],
+      "a": 1,
+      "why": "Benchmark choice: what users watch — revenue is the stable base (PBT volatile in cafés); PM = haircut under OM for undetected error; size of the company or fee is irrelevant to the definition.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — this topic stays active in ICAI question-setting Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: First-year audit of a chain — planning the engagement",
+        "tip": "Materiality comes from users' attention Pick the line the reader reads, then shave for the blind spots.",
+        "link": "Chapter 3 — Audit Planning, Strategy and Execution"
+      },
+      "stem": "Newly appointed auditor of Café Kette Ltd (listed, 42 outlets, central ERP, franchise model). Prior auditor resigned citing unverified receivables; management says the issue is 'settled'. The team is two staff; the audit report is due in eight weeks; one franchisee accounting is manual.",
+      "caseRef": "p3-case-0"
+    },
+    {
+      "id": "p3q-1m3endc",
+      "ch": 3,
+      "topic": "Audit strategy vs plan",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "The overall audit strategy differs from the audit plan in that it:",
+      "o": [
+        "Lists the procedures for each assertion",
+        "Sets scope, timing and direction and guides the plan's development",
+        "Is prepared by the client",
+        "Is optional for unlisted entities"
+      ],
+      "a": 1,
+      "why": "Strategy: characteristics, reporting objectives, engagement teams, significant considerations (scope, timing, direction); plan: the nature/timing/extent of procedures for each area — plan is the route map, strategy is the destination choice.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — strategy = direction; plan = the procedures that follow AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Audit strategy vs plan",
+        "tip": "An audit without strategy is a hike with better paperwork.",
+        "link": "Chapter 3 — Audit Planning, Strategy and Execution"
+      }
+    },
+    {
+      "id": "p3q-ngwtmj",
+      "ch": 3,
+      "topic": "Involvement of TCWG in planning",
+      "m": 1,
+      "d": "HARD",
+      "q": "Discussing planning matters with those charged with governance:",
+      "o": [
+        "Reduces the auditor's independence",
+        "Efficiently conducts the engagement by sharing understanding — the strategy remains the auditor's alone",
+        "Transfers responsibility for the audit to them",
+        "Is prohibited by SAs"
+      ],
+      "a": 1,
+      "why": "Two-way discussion at planning is encouraged (logistics, knowledge) — but overall strategy and the audit plan remain the auditor's exclusive responsibility; discussing scope in detail may harm unpredictability, so it is general in nature.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — discuss with them; never hand them the pen Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Involvement of TCWG in planning",
+        "tip": "Collaboration on timing, independence on judgment.",
+        "link": "Chapter 3 — Audit Planning, Strategy and Execution"
+      }
+    },
+    {
+      "id": "p3q-13zluz2",
+      "ch": 3,
+      "topic": "Preliminary engagement activities",
+      "m": 1,
+      "d": "HARD",
+      "q": "Before detailed planning, the auditor undertakes activities including:",
+      "o": [
+        "Signing the representation letter",
+        "Considering acceptance/continuance, ethical requirements, and the engagement letter's terms",
+        "Performing substantive tests on revenue",
+        "Drafting the audit report"
+      ],
+      "a": 1,
+      "why": "Preliminary activities: policies for acceptance/continuance, confirming no misunderstanding with the predecessor (for changes), and the engagement letter defining scope and responsibilities — all precede the strategy.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the engagement letter is a pre-plan contract, not a post-plan formality Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Preliminary engagement activities",
+        "tip": "Contract first, then the map.",
+        "link": "Chapter 3 — Audit Planning, Strategy and Execution"
+      }
+    },
+    {
+      "id": "p3q-wyq23w",
+      "ch": 3,
+      "topic": "Engagement letter triggers",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "The engagement letter should be modified/re-issued when:",
+      "o": [
+        "The staff changes",
+        "There is a change in terms, the applicable framework, the reporting requirements, or the entity's ownership/nature significantly",
+        "The fee is paid",
+        "The client mails first"
+      ],
+      "a": 1,
+      "why": "Re-issue triggers are changes to the deal: terms, framework, legal requirements, or entity substance — not administration.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — re-paper on any change of deal AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Engagement letter triggers",
+        "tip": "Contracts age like audit files when the parties move.",
+        "link": "Chapter 3 — Audit Planning, Strategy and Execution"
+      }
+    },
+    {
+      "id": "p3q-1qqqvqj",
+      "ch": 3,
+      "topic": "Predecessor inquiry",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "The first communication with the outgoing auditor on a new appointment should:",
+      "o": [
+        "Be skipped if the client objects",
+        "Be made with the client's permission, asking about facts bearing on acceptance (including why the auditor left)",
+        "Confirm the fee",
+        "Compare opinions"
+      ],
+      "a": 1,
+      "why": "The Code requires the prospective auditor to ask the predecessor about circumstances before accepting — the client's refusal to allow it is itself an answer.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — refusal to let you ask is a loud answer AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Predecessor inquiry",
+        "tip": "The exit interview audits the entry.",
+        "link": "Chapter 3 — Audit Planning, Strategy and Execution"
+      }
+    },
+    {
+      "id": "p3q-x5exop",
+      "ch": 3,
+      "topic": "Component of audit scope",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Before detailed planning, the auditor considers the engagement's reporting framework, entity's sector and ownership. This shapes:",
+      "o": [
+        "The fee sheet",
+        "The scope, applicable reporting regime and the relevant SAs/Laws to design around",
+        "The letterhead",
+        "The client's budget"
+      ],
+      "a": 0,
+      "why": "Preliminary understanding sets the perimeter: framework (Ind AS vs AS), statutory overlays (listing regulations, sectoral law), and the acceptability of the financial reporting framework is itself a first-step consideration.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — scope before steps AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Component of audit scope",
+        "tip": "Frame the building before measuring the rooms.",
+        "link": "Chapter 3 — Audit Planning, Strategy and Execution"
+      }
+    },
+    {
+      "id": "p3q-1uluibs",
+      "ch": 3,
+      "topic": "Timetable vs cut-off design",
+      "m": 1,
+      "d": "HARD",
+      "q": "Aligning audit milestones with the client's reporting calendar is part of:",
+      "o": [
+        "Testing",
+        "The overall strategy (timing) — drives interim work, cut-off tests, and review slots",
+        "Ethics",
+        "Documentation"
+      ],
+      "a": 1,
+      "why": "Timing is a strategy component: how much at interim vs year-end, when counts and confirmations run, and the report deadline that compresses all of it — mis-designed timing becomes an evidence gap at the finish.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the calendar is an audit input Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Timetable vs cut-off design",
+        "tip": "A missed date tests the auditor, not the client.",
+        "link": "Chapter 3 — Audit Planning, Strategy and Execution"
+      }
+    }
+  ]
+}

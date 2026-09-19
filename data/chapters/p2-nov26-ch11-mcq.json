@@ -1,0 +1,241 @@
+{
+  "meta": {
+    "id": "p2-nov26-ch11-mcq",
+    "paper": "P2",
+    "attempt": "NOV-2026",
+    "kind": "chapter",
+    "category": "CHAPTER-WISE MCQs",
+    "title": "Ch 11: International Financial Management — MCQ Bank",
+    "description": "Chapter-wise practice MCQs for Chapter 11 (International Financial Management).",
+    "count": 9,
+    "mcqCount": 9,
+    "descriptiveCount": 0,
+    "coverage": "Chapter 11 · 9 MCQs",
+    "chapters": [
+      11
+    ],
+    "durationMinutes": 14,
+    "difficulty": "Exam standard",
+    "high": 1,
+    "medium": 6,
+    "low": 2
+  },
+  "questions": [
+    {
+      "id": "p2q-1yfhr49",
+      "ch": 11,
+      "topic": "Purchasing power parity",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Absolute PPP implies the exchange rate moves to offset:",
+      "o": [
+        "Interest-rate differentials",
+        "Inflation (price-level) differentials between countries",
+        "Productivity gaps",
+        "Trade tariffs"
+      ],
+      "a": 1,
+      "why": "PPP ties currency movements to relative price levels; interest-rate differentials belong to IRP; both anchor IEFM models.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the model-name-to-relationship mapping AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Purchasing power parity",
+        "tip": "PPP chases the price of bread; IRP chases the price of money.",
+        "link": "Chapter 11 — International Financial Management"
+      }
+    },
+    {
+      "id": "p2q-3mo3q6",
+      "ch": 11,
+      "topic": "FAS/CEP",
+      "m": 1,
+      "d": "HARD",
+      "q": "Foreign exchange Account for Suppliers (FAS) and Credit Enablement (CEP) schemes are:",
+      "o": [
+        "Tax schemes",
+        "Export-institutional financing mechanisms relevant to FX risk of Indian exporters",
+        "SEBI norms",
+        "RBI liquidity tools"
+      ],
+      "a": 1,
+      "why": "The new-syllabus IEFM content includes institutional mechanisms (EXIM lines of credit, FAS for importers? — students should recall exact current variants per study material); at MCQ level: FAS = pre-shipment finance instrument for importers — treat as knowledge of the framework.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — institutional-framework awareness is the new attempt's soft zone Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: FAS/CEP",
+        "tip": "Know the plumbing of Indian trade finance: who pays whom before the vessel leaves.",
+        "link": "Chapter 11 — International Financial Management"
+      }
+    },
+    {
+      "id": "p2q-1fobsek",
+      "ch": 11,
+      "topic": "IRP direction",
+      "m": 1,
+      "d": "HARD",
+      "q": "If US interest rates exceed Indian rates by 3%, covered interest parity (no arbitrage) implies the forward USD/INR premium/discount and uncovered parity's expected move are:",
+      "o": [
+        "USD at forward discount ≈ 3%; USD expected to depreciate vs INR",
+        "USD at premium; INR appreciates",
+        "No relation",
+        "INR depreciates 3% via hedging gains"
+      ],
+      "a": 0,
+      "why": "Higher-rate currency (USD) trades at a forward DISCOUNT ≈ interest differential; UIP then expects USD to depreciate ~3% against INR (INR appreciate). The traps are swapping direction and claiming 'risk-free profits' where the differential is exploitable only if CIP fails.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the direction-swaps in parity questions are the standard error AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: IRP direction",
+        "tip": "Money flows to high rates only after pricing the currency's expected fade — the forward already discounts it.",
+        "link": "Chapter 11 — International Financial Management"
+      }
+    },
+    {
+      "id": "p2q-9nhgq2",
+      "ch": 11,
+      "topic": "Triangular arbitrage",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Rates: Rs 83.00/$; $1.25/£; £1 = Rs 106.00. Starting and ending in INR, the arbitrage check gives:",
+      "o": [
+        "Nil — quotes are consistent",
+        "Profit via direct GBP buy only",
+        "Arbitrage profit ≈ 2.12% by INR→USD→GBP then selling GBP for INR",
+        "Loss of 2.12%"
+      ],
+      "a": 2,
+      "why": "Synthetic cross = 83 × 1.25 = Rs 103.75/£; market sells £ at 106 ⇒ buy £ in market? direction: convert INR→USD→GBP at 103.75, then sell GBP for INR at 106 ⇒ 2.12% gain before costs.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the cross-rate chain with direction is the IEFM computation AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Triangular arbitrage",
+        "tip": "Chain the cross-rate: INR/USD → USD/GBP vs quoted INR/GBP.",
+        "link": "Chapter 11 — International Financial Management"
+      }
+    },
+    {
+      "id": "p2q-z4hymk",
+      "ch": 11,
+      "topic": "Currency choice of loan",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "An Indian borrower can take an INR loan at 11% or a USD loan at 7% with expected INR appreciation of 3.5% p.a. against USD. The effective-cost comparison says:",
+      "o": [
+        "USD if expected annual rupee appreciation vs USD (3.5%) + USD rate 7% = 10.5% < INR rate 11%",
+        "Always home",
+        "Always hard currency",
+        "Whichever has higher rate"
+      ],
+      "a": 0,
+      "why": "Foreign-currency debt effective cost ≈ foreign rate + home-currency appreciation (3.5%) = 10.5% vs 11% — choose the LOWER; sensitivity to FX expectations is the whole risk.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — currency-of-debt expected-cost comparison is the IEFM signature AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Currency choice of loan",
+        "tip": "Borrow in the currency whose interest rate times appreciation ≈ expected payment in INR.",
+        "link": "Chapter 11 — International Financial Management"
+      }
+    },
+    {
+      "id": "p2q-1c4i5rz",
+      "ch": 11,
+      "topic": "Currency choice of loan",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "An Indian borrower can take an INR loan at 11% or a USD loan at 7% with expected INR appreciation of 4.5% p.a. against USD. The effective-cost comparison says:",
+      "o": [
+        "Always home",
+        "Always hard currency",
+        "Whichever has higher rate",
+        "USD if expected annual rupee appreciation vs USD (4.5%) + USD rate 7% = 11.5% < INR rate 11%"
+      ],
+      "a": 3,
+      "why": "Foreign-currency debt effective cost ≈ foreign rate + home-currency appreciation (4.5%) = 11.5% vs 11% — choose the LOWER; sensitivity to FX expectations is the whole risk.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — currency-of-debt expected-cost comparison is the IEFM signature AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Currency choice of loan",
+        "tip": "Borrow in the currency whose interest rate times appreciation ≈ expected payment in INR.",
+        "link": "Chapter 11 — International Financial Management"
+      }
+    },
+    {
+      "id": "p2q-f22rlk",
+      "ch": 11,
+      "topic": "PPP vs IRP",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Covered interest arbitrage requires the deviation from:",
+      "o": [
+        "Purchasing power parity only",
+        "Interest rate parity: F/S ≠ (1+rd)/(1+rf)",
+        "Fisher relation",
+        "Current account balance"
+      ],
+      "a": "1",
+      "why": "CIAR exploits interest rate parity gaps — the forward premium/discount failing to offset the interest differential (F/S ≠ covered ratio); PPP concerns spot-price levels for goods, not the hedge calculus.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — parity of money buys; parity of rates hedges Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: PPP vs IRP",
+        "tip": "PPP explains the coffee price; IRP explains the forward points.",
+        "link": "Chapter 11 — International Financial Management"
+      }
+    },
+    {
+      "id": "p2q-dcqwhw",
+      "ch": 11,
+      "topic": "Transaction exposure",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Export receivable of $1m in 90 days at ₹83, in 365-day ₹86-forecast terms. Which action manages the transaction exposure?",
+      "o": [
+        "Do nothing and hope for spot gains",
+        "Sell the $1m forward for 90-day delivery, locking the rupee value",
+        "Take a 365-day forward",
+        "Invoice in rupees next year"
+      ],
+      "a": "1",
+      "why": "Transaction exposure is the contractual-cash-in-foreign-currency gap within the deal's tenor — hedge the tenor you owe (90 days here); a 365-day hedge overlays speculation on the next year's flows, and future invoicing is a translation-irrelevant decision.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — hedge the promise, not the forecast AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Transaction exposure",
+        "tip": "Cover the check you wrote, not the bill you imagine.",
+        "link": "Chapter 11 — International Financial Management"
+      }
+    },
+    {
+      "id": "p2q-qb9rjj",
+      "ch": 11,
+      "topic": "Translation vs economic",
+      "m": 1,
+      "d": "HARD",
+      "q": "Translating a foreign subsidiary's equity under Ind AS 21 changes reported reserves; the exposure that actually matters to firm value is:",
+      "o": [
+        "Translation exposure",
+        "Economic (operating) exposure — sensitivity of cash flows to exchange rates, which need not match any accounting line",
+        "Both equal",
+        "Neither"
+      ],
+      "a": "1",
+      "why": "Translation is an accounting restatement (no cash), economic is the present-value effect of currency on future cash flows — managers hedge economics; the translation line matters for covenants and ratios, which is itself a documented management concern.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the rupee line moves the books; the cash flow moves the value Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Translation vs economic",
+        "tip": "The translation loss hits the ledger; the economic loss hits the payroll.",
+        "link": "Chapter 11 — International Financial Management"
+      }
+    }
+  ]
+}

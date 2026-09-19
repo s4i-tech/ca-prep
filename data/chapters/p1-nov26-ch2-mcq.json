@@ -1,0 +1,395 @@
+{
+  "meta": {
+    "id": "p1-nov26-ch2-mcq",
+    "paper": "P1",
+    "attempt": "NOV-2026",
+    "kind": "chapter",
+    "category": "CHAPTER-WISE MCQs",
+    "title": "Ch 2: Conceptual Framework for Financial Reporting under Ind AS — MCQ Bank",
+    "description": "Chapter-wise practice MCQs for Chapter 2 (Conceptual Framework for Financial Reporting under Ind AS).",
+    "count": 15,
+    "mcqCount": 15,
+    "descriptiveCount": 0,
+    "coverage": "Chapter 2 · 15 MCQs",
+    "chapters": [
+      2
+    ],
+    "durationMinutes": 23,
+    "difficulty": "Exam standard",
+    "high": 6,
+    "medium": 6,
+    "low": 3
+  },
+  "questions": [
+    {
+      "id": "p1q-1xzv6hi",
+      "ch": 2,
+      "topic": "Framework — four recognition decisions",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Item (a) treatment:",
+      "o": [
+        "Capitalise at 40",
+        "Do NOT recognise — internally generated brands are prohibited",
+        "Cap it at 50% of cost",
+        "Recognise with impairment test"
+      ],
+      "a": 1,
+      "why": "Ind AS 38 bars recognition of internally generated brands, mastheads and customer lists even if cost is measurable — they cannot be distinguished from the business as a whole.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — this topic stays active in ICAI question-setting Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Framework — four recognition decisions",
+        "tip": "the brand prohibition is an evergreen You can build a name; you cannot book it from inside the house.",
+        "link": "Chapter 2 — Conceptual Framework for Financial Reporting under Ind AS"
+      },
+      "stem": "Zenith Ltd faces four year-end items: (a) an internally developed brand (cost Rs 40 crore, reliably measurable); (b) litigation inflow of Rs 80 crore assessed probable but not virtually certain; (c) loyalty points redeemable for free goods (value Rs 30 crore); (d) a Rs 5 crore item immaterial alone but one of 12 identical items.",
+      "caseRef": "p1-case-6"
+    },
+    {
+      "id": "p1q-1u8hqbx",
+      "ch": 2,
+      "topic": "Framework — four recognition decisions",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Item (b) is:",
+      "o": [
+        "Recognised as a receivable now",
+        "Disclosed as contingent asset; recognised only when inflow is virtually certain",
+        "Ignored",
+        "A provision"
+      ],
+      "a": 1,
+      "why": "Contingent assets: probable ⇒ disclose; virtually certain ⇒ recognise. The asymmetry vs provisions (probable ⇒ book) is deliberate conservatism.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — this topic stays active in ICAI question-setting AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Framework — four recognition decisions",
+        "tip": "probable vs virtually-certain asymmetry is the crux Losses book early; gains knock twice before entering.",
+        "link": "Chapter 2 — Conceptual Framework for Financial Reporting under Ind AS"
+      },
+      "stem": "Zenith Ltd faces four year-end items: (a) an internally developed brand (cost Rs 40 crore, reliably measurable); (b) litigation inflow of Rs 80 crore assessed probable but not virtually certain; (c) loyalty points redeemable for free goods (value Rs 30 crore); (d) a Rs 5 crore item immaterial alone but one of 12 identical items.",
+      "caseRef": "p1-case-6"
+    },
+    {
+      "id": "p1q-1kupvwv",
+      "ch": 2,
+      "topic": "Framework — four recognition decisions",
+      "m": 2,
+      "d": "HARD",
+      "q": "Item (c): loyalty points are:",
+      "o": [
+        "Marketing expense",
+        "A material right — deferred revenue recognised on redemption/expiry",
+        "A contingent asset",
+        "Prepaid income"
+      ],
+      "a": 1,
+      "why": "Under Ind AS 115, options that give a material right not available without the contract ⇒ allocate its standalone value and defer; recognise when points are redeemed or expire.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — this topic stays active in ICAI question-setting Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Framework — four recognition decisions",
+        "tip": "material-right identification drives the answer Free future goods are sold today — deferred until used or forgotten.",
+        "link": "Chapter 2 — Conceptual Framework for Financial Reporting under Ind AS"
+      },
+      "stem": "Zenith Ltd faces four year-end items: (a) an internally developed brand (cost Rs 40 crore, reliably measurable); (b) litigation inflow of Rs 80 crore assessed probable but not virtually certain; (c) loyalty points redeemable for free goods (value Rs 30 crore); (d) a Rs 5 crore item immaterial alone but one of 12 identical items.",
+      "caseRef": "p1-case-6"
+    },
+    {
+      "id": "p1q-eatf69",
+      "ch": 2,
+      "topic": "Framework — four recognition decisions",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Item (d) shows materiality is judged:",
+      "o": [
+        "Per item only",
+        "On aggregate of similar items (12 × 5 crore = 60)",
+        "By fixed rupee limits",
+        "Only for P&L items"
+      ],
+      "a": 1,
+      "why": "Materiality is entity-specific and aggregate-based for similar items; the Framework's view, applied in every standard.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — this topic stays active in ICAI question-setting Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Framework — four recognition decisions",
+        "tip": "aggregate materiality is the framework's own note Twelve small stones can break the window — count the pile.",
+        "link": "Chapter 2 — Conceptual Framework for Financial Reporting under Ind AS"
+      },
+      "stem": "Zenith Ltd faces four year-end items: (a) an internally developed brand (cost Rs 40 crore, reliably measurable); (b) litigation inflow of Rs 80 crore assessed probable but not virtually certain; (c) loyalty points redeemable for free goods (value Rs 30 crore); (d) a Rs 5 crore item immaterial alone but one of 12 identical items.",
+      "caseRef": "p1-case-6"
+    },
+    {
+      "id": "p1q-nct2m",
+      "ch": 2,
+      "topic": "Framework — four recognition decisions",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Had (b) been merely possible (not probable), it would be:",
+      "o": [
+        "Provision",
+        "Disclose only, unless remote — then nothing",
+        "Asset",
+        "A contingent liability, never disclosed"
+      ],
+      "a": 1,
+      "why": "Possible outflow (for a gain: possible inflow) — contingent; disclosure discipline per Ind AS 37 for losses, and for gains recognition only at virtual certainty.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — this topic stays active in ICAI question-setting Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Framework — four recognition decisions",
+        "tip": "the probable/possible/remote grid in reverse dress When certainty wavers, let the note carry the weight.",
+        "link": "Chapter 2 — Conceptual Framework for Financial Reporting under Ind AS"
+      },
+      "stem": "Zenith Ltd faces four year-end items: (a) an internally developed brand (cost Rs 40 crore, reliably measurable); (b) litigation inflow of Rs 80 crore assessed probable but not virtually certain; (c) loyalty points redeemable for free goods (value Rs 30 crore); (d) a Rs 5 crore item immaterial alone but one of 12 identical items.",
+      "caseRef": "p1-case-6"
+    },
+    {
+      "id": "p1q-1q5goeh",
+      "ch": 2,
+      "topic": "Conceptual Framework",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Under the Conceptual Framework for Financial Reporting, which one is the single pervasive CONSTRAINT on useful financial reporting?",
+      "o": [
+        "Comparability",
+        "Verifiability",
+        "Materiality (relevance) and cost constraint — cost/benefit",
+        "Timeliness"
+      ],
+      "a": 2,
+      "why": "Faithful representation, comparability, verifiability, timeliness and understandability are enhancing qualitative characteristics; the framework lists the cost constraint (and materiality as entity-specific of relevance) as the pervasive constraint. Options A/B/D improve usefulness but are not constraints.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the constraint vs characteristics distinction is the most-tested single line of the Framework Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Conceptual Framework",
+        "tip": "Constraint test: the Framework has ONE pervasive constraint — cost vs benefit. Materiality is entity-specific to relevance. Sort characteristics into fundamental (relevance+faithful rep) vs enhancing (CRTU) before eliminating options.",
+        "link": "Ch 2 vs Ch 1"
+      }
+    },
+    {
+      "id": "p1q-m4bsbe",
+      "ch": 2,
+      "topic": "Conceptual Framework",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "As per the revised Conceptual Framework, which of the following is NOT a component of 'faithful representation'?",
+      "o": [
+        "Complete",
+        "Neutral",
+        "Free from error",
+        "Prudent"
+      ],
+      "a": 3,
+      "why": "Faithful representation = complete, neutral and free from error. Prudence was retained in the 2018 Conceptual Framework as an aspect of neutrality (cautious judgement), not as a separate component of faithful representation.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — framework ingredients are repeatable as 'not / except' questions Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Conceptual Framework",
+        "tip": "A faithful trio: Complete, Neutral, Error-free. Prudence lives inside neutrality now — not a fourth pillar.",
+        "link": "Ch 2"
+      }
+    },
+    {
+      "id": "p1q-na764u",
+      "ch": 2,
+      "topic": "Measurement bases",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "The Conceptual Framework identifies several measurement bases. Which combination is correctly matched?",
+      "o": [
+        "Historical cost — amount paid in cash at acquisition",
+        "Current value — only fair value qualifies",
+        "Value in use — exit price notion",
+        "Fair value — highest and best use for non-financial assets is ignored by Ind AS 113"
+      ],
+      "a": 0,
+      "why": "Historical cost is the cash/cash-equivalents paid at recognition. Current value includes fair value, value in use/fulfilment value and current cost; Ind AS 113 uses exit price and considers market participants' highest and best use for non-financial assets.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — measurement-base matching questions recur in Section B of the objective paper AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Measurement bases",
+        "tip": "Bases: HC, FC, VC, PV, VU. Fair value = EXIT price, highest-and-best-use belongs to buyer's view — never the entity's intent.",
+        "link": "Ch 2 / Ch 11"
+      }
+    },
+    {
+      "id": "p1q-1g1wg42",
+      "ch": 2,
+      "topic": "Elements definitions",
+      "m": 1,
+      "d": "HARD",
+      "q": "A liability's definition under the Conceptual Framework centres on:",
+      "o": [
+        "Present obligation arising from past events whose settlement is expected to cause an outflow",
+        "Probable outflow of 50%+",
+        "Any contractual promise",
+        "Past payment recorded"
+      ],
+      "a": 0,
+      "why": "Liability = present obligation (legal or constructive) arising from past events, settlement resulting in outflow of economic resources. 'Probable' features in recognition, not definition.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — definition-vs-recognition wording is a favourite Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Elements definitions",
+        "tip": "Definitions describe; recognition tests gate. Obligations are legal or constructive — both bite.",
+        "link": "Ch 2"
+      }
+    },
+    {
+      "id": "p1q-1ky56j9",
+      "ch": 2,
+      "topic": "Recognition of assets",
+      "m": 1,
+      "d": "HARD",
+      "q": "An item meeting the definition of an asset is recognised when:",
+      "o": [
+        "It is material and probable future economic benefits will flow AND it can be measured reliably",
+        "It is purchased",
+        "Auditor's approval",
+        "Tax paid"
+      ],
+      "a": 0,
+      "why": "Recognition criteria: probable future economic benefits + reliable measurement + definition (the Framework's recognition gate).",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — gate-test wording appears in 'all except' formats Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Recognition of assets",
+        "tip": "Three keys turn the recognition lock: definition, probability, measurement. Materiality decides whether anyone should care.",
+        "link": "Ch 2"
+      }
+    },
+    {
+      "id": "p1q-z51q75",
+      "ch": 2,
+      "topic": "Unit of account",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "The unit of account under the Framework determines:",
+      "o": [
+        "Who signs the FS",
+        "What rights and obligations are accounted for (the 'what' being recognised)",
+        "The tax year",
+        "Board's scope"
+      ],
+      "a": 1,
+      "why": "Unit of account = the right or group of rights (and corresponding obligations) on which recognition and derecognition are based — now explicit in the Framework.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the Framework's explicit additions get questions AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Unit of account",
+        "tip": "Define the unit before you measure anything: rights first, then numbers.",
+        "link": "Chapter 2 — Conceptual Framework for Financial Reporting under Ind AS"
+      }
+    },
+    {
+      "id": "p1q-186swxw",
+      "ch": 2,
+      "topic": "Income definition",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Income under the Framework increases:",
+      "o": [
+        "Liabilities only",
+        "Economic benefits — inflows/enhancements of assets or decreases of liabilities with equity effects",
+        "Expenses",
+        "Share capital only"
+      ],
+      "a": 1,
+      "why": "Income = increases in economic benefits during the period via inflows/enhancements of assets or decreases of liabilities that increase equity (other than contributions).",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — definition-assembly recognition AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Income definition",
+        "tip": "Equity climbs without shareholder money? That's income.",
+        "link": "Chapter 2 — Conceptual Framework for Financial Reporting under Ind AS"
+      }
+    },
+    {
+      "id": "p1q-5tfhkg",
+      "ch": 2,
+      "topic": "Enhancing vs fundamental",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Which is an ENHANCING (not fundamental) qualitative characteristic?",
+      "o": [
+        "Relevance",
+        "Faithful representation",
+        "Understandability",
+        "Materiality"
+      ],
+      "a": 2,
+      "why": "Fundamental = relevance + faithful representation; enhancing = comparability, verifiability, timeliness, understandability.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the four-plus-two sort AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Enhancing vs fundamental",
+        "tip": "Two pillars, four upgrades: C-V-T-U decorate the foundation, not carry the roof.",
+        "link": "Chapter 2 — Conceptual Framework for Financial Reporting under Ind AS"
+      }
+    },
+    {
+      "id": "p1q-1hhq2e9",
+      "ch": 2,
+      "topic": "Accrual basis",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Financial statements are prepared on which basis per the Framework and Ind AS 1?",
+      "o": [
+        "Cash basis",
+        "Accrual basis",
+        "Modified cash",
+        "Hybrid basis"
+      ],
+      "a": 1,
+      "why": "The Framework and Ind AS 1 require the accrual basis (except cash flows).",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — freebie definition asked fast Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Accrual basis",
+        "tip": "Only the cash-flow statement lives by the bank statement; everything else follows accrual.",
+        "link": "Chapter 2 — Conceptual Framework for Financial Reporting under Ind AS"
+      }
+    },
+    {
+      "id": "p1q-17zry4x",
+      "ch": 2,
+      "topic": "Emphasis — Framework as gap-filler",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "The new scheme positions the Conceptual Framework as the gap-filling reference. Under Ind AS 8's judgement hierarchy, the FIRST step when no specific Ind AS applies is to:",
+      "o": [
+        "Look at requirements of standards dealing with similar and related issues",
+        "Ask ICAI",
+        "Use industry practice",
+        "Consult the tax law"
+      ],
+      "a": 0,
+      "why": "Ind AS 8 ladder (unchanged rule, newly emphasised placement): (1) standards on similar issues; (2) Framework concepts (definitions, recognition, measurement); then (3) recent pronouncements/other bodies/practice — consistently applied.",
+      "trend": "Documented syllabus/amendment change — applicability from May 2026 exam onwards per ICAI BoS announcement.",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — hierarchy order is a crisp 1-marker for a new syllabus AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Emphasis — Framework as gap-filler",
+        "tip": "Climb the ladder top rung first: similar standards, then the Framework, then the neighbours.",
+        "link": "Chapter 2 — Conceptual Framework for Financial Reporting under Ind AS"
+      }
+    }
+  ]
+}

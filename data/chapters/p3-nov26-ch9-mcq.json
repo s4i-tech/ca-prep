@@ -1,0 +1,241 @@
+{
+  "meta": {
+    "id": "p3-nov26-ch9-mcq",
+    "paper": "P3",
+    "attempt": "NOV-2026",
+    "kind": "chapter",
+    "category": "CHAPTER-WISE MCQs",
+    "title": "Ch 9: Audit-Related Services — MCQ Bank",
+    "description": "Chapter-wise practice MCQs for Chapter 9 (Audit-Related Services).",
+    "count": 9,
+    "mcqCount": 9,
+    "descriptiveCount": 0,
+    "coverage": "Chapter 9 · 9 MCQs",
+    "chapters": [
+      9
+    ],
+    "durationMinutes": 14,
+    "difficulty": "Exam standard",
+    "high": 0,
+    "medium": 6,
+    "low": 3
+  },
+  "questions": [
+    {
+      "id": "p3q-1bto08z",
+      "ch": 9,
+      "topic": "Internal financial controls (IFCR)",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "When the auditor reports on internal financial controls with reference to financial statements, they:",
+      "o": [
+        "Express no separate opinion",
+        "Express a separate audit opinion on ICFR over financial reporting (with modifications as warranted) alongside the FS opinion",
+        "Give a certificate to the stock exchange",
+        "Cover only listed entities' fraud"
+      ],
+      "a": 1,
+      "why": "Under the Companies Act + framework for ICFR audit (the Indian analogue of a dual-opinion regime), the auditor's report carries a separate ICFR conclusion; an adverse ICFR conclusion goes with (or apart from) the FS opinion by its own test.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — two opinions, two standards of proof AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Internal financial controls (IFCR)",
+        "tip": "The numbers and the plumbing get separate signatures.",
+        "link": "Chapter 9 — Audit-Related Services"
+      }
+    },
+    {
+      "id": "p3q-70jwuc",
+      "ch": 9,
+      "topic": "Fraud reporting route",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Where a statutory auditor of a company reports fraud, the reporting obligation on frauds of the notified monetary threshold is to:",
+      "o": [
+        "Report to the board and wait for their judgment",
+        "Report to the Central Government in the prescribed form, without notifying the suspect/management, once satisfied an offence has occurred",
+        "File in the next audit report cycle",
+        "Report to the shareholders at the AGM"
+      ],
+      "a": 1,
+      "why": "Section 143(12) + Rules: auditors satisfying an offence involving a specified amount (5 crore or more as per notifications — check current) report to the Central Government in Form ADT-4, and must not communicate it to the (suspect) management or board in a way that defeats the purpose — the reporting-to-Audit-Committee-only practice for smaller amounts is a separate track.",
+      "trend": "Traceable to a real, publicly-notified amendment/standard (documented fact), tested in ICAI style.",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the silent-path rule: government first, not the accused AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Fraud reporting route",
+        "tip": "A whistle that must not be heard by the room it accuses.",
+        "link": "Chapter 9 — Audit-Related Services"
+      }
+    },
+    {
+      "id": "p3q-1o6qt2b",
+      "ch": 9,
+      "topic": "Dual reporting dates caution",
+      "m": 1,
+      "d": "HARD",
+      "q": "Under Indian SAs, 'dual dating' is generally:",
+      "o": [
+        "Standard practice",
+        "Not the mechanism — the report is dated after completing procedures including subsequent events; the amended-event response is re-dating or an additional report, per the situation",
+        "Mandatory",
+        "Allowed with a consent"
+      ],
+      "a": 1,
+      "why": "Indian practice leans on re-dating (or an additional report referring to the note) rather than the US-style dual date.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — know which dating regime you're answering Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Dual reporting dates caution",
+        "tip": "Sign once, or sign twice with a reason.",
+        "link": "Chapter 9 — Audit-Related Services"
+      }
+    },
+    {
+      "id": "p3q-10v059p",
+      "ch": 9,
+      "topic": "Fraud reporting — Form ADT-4 route",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "The statutory reporting chain for fraud by the auditor: reported to the Central Government in the prescribed form where the fraud involves an amount of:",
+      "o": [
+        "Any rupee",
+        "The notified threshold (Rs 5 crore and above as per the current framework; lower-value reports route to the national fraud reporting authority) — verify the operative number each attempt",
+        "All frauds by staff",
+        "Only to the board, always"
+      ],
+      "a": 1,
+      "why": "DOCUMENTED: the two-track design (government route above the notified sum; audit-committee/NFRA track for below) with the 'do not tip the suspect' mechanics is the auditable detail.",
+      "trend": "Traceable to a real, publicly-notified amendment/standard (documented fact), tested in ICAI style.",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — threshold splits the route AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Fraud reporting — Form ADT-4 route",
+        "tip": "Some reports must bypass the room they describe.",
+        "link": "Chapter 9 — Audit-Related Services"
+      }
+    },
+    {
+      "id": "p3q-13yp38u",
+      "ch": 9,
+      "topic": "Tax audit objective",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A tax audit under the Income-tax Act is principally aimed at:",
+      "o": [
+        "Computing the client's total tax liability for them",
+        "Obtaining assurance that accounts are correct and tax computed per the Act, with prescribed particulars in the audit report",
+        "Collecting tax dues",
+        "Replacing the return of income"
+      ],
+      "a": "1",
+      "why": "Documented objectives: audit for verification of books maintained under the Act and reporting prescribed particulars to aid tax computation — the audit report supplements, never supplants, the return; exact applicability thresholds move by notification — verify for the attempt year.",
+      "trend": "Traceable to a real, publicly-notified amendment/standard (documented fact), tested in ICAI style.",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the auditor certifies the frame, the taxpayer files the picture AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Tax audit objective",
+        "tip": "The tax audit hands the department a map, not the tax.",
+        "link": "Chapter 9 — Audit-Related Services"
+      }
+    },
+    {
+      "id": "p3q-13w9hh3",
+      "ch": 9,
+      "topic": "Stock audit scope",
+      "m": 1,
+      "d": "HARD",
+      "q": "In a stock audit for a bank, the auditor's core checks are:",
+      "o": [
+        "Physical count only",
+        "Existence, valuation at cost/net-realisable-value (lower), hypothecation/pledge marks, aging and drawing-power against stock statements",
+        "Insurance renewal only",
+        "Profitability of stock"
+      ],
+      "a": "1",
+      "why": "Drawing power (DP) computation from the stock statement — eligible classes, exclusions, aging over 9/12 months, and margin calls — is the working that ties the count to the credit line; misvalued stock is security erosion in disguise.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — count, value, age, margin — four beats of one song Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Stock audit scope",
+        "tip": "Stock financed by the bank answers to the bank first.",
+        "link": "Chapter 9 — Audit-Related Services"
+      }
+    },
+    {
+      "id": "p3q-1iyk54w",
+      "ch": 9,
+      "topic": "FCG transaction reporting",
+      "m": 1,
+      "d": "HARD",
+      "q": "The auditor's special responsibility on fraud in a banking company includes reporting to the principal regulator on:",
+      "o": [
+        "Any customer complaint",
+        "Suspected fraud meeting the framework's criteria — per the regulator's reporting scheme ( timelines and forms prescribed)",
+        "Related-party loans only",
+        "Staff appraisals"
+      ],
+      "a": 1,
+      "why": "Bank auditors work under a specific fraud-reporting obligation to the RBI (prescribed reporting channel for accounts above notified sums, per the framework in force), alongside the general Companies Act route — the schemes co-exist and the exam answer notes both.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — two reporting ladders, both climbed AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: FCG transaction reporting",
+        "tip": "A bank's fraud is reported twice: to the board, and to the board's board.",
+        "link": "Chapter 9 — Audit-Related Services"
+      }
+    },
+    {
+      "id": "p3q-joi0iw",
+      "ch": 9,
+      "topic": "Certificate vs audit",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "An auditor's certificate under various statutes (e.g. net-worth, stock) differs from an audit because it:",
+      "o": [
+        "Carries lower honesty standards",
+        "Certifies specific facts/positions to a defined scope — the auditor verifies the matter certified, without reporting on the underlying statements",
+        "Can be given without evidence",
+        "Needs no documentation"
+      ],
+      "a": 1,
+      "why": "CERTIFICATIONS are mini-attestations: the standard demands evidence and documentation for the certified fact; they are not mini-audits of everything, and liability follows the scope precisely — the wording of the certificate is the limit of the promise.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — a small signature is still a full standard AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Certificate vs audit",
+        "tip": "Narrow scope, full care.",
+        "link": "Chapter 9 — Audit-Related Services"
+      }
+    },
+    {
+      "id": "p3q-jia635",
+      "ch": 9,
+      "topic": "Secretarial vs financial audit",
+      "m": 1,
+      "d": "HARD",
+      "q": "Where a secretarial auditor flags non-compliance under the Companies Act, the financial auditor should:",
+      "o": [
+        "Rely fully",
+        "Assess the compliance gaps for their accounting effect (penalties as liabilities, disqualifications affecting going concern/controls) — the two audits are parallel, not substitutive",
+        "Ignore — different profession",
+        "Share one report"
+      ],
+      "a": 1,
+      "why": "Compliance failures become provisions, disclosures and going-concern facts; the financial auditor uses the output as risk information (not as audit evidence on the FS) — the seam between the two regimes is exactly where hidden liabilities settle.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — compliance is the future liability's birth certificate Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Secretarial vs financial audit",
+        "tip": "One audits the file, the other the number — the number learns from the file.",
+        "link": "Chapter 9 — Audit-Related Services"
+      }
+    }
+  ]
+}

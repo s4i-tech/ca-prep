@@ -1,0 +1,241 @@
+{
+  "meta": {
+    "id": "p3-nov26-ch2-mcq",
+    "paper": "P3",
+    "attempt": "NOV-2026",
+    "kind": "chapter",
+    "category": "CHAPTER-WISE MCQs",
+    "title": "Ch 2: General Auditing Principles and Auditors' Responsibilities — MCQ Bank",
+    "description": "Chapter-wise practice MCQs for Chapter 2 (General Auditing Principles and Auditors' Responsibilities).",
+    "count": 9,
+    "mcqCount": 9,
+    "descriptiveCount": 0,
+    "coverage": "Chapter 2 · 9 MCQs",
+    "chapters": [
+      2
+    ],
+    "durationMinutes": 14,
+    "difficulty": "Exam standard",
+    "high": 3,
+    "medium": 5,
+    "low": 1
+  },
+  "questions": [
+    {
+      "id": "p3q-1pdic6v",
+      "ch": 2,
+      "topic": "Reasonable assurance",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "An audit under SAs is designed to provide:",
+      "o": [
+        "Absolute assurance that financial statements are correct in all respects",
+        "Reasonable assurance — a high but not complete level, subject to inherent limitations",
+        "A guarantee usable by investors as insurance",
+        "Assurance limited to detected frauds only"
+      ],
+      "a": 1,
+      "why": "SA 200: reasonable assurance is a high level of assurance obtained when sufficient appropriate evidence is obtained; absolute assurance is unattainable given sampling, judgment, and the inherent limitations (fraud concealment, persuasive not conclusive evidence).",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the absolute-vs-reasonable contrast is the paper's first gate Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Reasonable assurance",
+        "tip": "Audit says 'sufficiently sure', never 'certain'.",
+        "link": "Chapter 2 — General Auditing Principles and Auditors' Responsibilities"
+      }
+    },
+    {
+      "id": "p3q-192l5cw",
+      "ch": 2,
+      "topic": "Inherent limitations",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Which of these is an INHERENT limitation on an audit's ability to detect misstatement?",
+      "o": [
+        "Time pressure agreed with the client",
+        "Management concealing fraud through collusion and forged documents",
+        "The auditor not sampling enough items",
+        "Using outdated software"
+      ],
+      "a": 1,
+      "why": "Inherent limitations are built into the audit process: sampling, judgment, persuasive evidence, and fraud concealment (collusion, forgery) — they are excuses in principle; inadequate planning or staff is not, those are audit quality failures.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the list names limitations that are NOT excuses — staff cuts are failures, not limitations Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Inherent limitations",
+        "tip": "No standard makes 'we were rushed' an inherent limitation.",
+        "link": "Chapter 2 — General Auditing Principles and Auditors' Responsibilities"
+      }
+    },
+    {
+      "id": "p3q-iiwwud",
+      "ch": 2,
+      "topic": "Compliance with all relevant SAs",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "An auditor represents compliance with Standards on Auditing only if:",
+      "o": [
+        "They followed the reporting SA carefully",
+        "They complied with ALL SAs relevant to the audit, not selected ones",
+        "Most major SAs were followed",
+        "The firm's internal manual was followed"
+      ],
+      "a": 1,
+      "why": "SA 200 is explicit: compliance with only some SAs does not represent compliance — and SAs do not override legal requirements; where law is more restrictive, both are complied with.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — one-of-many answers never represent compliance AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Compliance with all relevant SAs",
+        "tip": "Standards are a floor, and a floor covers the whole room.",
+        "link": "Chapter 2 — General Auditing Principles and Auditors' Responsibilities"
+      }
+    },
+    {
+      "id": "p3q-199iwi4",
+      "ch": 2,
+      "topic": "Professional scepticism",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Professional scepticism in an audit most directly requires the auditor to:",
+      "o": [
+        "Assume management is dishonest",
+        "Critically assess evidence and be alert to contradictions and reliability questions",
+        "Sign off faster where trust exists",
+        "Rely on prior-year comfort where controls are unchanged"
+      ],
+      "a": 1,
+      "why": "Scepticism = a questioning mind, alertness to evidence that contradicts or casts doubt, and reliability of documents/representations — it neither presumes dishonesty nor unquestioned trust.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the presumption trap on both sides is the whole question Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Professional scepticism",
+        "tip": "Trust nothing blindly — including last year's trust.",
+        "link": "Chapter 2 — General Auditing Principles and Auditors' Responsibilities"
+      }
+    },
+    {
+      "id": "p3q-fjmwev",
+      "ch": 2,
+      "topic": "Objectivity definition",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Objectivity in the Code of Ethics requires the member to:",
+      "o": [
+        "Never trust clients",
+        "Not subordinate judgment to others' feelings, prejudices, or conflict of interest",
+        "Sign everything management prepares",
+        "Avoid all non-audit services"
+      ],
+      "a": 1,
+      "why": "Objectivity = impartiality, integrity of judgment, freedom from conflicts that bias professional conclusions.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the phrase 'not subordinate to others' is the definition AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Objectivity definition",
+        "tip": "The judgment is yours before it is priced.",
+        "link": "Chapter 2 — General Auditing Principles and Auditors' Responsibilities"
+      }
+    },
+    {
+      "id": "p3q-1cpp1n0",
+      "ch": 2,
+      "topic": "Scepticism in practice",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Professional scepticism is best evidenced in the file by:",
+      "o": [
+        "Ticking the same tests as last year",
+        "Documented challenge of contradictory evidence, testing of management explanations, and corroboration of important assertions",
+        "Refusing to speak to management",
+        "Reporting every query to the board"
+      ],
+      "a": 1,
+      "why": "Scepticism is procedural: contradiction chased, explanations corroborated, prior-year comfort re-tested where changed.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — file it or it didn't happen AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Scepticism in practice",
+        "tip": "Doubt with receipts.",
+        "link": "Chapter 2 — General Auditing Principles and Auditors' Responsibilities"
+      }
+    },
+    {
+      "id": "p3q-1or05hn",
+      "ch": 2,
+      "topic": "Rights and obligations assertion",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "The assertion that the entity HOLDS or CONTROLS rights to an asset is:",
+      "o": [
+        "Existence",
+        "Rights and obligations",
+        "Valuation",
+        "Presentation"
+      ],
+      "a": 1,
+      "why": "Assertions: existence (there is an asset), rights/obligations (it's the client's), completeness (all are recorded), valuation/allocation, presentation/disclosure — leases and hypothecated stock live and die by the rights assertion.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — five assertions, tested in pairs AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Rights and obligations assertion",
+        "tip": "A booked asset may be the bank's; only one assertion finds that out.",
+        "link": "Chapter 2 — General Auditing Principles and Auditors' Responsibilities"
+      }
+    },
+    {
+      "id": "p3q-jsngo",
+      "ch": 2,
+      "topic": "Audit vs accounting responsibility",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Who is responsible for the preparation and fair presentation of financial statements?",
+      "o": [
+        "The statutory auditor",
+        "Management (with oversight by those charged with governance)",
+        "ICAI",
+        "The audit firm's partner"
+      ],
+      "a": 1,
+      "why": "The division of responsibilities paragraph of every engagement letter: management prepares under the framework, TCWG oversee, the auditor opines — an auditor cannot audit the statements into existence by working on them.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — auditor = checker, never author AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Audit vs accounting responsibility",
+        "tip": "You can't referee your own goal and call it independence.",
+        "link": "Chapter 2 — General Auditing Principles and Auditors' Responsibilities"
+      }
+    },
+    {
+      "id": "p3q-1fruls7",
+      "ch": 2,
+      "topic": "Management vs governance roles",
+      "m": 1,
+      "d": "HARD",
+      "q": "'Those charged with governance' in an audit context typically means:",
+      "o": [
+        "The accounts team",
+        "The person(s) responsible for directing the entity and strategic obligations — board, audit committee",
+        "The shareholders' forum",
+        "Statutory auditors"
+      ],
+      "a": 1,
+      "why": "TCWG = the oversight layer (board/audit committee); the distinction matters for communications (independence, deficiencies, fraud), and for governance bodies that also manage, communication with those NOT charged with management is the safe channel.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — who watches the watchers Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Management vs governance roles",
+        "tip": "TCWG is the board's watch duty; management is its engine.",
+        "link": "Chapter 2 — General Auditing Principles and Auditors' Responsibilities"
+      }
+    }
+  ]
+}

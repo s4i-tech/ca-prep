@@ -1,0 +1,361 @@
+{
+  "meta": {
+    "id": "p2-nov26-ch14-mcq",
+    "paper": "P2",
+    "attempt": "NOV-2026",
+    "kind": "chapter",
+    "category": "CHAPTER-WISE MCQs",
+    "title": "Ch 14: Mergers, Acquisitions and Corporate Restructuring — MCQ Bank",
+    "description": "Chapter-wise practice MCQs for Chapter 14 (Mergers, Acquisitions and Corporate Restructuring).",
+    "count": 14,
+    "mcqCount": 14,
+    "descriptiveCount": 0,
+    "coverage": "Chapter 14 · 14 MCQs",
+    "chapters": [
+      14
+    ],
+    "durationMinutes": 21,
+    "difficulty": "Exam standard",
+    "high": 4,
+    "medium": 7,
+    "low": 3
+  },
+  "questions": [
+    {
+      "id": "p2q-d9ht7s",
+      "ch": 14,
+      "topic": "Merger — exchange ratio",
+      "m": 1,
+      "d": "HARD",
+      "q": "Acquirer EPS Rs 20, target EPS Rs 8; target shareholders demand 1.5:1 exchange ratio. In the combined entity, the ratio is:",
+      "o": [
+        "1 share per 1.5 target shares",
+        "1 acquirer share per 0.6 target share",
+        "Fixed at parity",
+        "Cash only"
+      ],
+      "a": 0,
+      "why": "A 1.5:1 ratio = 1.5 acquirer shares for each target share; the inverse (0.67) would be per acquirer share — the inversion is the trap; value ratio 1.5×20 = 30 vs target EPS 8 (P/E paid 3.75).",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — ratio-direction inversion traps recur Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Merger — exchange ratio",
+        "tip": "Read which way the fraction points: shares per share or share per shares.",
+        "link": "Chapter 14 — Mergers, Acquisitions and Corporate Restructuring"
+      }
+    },
+    {
+      "id": "p2q-1wgufgv",
+      "ch": 14,
+      "topic": "Synergy timing",
+      "m": 1,
+      "d": "HARD",
+      "q": "If merger synergies materialise only after 3 years (delayed), the acquirer should value them by:",
+      "o": [
+        "Adding to year-1 cash flows and discounting 1 year",
+        "Discounting to year 0 through years 1-3 at project risk, with a haircut for realisation",
+        "At face value in goodwill",
+        "Ignoring"
+      ],
+      "a": 1,
+      "why": "Realisation lag must be honoured: discount the full delay; assign higher risk (or probability weight) to promised synergies — the discount rate for synergies often above acquirer's cost of capital.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the delayed-synergy discounting is the trap variant AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Synergy timing",
+        "tip": "A promise kept in year 4 is worth a year-4 number — discount it to today, and doubt it.",
+        "link": "Chapter 14 — Mergers, Acquisitions and Corporate Restructuring"
+      }
+    },
+    {
+      "id": "p2q-16tgb5z",
+      "ch": 14,
+      "topic": "Earn-out",
+      "m": 1,
+      "d": "HARD",
+      "q": "An earn-out clause in an acquisition:",
+      "o": [
+        "Pays a fixed premium",
+        "Defers part of consideration contingent on future performance",
+        "Is a loan",
+        "Never used for startups"
+      ],
+      "a": 1,
+      "why": "Contingent consideration for performance/valuation gaps — shifts risk to sellers, addresses information asymmetry; Ind AS 103 measures at FV if liability-classified.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — structure-vocabulary for M&A deals Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Earn-out",
+        "tip": "If you disagree about the future, pay for it when it arrives.",
+        "link": "Chapter 14 — Mergers, Acquisitions and Corporate Restructuring"
+      }
+    },
+    {
+      "id": "p2q-1851wve",
+      "ch": 14,
+      "topic": "Poison pill",
+      "m": 1,
+      "d": "HARD",
+      "q": "A shareholder rights plan (poison pill) deters:",
+      "o": [
+        "White knights",
+        "Hostile takeover by diluting the acquirer's stake if triggered",
+        "Dividend cuts",
+        "Ratings downgrades"
+      ],
+      "a": 1,
+      "why": "Rights plan lets non-acquirer shareholders buy cheaply upon trigger — dilutes a creeping hostile bidder.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — defence-vocabulary recognition Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Poison pill",
+        "tip": "Make the raider's own army buy shares over his head.",
+        "link": "Chapter 14 — Mergers, Acquisitions and Corporate Restructuring"
+      }
+    },
+    {
+      "id": "p2q-3ds7kp",
+      "ch": 14,
+      "topic": "Cash merger — accretion factors",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "In an all-cash acquisition funded by debt, EPS accretion depends chiefly on:",
+      "o": [
+        "Acquirer's cash balance only",
+        "After-tax cost of debt vs target's P/E (earnings yield) comparison",
+        "Deal announcement",
+        "Board size"
+      ],
+      "a": 1,
+      "why": "Cash deal accretive if earnings yield of target (1/PE) > after-tax interest cost of the funding; the inverse → dilutive — the only real test in a cash deal.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the yield-vs-cost comparison is the entire cash-deal arithmetic AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Cash merger — accretion factors",
+        "tip": "Buy earnings cheaper than your money costs, and every EPS grows.",
+        "link": "Chapter 14 — Mergers, Acquisitions and Corporate Restructuring"
+      }
+    },
+    {
+      "id": "p2q-o9zrzo",
+      "ch": 14,
+      "topic": "Synergy split",
+      "m": 1,
+      "d": "HARD",
+      "q": "Target's standalone value Rs 2,000 crore; synergy Rs 400 crore; acquirer pays Rs 2,300 crore. Premium to the acquirer's shareholders' wealth:",
+      "o": [
+        "+100 −200? The target captures 300 of 400 synergy; acquirer shareholders' NPV = 400 − 300 = +100 crore",
+        "Gain 400",
+        "Loss 300",
+        "Gain 0"
+      ],
+      "a": 0,
+      "why": "Acquirer NPV = synergy − premium (2,300 − 2,000 = 300) = +100. The 'who captures the synergy' arithmetic — premium over target's standalone, not the offer size.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the split-of-pie calculation defines bid discipline AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Synergy split",
+        "tip": "Pay for the synergy you create minus what the auction makes you pay — the rest is the deal's worth.",
+        "link": "Chapter 14 — Mergers, Acquisitions and Corporate Restructuring"
+      }
+    },
+    {
+      "id": "p2q-hqab4v",
+      "ch": 14,
+      "topic": "Cash-deal accretion",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Target trades at P/E 5x; the cash comes from debt at 8% pre-tax (tax 25%). In the earnings-yield vs funding-cost test the deal is:",
+      "o": [
+        "Always accretive",
+        "Cannot judge without P/E of acquirer",
+        "Yield 20.0% > after-tax debt 6.0% ⇒ accretive",
+        "Always dilutive"
+      ],
+      "a": 2,
+      "why": "Target earnings yield = 1/5 = 20.0%; funding cost after tax = 6.0%; yield above cost ⇒ accretion (ignoring synergies).",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the yield-vs-cost test is the entire cash-merger MCQ genre Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Cash-deal accretion",
+        "tip": "Accretive if target earnings yield > after-tax cost of cash.",
+        "link": "Chapter 14 — Mergers, Acquisitions and Corporate Restructuring"
+      }
+    },
+    {
+      "id": "p2q-e1emug",
+      "ch": 14,
+      "topic": "Cash-deal accretion",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Target trades at P/E 4x; the cash comes from debt at 8% pre-tax (tax 25%). In the earnings-yield vs funding-cost test the deal is:",
+      "o": [
+        "Always accretive",
+        "Yield 25.0% > after-tax debt 6.0% ⇒ accretive",
+        "Cannot judge without P/E of acquirer",
+        "Always dilutive"
+      ],
+      "a": 1,
+      "why": "Target earnings yield = 1/4 = 25.0%; funding cost after tax = 6.0%; yield above cost ⇒ accretion (ignoring synergies).",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the yield-vs-cost test is the entire cash-merger MCQ genre Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Cash-deal accretion",
+        "tip": "Accretive if target earnings yield > after-tax cost of cash.",
+        "link": "Chapter 14 — Mergers, Acquisitions and Corporate Restructuring"
+      }
+    },
+    {
+      "id": "p2q-on9uz",
+      "ch": 14,
+      "topic": "Exchange ratio & parity",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Target market price Rs 50; a 25% premium is agreed; acquirer at Rs 80. The share-exchange ratio offered:",
+      "o": [
+        "1.28 (inverted)",
+        "1.56",
+        "0.78 acquirer shares per target share",
+        "0.5 fixed"
+      ],
+      "a": 2,
+      "why": "Offer value = 50 × 1.50? 62.5 ⇒ ÷ 80 = 0.78 per target share — always 'shares of acquirer per share of target'.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the ratio direction with the inversion trap is guaranteed to appear AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Exchange ratio & parity",
+        "tip": "ER = (target price × (1+premium)) ÷ acquirer price.",
+        "link": "Chapter 14 — Mergers, Acquisitions and Corporate Restructuring"
+      }
+    },
+    {
+      "id": "p2q-1l97r9i",
+      "ch": 14,
+      "topic": "Exchange ratio & parity",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Target market price Rs 50; a 20% premium is agreed; acquirer at Rs 80. The share-exchange ratio offered:",
+      "o": [
+        "1.33 (inverted)",
+        "0.75 acquirer shares per target share",
+        "1.50",
+        "0.5 fixed"
+      ],
+      "a": 1,
+      "why": "Offer value = 50 × 1.00? 60.0 ⇒ ÷ 80 = 0.75 per target share — always 'shares of acquirer per share of target'.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the ratio direction with the inversion trap is guaranteed to appear AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Exchange ratio & parity",
+        "tip": "ER = (target price × (1+premium)) ÷ acquirer price.",
+        "link": "Chapter 14 — Mergers, Acquisitions and Corporate Restructuring"
+      }
+    },
+    {
+      "id": "p2q-1ea4xw8",
+      "ch": 14,
+      "topic": "Synergy arithmetic",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Target worth 600 standalone; synergy value 150; acquirer pays 700. The acquisition's net value creation to the ACQUIRER's shareholders is:",
+      "o": [
+        "150",
+        "50 (negative 50)",
+        "−50",
+        "−150"
+      ],
+      "a": "2",
+      "why": "Value to acquirer = synergy − premium paid = 150 − (700−600) = 50 to target holders? Careful: total pie grows 150; target keeps 100 as premium; acquirer nets +50 only if synergies are fully realised — the classic point: price discipline decides who gets the synergy.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the premium line is the acquirer's bid for the synergy; win = synergy left after premium Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Synergy arithmetic",
+        "tip": "Synergy is the pie that grows; the premium decides who eats it.",
+        "link": "Chapter 14 — Mergers, Acquisitions and Corporate Restructuring"
+      }
+    },
+    {
+      "id": "p2q-xcysyb",
+      "ch": 14,
+      "topic": "Open offer trigger",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Under SEBI SAST (as amended across notifications), acquiring shares/voting rights crossing 25% (or creeping beyond the permitted threshold) requires:",
+      "o": [
+        "Board permission only",
+        "A public open offer to acquire 26% of the target's voting rights from all shareholders at a regulated price",
+        "RBI approval",
+        "Nothing if paid in cash"
+      ],
+      "a": "1",
+      "why": "DOCUMENTED regime: crossing the acquisition threshold triggers a mandatory open offer sized to give everyone an exit at a price derived from the deal/ market benchmarks per the regulations — verify current threshold percentages and pricing formula against the notification in force for the attempt year.",
+      "trend": "Traceable to a real, publicly-notified amendment/standard (documented fact), tested in ICAI style.",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — creeping in past the gate = open the door for all AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Open offer trigger",
+        "tip": "Sneak past 25% and the whole street gets the invitation.",
+        "link": "Chapter 14 — Mergers, Acquisitions and Corporate Restructuring"
+      }
+    },
+    {
+      "id": "p2q-1p09k69",
+      "ch": 14,
+      "topic": "Merger vs amalgamation (tax)",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "For tax benefits under sec 72A-type conditions on amalgamation (verify current Income-tax Act thresholds), the classic tests include:",
+      "o": [
+        "Any restructuring qualifies",
+        "Amalgamating company's shareholders holding 25%+ voting control continuing 3 years; assets/liabilities of the transferor carried over",
+        "Both listed",
+        "Court order alone"
+      ],
+      "a": "1",
+      "why": "The scheme's accounting (Ind AS/AS pooling-of-interests) and tax definitions are independent — exam answers must state both books' tests separately; the pooling-of-interests accounting conditions (AS-14 / Schedule III practice) differ from the Income-tax conditions, and both need 'verify current law' flagging where percentages move.",
+      "trend": "Traceable to a real, publicly-notified amendment/standard (documented fact), tested in ICAI style.",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — accounting tests and tax tests are twins, never identical AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Merger vs amalgamation (tax)",
+        "tip": "One merger, three rulebooks: corporate law, accounting, tax.",
+        "link": "Chapter 14 — Mergers, Acquisitions and Corporate Restructuring"
+      }
+    },
+    {
+      "id": "p2q-cnr3ks",
+      "ch": 14,
+      "topic": "Waterfall of a distressed sale",
+      "m": 1,
+      "d": "HARD",
+      "q": "In a stressed-asset sale/winding-up, the correct payment order is:",
+      "o": [
+        "Shareholders → secured → unsecured → workmen",
+        "Workmen' and secured creditors' claims as per the governing insolvency statute, then other claims per the priority ladder of that statute — verify current IBC waterfall order",
+        "Unsecured first",
+        "Promoters last after all creditors, always"
+      ],
+      "a": "1",
+      "why": "The IBC (and its amendments and case law have shifted the exact ordering of workmen/taxes vs secured in some tranches) has a statutory waterfall; answer with the statute's ladder and cite that recent amendments have refined it — never recite a 'natural' order.",
+      "trend": "Traceable to a real, publicly-notified amendment/standard (documented fact), tested in ICAI style.",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the statute holds the ladder; case law sometimes re-rungs it Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Waterfall of a distressed sale",
+        "tip": "Who eats first in an insolvency is written in law, not in sympathy.",
+        "link": "Chapter 14 — Mergers, Acquisitions and Corporate Restructuring"
+      }
+    }
+  ]
+}

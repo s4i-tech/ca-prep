@@ -1,0 +1,1043 @@
+{
+  "meta": {
+    "id": "p1-nov26-ch15-mcq",
+    "paper": "P1",
+    "attempt": "NOV-2026",
+    "kind": "chapter",
+    "category": "CHAPTER-WISE MCQs",
+    "title": "Ch 15: Analysis of Financial Statements — MCQ Bank",
+    "description": "Chapter-wise practice MCQs for Chapter 15 (Analysis of Financial Statements).",
+    "count": 42,
+    "mcqCount": 42,
+    "descriptiveCount": 0,
+    "coverage": "Chapter 15 · 42 MCQs",
+    "chapters": [
+      15
+    ],
+    "durationMinutes": 63,
+    "difficulty": "Exam standard",
+    "high": 2,
+    "medium": 32,
+    "low": 8
+  },
+  "questions": [
+    {
+      "id": "p1q-fvc34m",
+      "ch": 15,
+      "topic": "FVOCI debt & cash-flow geography",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "The Rs 20 crore FV rise on held bonds is shown:",
+      "o": [
+        "In P&L",
+        "In OCI (with EIR interest of 35 in P&L)",
+        "Against cost",
+        "Ignored — FVOCI is not remeasured"
+      ],
+      "a": 1,
+      "why": "Debt at FVOCI carries dual books: amortised cost drives interest/impairment in P&L; the difference to fair value sits in OCI.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — this topic stays active in ICAI question-setting AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: FVOCI debt & cash-flow geography",
+        "tip": "debt-at-FVOCI lives double EIR in P&L, swing in OCI — one bond, two ledgers.",
+        "link": "Chapter 15 — Analysis of Financial Statements"
+      },
+      "stem": "Meridian Ltd (year end 31 March) holds govt bonds measured at FVOCI (hold-to-collect-and-sell): face Rs 500 crore, coupon 7% bought at par. At year end their FV is Rs 520 crore. During the year Meridian also sold earlier-recognized FVOCI bonds whose cumulative OCI gain was Rs 12 crore, and the 12-month ECL allowance on remaining debt rose by Rs 5 crore. Interest was received on 31 March.",
+      "caseRef": "p1-case-7"
+    },
+    {
+      "id": "p1q-2dswn",
+      "ch": 15,
+      "topic": "FVOCI debt & cash-flow geography",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "On selling the other bonds, the Rs 12 crore OCI gain is:",
+      "o": [
+        "Left in equity forever",
+        "Recycled to P&L as a reclassification adjustment",
+        "Charged against share capital",
+        "Ignored"
+      ],
+      "a": 1,
+      "why": "Debt FVOCI recycling on derecognition; equity FVOCI election would not recycle — the distinction the case hunts.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — this topic stays active in ICAI question-setting Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: FVOCI debt & cash-flow geography",
+        "tip": "recycle-for-debt, no-recycle-for-equity Debt's OCI has a return ticket; the equity election burns the passport.",
+        "link": "Chapter 15 — Analysis of Financial Statements"
+      },
+      "stem": "Meridian Ltd (year end 31 March) holds govt bonds measured at FVOCI (hold-to-collect-and-sell): face Rs 500 crore, coupon 7% bought at par. At year end their FV is Rs 520 crore. During the year Meridian also sold earlier-recognized FVOCI bonds whose cumulative OCI gain was Rs 12 crore, and the 12-month ECL allowance on remaining debt rose by Rs 5 crore. Interest was received on 31 March.",
+      "caseRef": "p1-case-7"
+    },
+    {
+      "id": "p1q-1hdwfs3",
+      "ch": 15,
+      "topic": "FVOCI debt & cash-flow geography",
+      "m": 2,
+      "d": "HARD",
+      "q": "The Rs 5 crore ECL increase is presented as:",
+      "o": [
+        "Reducing the FVOCI carrying amount",
+        "P&L impairment loss; cumulative allowance in OCI — B/S carrying stays at FV",
+        "Write-off",
+        "Reclassification to amortised cost"
+      ],
+      "a": 1,
+      "why": "For FVOCI debt, the loss allowance is recognised in OCI (reducing the accumulated OCI amount) while the asset's balance-sheet carrying remains at FV; P&L takes the charge.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — this topic stays active in ICAI question-setting Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: FVOCI debt & cash-flow geography",
+        "tip": "the B/S-needs-no-help nuance Already at fair value — so impairment books expense and OCI, and the asset shrugs.",
+        "link": "Chapter 15 — Analysis of Financial Statements"
+      },
+      "stem": "Meridian Ltd (year end 31 March) holds govt bonds measured at FVOCI (hold-to-collect-and-sell): face Rs 500 crore, coupon 7% bought at par. At year end their FV is Rs 520 crore. During the year Meridian also sold earlier-recognized FVOCI bonds whose cumulative OCI gain was Rs 12 crore, and the 12-month ECL allowance on remaining debt rose by Rs 5 crore. Interest was received on 31 March.",
+      "caseRef": "p1-case-7"
+    },
+    {
+      "id": "p1q-ubn5in",
+      "ch": 15,
+      "topic": "FVOCI debt & cash-flow geography",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Interest received Rs 35 crore can appear under Ind AS 7 as:",
+      "o": [
+        "Financing",
+        "Operating or investing (policy)",
+        "Not disclosed",
+        "Subsidy"
+      ],
+      "a": 1,
+      "why": "Ind AS 7 permits interest received in operating or investing — consistency required.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — this topic stays active in ICAI question-setting Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: FVOCI debt & cash-flow geography",
+        "tip": "the allowed-slot questions Interest in can be O or I — one policy, every year.",
+        "link": "Chapter 15 — Analysis of Financial Statements"
+      },
+      "stem": "Meridian Ltd (year end 31 March) holds govt bonds measured at FVOCI (hold-to-collect-and-sell): face Rs 500 crore, coupon 7% bought at par. At year end their FV is Rs 520 crore. During the year Meridian also sold earlier-recognized FVOCI bonds whose cumulative OCI gain was Rs 12 crore, and the 12-month ECL allowance on remaining debt rose by Rs 5 crore. Interest was received on 31 March.",
+      "caseRef": "p1-case-7"
+    },
+    {
+      "id": "p1q-12iu4hr",
+      "ch": 15,
+      "topic": "FVOCI debt & cash-flow geography",
+      "m": 2,
+      "d": "HARD",
+      "q": "Total comprehensive income (P&L Rs 180 crore incl. the 12 recycled and ECL 5; OCI +20) equals:",
+      "o": [
+        "200",
+        "192",
+        "180",
+        "188"
+      ],
+      "a": 0,
+      "why": "TCI = 180 + 20 = 200; the reclassification of 12 from OCI to P&L moves between components but does not change the TCI total (the OCI component for the year nets −12 against +20 ⇒ 200 still).",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — this topic stays active in ICAI question-setting Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: FVOCI debt & cash-flow geography",
+        "tip": "TCI = the only place OCI and P&L kiss Recycling shuffles the drawers; the cupboard total is unchanged.",
+        "link": "Chapter 15 — Analysis of Financial Statements"
+      },
+      "stem": "Meridian Ltd (year end 31 March) holds govt bonds measured at FVOCI (hold-to-collect-and-sell): face Rs 500 crore, coupon 7% bought at par. At year end their FV is Rs 520 crore. During the year Meridian also sold earlier-recognized FVOCI bonds whose cumulative OCI gain was Rs 12 crore, and the 12-month ECL allowance on remaining debt rose by Rs 5 crore. Interest was received on 31 March.",
+      "caseRef": "p1-case-7"
+    },
+    {
+      "id": "p1q-17kzoqs",
+      "ch": 15,
+      "topic": "Cash flow — Ind AS 7",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Interest paid may be classified under Ind AS 7 in operating or financing activities, whereas dividends PAID are:",
+      "o": [
+        "Always operating",
+        "Financing or operating, consistently applied",
+        "Always investing",
+        "Mandatory in financing"
+      ],
+      "a": 1,
+      "why": "Ind AS 7 permits interest paid as operating/financing and dividends paid as financing/operating provided consistent classification. (Dividends RECEIVED: investing or operating.)",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the 'permitted alternatives' set is a favourite 'except' target AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Cash flow — Ind AS 7",
+        "tip": "Four flows, two slots each: int paid O/F; div paid F/O; div received O/I; int received O/I. Consistency beats theory.",
+        "link": "Ch 3"
+      }
+    },
+    {
+      "id": "p1q-1d3d3fd",
+      "ch": 15,
+      "topic": "Ratio & analysis",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A company's quick (acid-test) ratio differs from the current ratio mainly because quick ratio excludes:",
+      "o": [
+        "Cash",
+        "Inventory and prepaid expenses",
+        "Receivables",
+        "Marketable securities"
+      ],
+      "a": 1,
+      "why": "Quick assets = current assets less inventories and usually prepaids; the current ratio counts them.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — definition-level exclusions appear in the analysis chapter as 1-markers AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ratio & analysis",
+        "tip": "Acid-test = cash + receivables + listed securities; the warehouse (inventory) and prepaids stay outside.",
+        "link": "Ch 15"
+      }
+    },
+    {
+      "id": "p1q-10p1yb0",
+      "ch": 15,
+      "topic": "Financial analysis traps",
+      "m": 1,
+      "d": "HARD",
+      "q": "Operating cycle is measured as the time between:",
+      "o": [
+        "Purchase of raw material to cash collection from sales",
+        "Incorporation to year-end",
+        "Payment to suppliers and receipt from customers",
+        "Purchase to inventory destruction"
+      ],
+      "a": 0,
+      "why": "Operating cycle = inventory days + receivables days; cash conversion = operating cycle less payables days.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — definition freebies in analysis Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Financial analysis traps",
+        "tip": "Inventory in → cash out of collection = operating cycle; subtract payables' grace for cash conversion.",
+        "link": "Ch 15"
+      }
+    },
+    {
+      "id": "p1q-1lvqcp6",
+      "ch": 15,
+      "topic": "Ind AS 7 — direct vs indirect",
+      "m": 1,
+      "d": "HARD",
+      "q": "Under the direct method of Ind AS 7, the operating cash flows are shown as:",
+      "o": [
+        "Net profit adjusted for non-cash items",
+        "Gross cash receipts from customers and payments to suppliers/employees",
+        "Budgeted flows",
+        "Accrual revenue less accrual costs"
+      ],
+      "a": 1,
+      "why": "Direct method presents major classes of gross receipts/payments; indirect method starts from profit and reconciles. Both target the same operating total.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — method-comparison quickie Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Ind AS 7 — direct vs indirect",
+        "tip": "Direct = bank-statement view; indirect = P&L-to-cash reconciliation. Only investing/financing stay gross-gross on both? — same figures, different tour.",
+        "link": "Ch 15"
+      }
+    },
+    {
+      "id": "p1q-1j9wwbt",
+      "ch": 15,
+      "topic": "Ind AS 7 — foreign cash",
+      "m": 1,
+      "d": "HARD",
+      "q": "Cash held in foreign currency is reported in the cash flow statement at:",
+      "o": [
+        "Historical exchange rates from the date of incorporation",
+        "The exchange rates at the dates of the cash flows (Ind AS 21 rates on those dates)",
+        "Closing rate always",
+        "Average annual rate only"
+      ],
+      "a": 1,
+      "why": "Ind AS 7: foreign currency cash flows are reported at the exchange rate at the dates of the cash flows; the entity's foreign cash balances at closing rate.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the rate-date pairing tests exact recall Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Ind AS 7 — foreign cash",
+        "tip": "Flows wear their own day's rate; balances wear year-end's. Never borrow the other's coat.",
+        "link": "Ch 15"
+      }
+    },
+    {
+      "id": "p1q-ckts7g",
+      "ch": 15,
+      "topic": "Analysis — leverage",
+      "m": 1,
+      "d": "HARD",
+      "q": "High operating leverage with unchanged sales, when EBIT falls, EPS falls:",
+      "o": [
+        "Proportionately the same",
+        "By a larger proportion due to fixed operating costs",
+        "By a smaller proportion",
+        "Not at all"
+      ],
+      "a": 1,
+      "why": "Combined leverage (DOL×DFL) magnifies EPS moves; with fixed costs and fixed finance, an EBIT fall hits EPS harder than proportionally.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — leverage-layering logic questions Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Analysis — leverage",
+        "tip": "Fixed at the top and bottom? The middle (EPS) feels every tremor double.",
+        "link": "Ch 15"
+      }
+    },
+    {
+      "id": "p1q-elkygp",
+      "ch": 15,
+      "topic": "Liquidity measures",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Working capital equals:",
+      "o": [
+        "Current assets − current liabilities",
+        "Current assets ÷ current liabilities",
+        "Inventory + cash",
+        "Equity + reserves"
+      ],
+      "a": 0,
+      "why": "WC = CA − CL; the RATIO version is CA/CL — one subtraction, one division.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — definition pair separation AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Liquidity measures",
+        "tip": "Working capital is a balance in rupees; the current ratio is the same idea as a fraction.",
+        "link": "Chapter 15 — Analysis of Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-qu5arg",
+      "ch": 15,
+      "topic": "Cash conversion cycle",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Cash conversion cycle = inventory days + receivables days − ?",
+      "o": [
+        "Payables days",
+        "Operating days",
+        "Financing days",
+        "Tax days"
+      ],
+      "a": 0,
+      "why": "CCC = DIO + DSO − DPO; the longer the payables delay, the shorter the cash gap.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — formula-signs questions AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Cash conversion cycle",
+        "tip": "Buy slowly, sell fast: the payables line is the only minus sign.",
+        "link": "Chapter 15 — Analysis of Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-rhmi94",
+      "ch": 15,
+      "topic": "Covenant ratios",
+      "m": 1,
+      "d": "HARD",
+      "q": "Which ratio most directly measures long-term solvency?",
+      "o": [
+        "Debt-equity ratio",
+        "Current ratio",
+        "Inventory turnover",
+        "Receivables days"
+      ],
+      "a": 0,
+      "why": "Long-term solvency: D/E, interest coverage, proprietary ratio; current and turnover metrics are short-term/efficiency.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — ratio-classification sorting Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Covenant ratios",
+        "tip": "Structure ratios look at the mountain (capital), not the ripples (working days).",
+        "link": "Chapter 15 — Analysis of Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-d2kt2q",
+      "ch": 15,
+      "topic": "Cash equivalents — exceptions",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Which is NOT a cash equivalent?",
+      "o": [
+        "3-month T-bills held to maturity",
+        "Equity investments with no maturity",
+        "Bank overdrafts repayable on demand (as negative cash)",
+        "Demand-deposit balances"
+      ],
+      "a": 1,
+      "why": "Equity investments are excluded (no determinable maturity, variable value) — overdrafts are deducted from cash for cash-flow purposes where repayable on demand.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — exception-lists are cash-flow gold AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Cash equivalents — exceptions",
+        "tip": "Cash equivalents need a short fuse — equity has no expiry date at all.",
+        "link": "Chapter 15 — Analysis of Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1uicpnq",
+      "ch": 15,
+      "topic": "Analysis — quality",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "High accruals relative to operating cash flows generally signal:",
+      "o": [
+        "Lower earnings quality",
+        "Higher earnings quality",
+        "Nothing",
+        "Better liquidity"
+      ],
+      "a": 0,
+      "why": "Aggressive accrual accounting vs cash-backed earnings: the gap flags quality risk (a core analytical ratio idea in the new syllabus).",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — accruals-vs-cash heuristic AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Analysis — quality",
+        "tip": "Profit is opinion, cash is fact — diverge and question the opinion.",
+        "link": "Chapter 15 — Analysis of Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-5ga7fz",
+      "ch": 15,
+      "topic": "Cash flow — disposal of subsidiary",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Proceeds from disposal of a subsidiary are presented in cash flows under:",
+      "o": [
+        "Operating",
+        "Investing (net of cash sold)",
+        "Financing",
+        "Non-cash"
+      ],
+      "a": 1,
+      "why": "Disposal proceeds: investing (net of cash and equivalents disposed); disclose as a single amount.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the net-of-cash rule AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Cash flow — disposal of subsidiary",
+        "tip": "When the sub leaves with its cash, only the net cheque is investing.",
+        "link": "Chapter 15 — Analysis of Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1gljl1x",
+      "ch": 15,
+      "topic": "New syllabus — integrated reporting / six capitals",
+      "m": 1,
+      "d": "HARD",
+      "q": "The Analysis of Financial Statements chapter under the new scheme expects familiarity with broader value-creation reporting. The six capitals of the <IR> framework comprise:",
+      "o": [
+        "Cash, gold, FX, equity, debt, tax",
+        "Financial, manufactured, intellectual, human, social and relationship, natural",
+        "Only balance-sheet assets",
+        "Six reserves"
+      ],
+      "a": 1,
+      "why": "Syllabus addition/emphasis: integrated-thinking concepts (six capitals, value-creation story) sit in the new scheme's analysis/reporting awareness — a theory MCQ zone, not an Ind AS amendment.",
+      "trend": "Documented syllabus/amendment change — applicability from May 2026 exam onwards per ICAI BoS announcement.",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — new vocabulary in new attempts is cheap 1-mark bait Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: New syllabus — integrated reporting / six capitals",
+        "tip": "Capitals count beyond cash: the firm's whole battery, from people to topsoil.",
+        "link": "Chapter 15 — Analysis of Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1372fy7",
+      "ch": 15,
+      "topic": "Cash flows — indirect",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Profit before tax 300; depreciation 90; gain on sale of PPE 30; receivables up 50; inventory up 23; payables up 26 (all Rs lakh). Operating cash flow (indirect method):",
+      "o": [
+        "Rs 313 lakh",
+        "Rs 407 lakh (sign-flipped WC)",
+        "Rs 373 lakh (gain not removed)",
+        "Rs 300 lakh"
+      ],
+      "a": 0,
+      "why": "PBT + 90 − gain 30 − DR 50 − Inv 23 + AP 26 = Rs 313 lakh. Investing gain is stripped (its proceeds live in investing).",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — indirect-method assembly with three WC moves is a standard quickie AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Cash flows — indirect",
+        "tip": "Indirect method: PBT + non-cash charges − non-operating gains; working-capital moves per sign.",
+        "link": "Chapter 15 — Analysis of Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1ik4gkf",
+      "ch": 15,
+      "topic": "Cash flows — indirect",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Profit before tax 400; depreciation 120; gain on sale of PPE 40; receivables up 25; inventory up 13; payables up 36 (all Rs lakh). Operating cash flow (indirect method):",
+      "o": [
+        "Rs 482 lakh (sign-flipped WC)",
+        "Rs 558 lakh (gain not removed)",
+        "Rs 478 lakh",
+        "Rs 400 lakh"
+      ],
+      "a": 2,
+      "why": "PBT + 120 − gain 40 − DR 25 − Inv 13 + AP 36 = Rs 478 lakh. Investing gain is stripped (its proceeds live in investing).",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — indirect-method assembly with three WC moves is a standard quickie AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Cash flows — indirect",
+        "tip": "Indirect method: PBT + non-cash charges − non-operating gains; working-capital moves per sign.",
+        "link": "Chapter 15 — Analysis of Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-nb1inu",
+      "ch": 15,
+      "topic": "Cash flows — indirect",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Profit before tax 300; depreciation 90; gain on sale of PPE 30; receivables up 40; inventory up 13; payables up 32 (all Rs lakh). Operating cash flow (indirect method):",
+      "o": [
+        "Rs 381 lakh (sign-flipped WC)",
+        "Rs 399 lakh (gain not removed)",
+        "Rs 300 lakh",
+        "Rs 339 lakh"
+      ],
+      "a": 3,
+      "why": "PBT + 90 − gain 30 − DR 40 − Inv 13 + AP 32 = Rs 339 lakh. Investing gain is stripped (its proceeds live in investing).",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — indirect-method assembly with three WC moves is a standard quickie AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Cash flows — indirect",
+        "tip": "Indirect method: PBT + non-cash charges − non-operating gains; working-capital moves per sign.",
+        "link": "Chapter 15 — Analysis of Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1wr6ytr",
+      "ch": 15,
+      "topic": "Cash flows — indirect",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Profit before tax 400; depreciation 120; gain on sale of PPE 40; receivables up 43; inventory up 29; payables up 26 (all Rs lakh). Operating cash flow (indirect method):",
+      "o": [
+        "Rs 526 lakh (sign-flipped WC)",
+        "Rs 514 lakh (gain not removed)",
+        "Rs 400 lakh",
+        "Rs 434 lakh"
+      ],
+      "a": 3,
+      "why": "PBT + 120 − gain 40 − DR 43 − Inv 29 + AP 26 = Rs 434 lakh. Investing gain is stripped (its proceeds live in investing).",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — indirect-method assembly with three WC moves is a standard quickie AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Cash flows — indirect",
+        "tip": "Indirect method: PBT + non-cash charges − non-operating gains; working-capital moves per sign.",
+        "link": "Chapter 15 — Analysis of Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-nraahg",
+      "ch": 15,
+      "topic": "Cash flows — indirect",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Profit before tax 300; depreciation 90; gain on sale of PPE 30; receivables up 28; inventory up 12; payables up 42 (all Rs lakh). Operating cash flow (indirect method):",
+      "o": [
+        "Rs 358 lakh (sign-flipped WC)",
+        "Rs 362 lakh",
+        "Rs 422 lakh (gain not removed)",
+        "Rs 300 lakh"
+      ],
+      "a": 1,
+      "why": "PBT + 90 − gain 30 − DR 28 − Inv 12 + AP 42 = Rs 362 lakh. Investing gain is stripped (its proceeds live in investing).",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — indirect-method assembly with three WC moves is a standard quickie AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Cash flows — indirect",
+        "tip": "Indirect method: PBT + non-cash charges − non-operating gains; working-capital moves per sign.",
+        "link": "Chapter 15 — Analysis of Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-u93zbu",
+      "ch": 15,
+      "topic": "Cash flows — indirect",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Profit before tax 400; depreciation 120; gain on sale of PPE 40; receivables up 36; inventory up 17; payables up 26 (all Rs lakh). Operating cash flow (indirect method):",
+      "o": [
+        "Rs 507 lakh (sign-flipped WC)",
+        "Rs 453 lakh",
+        "Rs 533 lakh (gain not removed)",
+        "Rs 400 lakh"
+      ],
+      "a": 1,
+      "why": "PBT + 120 − gain 40 − DR 36 − Inv 17 + AP 26 = Rs 453 lakh. Investing gain is stripped (its proceeds live in investing).",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — indirect-method assembly with three WC moves is a standard quickie AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Cash flows — indirect",
+        "tip": "Indirect method: PBT + non-cash charges − non-operating gains; working-capital moves per sign.",
+        "link": "Chapter 15 — Analysis of Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1ahzk6l",
+      "ch": 15,
+      "topic": "Cash flows — indirect",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Profit before tax 400; depreciation 120; gain on sale of PPE 40; receivables up 33; inventory up 14; payables up 34 (all Rs lakh). Operating cash flow (indirect method):",
+      "o": [
+        "Rs 493 lakh (sign-flipped WC)",
+        "Rs 547 lakh (gain not removed)",
+        "Rs 467 lakh",
+        "Rs 400 lakh"
+      ],
+      "a": 2,
+      "why": "PBT + 120 − gain 40 − DR 33 − Inv 14 + AP 34 = Rs 467 lakh. Investing gain is stripped (its proceeds live in investing).",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — indirect-method assembly with three WC moves is a standard quickie AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Cash flows — indirect",
+        "tip": "Indirect method: PBT + non-cash charges − non-operating gains; working-capital moves per sign.",
+        "link": "Chapter 15 — Analysis of Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1gdy9zs",
+      "ch": 15,
+      "topic": "Cash flows — indirect",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Profit before tax 300; depreciation 90; gain on sale of PPE 30; receivables up 48; inventory up 20; payables up 32 (all Rs lakh). Operating cash flow (indirect method):",
+      "o": [
+        "Rs 396 lakh (sign-flipped WC)",
+        "Rs 324 lakh",
+        "Rs 384 lakh (gain not removed)",
+        "Rs 300 lakh"
+      ],
+      "a": 1,
+      "why": "PBT + 90 − gain 30 − DR 48 − Inv 20 + AP 32 = Rs 324 lakh. Investing gain is stripped (its proceeds live in investing).",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — indirect-method assembly with three WC moves is a standard quickie AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Cash flows — indirect",
+        "tip": "Indirect method: PBT + non-cash charges − non-operating gains; working-capital moves per sign.",
+        "link": "Chapter 15 — Analysis of Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1c778nr",
+      "ch": 15,
+      "topic": "Cash flows — indirect",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Profit before tax 400; depreciation 120; gain on sale of PPE 40; receivables up 24; inventory up 30; payables up 23 (all Rs lakh). Operating cash flow (indirect method):",
+      "o": [
+        "Rs 511 lakh (sign-flipped WC)",
+        "Rs 529 lakh (gain not removed)",
+        "Rs 400 lakh",
+        "Rs 449 lakh"
+      ],
+      "a": 3,
+      "why": "PBT + 120 − gain 40 − DR 24 − Inv 30 + AP 23 = Rs 449 lakh. Investing gain is stripped (its proceeds live in investing).",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — indirect-method assembly with three WC moves is a standard quickie AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Cash flows — indirect",
+        "tip": "Indirect method: PBT + non-cash charges − non-operating gains; working-capital moves per sign.",
+        "link": "Chapter 15 — Analysis of Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-10adevk",
+      "ch": 15,
+      "topic": "Cash flows — indirect",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Profit before tax 400; depreciation 120; gain on sale of PPE 40; receivables up 47; inventory up 14; payables up 45 (all Rs lakh). Operating cash flow (indirect method):",
+      "o": [
+        "Rs 496 lakh (sign-flipped WC)",
+        "Rs 544 lakh (gain not removed)",
+        "Rs 464 lakh",
+        "Rs 400 lakh"
+      ],
+      "a": 2,
+      "why": "PBT + 120 − gain 40 − DR 47 − Inv 14 + AP 45 = Rs 464 lakh. Investing gain is stripped (its proceeds live in investing).",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — indirect-method assembly with three WC moves is a standard quickie AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Cash flows — indirect",
+        "tip": "Indirect method: PBT + non-cash charges − non-operating gains; working-capital moves per sign.",
+        "link": "Chapter 15 — Analysis of Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1yidxb2",
+      "ch": 15,
+      "topic": "Cash flows — indirect",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Profit before tax 400; depreciation 120; gain on sale of PPE 40; receivables up 33; inventory up 27; payables up 33 (all Rs lakh). Operating cash flow (indirect method):",
+      "o": [
+        "Rs 507 lakh (sign-flipped WC)",
+        "Rs 533 lakh (gain not removed)",
+        "Rs 453 lakh",
+        "Rs 400 lakh"
+      ],
+      "a": 2,
+      "why": "PBT + 120 − gain 40 − DR 33 − Inv 27 + AP 33 = Rs 453 lakh. Investing gain is stripped (its proceeds live in investing).",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — indirect-method assembly with three WC moves is a standard quickie AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Cash flows — indirect",
+        "tip": "Indirect method: PBT + non-cash charges − non-operating gains; working-capital moves per sign.",
+        "link": "Chapter 15 — Analysis of Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-ii0bxs",
+      "ch": 15,
+      "topic": "Cash flows — indirect",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Profit before tax 300; depreciation 90; gain on sale of PPE 30; receivables up 43; inventory up 23; payables up 30 (all Rs lakh). Operating cash flow (indirect method):",
+      "o": [
+        "Rs 396 lakh (sign-flipped WC)",
+        "Rs 324 lakh",
+        "Rs 384 lakh (gain not removed)",
+        "Rs 300 lakh"
+      ],
+      "a": 1,
+      "why": "PBT + 90 − gain 30 − DR 43 − Inv 23 + AP 30 = Rs 324 lakh. Investing gain is stripped (its proceeds live in investing).",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — indirect-method assembly with three WC moves is a standard quickie AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Cash flows — indirect",
+        "tip": "Indirect method: PBT + non-cash charges − non-operating gains; working-capital moves per sign.",
+        "link": "Chapter 15 — Analysis of Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1fkjy5t",
+      "ch": 15,
+      "topic": "Ind AS 21 — monetary items",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Meridian Ltd recorded an import payable of USD 100,000 at Rs 83/USD (Rs 7 lakh) on 1 January; at year end the rate is Rs 84/USD. The Ind AS 21 treatment is (amounts per Rs 7 lakh base):",
+      "o": [
+        "Exchange gain of Rs 0.07 crore to P&L",
+        "Nil — importers are not exposed to exchange risk",
+        "Exchange loss of Rs 0.07 crore to P&L (payable restated at Rs 84/USD)",
+        "OCI as a foreign currency translation reserve"
+      ],
+      "a": 2,
+      "why": "Foreign-currency MONETARY items are retranslated at the closing rate. The rupee weakens from 83 to 84 so the payable rises by Rs 7.0 lakh — an exchange LOSS in P&L (a receivable would give a gain). P&L recognition — OCI translation applies to foreign OPERATIONS, not to individual monetary items.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — monetary-vs-non-monetary retranslation with sign direction is evergreen AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 21 — monetary items",
+        "tip": "Monetary foreign-currency items at closing rate; exchange differences to P&L (net investment/qualifying hedge exceptions aside).",
+        "link": "Chapter 15 — Analysis of Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1n3vo9a",
+      "ch": 15,
+      "topic": "Ind AS 21 — monetary items",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Vertex Ltd recorded an import payable of USD 100,000 at Rs 83/USD (Rs 5 lakh) on 1 January; at year end the rate is Rs 84/USD. The Ind AS 21 treatment is (amounts per Rs 5 lakh base):",
+      "o": [
+        "Exchange gain of Rs 0.05 crore to P&L",
+        "Exchange loss of Rs 0.05 crore to P&L (payable restated at Rs 84/USD)",
+        "Nil — importers are not exposed to exchange risk",
+        "OCI as a foreign currency translation reserve"
+      ],
+      "a": 1,
+      "why": "Foreign-currency MONETARY items are retranslated at the closing rate. The rupee weakens from 83 to 84 so the payable rises by Rs 5.0 lakh — an exchange LOSS in P&L (a receivable would give a gain). P&L recognition — OCI translation applies to foreign OPERATIONS, not to individual monetary items.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — monetary-vs-non-monetary retranslation with sign direction is evergreen AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 21 — monetary items",
+        "tip": "Monetary foreign-currency items at closing rate; exchange differences to P&L (net investment/qualifying hedge exceptions aside).",
+        "link": "Chapter 15 — Analysis of Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-9vcaeu",
+      "ch": 15,
+      "topic": "Ind AS 21 — monetary items",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Nimbus Ltd recorded an import payable of USD 100,000 at Rs 83/USD (Rs 7 lakh) on 1 January; at year end the rate is Rs 84/USD. The Ind AS 21 treatment is (amounts per Rs 7 lakh base):",
+      "o": [
+        "Exchange loss of Rs 0.07 crore to P&L (payable restated at Rs 84/USD)",
+        "Exchange gain of Rs 0.07 crore to P&L",
+        "Nil — importers are not exposed to exchange risk",
+        "OCI as a foreign currency translation reserve"
+      ],
+      "a": 0,
+      "why": "Foreign-currency MONETARY items are retranslated at the closing rate. The rupee weakens from 83 to 84 so the payable rises by Rs 7.0 lakh — an exchange LOSS in P&L (a receivable would give a gain). P&L recognition — OCI translation applies to foreign OPERATIONS, not to individual monetary items.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — monetary-vs-non-monetary retranslation with sign direction is evergreen AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 21 — monetary items",
+        "tip": "Monetary foreign-currency items at closing rate; exchange differences to P&L (net investment/qualifying hedge exceptions aside).",
+        "link": "Chapter 15 — Analysis of Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-i7d5bi",
+      "ch": 15,
+      "topic": "Ind AS 21 — monetary items",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Indus Fab Ltd recorded an import payable of USD 100,000 at Rs 83/USD (Rs 9 lakh) on 1 January; at year end the rate is Rs 84/USD. The Ind AS 21 treatment is (amounts per Rs 9 lakh base):",
+      "o": [
+        "Exchange gain of Rs 0.09 crore to P&L",
+        "Nil — importers are not exposed to exchange risk",
+        "Exchange loss of Rs 0.09 crore to P&L (payable restated at Rs 84/USD)",
+        "OCI as a foreign currency translation reserve"
+      ],
+      "a": 2,
+      "why": "Foreign-currency MONETARY items are retranslated at the closing rate. The rupee weakens from 83 to 84 so the payable rises by Rs 9.0 lakh — an exchange LOSS in P&L (a receivable would give a gain). P&L recognition — OCI translation applies to foreign OPERATIONS, not to individual monetary items.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — monetary-vs-non-monetary retranslation with sign direction is evergreen AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 21 — monetary items",
+        "tip": "Monetary foreign-currency items at closing rate; exchange differences to P&L (net investment/qualifying hedge exceptions aside).",
+        "link": "Chapter 15 — Analysis of Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-13za5lp",
+      "ch": 15,
+      "topic": "Ind AS 21 — monetary items",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Cobalt Ltd recorded an import payable of USD 100,000 at Rs 83/USD (Rs 6 lakh) on 1 January; at year end the rate is Rs 84/USD. The Ind AS 21 treatment is (amounts per Rs 6 lakh base):",
+      "o": [
+        "Exchange gain of Rs 0.06 crore to P&L",
+        "Nil — importers are not exposed to exchange risk",
+        "OCI as a foreign currency translation reserve",
+        "Exchange loss of Rs 0.06 crore to P&L (payable restated at Rs 84/USD)"
+      ],
+      "a": 3,
+      "why": "Foreign-currency MONETARY items are retranslated at the closing rate. The rupee weakens from 83 to 84 so the payable rises by Rs 6.0 lakh — an exchange LOSS in P&L (a receivable would give a gain). P&L recognition — OCI translation applies to foreign OPERATIONS, not to individual monetary items.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — monetary-vs-non-monetary retranslation with sign direction is evergreen AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 21 — monetary items",
+        "tip": "Monetary foreign-currency items at closing rate; exchange differences to P&L (net investment/qualifying hedge exceptions aside).",
+        "link": "Chapter 15 — Analysis of Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-iil685",
+      "ch": 15,
+      "topic": "Ind AS 21 — monetary items",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Marlin Ltd recorded an import payable of USD 100,000 at Rs 83/USD (Rs 7 lakh) on 1 January; at year end the rate is Rs 84/USD. The Ind AS 21 treatment is (amounts per Rs 7 lakh base):",
+      "o": [
+        "Exchange gain of Rs 0.07 crore to P&L",
+        "Nil — importers are not exposed to exchange risk",
+        "Exchange loss of Rs 0.07 crore to P&L (payable restated at Rs 84/USD)",
+        "OCI as a foreign currency translation reserve"
+      ],
+      "a": 2,
+      "why": "Foreign-currency MONETARY items are retranslated at the closing rate. The rupee weakens from 83 to 84 so the payable rises by Rs 7.0 lakh — an exchange LOSS in P&L (a receivable would give a gain). P&L recognition — OCI translation applies to foreign OPERATIONS, not to individual monetary items.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — monetary-vs-non-monetary retranslation with sign direction is evergreen AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 21 — monetary items",
+        "tip": "Monetary foreign-currency items at closing rate; exchange differences to P&L (net investment/qualifying hedge exceptions aside).",
+        "link": "Chapter 15 — Analysis of Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-16m7xkw",
+      "ch": 15,
+      "topic": "Ind AS 21 — monetary items",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Kaveri Ltd recorded an import payable of USD 100,000 at Rs 83/USD (Rs 5 lakh) on 1 January; at year end the rate is Rs 84/USD. The Ind AS 21 treatment is (amounts per Rs 5 lakh base):",
+      "o": [
+        "Exchange gain of Rs 0.05 crore to P&L",
+        "Nil — importers are not exposed to exchange risk",
+        "OCI as a foreign currency translation reserve",
+        "Exchange loss of Rs 0.05 crore to P&L (payable restated at Rs 84/USD)"
+      ],
+      "a": 3,
+      "why": "Foreign-currency MONETARY items are retranslated at the closing rate. The rupee weakens from 83 to 84 so the payable rises by Rs 5.0 lakh — an exchange LOSS in P&L (a receivable would give a gain). P&L recognition — OCI translation applies to foreign OPERATIONS, not to individual monetary items.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — monetary-vs-non-monetary retranslation with sign direction is evergreen AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 21 — monetary items",
+        "tip": "Monetary foreign-currency items at closing rate; exchange differences to P&L (net investment/qualifying hedge exceptions aside).",
+        "link": "Chapter 15 — Analysis of Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1b6t97a",
+      "ch": 15,
+      "topic": "Ind AS 21 — monetary items",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Orbit Ltd recorded an import payable of USD 100,000 at Rs 83/USD (Rs 5 lakh) on 1 January; at year end the rate is Rs 84/USD. The Ind AS 21 treatment is (amounts per Rs 5 lakh base):",
+      "o": [
+        "Exchange gain of Rs 0.05 crore to P&L",
+        "Nil — importers are not exposed to exchange risk",
+        "Exchange loss of Rs 0.05 crore to P&L (payable restated at Rs 84/USD)",
+        "OCI as a foreign currency translation reserve"
+      ],
+      "a": 2,
+      "why": "Foreign-currency MONETARY items are retranslated at the closing rate. The rupee weakens from 83 to 84 so the payable rises by Rs 5.0 lakh — an exchange LOSS in P&L (a receivable would give a gain). P&L recognition — OCI translation applies to foreign OPERATIONS, not to individual monetary items.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — monetary-vs-non-monetary retranslation with sign direction is evergreen AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 21 — monetary items",
+        "tip": "Monetary foreign-currency items at closing rate; exchange differences to P&L (net investment/qualifying hedge exceptions aside).",
+        "link": "Chapter 15 — Analysis of Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1jxavco",
+      "ch": 15,
+      "topic": "Ind AS 21 — monetary items",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Kaveri Ltd recorded an import payable of USD 100,000 at Rs 83/USD (Rs 9 lakh) on 1 January; at year end the rate is Rs 84/USD. The Ind AS 21 treatment is (amounts per Rs 9 lakh base):",
+      "o": [
+        "Exchange loss of Rs 0.09 crore to P&L (payable restated at Rs 84/USD)",
+        "Exchange gain of Rs 0.09 crore to P&L",
+        "Nil — importers are not exposed to exchange risk",
+        "OCI as a foreign currency translation reserve"
+      ],
+      "a": 0,
+      "why": "Foreign-currency MONETARY items are retranslated at the closing rate. The rupee weakens from 83 to 84 so the payable rises by Rs 9.0 lakh — an exchange LOSS in P&L (a receivable would give a gain). P&L recognition — OCI translation applies to foreign OPERATIONS, not to individual monetary items.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — monetary-vs-non-monetary retranslation with sign direction is evergreen AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 21 — monetary items",
+        "tip": "Monetary foreign-currency items at closing rate; exchange differences to P&L (net investment/qualifying hedge exceptions aside).",
+        "link": "Chapter 15 — Analysis of Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-te69fh",
+      "ch": 15,
+      "topic": "Ind AS 21 — monetary items",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Sable Ltd recorded an import payable of USD 100,000 at Rs 83/USD (Rs 7 lakh) on 1 January; at year end the rate is Rs 84/USD. The Ind AS 21 treatment is (amounts per Rs 7 lakh base):",
+      "o": [
+        "Exchange gain of Rs 0.07 crore to P&L",
+        "Nil — importers are not exposed to exchange risk",
+        "Exchange loss of Rs 0.07 crore to P&L (payable restated at Rs 84/USD)",
+        "OCI as a foreign currency translation reserve"
+      ],
+      "a": 2,
+      "why": "Foreign-currency MONETARY items are retranslated at the closing rate. The rupee weakens from 83 to 84 so the payable rises by Rs 7.0 lakh — an exchange LOSS in P&L (a receivable would give a gain). P&L recognition — OCI translation applies to foreign OPERATIONS, not to individual monetary items.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — monetary-vs-non-monetary retranslation with sign direction is evergreen AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 21 — monetary items",
+        "tip": "Monetary foreign-currency items at closing rate; exchange differences to P&L (net investment/qualifying hedge exceptions aside).",
+        "link": "Chapter 15 — Analysis of Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-17scszm",
+      "ch": 15,
+      "topic": "Ind AS 21 — monetary items",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Orbit Ltd recorded an import payable of USD 100,000 at Rs 83/USD (Rs 8 lakh) on 1 January; at year end the rate is Rs 84/USD. The Ind AS 21 treatment is (amounts per Rs 8 lakh base):",
+      "o": [
+        "Exchange gain of Rs 0.08 crore to P&L",
+        "Nil — importers are not exposed to exchange risk",
+        "OCI as a foreign currency translation reserve",
+        "Exchange loss of Rs 0.08 crore to P&L (payable restated at Rs 84/USD)"
+      ],
+      "a": 3,
+      "why": "Foreign-currency MONETARY items are retranslated at the closing rate. The rupee weakens from 83 to 84 so the payable rises by Rs 8.0 lakh — an exchange LOSS in P&L (a receivable would give a gain). P&L recognition — OCI translation applies to foreign OPERATIONS, not to individual monetary items.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — monetary-vs-non-monetary retranslation with sign direction is evergreen AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 21 — monetary items",
+        "tip": "Monetary foreign-currency items at closing rate; exchange differences to P&L (net investment/qualifying hedge exceptions aside).",
+        "link": "Chapter 15 — Analysis of Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-socdoy",
+      "ch": 15,
+      "topic": "Ind AS 21 — monetary items",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Nimbus Ltd recorded an import payable of USD 100,000 at Rs 83/USD (Rs 6 lakh) on 1 January; at year end the rate is Rs 84/USD. The Ind AS 21 treatment is (amounts per Rs 6 lakh base):",
+      "o": [
+        "Exchange gain of Rs 0.06 crore to P&L",
+        "Nil — importers are not exposed to exchange risk",
+        "Exchange loss of Rs 0.06 crore to P&L (payable restated at Rs 84/USD)",
+        "OCI as a foreign currency translation reserve"
+      ],
+      "a": 2,
+      "why": "Foreign-currency MONETARY items are retranslated at the closing rate. The rupee weakens from 83 to 84 so the payable rises by Rs 6.0 lakh — an exchange LOSS in P&L (a receivable would give a gain). P&L recognition — OCI translation applies to foreign OPERATIONS, not to individual monetary items.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — monetary-vs-non-monetary retranslation with sign direction is evergreen AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 21 — monetary items",
+        "tip": "Monetary foreign-currency items at closing rate; exchange differences to P&L (net investment/qualifying hedge exceptions aside).",
+        "link": "Chapter 15 — Analysis of Financial Statements"
+      }
+    }
+  ]
+}
