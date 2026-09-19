@@ -1,0 +1,659 @@
+{
+  "meta": {
+    "id": "p2-nov26-ch9-mcq",
+    "paper": "P2",
+    "attempt": "NOV-2026",
+    "kind": "chapter",
+    "category": "CHAPTER-WISE MCQs",
+    "title": "Ch 9: Derivatives Analysis and Valuation — MCQ Bank",
+    "description": "Chapter-wise practice MCQs for Chapter 9 (Derivatives Analysis and Valuation).",
+    "count": 26,
+    "mcqCount": 26,
+    "descriptiveCount": 0,
+    "coverage": "Chapter 9 · 26 MCQs",
+    "chapters": [
+      9
+    ],
+    "durationMinutes": 39,
+    "difficulty": "Exam standard",
+    "high": 10,
+    "medium": 10,
+    "low": 6
+  },
+  "questions": [
+    {
+      "id": "p2q-6x5hiw",
+      "ch": 9,
+      "topic": "Derivatives desk — position book",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Futures contracts to short (ignoring basis drift):",
+      "o": [
+        "3,612",
+        "3,284",
+        "3,666",
+        "4,062"
+      ],
+      "a": 0,
+      "why": "β-weighted exposure = 1.1×500 Cr = 550 Cr; contract value = 20,300×75 = Rs 15.225 lakh; N = 550×10^7 / 15.225×10^5 ≈ 3,612. Forgetting β gives 3,284; using spot 20,000 gives 3,666 Forgetting beta or the futures basis produces the other counts.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — this topic stays active in ICAI question-setting AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Derivatives desk — position book",
+        "tip": "Hedge sizing: beta first, then divide Size the hedge by the risked value, never the sticker value — 550, not 500.",
+        "link": "Chapter 9 — Derivatives Analysis and Valuation"
+      },
+      "stem": "A fund holds Rs 500 crore of an equity index portfolio (β 1.1) and fears a short-term dip; index future lot 75 units at index 20,000; 3-month futures 20,300. Alternatives: buy index puts at strike 19,800 (premium 340 index pts) or sell index calls at 20,600 receiving 180 pts. The desk decides to collar.",
+      "caseRef": "p2-case-1"
+    },
+    {
+      "id": "p2q-1mv7g5w",
+      "ch": 9,
+      "topic": "Derivatives desk — position book",
+      "m": 2,
+      "d": "HARD",
+      "q": "Selling index futures changes the portfolio's value with a 1% index fall (index drops, futures gain):",
+      "o": [
+        "~Flat: futures profit offsets the β-weighted loss",
+        "Exactly −11%",
+        "+1% profit",
+        "Effect only on dividends"
+      ],
+      "a": 0,
+      "why": "A β-matched short futures position gains ≈ what the portfolio loses (5.5 Cr each on a 1% fall), leaving basis and tail risk — the fall is insured and the upside surrendered.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — this topic stays active in ICAI question-setting Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Derivatives desk — position book",
+        "tip": "Hedged ≠ riskless — basis remains A short hedge mops the floor while blocking the view of the sunshine.",
+        "link": "Chapter 9 — Derivatives Analysis and Valuation"
+      },
+      "stem": "A fund holds Rs 500 crore of an equity index portfolio (β 1.1) and fears a short-term dip; index future lot 75 units at index 20,000; 3-month futures 20,300. Alternatives: buy index puts at strike 19,800 (premium 340 index pts) or sell index calls at 20,600 receiving 180 pts. The desk decides to collar.",
+      "caseRef": "p2-case-1"
+    },
+    {
+      "id": "p2q-5h51rh",
+      "ch": 9,
+      "topic": "Derivatives desk — position book",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Buying puts (strike 19,800; premium 340) caps the downside floor at:",
+      "o": [
+        "Index 19,460 net of premium",
+        "Index 19,800 + 340",
+        "19,800 only",
+        "Spot at entry − 340"
+      ],
+      "a": 0,
+      "why": "Net floor = strike − premium = 19,800 − 340 = 19,460 index points; below the put strike the payoff mirrors the decline; above, full participation minus premium.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — this topic stays active in ICAI question-setting Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Derivatives desk — position book",
+        "tip": "The net-floor arithmetic is the whole question Insurance pays from the deductible: your floor is strike minus premium.",
+        "link": "Chapter 9 — Derivatives Analysis and Valuation"
+      },
+      "stem": "A fund holds Rs 500 crore of an equity index portfolio (β 1.1) and fears a short-term dip; index future lot 75 units at index 20,000; 3-month futures 20,300. Alternatives: buy index puts at strike 19,800 (premium 340 index pts) or sell index calls at 20,600 receiving 180 pts. The desk decides to collar.",
+      "caseRef": "p2-case-1"
+    },
+    {
+      "id": "p2q-xn1ts3",
+      "ch": 9,
+      "topic": "Derivatives desk — position book",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "The collar's cost and bands: put 340 out, call 180 in ⇒",
+      "o": [
+        "Net 160 pts cost; floor 19,800, cap 20,600",
+        "Free collar at 19,800/20,600",
+        "Net 520 receive",
+        "Cap only"
+      ],
+      "a": 0,
+      "why": "Net premium = 340 − 180 = 160 pts; payoff band between the strikes; the short call's cap surrenders index moves beyond 20,600 — trading upside for cheap protection.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — this topic stays active in ICAI question-setting AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Derivatives desk — position book",
+        "tip": "Collar = band + net premium A collar borrows from the ceiling to pay for the floor: cheap, and it pins the room's height.",
+        "link": "Chapter 9 — Derivatives Analysis and Valuation"
+      },
+      "stem": "A fund holds Rs 500 crore of an equity index portfolio (β 1.1) and fears a short-term dip; index future lot 75 units at index 20,000; 3-month futures 20,300. Alternatives: buy index puts at strike 19,800 (premium 340 index pts) or sell index calls at 20,600 receiving 180 pts. The desk decides to collar.",
+      "caseRef": "p2-case-1"
+    },
+    {
+      "id": "p2q-1bxen2o",
+      "ch": 9,
+      "topic": "Derivatives desk — position book",
+      "m": 2,
+      "d": "HARD",
+      "q": "If the desk also holds an expected dividend of 0.6% before expiry, the futures fair value relative to spot is (3-m, rf 6.5%):",
+      "o": [
+        "Premium of ≈ 1.48%",
+        "Discount of ≈ 1.48%",
+        "Equal to spot",
+        "Premium of 6.5%"
+      ],
+      "a": 0,
+      "why": "Cost-of-carry F = S(1+(r−q)t): (6.5−0.6)% × 0.25 = 1.475% premium — dividends shave the carry but do not flip it to a discount unless the yield exceeds the rate.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — this topic stays active in ICAI question-setting Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Derivatives desk — position book",
+        "tip": "Carry net of dividends Dividends pull futures toward the cash — carry counts net of the payout.",
+        "link": "Chapter 9 — Derivatives Analysis and Valuation"
+      },
+      "stem": "A fund holds Rs 500 crore of an equity index portfolio (β 1.1) and fears a short-term dip; index future lot 75 units at index 20,000; 3-month futures 20,300. Alternatives: buy index puts at strike 19,800 (premium 340 index pts) or sell index calls at 20,600 receiving 180 pts. The desk decides to collar.",
+      "caseRef": "p2-case-1"
+    },
+    {
+      "id": "p2q-1221dv8",
+      "ch": 9,
+      "topic": "Options — put-call parity",
+      "m": 1,
+      "d": "HARD",
+      "q": "S = Rs 120, strike Rs 120, one-year risk-free discount factor 1.0513 (continuous 5%), European call premium Rs 14. Parity implies the European put is closest to:",
+      "o": [
+        "Rs 8.15",
+        "Rs 13.10",
+        "Rs 15.90",
+        "Rs 12.00"
+      ],
+      "a": 0,
+      "why": "C + K·e^(−rt) = P + S ⇒ P = 14 − 120 + 120/1.0513 = 14 − 120 + 114.15 = Rs 8.15. Skipping the discount (14 − 120 + 120 = 14) and sign-flipping are the standard wrong turns.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — parity arithmetic is the derivatives freebie-and-fall Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Options — put-call parity",
+        "tip": "Call minus stock plus discounted strike = put. The discount is the whole exam.",
+        "link": "Chapter 9 — Derivatives Analysis and Valuation"
+      }
+    },
+    {
+      "id": "p2q-s1hs1v",
+      "ch": 9,
+      "topic": "Black-Scholes — inputs",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Which is NOT an input to the Black-Scholes model?",
+      "o": [
+        "Volatility σ",
+        "Risk-free rate",
+        "Investor risk aversion",
+        "Time to expiry"
+      ],
+      "a": 2,
+      "why": "BS inputs: S, K, r, t, σ (and dividend yield); no preference parameters — risk-neutral pricing.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the not-in-list format AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Black-Scholes — inputs",
+        "tip": "The formula prices the hedge, not the hedger's fear.",
+        "link": "Chapter 9 — Derivatives Analysis and Valuation"
+      }
+    },
+    {
+      "id": "p2q-6u4wes",
+      "ch": 9,
+      "topic": "Forward vs future",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Daily settlement/marking-to-market is a feature of:",
+      "o": [
+        "Forwards",
+        "Futures",
+        "Both",
+        "Swaps only"
+      ],
+      "a": 1,
+      "why": "Futures clear daily via exchange (margin, gain/loss settled); forwards settle at maturity (or per contract) with no daily cash flow.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — instrument-plumbing distinctions AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Forward vs future",
+        "tip": "Futures wash the books nightly; forwards count the money at the end.",
+        "link": "Chapter 9 — Derivatives Analysis and Valuation"
+      }
+    },
+    {
+      "id": "p2q-1mkrooa",
+      "ch": 9,
+      "topic": "Protective put",
+      "m": 1,
+      "d": "HARD",
+      "q": "Holding a stock and buying a put on it is:",
+      "o": [
+        "Straddle",
+        "Protective put portfolio insurance — floor below, upside retained",
+        "Collar",
+        "Covered call"
+      ],
+      "a": 1,
+      "why": "Protective put = long asset + long put: loss capped below strike (plus premium cost), upside kept.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — strategy-naming matrix Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Protective put",
+        "tip": "A put under your shares is a floor under the floor: pay the premium, keep the sky.",
+        "link": "Chapter 9 — Derivatives Analysis and Valuation"
+      }
+    },
+    {
+      "id": "p2q-zmmquv",
+      "ch": 9,
+      "topic": "Option Greeks",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A deep ITM European call on a non-dividend stock has delta close to:",
+      "o": [
+        "0",
+        "0.5",
+        "1",
+        "Infinity"
+      ],
+      "a": 2,
+      "why": "Deep ITM call → behaves like the stock (delta ≈ 1); ATM ≈ 0.5; OTM → 0.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the three-delta anchors AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Option Greeks",
+        "tip": "The more certain the exercise, the more the option IS the share.",
+        "link": "Chapter 9 — Derivatives Analysis and Valuation"
+      }
+    },
+    {
+      "id": "p2q-14e9a8e",
+      "ch": 9,
+      "topic": "Straddle breakeven",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Long straddle (call + put, K=100, premiums 12 and 8): upper breakeven price:",
+      "o": [
+        "120",
+        "108",
+        "130",
+        "112"
+      ],
+      "a": 0,
+      "why": "Total premium 20; upper BE = K + 20 = 120; lower = 80.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the two-breakeven arithmetic AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Straddle breakeven",
+        "tip": "A straddle is a toll booth: the price must clear the toll in either direction.",
+        "link": "Chapter 9 — Derivatives Analysis and Valuation"
+      }
+    },
+    {
+      "id": "p2q-6ez5at",
+      "ch": 9,
+      "topic": "Black-Scholes — dividends",
+      "m": 1,
+      "d": "HARD",
+      "q": "Higher continuous dividend yield on the underlying makes a call value:",
+      "o": [
+        "Higher",
+        "Lower (reduces forward price)",
+        "Unchanged",
+        "Zero"
+      ],
+      "a": 1,
+      "why": "Dividends pull the ex-div price down; call value uses e^-qT adjusted spot — more dividends, less call.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the input-direction table (spot+, strike−, vol+, T±, r+ for call, div− for call) Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Black-Scholes — dividends",
+        "tip": "Every dividend is money stolen from the share — and from the call's pocket.",
+        "link": "Chapter 9 — Derivatives Analysis and Valuation"
+      }
+    },
+    {
+      "id": "p2q-1dhghbt",
+      "ch": 9,
+      "topic": "Call option P&L",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Buyer of a call, strike 200, premium 12, expiry spot 190. Profit/loss per share at expiry (no brokerage):",
+      "o": [
+        "Rs -10",
+        "Rs -12",
+        "Rs 0 — the break-even outcome",
+        "Rs 2"
+      ],
+      "a": 1,
+      "why": "Intrinsic = max(190 − 200, 0) = 0; minus premium 12 ⇒ -12 (loss bounded by premium). Breakeven at 212.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — expiry-payoff arithmetic with the premium deduction is the freebie Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Call option P&L",
+        "tip": "P&L = max(S−K,0) − premium.",
+        "link": "Chapter 9 — Derivatives Analysis and Valuation"
+      }
+    },
+    {
+      "id": "p2q-rcri6r",
+      "ch": 9,
+      "topic": "Call option P&L",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Buyer of a call, strike 200, premium 18, expiry spot 190. Profit/loss per share at expiry (no brokerage):",
+      "o": [
+        "Rs -18",
+        "Rs -10",
+        "Rs 0 — the break-even outcome",
+        "Rs 8"
+      ],
+      "a": 0,
+      "why": "Intrinsic = max(190 − 200, 0) = 0; minus premium 18 ⇒ -18 (loss bounded by premium). Breakeven at 218.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — expiry-payoff arithmetic with the premium deduction is the freebie Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Call option P&L",
+        "tip": "P&L = max(S−K,0) − premium.",
+        "link": "Chapter 9 — Derivatives Analysis and Valuation"
+      }
+    },
+    {
+      "id": "p2q-1vuk047",
+      "ch": 9,
+      "topic": "Call option P&L",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Buyer of a call, strike 200, premium 12, expiry spot 170. Profit/loss per share at expiry (no brokerage):",
+      "o": [
+        "Rs -30",
+        "Rs 0 — the break-even outcome",
+        "Rs -12",
+        "Rs -18"
+      ],
+      "a": 2,
+      "why": "Intrinsic = max(170 − 200, 0) = 0; minus premium 12 ⇒ -12 (loss bounded by premium). Breakeven at 212.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — expiry-payoff arithmetic with the premium deduction is the freebie Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Call option P&L",
+        "tip": "P&L = max(S−K,0) − premium.",
+        "link": "Chapter 9 — Derivatives Analysis and Valuation"
+      }
+    },
+    {
+      "id": "p2q-1gjjfeu",
+      "ch": 9,
+      "topic": "Call option P&L",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Buyer of a call, strike 150, premium 12, expiry spot 175. Profit/loss per share at expiry (no brokerage):",
+      "o": [
+        "Rs 25",
+        "Rs 13",
+        "Rs 0 — the break-even outcome",
+        "Rs 37"
+      ],
+      "a": 1,
+      "why": "Intrinsic = max(175 − 150, 0) = 25; minus premium 12 ⇒ 13 (loss bounded by premium). Breakeven at 162.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — expiry-payoff arithmetic with the premium deduction is the freebie Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Call option P&L",
+        "tip": "P&L = max(S−K,0) − premium.",
+        "link": "Chapter 9 — Derivatives Analysis and Valuation"
+      }
+    },
+    {
+      "id": "p2q-1w2mha",
+      "ch": 9,
+      "topic": "Call option P&L",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Buyer of a call, strike 150, premium 18, expiry spot 120. Profit/loss per share at expiry (no brokerage):",
+      "o": [
+        "Rs -18",
+        "Rs -30",
+        "Rs 0 — the break-even outcome",
+        "Rs -12"
+      ],
+      "a": 0,
+      "why": "Intrinsic = max(120 − 150, 0) = 0; minus premium 18 ⇒ -18 (loss bounded by premium). Breakeven at 168.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — expiry-payoff arithmetic with the premium deduction is the freebie Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Call option P&L",
+        "tip": "P&L = max(S−K,0) − premium.",
+        "link": "Chapter 9 — Derivatives Analysis and Valuation"
+      }
+    },
+    {
+      "id": "p2q-1bkreho",
+      "ch": 9,
+      "topic": "Call option P&L",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Buyer of a call, strike 150, premium 18, expiry spot 175. Profit/loss per share at expiry (no brokerage):",
+      "o": [
+        "Rs 25",
+        "Rs 0 — the break-even outcome",
+        "Rs 7",
+        "Rs 43"
+      ],
+      "a": 2,
+      "why": "Intrinsic = max(175 − 150, 0) = 25; minus premium 18 ⇒ 7 (loss bounded by premium). Breakeven at 168.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — expiry-payoff arithmetic with the premium deduction is the freebie Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Call option P&L",
+        "tip": "P&L = max(S−K,0) − premium.",
+        "link": "Chapter 9 — Derivatives Analysis and Valuation"
+      }
+    },
+    {
+      "id": "p2q-ffv92i",
+      "ch": 9,
+      "topic": "Call option P&L",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Buyer of a call, strike 150, premium 12, expiry spot 140. Profit/loss per share at expiry (no brokerage):",
+      "o": [
+        "Rs -10",
+        "Rs -12",
+        "Rs 0 — the break-even outcome",
+        "Rs 2"
+      ],
+      "a": 1,
+      "why": "Intrinsic = max(140 − 150, 0) = 0; minus premium 12 ⇒ -12 (loss bounded by premium). Breakeven at 162.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — expiry-payoff arithmetic with the premium deduction is the freebie Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Call option P&L",
+        "tip": "P&L = max(S−K,0) − premium.",
+        "link": "Chapter 9 — Derivatives Analysis and Valuation"
+      }
+    },
+    {
+      "id": "p2q-10fdmyk",
+      "ch": 9,
+      "topic": "Call option P&L",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Buyer of a call, strike 200, premium 12, expiry spot 245. Profit/loss per share at expiry (no brokerage):",
+      "o": [
+        "Rs 33",
+        "Rs 45",
+        "Rs 0 — the break-even outcome",
+        "Rs 57"
+      ],
+      "a": 0,
+      "why": "Intrinsic = max(245 − 200, 0) = 45; minus premium 12 ⇒ 33 (loss bounded by premium). Breakeven at 212.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — expiry-payoff arithmetic with the premium deduction is the freebie Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Call option P&L",
+        "tip": "P&L = max(S−K,0) − premium.",
+        "link": "Chapter 9 — Derivatives Analysis and Valuation"
+      }
+    },
+    {
+      "id": "p2q-1w43tls",
+      "ch": 9,
+      "topic": "Collar payoff",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Holder of a stock (at 100) buys a put strike 90 and sells a call strike 110 (collar). The economic result:",
+      "o": [
+        "Only 90 floor with unlimited upside",
+        "Capped at 100",
+        "Band of ±100",
+        "Payoff pinned between 90 and 110 (band 20)"
+      ],
+      "a": 3,
+      "why": "Long put floors value at 90; short call caps at 110 — outcome locked in a 20-point band; premiums may offset to near-zero cost.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — structure-combination effects are the ICAI way to test option literacy AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Collar payoff",
+        "tip": "Hold stock + short call + long put ⇒ band; zero-cost when premiums match.",
+        "link": "Chapter 9 — Derivatives Analysis and Valuation"
+      }
+    },
+    {
+      "id": "p2q-1f01btg",
+      "ch": 9,
+      "topic": "Collar payoff",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Holder of a stock (at 100) buys a put strike 95 and sells a call strike 115 (collar). The economic result:",
+      "o": [
+        "Only 95 floor with unlimited upside",
+        "Payoff pinned between 95 and 115 (band 20)",
+        "Capped at 100",
+        "Band of ±100"
+      ],
+      "a": 1,
+      "why": "Long put floors value at 95; short call caps at 115 — outcome locked in a 20-point band; premiums may offset to near-zero cost.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — structure-combination effects are the ICAI way to test option literacy AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Collar payoff",
+        "tip": "Hold stock + short call + long put ⇒ band; zero-cost when premiums match.",
+        "link": "Chapter 9 — Derivatives Analysis and Valuation"
+      }
+    },
+    {
+      "id": "p2q-f3ltt9",
+      "ch": 9,
+      "topic": "Collar payoff",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Holder of a stock (at 100) buys a put strike 90 and sells a call strike 115 (collar). The economic result:",
+      "o": [
+        "Only 90 floor with unlimited upside",
+        "Capped at 100",
+        "Payoff pinned between 90 and 115 (band 25)",
+        "Band of ±100"
+      ],
+      "a": 2,
+      "why": "Long put floors value at 90; short call caps at 115 — outcome locked in a 25-point band; premiums may offset to near-zero cost.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — structure-combination effects are the ICAI way to test option literacy AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Collar payoff",
+        "tip": "Hold stock + short call + long put ⇒ band; zero-cost when premiums match.",
+        "link": "Chapter 9 — Derivatives Analysis and Valuation"
+      }
+    },
+    {
+      "id": "p2q-10phcqx",
+      "ch": 9,
+      "topic": "Collar payoff",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Holder of a stock (at 100) buys a put strike 95 and sells a call strike 110 (collar). The economic result:",
+      "o": [
+        "Only 95 floor with unlimited upside",
+        "Capped at 100",
+        "Band of ±100",
+        "Payoff pinned between 95 and 110 (band 15)"
+      ],
+      "a": 3,
+      "why": "Long put floors value at 95; short call caps at 110 — outcome locked in a 15-point band; premiums may offset to near-zero cost.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — structure-combination effects are the ICAI way to test option literacy AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Collar payoff",
+        "tip": "Hold stock + short call + long put ⇒ band; zero-cost when premiums match.",
+        "link": "Chapter 9 — Derivatives Analysis and Valuation"
+      }
+    },
+    {
+      "id": "p2q-1anhddo",
+      "ch": 9,
+      "topic": "Hedge ratio",
+      "m": 1,
+      "d": "HARD",
+      "q": "A call has delta 0.6. The delta-neutral stock holding per call option short is:",
+      "o": [
+        "1 share per call",
+        "Hold 0.6 shares per short call (delta hedge)",
+        "1/0.6 shares",
+        "60% of notional"
+      ],
+      "a": 1,
+      "why": "Δ = 0.6 shares per option — short call ⇒ long 0.6 stock keeps net delta zero; re-hedge as Δ moves (gamma).",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — delta-hedge ratios are concept-questions with tiny arithmetic Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Hedge ratio",
+        "tip": "Δ shares per option short = delta; position size = Δ per contract.",
+        "link": "Chapter 9 — Derivatives Analysis and Valuation"
+      }
+    },
+    {
+      "id": "p2q-c7segq",
+      "ch": 9,
+      "topic": "Hedge ratio",
+      "m": 1,
+      "d": "HARD",
+      "q": "A call has delta 0.4. The delta-neutral stock holding per call option short is:",
+      "o": [
+        "1 share per call",
+        "1/0.4 shares",
+        "Hold 0.4 shares per short call (delta hedge)",
+        "40% of notional"
+      ],
+      "a": 2,
+      "why": "Δ = 0.4 shares per option — short call ⇒ long 0.4 stock keeps net delta zero; re-hedge as Δ moves (gamma).",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — delta-hedge ratios are concept-questions with tiny arithmetic Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Hedge ratio",
+        "tip": "Δ shares per option short = delta; position size = Δ per contract.",
+        "link": "Chapter 9 — Derivatives Analysis and Valuation"
+      }
+    }
+  ]
+}

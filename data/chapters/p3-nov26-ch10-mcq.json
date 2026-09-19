@@ -1,0 +1,241 @@
+{
+  "meta": {
+    "id": "p3-nov26-ch10-mcq",
+    "paper": "P3",
+    "attempt": "NOV-2026",
+    "kind": "chapter",
+    "category": "CHAPTER-WISE MCQs",
+    "title": "Ch 10: Review of Financial Information — MCQ Bank",
+    "description": "Chapter-wise practice MCQs for Chapter 10 (Review of Financial Information).",
+    "count": 9,
+    "mcqCount": 9,
+    "descriptiveCount": 0,
+    "coverage": "Chapter 10 · 9 MCQs",
+    "chapters": [
+      10
+    ],
+    "durationMinutes": 14,
+    "difficulty": "Exam standard",
+    "high": 1,
+    "medium": 5,
+    "low": 3
+  },
+  "questions": [
+    {
+      "id": "p3q-1lwc1wv",
+      "ch": 10,
+      "topic": "Review — level of assurance",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A review of financial information (SRE framework) concludes with:",
+      "o": [
+        "Reasonable assurance — positive opinion",
+        "A negative conclusion: nothing has come to the practitioner's attention indicating material modification",
+        "An unqualified audit opinion",
+        "A disclaimer"
+      ],
+      "a": 1,
+      "why": "Limited assurance = 'nothing has come to our attention' phrasing, obtained via inquiries and analytical procedures and less evidence; it is NEITHER an audit NOR an attestation of accuracy — a weaker ladder rung, honestly labelled.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — negative assurance is the review's signature phrase Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Review — level of assurance",
+        "tip": "A review is a smoke test, not a fire audit.",
+        "link": "Chapter 10 — Review of Financial Information"
+      }
+    },
+    {
+      "id": "p3q-14tgt3b",
+      "ch": 10,
+      "topic": "SRE 2410 vs 2400",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "The difference between SRE 2410 (review of interim by the entity's auditor) and SRE 2400 (by a practitioner not associated with the entity) includes:",
+      "o": [
+        "2410 has no independence considerations",
+        "2400 applies to a party not connected with the entity; 2410 leverages existing knowledge while keeping independence and objectivity",
+        "2400 provides reasonable assurance",
+        "2410 is not a review"
+      ],
+      "a": 1,
+      "why": "2410 uses the auditor's own knowledge of the entity (efficiency) and applies audit-style expectations; 2400 is the 'external reviewer' standard for a non-associated practitioner — both limited assurance, different scopes and sources of familiarity.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — same ladder, different climber AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: SRE 2410 vs 2400",
+        "tip": "A familiar auditor and a stranger both read smoke with different eyes.",
+        "link": "Chapter 10 — Review of Financial Information"
+      }
+    },
+    {
+      "id": "p3q-e8kaja",
+      "ch": 10,
+      "topic": "Review procedures",
+      "m": 1,
+      "d": "HARD",
+      "q": "In an interim review, the practitioner performs:",
+      "o": [
+        "Physical verification of inventory at all sites",
+        "Inquiries (including of those with financial responsibility) and analytical procedures, reading the statements for consistency with other knowledge",
+        "Confirmation of 100% of debtors",
+        "Testing of all controls"
+      ],
+      "a": 1,
+      "why": "The review toolkit is inquiry + analytics (+ reading, comparison with prior periods, discussions with board/audit committee) — no substantive tests of details unless anomalies arise; knowing that answers half the 'not enough work' complaints.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — inquiries and analytics — substantive only on red flag Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Review procedures",
+        "tip": "A review is a thermometer, not an MRI.",
+        "link": "Chapter 10 — Review of Financial Information"
+      }
+    },
+    {
+      "id": "p3q-4f8q8x",
+      "ch": 10,
+      "topic": "Review fraud duty",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A review engagement is designed to:",
+      "o": [
+        "Detect fraud",
+        "Provide limited assurance that nothing indicates material modification — not to detect fraud or errors",
+        "Replace analytics",
+        "Confirm balances"
+      ],
+      "a": 1,
+      "why": "The purpose paragraph: reviews are not audits; fraud detection isn't designed-in (but findings still must be addressed).",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — read the level of the ladder AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Review fraud duty",
+        "tip": "A smoke alarm is not a fire department.",
+        "link": "Chapter 10 — Review of Financial Information"
+      }
+    },
+    {
+      "id": "p3q-1fvad4d",
+      "ch": 10,
+      "topic": "Interim reviews — listed entities",
+      "m": 1,
+      "d": "HARD",
+      "q": "Half-yearly/quarterly review obligations of the statutory auditor for listed entities run via:",
+      "o": [
+        "Full audits each quarter",
+        "A review-level engagement under the review standards (negative assurance, inquiry+analytics) reported in the prescribed format to the exchange/board",
+        "No auditor duty",
+        "Only the CFO's certificate"
+      ],
+      "a": 1,
+      "why": "The listing-regulation overlay turns the SA review framework into a compliance routine — the practical answer: same level (limited), stricter calendar, and the auditor's review procedures feed the annual audit's expectations too.",
+      "trend": "Documented syllabus/amendment change — applicability from May 2026 exam onwards per ICAI BoS announcement.",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the calendar changed, the assurance didn't AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Interim reviews — listed entities",
+        "tip": "Quarterly eyes, lighter tools.",
+        "link": "Chapter 10 — Review of Financial Information"
+      }
+    },
+    {
+      "id": "p3q-1hel0a1",
+      "ch": 10,
+      "topic": "Review trigger",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Interim financial information of listed entities is subjected to a REVIEW rather than an audit because:",
+      "o": [
+        "Reviews are legally banned",
+        "Listing obligations require timely, limited-assurance scrutiny of each quarter's numbers; an audit quarterly would be impractical",
+        "Reviews give higher assurance",
+        "Only tax returns need audits"
+      ],
+      "a": "1",
+      "why": "The trade-off is speed versus depth: quarterly reporting demands quick turnaround, so SEBI-listed obligations pair it with review-level (limited) assurance under SRE — negative assurance wording — while annual numbers carry the reasonable-assurance audit.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — quarterly speed buys negative assurance; annual weight buys the opinion AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Review trigger",
+        "tip": "Twelve glimpses beat one autopsy for keeping the patient alive.",
+        "link": "Chapter 10 — Review of Financial Information"
+      }
+    },
+    {
+      "id": "p3q-1vzyyvr",
+      "ch": 10,
+      "topic": "Materiality in a review",
+      "m": 1,
+      "d": "HARD",
+      "q": "Planning materiality for an interim review is set:",
+      "o": [
+        "Identically to the audit's annual materiality",
+        "Against interim financial information — a smaller base (e.g., annualised interim profit) needs professional judgment because interim results are more volatile",
+        "Never documented",
+        "At 5% of interim revenue only"
+      ],
+      "a": "1",
+      "why": "Interim statements are partial-period; a percentage of annualised figures, with sensitivity to seasonality and volatility, is the documented practice — the framework sets no bright line, so the reasoning matters more than the number in the answer.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the base shrinks, the judgment grows Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Materiality in a review",
+        "tip": "Half-year numbers deserve whole-year caution.",
+        "link": "Chapter 10 — Review of Financial Information"
+      }
+    },
+    {
+      "id": "p3q-hbn8wg",
+      "ch": 10,
+      "topic": "Review scope reduction",
+      "m": 1,
+      "d": "HARD",
+      "q": "During a review, the practitioner is unable to read the latest board minutes. Proper response:",
+      "o": [
+        "Skip — reviews don't read minutes",
+        "Ask for them; if unavailable for material matters, evaluate as a limitation: consider the impact on the conclusion and, where pervasive, resign/report",
+        "Include in the report? not required",
+        "Extend the review to an audit"
+      ],
+      "a": 1,
+      "why": "Review ≠ 'no procedures': its defined procedures include reading minutes; refusal/inaccessibility narrows what the conclusion can honestly say — negative assurance cannot survive a deliberate hole.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — a review's floor is still a floor Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Review scope reduction",
+        "tip": "A review with locked doors reads no assurance.",
+        "link": "Chapter 10 — Review of Financial Information"
+      }
+    },
+    {
+      "id": "p3q-2wdab5",
+      "ch": 10,
+      "topic": "Review of related-party items",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A review's inquiry should include related-party transactions because:",
+      "o": [
+        "Reviews never cover them",
+        "The RPT area is where year-end manipulation concentrates — inquiries about new/undisclosed RPTs are expected, and findings escalate targeted work",
+        "Only tax checks them",
+        "The auditor's choice"
+      ],
+      "a": 1,
+      "why": "Limited assurance still requires asking the right questions: RPTs and new arrangements are named review topics — a 'no concerns' answer is only as strong as its corroboration where the prior audit found issues.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the short ladder still has rungs named AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Review of related-party items",
+        "tip": "Reviews miss plenty; RPTs aren't an excuse to.",
+        "link": "Chapter 10 — Review of Financial Information"
+      }
+    }
+  ]
+}

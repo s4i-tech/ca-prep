@@ -1,0 +1,289 @@
+{
+  "meta": {
+    "id": "p3-nov26-ch12-mcq",
+    "paper": "P3",
+    "attempt": "NOV-2026",
+    "kind": "chapter",
+    "category": "CHAPTER-WISE MCQs",
+    "title": "Ch 12: Digital Auditing & Assurance — MCQ Bank",
+    "description": "Chapter-wise practice MCQs for Chapter 12 (Digital Auditing & Assurance).",
+    "count": 11,
+    "mcqCount": 11,
+    "descriptiveCount": 0,
+    "coverage": "Chapter 12 · 11 MCQs",
+    "chapters": [
+      12
+    ],
+    "durationMinutes": 17,
+    "difficulty": "Exam standard",
+    "high": 1,
+    "medium": 7,
+    "low": 3
+  },
+  "questions": [
+    {
+      "id": "p3q-uykqud",
+      "ch": 12,
+      "topic": "IT general vs application controls",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "An access-configuration change that let a clerk edit vendor master files without approval is a failure of:",
+      "o": [
+        "Application controls only",
+        "IT general controls (access security) with knock-on to application controls",
+        "Entity-level financial controls",
+        "Physical safeguards"
+      ],
+      "a": 1,
+      "why": "Access and change management are ITGC; when ITGC fail, automated application controls built on the same environment lose their reliance basis — a theme of SA 315 IT: the general layer's integrity underpins the application layer.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — broken ITGC poisons every automated control downstream Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: IT general vs application controls",
+        "tip": "Master-key failure voids the room's lock.",
+        "link": "Chapter 12 — Digital Auditing & Assurance"
+      }
+    },
+    {
+      "id": "p3q-tbtku9",
+      "ch": 12,
+      "topic": "CAATs / data analytics",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Testing 100% of journal entries with analytics changes the audit by:",
+      "o": [
+        "Removing the need for professional judgment",
+        "Replacing sampling (eliminating sampling risk) but introducing non-sampling risks in logic/parameters; requiring data reliability testing",
+        "Making evidence conclusive by definition",
+        "Being permitted only for IT audits"
+      ],
+      "a": 1,
+      "why": "Full-population analytics removes SAMPLING risk, not all risk: wrong query logic, bad extract completeness, misinterpreted exceptions — and the SAs' documentation must show data provenance and reconciliation; reliance on the entity's own data is an evidence decision, not a given.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — 100% coverage ≠ 100% assurance AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: CAATs / data analytics",
+        "tip": "Query mistakes scale exactly as the population does.",
+        "link": "Chapter 12 — Digital Auditing & Assurance"
+      }
+    },
+    {
+      "id": "p3q-535d9",
+      "ch": 12,
+      "topic": "Audit trail requirement",
+      "m": 1,
+      "d": "HARD",
+      "q": "For certain entities (e.g. banks per RBI guidance and the statutory audit-trail expectations for listed companies' relevant records), the audit implication of disabled/edited logs is:",
+      "o": [
+        "Ignore — logs are IT's domain",
+        "Assess the inability to reconstruct transactions as it affects evidence and, for listed entities, can be an ICFR failure and a disclosure item",
+        "Treat as a scope dispute to resign over",
+        "Accept management's certificate"
+      ],
+      "a": 1,
+      "why": "Audit trail integrity (no overwriting/deleting) is a controls-and-evidence issue: absent trails, automated process reliability collapses and reliance decisions change; the amended Companies Act framework's audit-trail clause and the SAs' documentation expectations meet here.",
+      "trend": "Documented syllabus/amendment change — applicability from May 2026 exam onwards per ICAI BoS announcement.",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — trail loss is an evidence loss before it is an IT problem AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Audit trail requirement",
+        "tip": "No log is the loudest red flag.",
+        "link": "Chapter 12 — Digital Auditing & Assurance"
+      }
+    },
+    {
+      "id": "p3q-11bwy94",
+      "ch": 12,
+      "topic": "ITGC domains list",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Which is NOT a core ITGC domain:",
+      "o": [
+        "Access security",
+        "Program change management",
+        "Computer operations",
+        "Marketing analytics"
+      ],
+      "a": 3,
+      "why": "ITGC: access, change, operations, development (+ interfaces/data) — business analytics is not a control domain.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — list five, reject the sixth AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: ITGC domains list",
+        "tip": "Not everything on a screen is a control.",
+        "link": "Chapter 12 — Digital Auditing & Assurance"
+      }
+    },
+    {
+      "id": "p3q-o75i44",
+      "ch": 12,
+      "topic": "Application vs general",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A system's automated three-way match is:",
+      "o": [
+        "An IT general control",
+        "An application control whose effectiveness assumes healthy ITGC",
+        "A monitoring control",
+        "A manual control"
+      ],
+      "a": 1,
+      "why": "Business-process automation = application control; it lives on the ITGC foundation (anyone who can change code can change the match).",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — application controls inherit, never stand alone AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Application vs general",
+        "tip": "The robot obeys the admin, not the auditor.",
+        "link": "Chapter 12 — Digital Auditing & Assurance"
+      }
+    },
+    {
+      "id": "p3q-p1zrkh",
+      "ch": 12,
+      "topic": "Digital audit trail — systems evidence",
+      "m": 1,
+      "d": "HARD",
+      "q": "Read with the audit-trail amendment and the SAs on IT: for entities subject to the trail requirement, the auditor's position on disabled/edited logs is:",
+      "o": [
+        "Note in the file only",
+        "A control failure for the audit AND a reportable matter in the CARO-style clause — with reliance decisions and substantive consequences following",
+        "Out of scope",
+        "Client's choice"
+      ],
+      "a": 1,
+      "why": "LINKED change: the log requirement and the audit's evidence chain converge — a missing trail converts from IT observation to an express reporting item.",
+      "trend": "Traceable to a real, publicly-notified amendment/standard (documented fact), tested in ICAI style.",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — trail loss is a double failure: reporting and reliance AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Digital audit trail — systems evidence",
+        "tip": "A self-erasing system writes its own warning.",
+        "link": "Chapter 12 — Digital Auditing & Assurance"
+      }
+    },
+    {
+      "id": "p3q-9jhp7n",
+      "ch": 12,
+      "topic": "CAATS taxonomy",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Software that clones the application and runs auditor-supplied transactions through it is:",
+      "o": [
+        "Query tools",
+        "Test data approach (dummy records) or integrated test facilities, as part of computer-assisted audit techniques",
+        "Data extraction",
+        "Ranking"
+      ],
+      "a": "1",
+      "why": "Classic CAAT families: test data (controlled transactions run through the system's own logic), embedded audit modules (hooks in production code), parallel simulation (auditor's model re-computes the client's processing), and audit software over the data file (extraction/analytics) — each answers a different assertion: processing integrity vs completeness vs accuracy.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — process-testing tools ride the machine; data tools ride the file AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: CAATS taxonomy",
+        "tip": "Test data interrogates the logic; analytics interrogates the ledger.",
+        "link": "Chapter 12 — Digital Auditing & Assurance"
+      }
+    },
+    {
+      "id": "p3q-12vq865",
+      "ch": 12,
+      "topic": "Continuous audit",
+      "m": 1,
+      "d": "HARD",
+      "q": "Compared with year-end batch auditing, continuous auditing shifts work to:",
+      "o": [
+        "More sampling",
+        "Automated, frequent (near-real-time) extraction and exception monitoring embedded in the process",
+        "Less documentation",
+        "Annual only"
+      ],
+      "a": "1",
+      "why": "Frequency and coverage rise (full populations each cycle), issues surface mid-period when they can still be fixed, and the auditor's craft moves to designing rules, monitoring exceptions, and controlling the data pipeline — with a cost: tool maintenance and false-positive triage.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — audit becomes a thermostat, not a thermometer Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Continuous audit",
+        "tip": "Batch audit is the autopsy; continuous audit is the pulse oximeter.",
+        "link": "Chapter 12 — Digital Auditing & Assurance"
+      }
+    },
+    {
+      "id": "p3q-14yhcb8",
+      "ch": 12,
+      "topic": "Parallel simulation",
+      "m": 2,
+      "d": "HARD",
+      "q": "In an audit through the computer with parallel simulation, the auditor:",
+      "o": [
+        "Recalculates invoices",
+        "Writes/tests an independent program replicating the client's logic and processes real data through both to compare outputs",
+        "Uses the vendor's manual",
+        "Prints exception reports"
+      ],
+      "a": 1,
+      "why": "Parallel simulation (test-data with the auditor's own replica logic) is the strongest computer-assisted test for complex calculation/interest engines — cost: building the replica; value: the system's math is proven, not ticked.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — rebuild the engine, then race it Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Parallel simulation",
+        "tip": "The best audit of a black box is a glass twin.",
+        "link": "Chapter 12 — Digital Auditing & Assurance"
+      }
+    },
+    {
+      "id": "p3q-1u0dklz",
+      "ch": 12,
+      "topic": "Roll-forward of ITGC",
+      "m": 1,
+      "d": "HARD",
+      "q": "ITGC tested at the interim date must be rolled forward by:",
+      "o": [
+        "Nothing — automation is stable",
+        "Confirming no changes to the environment (change reports, access logs) and testing controls over changes during the remaining period",
+        "Relying on management's word",
+        "A full re-test of every app control"
+      ],
+      "a": 1,
+      "why": "Automated controls stay effective only as long as the environment does not change; the roll-forward is evidence that no unauthorized change or new privileged access slipped between interim and year end — that is the gap where risk lives.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — automation's weakness is the edit Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Roll-forward of ITGC",
+        "tip": "Stability is tested by the logs that say 'no one touched it'.",
+        "link": "Chapter 12 — Digital Auditing & Assurance"
+      }
+    },
+    {
+      "id": "p3q-1phn8ox",
+      "ch": 12,
+      "topic": "Extract reconciliation",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "The reconciliation an auditor performs on a data extract (record counts + control totals to source) proves:",
+      "o": [
+        "Valuation",
+        "Population completeness for the analytics run",
+        "Accuracy of each record",
+        "Rights"
+      ],
+      "a": 1,
+      "why": "Completeness of the audit's own data population: if 460,000 rows are in the ledger and 459,980 in the extract, the test can be perfect and still miss the interesting 20.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the population is an assertion, not a download AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Extract reconciliation",
+        "tip": "A clean test on a short list is a signed blindfold.",
+        "link": "Chapter 12 — Digital Auditing & Assurance"
+      }
+    }
+  ]
+}

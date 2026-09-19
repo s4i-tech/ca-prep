@@ -1,0 +1,1595 @@
+{
+  "meta": {
+    "id": "p1-nov26-ch7-mcq",
+    "paper": "P1",
+    "attempt": "NOV-2026",
+    "kind": "chapter",
+    "category": "CHAPTER-WISE MCQs",
+    "title": "Ch 7: Ind AS on Liabilities of the Financial Statements — MCQ Bank",
+    "description": "Chapter-wise practice MCQs for Chapter 7 (Ind AS on Liabilities of the Financial Statements).",
+    "count": 65,
+    "mcqCount": 65,
+    "descriptiveCount": 0,
+    "coverage": "Chapter 7 · 65 MCQs",
+    "chapters": [
+      7
+    ],
+    "durationMinutes": 98,
+    "difficulty": "Exam standard",
+    "high": 30,
+    "medium": 30,
+    "low": 5
+  },
+  "questions": [
+    {
+      "id": "p1q-1ex8cuv",
+      "ch": 7,
+      "topic": "Leases — measurement & modification",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Original lease liability at commencement (Rs lakh):",
+      "o": [
+        "92",
+        "87",
+        "120",
+        "100"
+      ],
+      "a": 0,
+      "why": "PV = 20 × 4.623 = 92.46 ≈ 92 lakh. (92.5, not 87 — 87 would use a wrong factor; no adjustment for incentives/prepayments exists here.)",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — this topic stays active in ICAI question-setting AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Leases — measurement & modification",
+        "tip": "the PV opening entry starts most lease cases Liability = annuity PV; no prepaid rent ⇒ ROU equals it at birth.",
+        "link": "Chapter 7 — Ind AS on Liabilities of the Financial Statements"
+      },
+      "stem": "On 1 April 20X5, Vertex Ltd leases delivery vans: Rs 20 lakh annual rent payable in arrears for 6 years; IBR 8% (PVIFA 8%,6 = 4.623). After exactly 2 years, the parties agree — not as a separate contract — to reduce the remaining rent to Rs 15 lakh a year for the same 4-year remaining term.",
+      "caseRef": "p1-case-1"
+    },
+    {
+      "id": "p1q-1nugjwj",
+      "ch": 7,
+      "topic": "Leases — measurement & modification",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "The year-1 interest expense (Rs lakh):",
+      "o": [
+        "7.4",
+        "6.0",
+        "14.8",
+        "0"
+      ],
+      "a": 0,
+      "why": "Interest = opening liability × IBR = 92.46 × 8% ≈ 7.4 lakh; the rent 20 covers it plus principal repayment ~12.6.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — this topic stays active in ICAI question-setting Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Leases — measurement & modification",
+        "tip": "interest follows carrying amount, not the rent cheque Rent is cash split by the ledger: rate × balance first, principal after.",
+        "link": "Chapter 7 — Ind AS on Liabilities of the Financial Statements"
+      },
+      "stem": "On 1 April 20X5, Vertex Ltd leases delivery vans: Rs 20 lakh annual rent payable in arrears for 6 years; IBR 8% (PVIFA 8%,6 = 4.623). After exactly 2 years, the parties agree — not as a separate contract — to reduce the remaining rent to Rs 15 lakh a year for the same 4-year remaining term.",
+      "caseRef": "p1-case-1"
+    },
+    {
+      "id": "p1q-1qgqie8",
+      "ch": 7,
+      "topic": "Leases — measurement & modification",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Carrying amount just before the modification (Rs lakh):",
+      "o": [
+        "66.2",
+        "72.5",
+        "92.5",
+        "58.9"
+      ],
+      "a": 0,
+      "why": "Y1 close: 92.46 + 7.40 − 20 = 79.86; Y2 interest 79.86 × 8% = 6.39; Y2 close = 79.86 + 6.39 − 20 = 66.25 ≈ 66.2. Cross-check: PV of the 4 remaining payments of 20 at 8%: 20 × 3.312 = 66.2 — schedule roll-forward and remaining-payment PV must meet to the rupee.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — this topic stays active in ICAI question-setting Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Leases — measurement & modification",
+        "tip": "opening balances should be verifiable two ways — exam-savvy candidates check both Amortised schedules and remaining-payment PV are two clocks that must strike the same hour.",
+        "link": "Chapter 7 — Ind AS on Liabilities of the Financial Statements"
+      },
+      "stem": "On 1 April 20X5, Vertex Ltd leases delivery vans: Rs 20 lakh annual rent payable in arrears for 6 years; IBR 8% (PVIFA 8%,6 = 4.623). After exactly 2 years, the parties agree — not as a separate contract — to reduce the remaining rent to Rs 15 lakh a year for the same 4-year remaining term.",
+      "caseRef": "p1-case-1"
+    },
+    {
+      "id": "p1q-z6837b",
+      "ch": 7,
+      "topic": "Leases — measurement & modification",
+      "m": 2,
+      "d": "HARD",
+      "q": "At the modification (rent cut, term unchanged, not a separate contract), Vertex remeasures the liability using:",
+      "o": [
+        "Original 8% on old payments",
+        "Revised rent discounted at the revised discount rate at modification date, adjusting ROU by the same amount",
+        "Revised rent at 0%",
+        "No remeasurement until next year"
+      ],
+      "a": 1,
+      "why": "Ind AS 116: for a modification not accounted for as a separate contract, remeasure using the revised discount rate at the effective date of the change; the ROU is adjusted correspondingly.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — this topic stays active in ICAI question-setting Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Leases — measurement & modification",
+        "tip": "the revised-rate fork is the trap A re-priced lease re-prices the rate — both sides flex together.",
+        "link": "Chapter 7 — Ind AS on Liabilities of the Financial Statements"
+      },
+      "stem": "On 1 April 20X5, Vertex Ltd leases delivery vans: Rs 20 lakh annual rent payable in arrears for 6 years; IBR 8% (PVIFA 8%,6 = 4.623). After exactly 2 years, the parties agree — not as a separate contract — to reduce the remaining rent to Rs 15 lakh a year for the same 4-year remaining term.",
+      "caseRef": "p1-case-1"
+    },
+    {
+      "id": "p1q-x8bjq0",
+      "ch": 7,
+      "topic": "Leases — measurement & modification",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "The effect of the remeasurement is:",
+      "o": [
+        "Gain in P&L",
+        "ROU asset reduced by the same fall in liability, future interest recomputed",
+        "Lease terminated and a new one recognised",
+        "Liability unchanged"
+      ],
+      "a": 1,
+      "why": "Smaller future cash flows shrink the liability; no P&L for a rent-only reduction — the ROU absorbs it, then interest = new liability × new rate.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — this topic stays active in ICAI question-setting Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Leases — measurement & modification",
+        "tip": "non-scope remeasurements bypass P&L Price moves hit the asset; only scope moves touch the income statement.",
+        "link": "Chapter 7 — Ind AS on Liabilities of the Financial Statements"
+      },
+      "stem": "On 1 April 20X5, Vertex Ltd leases delivery vans: Rs 20 lakh annual rent payable in arrears for 6 years; IBR 8% (PVIFA 8%,6 = 4.623). After exactly 2 years, the parties agree — not as a separate contract — to reduce the remaining rent to Rs 15 lakh a year for the same 4-year remaining term.",
+      "caseRef": "p1-case-1"
+    },
+    {
+      "id": "p1q-1wgp23w",
+      "ch": 7,
+      "topic": "Ind AS 23 — borrowing costs",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Borrowings specifically taken for a qualifying asset were temporarily invested, earning Rs 4 crore investment income in the year. Under Ind AS 23, this income:",
+      "o": [
+        "Is other income and never affects capitalisation",
+        "Reduces the amount of borrowing costs eligible for capitalisation",
+        "Is capitalised alongside interest",
+        "Creates negative borrowing cost and is ignored"
+      ],
+      "a": 1,
+      "why": "Ind AS 23 requires income earned on the temporary investment of specific borrowings to be DEDUCTED from the borrowing costs eligible for capitalisation.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — specific-borrowing netting rule reappears in every second attempt AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 23 — borrowing costs",
+        "tip": "Specific borrowing income nets against capitalised interest — general pool income does not. Follow the money's tag: 'for the asset' or not.",
+        "link": "Ch 7"
+      }
+    },
+    {
+      "id": "p1q-jbr822",
+      "ch": 7,
+      "topic": "Ind AS 37 — provisions",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A company is party to litigation. Counsel advises it is 'probable but not virtually certain' the court will award Rs 25 crore against it at year-end. Under Ind AS 37 the entity should:",
+      "o": [
+        "Recognise a provision of Rs 25 crore",
+        "Disclose a contingent liability only",
+        "Do nothing — no outflow is possible",
+        "Recognise Rs 25 crore as a liability and ignore disclosure"
+      ],
+      "a": 0,
+      "why": "Probable (more likely than not) outflow that is reliably estimable ⇒ recognise a PROVISION. Only when the outflow is possible-but-not-probable is it a contingent liability (disclose); 'remote' ⇒ do nothing.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the three-way provision/disclose/nothing decision is the most-tested Ind AS 37 line Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 37 — provisions",
+        "tip": "Provision ladder: probable ⇒ book it; possible ⇒ disclose; remote ⇒ forget. Best estimate = weighted outcomes for a class, most-likely for single obligation.",
+        "link": "Ch 7"
+      }
+    },
+    {
+      "id": "p1q-1tpfpfm",
+      "ch": 7,
+      "topic": "Ind AS 37 — onerous contract",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "An unavoidable-cost situation arises when a rental contract (non-cancellable) cannot be cancelled and the entity no longer uses the space. Ind AS 37 measures the onerous-contract provision as:",
+      "o": [
+        "Present value of net cash outflows expected — the LOWER of expected cost of performance and expected compensation/penalties for failure to perform",
+        "Gross rent for the entire term",
+        "The full contract value as an asset impairment",
+        "Zero — leases alone have their own recognition"
+      ],
+      "a": 0,
+      "why": "A provision for an onerous contract is the present value of the LOWER of (a) the net cost of performing the contract and (b) compensation/penalties for exiting it. Since the contract is non-cancellable here, performance cost typically governs.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the 'lower of performance vs penalty' rule is a favourite discriminator AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 37 — onerous contract",
+        "tip": "Onerous = lower-of two exits, discounted. No walking away free, no double-counting.",
+        "link": "Ch 7"
+      }
+    },
+    {
+      "id": "p1q-9dumtj",
+      "ch": 7,
+      "topic": "Leases — measurement",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A lessee's lease payments include a residual value guarantee (RVG) of Rs 5 crore, of which the lessee expects to owe Rs 2 crore at the end. The lease liability includes:",
+      "o": [
+        "The full Rs 5 crore RVG",
+        "Only the amount probable to be payable under the guarantee — Rs 2 crore",
+        "Zero — RVGs never enter the liability",
+        "Rs 5 crore discounted only in separate financials"
+      ],
+      "a": 1,
+      "why": "Ind AS 116: fixed payments include amounts expected to be payable by the lessee under residual value guarantees — the expected shortfall, not the whole guarantee.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — RVG inclusion basis is a precise-mechanics MCQ ICAI loves Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Leases — measurement",
+        "tip": "Guarantees enter the liability at their expected PAYABLE gap, not their face. Guarantee 5, expect owe 2, book 2.",
+        "link": "Ch 7"
+      }
+    },
+    {
+      "id": "p1q-1x3jx6j",
+      "ch": 7,
+      "topic": "Leases — short-term",
+      "m": 1,
+      "d": "HARD",
+      "q": "A lease of 11 months with an option to extend for another 6 months (not reasonably certain to exercise) and no purchase option qualifies for the lessee's short-term exemption because:",
+      "o": [
+        "The term is 12 months or less at commencement and no purchase option",
+        "Any lease under a year is always short-term",
+        "It was signed at the start of the year",
+        "Rent was prepaid"
+      ],
+      "a": 0,
+      "why": "Short-term lease = 12 months or less at commencement AND no purchase option; unexercised optional periods excluded unless reasonably certain. Practical expedients are policy-by-class.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the '12 months AND no PO' conjunctive test is a favourite Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Leases — short-term",
+        "tip": "Short-term lease: ≤12 months + no purchase option. Miss either condition and the asset appears on your balance sheet anyway.",
+        "link": "Ch 7"
+      }
+    },
+    {
+      "id": "p1q-1u1r83a",
+      "ch": 7,
+      "topic": "Provisions vs contingent liabilities",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Which correctly completes the matrix: present obligation (probable) / possible obligation / remote?",
+      "o": [
+        "Provision / disclose / nothing",
+        "Provision / provision / disclose",
+        "Disclose / provision / nothing",
+        "Nothing / disclose / provision"
+      ],
+      "a": 0,
+      "why": "The Ind AS 37 decision grid — probable outflow: recognise; possible: disclose; remote: silence.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the grid is the most repeated pattern in Ch 7 Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Provisions vs contingent liabilities",
+        "tip": "Present+probable ⇒ provision; possible ⇒ note; remote ⇒ nothing. Three doors, one key each.",
+        "link": "Ch 7"
+      }
+    },
+    {
+      "id": "p1q-1nyxqzx",
+      "ch": 7,
+      "topic": "Leases — discount rate",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A lessee cannot readily determine the rate implicit in the lease. The discount rate for measuring the lease liability is:",
+      "o": [
+        "Government bond yield",
+        "The lessee's incremental borrowing rate",
+        "Prime lending rate",
+        "Coupon of the lease's residual guarantee"
+      ],
+      "a": 1,
+      "why": "Ind AS 116 requires the rate implicit in the lease if readily determinable, else the lessee's incremental borrowing rate.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — fallback-rate sequencing is a standard 1-marker AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Leases — discount rate",
+        "tip": "Implicit rate first; IBR only as its understudy — never the lender's headline rate.",
+        "link": "Ch 7"
+      }
+    },
+    {
+      "id": "p1q-zui8v0",
+      "ch": 7,
+      "topic": "Leases — ROU depreciation",
+      "m": 1,
+      "d": "HARD",
+      "q": "A lessee obtains ownership of the underlying asset at the end of the lease term; the ROU asset should be depreciated:",
+      "o": [
+        "Over the lease term",
+        "Up to the useful life of the underlying asset",
+        "For half the lease term",
+        "Not depreciated"
+      ],
+      "a": 1,
+      "why": "If ownership transfers (or purchase option reasonably certain to be exercised), depreciate to end of useful life; else shorter of lease term and useful life.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — ownership-transfer changes the clock Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Leases — ROU depreciation",
+        "tip": "Owning it eventually? Depreciate like an owner (life). Merely renting? The lease term caps the clock.",
+        "link": "Ch 7"
+      }
+    },
+    {
+      "id": "p1q-ozur6",
+      "ch": 7,
+      "topic": "Lease incentives",
+      "m": 1,
+      "d": "HARD",
+      "q": "A lessor grants a 3-month rent-free fit-out period. The lessee treats the incentive as:",
+      "o": [
+        "Ignored",
+        "A reduction of lease payments in measuring the lease liability/ROU asset (incentives are deducted)",
+        "Other income",
+        "Prepaid expense of the full rent"
+      ],
+      "a": 1,
+      "why": "Lease incentives received (cash, rent-free periods, reimbursed costs) reduce the lease payments used to measure the liability/ROU.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the 'payments net of incentives' rule Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Lease incentives",
+        "tip": "Free months aren't invisible: net them out of the payments — the liability shrinks too.",
+        "link": "Ch 7"
+      }
+    },
+    {
+      "id": "p1q-1sn1wci",
+      "ch": 7,
+      "topic": "Finance lease indicators",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Which strongly indicates a finance lease?",
+      "o": [
+        "Term is 50% of asset's economic life",
+        "Transfer of ownership at the end by bargain",
+        "Rent-free month at start",
+        "Lessor retains insurance"
+      ],
+      "a": 1,
+      "why": "Transfer of ownership (or bargain purchase option), lease term major part of economic life, PV ≈ substantially all FV — indicators of finance lease; 50% is not 'major part'.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — indicator-recognition with near-miss distractors AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Finance lease indicators",
+        "tip": "Ownership ends where you? Finance. The 75% rule of thumb needs a 'major part' argument, not half.",
+        "link": "Chapter 7 — Ind AS on Liabilities of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1468qt0",
+      "ch": 7,
+      "topic": "Lessor derecognition on sale-type lease",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "In a selling-type lease, the lessor recognises manufacturing profit/loss at:",
+      "o": [
+        "Year 1",
+        "Lease commencement, after removing the carrying cost of the asset",
+        "End of term",
+        "Rental receipts"
+      ],
+      "a": 1,
+      "why": "Finance lease (selling type) lessor books selling profit at commencement (FV/cash price − cost), plus a receivable; interest over time.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the timing-of-selling-profit rule AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Lessor derecognition on sale-type lease",
+        "tip": "The sale completes when the lease starts — collect the margin then, interest later.",
+        "link": "Chapter 7 — Ind AS on Liabilities of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1ytyvwn",
+      "ch": 7,
+      "topic": "Net investment in lease (lessor)",
+      "m": 1,
+      "d": "HARD",
+      "q": "The lessor's net investment in a finance lease equals:",
+      "o": [
+        "Gross lease payments",
+        "PV of lease payments + unguaranteed residual value (discounted at rate implicit in the lease)",
+        "Asset cost",
+        "Rent annualised"
+      ],
+      "a": 1,
+      "why": "Lessor: NILE = PV of lease payments (minimum + unguaranteed residual) at the implicit rate; the difference from cost = unearned finance income.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — residual-inclusive definition with the discount nuance AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Net investment in lease (lessor)",
+        "tip": "Unguaranteed residual rides in the PV too — the lessor counts the whole expected stream.",
+        "link": "Chapter 7 — Ind AS on Liabilities of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-fpru0b",
+      "ch": 7,
+      "topic": "Leases — sublease",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "An intermediate lessee that subleases the same asset at FV references the:",
+      "o": [
+        "Head-lease asset",
+        "Original lease's ROU asset (and its own lease classification test)",
+        "Lessor's book",
+        "Fair value of the underlying, always"
+      ],
+      "a": 1,
+      "why": "Sub-lease classification (finance vs operating for the intermediate lessor) uses the RIGHT-OF-USE asset from the head lease, not the underlying asset (short-term head lease exception: operating).",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the ROU-swap is the exact trick AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Leases — sublease",
+        "tip": "The middleman leases his lease, not the landlord's building — classify off the ROU.",
+        "link": "Chapter 7 — Ind AS on Liabilities of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-40p1ij",
+      "ch": 7,
+      "topic": "Contingent rent",
+      "m": 1,
+      "d": "HARD",
+      "q": "Lessee's variable payments based on a sales threshold are included in lease payments when:",
+      "o": [
+        "Index-based only",
+        "They are in-substance fixed (e.g., minimum guarantees that will inevitably be met)",
+        "All variable",
+        "Never"
+      ],
+      "a": 1,
+      "why": "Variable lease payments are included only when in-substance fixed; sales-based percentage rents are excluded until incurred.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — in-substance-fixed gate Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Contingent rent",
+        "tip": "A promise with an escape clause is no promise yet — only the floor belongs to the liability.",
+        "link": "Chapter 7 — Ind AS on Liabilities of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-784ufz",
+      "ch": 7,
+      "topic": "Amendment — Sale & leaseback measurement",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Under the amendment to Ind AS 116 for sale-and-leaseback transactions, the seller-lessee's ROU asset from the leaseback is measured by reference to:",
+      "o": [
+        "The full sale price",
+        "The carrying amount of the previous right of use transferred to the buyer (i.e., only the rights transferred generate gain/loss), with off-market terms adjusted",
+        "The FV of the asset in all cases",
+        "Zero"
+      ],
+      "a": 1,
+      "why": "Documented amendment (India: periods beginning on/after 1 April 2023): the seller-lessee recognises gain/loss only on the rights transferred to the buyer; where FV of consideration or the asset is off-market, the excess is treated as a prepayment (additional financing if below-market) — the 'no gain on my retained use' rule.",
+      "trend": "Traceable to a real, publicly-notified amendment/standard (documented fact), tested in ICAI style.",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — SLB is the highest-yield arithmetic of the amendment cluster AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Amendment — Sale & leaseback measurement",
+        "tip": "You cannot sell the roof over your head and book a profit on the ceiling you kept — adjust the price to market first.",
+        "link": "Chapter 7 — Ind AS on Liabilities of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1pegx45",
+      "ch": 7,
+      "topic": "Leases — initial measurement",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Sable Ltd enters a 6-year equipment lease on 1 April 20X1 with annual rentals of Rs 139 lakh payable in advance (from the commencement date), IBR 8%. Initial direct costs Rs 7 lakh. Rentals start one year later. The lease liability and ROU asset at commencement are (round to Rs lakh):",
+      "o": [
+        "Liability Rs 623.54 lakh; ROU asset Rs 630.54 lakh",
+        "Liability Rs 623.54 lakh; ROU asset Rs 616.54 lakh",
+        "Liability Rs 841.00 lakh; ROU asset Rs 848.00 lakh",
+        "Liability Rs 623.54 lakh; ROU asset Rs 623.54 lakh"
+      ],
+      "a": 0,
+      "why": "PV of 6 rentals of Rs 139 lakh at 8% (factor 4.49) = Rs 623.54 lakh. ROU = liability + initial direct costs 7 = Rs 630.54 lakh. No discounting gives 841.00 (wrong); expensing IDC or equating ROU to the liability also misstates the asset.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — lease initial-measurement arithmetic is a fixture of Section B short sums Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Leases — initial measurement",
+        "tip": "Lease liability = PV of unpaid fixed payments at IBR (annuity-due when paid at year-start). ROU = liability + prepaid + initial direct costs − incentives.",
+        "link": "Chapter 7 — Ind AS on Liabilities of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1ej65kk",
+      "ch": 7,
+      "topic": "Leases — initial measurement",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Aster Ltd enters a 4-year equipment lease on 1 April 20X1 with annual rentals of Rs 103 lakh payable in advance (from the commencement date), IBR 8%. Initial direct costs Rs 7 lakh. Rentals start one year later. The lease liability and ROU asset at commencement are (round to Rs lakh):",
+      "o": [
+        "Liability Rs 348.88 lakh; ROU asset Rs 341.88 lakh",
+        "Liability Rs 419.00 lakh; ROU asset Rs 426.00 lakh",
+        "Liability Rs 348.88 lakh; ROU asset Rs 348.88 lakh",
+        "Liability Rs 348.88 lakh; ROU asset Rs 355.88 lakh"
+      ],
+      "a": 3,
+      "why": "PV of 4 rentals of Rs 103 lakh at 8% (factor 3.39) = Rs 348.88 lakh. ROU = liability + initial direct costs 7 = Rs 355.88 lakh. No discounting gives 419.00 (wrong); expensing IDC or equating ROU to the liability also misstates the asset.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — lease initial-measurement arithmetic is a fixture of Section B short sums Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Leases — initial measurement",
+        "tip": "Lease liability = PV of unpaid fixed payments at IBR (annuity-due when paid at year-start). ROU = liability + prepaid + initial direct costs − incentives.",
+        "link": "Chapter 7 — Ind AS on Liabilities of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-rub1kp",
+      "ch": 7,
+      "topic": "Leases — initial measurement",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Indus Fab Ltd enters a 5-year equipment lease on 1 April 20X1 with annual rentals of Rs 99 lakh payable in advance (from the commencement date), IBR 8%. Initial direct costs Rs 4 lakh. Rentals start on the commencement date. The lease liability and ROU asset at commencement are (round to Rs lakh):",
+      "o": [
+        "Liability Rs 434.33 lakh; ROU asset Rs 430.33 lakh",
+        "Liability Rs 499.00 lakh; ROU asset Rs 503.00 lakh",
+        "Liability Rs 434.33 lakh; ROU asset Rs 438.33 lakh",
+        "Liability Rs 434.33 lakh; ROU asset Rs 434.33 lakh"
+      ],
+      "a": 2,
+      "why": "PV of 5 rentals of Rs 99 lakh at 8% (annuity-due, factor 4.39) = Rs 434.33 lakh. ROU = liability + initial direct costs 4 = Rs 438.33 lakh. No discounting gives 499.00 (wrong); expensing IDC or equating ROU to the liability also misstates the asset.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — lease initial-measurement arithmetic is a fixture of Section B short sums Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Leases — initial measurement",
+        "tip": "Lease liability = PV of unpaid fixed payments at IBR (annuity-due when paid at year-start). ROU = liability + prepaid + initial direct costs − incentives.",
+        "link": "Chapter 7 — Ind AS on Liabilities of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1dk3upn",
+      "ch": 7,
+      "topic": "Leases — initial measurement",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Palladi Ltd enters a 4-year equipment lease on 1 April 20X1 with annual rentals of Rs 119 lakh payable in advance (from the commencement date), IBR 8%. Initial direct costs Rs 5 lakh. Rentals start on the commencement date. The lease liability and ROU asset at commencement are (round to Rs lakh):",
+      "o": [
+        "Liability Rs 420.22 lakh; ROU asset Rs 425.22 lakh",
+        "Liability Rs 420.22 lakh; ROU asset Rs 415.22 lakh",
+        "Liability Rs 481.00 lakh; ROU asset Rs 486.00 lakh",
+        "Liability Rs 420.22 lakh; ROU asset Rs 420.22 lakh"
+      ],
+      "a": 0,
+      "why": "PV of 4 rentals of Rs 119 lakh at 8% (annuity-due, factor 3.53) = Rs 420.22 lakh. ROU = liability + initial direct costs 5 = Rs 425.22 lakh. No discounting gives 481.00 (wrong); expensing IDC or equating ROU to the liability also misstates the asset.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — lease initial-measurement arithmetic is a fixture of Section B short sums Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Leases — initial measurement",
+        "tip": "Lease liability = PV of unpaid fixed payments at IBR (annuity-due when paid at year-start). ROU = liability + prepaid + initial direct costs − incentives.",
+        "link": "Chapter 7 — Ind AS on Liabilities of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-9ik0su",
+      "ch": 7,
+      "topic": "Leases — initial measurement",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Palladi Ltd enters a 5-year equipment lease on 1 April 20X1 with annual rentals of Rs 82 lakh payable in advance (from the commencement date), IBR 8%. Initial direct costs Rs 4 lakh. Rentals start on the commencement date. The lease liability and ROU asset at commencement are (round to Rs lakh):",
+      "o": [
+        "Liability Rs 353.59 lakh; ROU asset Rs 349.59 lakh",
+        "Liability Rs 414.00 lakh; ROU asset Rs 418.00 lakh",
+        "Liability Rs 353.59 lakh; ROU asset Rs 353.59 lakh",
+        "Liability Rs 353.59 lakh; ROU asset Rs 357.59 lakh"
+      ],
+      "a": 3,
+      "why": "PV of 5 rentals of Rs 82 lakh at 8% (annuity-due, factor 4.31) = Rs 353.59 lakh. ROU = liability + initial direct costs 4 = Rs 357.59 lakh. No discounting gives 414.00 (wrong); expensing IDC or equating ROU to the liability also misstates the asset.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — lease initial-measurement arithmetic is a fixture of Section B short sums Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Leases — initial measurement",
+        "tip": "Lease liability = PV of unpaid fixed payments at IBR (annuity-due when paid at year-start). ROU = liability + prepaid + initial direct costs − incentives.",
+        "link": "Chapter 7 — Ind AS on Liabilities of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1or7bfd",
+      "ch": 7,
+      "topic": "Leases — initial measurement",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Marlin Ltd enters a 4-year equipment lease on 1 April 20X1 with annual rentals of Rs 88 lakh payable in advance (from the commencement date), IBR 8%. Initial direct costs Rs 6 lakh. Rentals start on the commencement date. The lease liability and ROU asset at commencement are (round to Rs lakh):",
+      "o": [
+        "Liability Rs 310.75 lakh; ROU asset Rs 316.75 lakh",
+        "Liability Rs 310.75 lakh; ROU asset Rs 304.75 lakh",
+        "Liability Rs 358.00 lakh; ROU asset Rs 364.00 lakh",
+        "Liability Rs 310.75 lakh; ROU asset Rs 310.75 lakh"
+      ],
+      "a": 0,
+      "why": "PV of 4 rentals of Rs 88 lakh at 8% (annuity-due, factor 3.53) = Rs 310.75 lakh. ROU = liability + initial direct costs 6 = Rs 316.75 lakh. No discounting gives 358.00 (wrong); expensing IDC or equating ROU to the liability also misstates the asset.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — lease initial-measurement arithmetic is a fixture of Section B short sums Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Leases — initial measurement",
+        "tip": "Lease liability = PV of unpaid fixed payments at IBR (annuity-due when paid at year-start). ROU = liability + prepaid + initial direct costs − incentives.",
+        "link": "Chapter 7 — Ind AS on Liabilities of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-vz9tyh",
+      "ch": 7,
+      "topic": "Leases — initial measurement",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Indus Fab Ltd enters a 5-year equipment lease on 1 April 20X1 with annual rentals of Rs 138 lakh payable in advance (from the commencement date), IBR 8%. Initial direct costs Rs 4 lakh. Rentals start one year later. The lease liability and ROU asset at commencement are (round to Rs lakh):",
+      "o": [
+        "Liability Rs 565.83 lakh; ROU asset Rs 569.83 lakh",
+        "Liability Rs 565.83 lakh; ROU asset Rs 561.83 lakh",
+        "Liability Rs 694.00 lakh; ROU asset Rs 698.00 lakh",
+        "Liability Rs 565.83 lakh; ROU asset Rs 565.83 lakh"
+      ],
+      "a": 0,
+      "why": "PV of 5 rentals of Rs 138 lakh at 8% (factor 4.10) = Rs 565.83 lakh. ROU = liability + initial direct costs 4 = Rs 569.83 lakh. No discounting gives 694.00 (wrong); expensing IDC or equating ROU to the liability also misstates the asset.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — lease initial-measurement arithmetic is a fixture of Section B short sums Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Leases — initial measurement",
+        "tip": "Lease liability = PV of unpaid fixed payments at IBR (annuity-due when paid at year-start). ROU = liability + prepaid + initial direct costs − incentives.",
+        "link": "Chapter 7 — Ind AS on Liabilities of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-3lkw0",
+      "ch": 7,
+      "topic": "Leases — initial measurement",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Meridian Ltd enters a 5-year equipment lease on 1 April 20X1 with annual rentals of Rs 90 lakh payable in advance (from the commencement date), IBR 8%. Initial direct costs Rs 3 lakh. Rentals start one year later. The lease liability and ROU asset at commencement are (round to Rs lakh):",
+      "o": [
+        "Liability Rs 350.07 lakh; ROU asset Rs 353.07 lakh",
+        "Liability Rs 350.07 lakh; ROU asset Rs 347.07 lakh",
+        "Liability Rs 453.00 lakh; ROU asset Rs 456.00 lakh",
+        "Liability Rs 350.07 lakh; ROU asset Rs 350.07 lakh"
+      ],
+      "a": 0,
+      "why": "PV of 5 rentals of Rs 90 lakh at 8% (factor 3.89) = Rs 350.07 lakh. ROU = liability + initial direct costs 3 = Rs 353.07 lakh. No discounting gives 453.00 (wrong); expensing IDC or equating ROU to the liability also misstates the asset.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — lease initial-measurement arithmetic is a fixture of Section B short sums Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Leases — initial measurement",
+        "tip": "Lease liability = PV of unpaid fixed payments at IBR (annuity-due when paid at year-start). ROU = liability + prepaid + initial direct costs − incentives.",
+        "link": "Chapter 7 — Ind AS on Liabilities of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-6lp3po",
+      "ch": 7,
+      "topic": "Leases — initial measurement",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Vertex Ltd enters a 6-year equipment lease on 1 April 20X1 with annual rentals of Rs 131 lakh payable in advance (from the commencement date), IBR 8%. Initial direct costs Rs 7 lakh. Rentals start on the commencement date. The lease liability and ROU asset at commencement are (round to Rs lakh):",
+      "o": [
+        "Liability Rs 640.54 lakh; ROU asset Rs 633.54 lakh",
+        "Liability Rs 793.00 lakh; ROU asset Rs 800.00 lakh",
+        "Liability Rs 640.54 lakh; ROU asset Rs 640.54 lakh",
+        "Liability Rs 640.54 lakh; ROU asset Rs 647.54 lakh"
+      ],
+      "a": 3,
+      "why": "PV of 6 rentals of Rs 131 lakh at 8% (annuity-due, factor 4.89) = Rs 640.54 lakh. ROU = liability + initial direct costs 7 = Rs 647.54 lakh. No discounting gives 793.00 (wrong); expensing IDC or equating ROU to the liability also misstates the asset.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — lease initial-measurement arithmetic is a fixture of Section B short sums Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Leases — initial measurement",
+        "tip": "Lease liability = PV of unpaid fixed payments at IBR (annuity-due when paid at year-start). ROU = liability + prepaid + initial direct costs − incentives.",
+        "link": "Chapter 7 — Ind AS on Liabilities of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-mlcim2",
+      "ch": 7,
+      "topic": "Leases — initial measurement",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Zenith Ltd enters a 6-year equipment lease on 1 April 20X1 with annual rentals of Rs 126 lakh payable in advance (from the commencement date), IBR 8%. Initial direct costs Rs 7 lakh. Rentals start on the commencement date. The lease liability and ROU asset at commencement are (round to Rs lakh):",
+      "o": [
+        "Liability Rs 642.62 lakh; ROU asset Rs 635.62 lakh",
+        "Liability Rs 763.00 lakh; ROU asset Rs 770.00 lakh",
+        "Liability Rs 642.62 lakh; ROU asset Rs 642.62 lakh",
+        "Liability Rs 642.62 lakh; ROU asset Rs 649.62 lakh"
+      ],
+      "a": 3,
+      "why": "PV of 6 rentals of Rs 126 lakh at 8% (annuity-due, factor 5.10) = Rs 642.62 lakh. ROU = liability + initial direct costs 7 = Rs 649.62 lakh. No discounting gives 763.00 (wrong); expensing IDC or equating ROU to the liability also misstates the asset.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — lease initial-measurement arithmetic is a fixture of Section B short sums Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Leases — initial measurement",
+        "tip": "Lease liability = PV of unpaid fixed payments at IBR (annuity-due when paid at year-start). ROU = liability + prepaid + initial direct costs − incentives.",
+        "link": "Chapter 7 — Ind AS on Liabilities of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-tuu5d8",
+      "ch": 7,
+      "topic": "Leases — initial measurement",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Marlin Ltd enters a 5-year equipment lease on 1 April 20X1 with annual rentals of Rs 115 lakh payable in advance (from the commencement date), IBR 8%. Initial direct costs Rs 7 lakh. Rentals start on the commencement date. The lease liability and ROU asset at commencement are (round to Rs lakh):",
+      "o": [
+        "Liability Rs 504.53 lakh; ROU asset Rs 497.53 lakh",
+        "Liability Rs 504.53 lakh; ROU asset Rs 511.53 lakh",
+        "Liability Rs 582.00 lakh; ROU asset Rs 589.00 lakh",
+        "Liability Rs 504.53 lakh; ROU asset Rs 504.53 lakh"
+      ],
+      "a": 1,
+      "why": "PV of 5 rentals of Rs 115 lakh at 8% (annuity-due, factor 4.39) = Rs 504.53 lakh. ROU = liability + initial direct costs 7 = Rs 511.53 lakh. No discounting gives 582.00 (wrong); expensing IDC or equating ROU to the liability also misstates the asset.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — lease initial-measurement arithmetic is a fixture of Section B short sums Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Leases — initial measurement",
+        "tip": "Lease liability = PV of unpaid fixed payments at IBR (annuity-due when paid at year-start). ROU = liability + prepaid + initial direct costs − incentives.",
+        "link": "Chapter 7 — Ind AS on Liabilities of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-p3t0jq",
+      "ch": 7,
+      "topic": "Leases — initial measurement",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Sable Ltd enters a 4-year equipment lease on 1 April 20X1 with annual rentals of Rs 88 lakh payable in advance (from the commencement date), IBR 8%. Initial direct costs Rs 7 lakh. Rentals start one year later. The lease liability and ROU asset at commencement are (round to Rs lakh):",
+      "o": [
+        "Liability Rs 285.10 lakh; ROU asset Rs 278.10 lakh",
+        "Liability Rs 285.10 lakh; ROU asset Rs 292.10 lakh",
+        "Liability Rs 359.00 lakh; ROU asset Rs 366.00 lakh",
+        "Liability Rs 285.10 lakh; ROU asset Rs 285.10 lakh"
+      ],
+      "a": 1,
+      "why": "PV of 4 rentals of Rs 88 lakh at 8% (factor 3.24) = Rs 285.10 lakh. ROU = liability + initial direct costs 7 = Rs 292.10 lakh. No discounting gives 359.00 (wrong); expensing IDC or equating ROU to the liability also misstates the asset.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — lease initial-measurement arithmetic is a fixture of Section B short sums Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Leases — initial measurement",
+        "tip": "Lease liability = PV of unpaid fixed payments at IBR (annuity-due when paid at year-start). ROU = liability + prepaid + initial direct costs − incentives.",
+        "link": "Chapter 7 — Ind AS on Liabilities of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1ye9ruj",
+      "ch": 7,
+      "topic": "Ind AS 23 — capitalisation",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "A qualifying asset is funded by a specific borrowing of Rs 380 lakh at 10% (drawn for the whole year) and a general pool of Rs 341 lakh at 11%. Cumulative weighted-average expenditure was 238 lakh; unspent specific funds earned 5 lakh. Half of the general-pool amount was drawn for the full year. Amount capitalised (Rs lakh, rounded):",
+      "o": [
+        "Rs 37.50 lakh",
+        "Rs 42.50 lakh",
+        "Rs 18.75 lakh",
+        "Rs 61.26 lakh"
+      ],
+      "a": 0,
+      "why": "Specific: 237.50 × 10% = 23.75 − temporary-investment income 5 = 18.75. General: 341 × 11% × 6/12 = 18.76. Total = 37.50 lakh.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — capitalisation sums with an income netting step recur in near every attempt Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 23 — capitalisation",
+        "tip": "Specific borrowing: income on temporary investment is deducted. General borrowings: capitalisation rate = weighted average cost.",
+        "link": "Chapter 7 — Ind AS on Liabilities of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-j87zp5",
+      "ch": 7,
+      "topic": "Ind AS 23 — capitalisation",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "A qualifying asset is funded by a specific borrowing of Rs 388 lakh at 10% (drawn for the whole year) and a general pool of Rs 334 lakh at 11%. Cumulative weighted-average expenditure was 243 lakh; unspent specific funds earned 5 lakh. Half of the general-pool amount was drawn for the full year. Amount capitalised (Rs lakh, rounded):",
+      "o": [
+        "Rs 37.62 lakh",
+        "Rs 42.62 lakh",
+        "Rs 19.25 lakh",
+        "Rs 60.99 lakh"
+      ],
+      "a": 0,
+      "why": "Specific: 242.50 × 10% = 24.25 − temporary-investment income 5 = 19.25. General: 334 × 11% × 6/12 = 18.37. Total = 37.62 lakh.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — capitalisation sums with an income netting step recur in near every attempt Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 23 — capitalisation",
+        "tip": "Specific borrowing: income on temporary investment is deducted. General borrowings: capitalisation rate = weighted average cost.",
+        "link": "Chapter 7 — Ind AS on Liabilities of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1qsj8kb",
+      "ch": 7,
+      "topic": "Ind AS 23 — capitalisation",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "A qualifying asset is funded by a specific borrowing of Rs 300 lakh at 10% (drawn for the whole year) and a general pool of Rs 499 lakh at 9%. Cumulative weighted-average expenditure was 188 lakh; unspent specific funds earned 4 lakh. Half of the general-pool amount was drawn for the full year. Amount capitalised (Rs lakh, rounded):",
+      "o": [
+        "Rs 41.21 lakh",
+        "Rs 37.21 lakh",
+        "Rs 14.75 lakh",
+        "Rs 63.66 lakh"
+      ],
+      "a": 1,
+      "why": "Specific: 187.50 × 10% = 18.75 − temporary-investment income 4 = 14.75. General: 499 × 9% × 6/12 = 22.46. Total = 37.21 lakh.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — capitalisation sums with an income netting step recur in near every attempt Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 23 — capitalisation",
+        "tip": "Specific borrowing: income on temporary investment is deducted. General borrowings: capitalisation rate = weighted average cost.",
+        "link": "Chapter 7 — Ind AS on Liabilities of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1moe4bz",
+      "ch": 7,
+      "topic": "Ind AS 23 — capitalisation",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "A qualifying asset is funded by a specific borrowing of Rs 281 lakh at 10% (drawn for the whole year) and a general pool of Rs 377 lakh at 11%. Cumulative weighted-average expenditure was 176 lakh; unspent specific funds earned 9 lakh. Half of the general-pool amount was drawn for the full year. Amount capitalised (Rs lakh, rounded):",
+      "o": [
+        "Rs 29.31 lakh",
+        "Rs 38.31 lakh",
+        "Rs 8.58 lakh",
+        "Rs 59.05 lakh"
+      ],
+      "a": 0,
+      "why": "Specific: 175.75 × 10% = 17.58 − temporary-investment income 9 = 8.58. General: 377 × 11% × 6/12 = 20.74. Total = 29.31 lakh.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — capitalisation sums with an income netting step recur in near every attempt Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 23 — capitalisation",
+        "tip": "Specific borrowing: income on temporary investment is deducted. General borrowings: capitalisation rate = weighted average cost.",
+        "link": "Chapter 7 — Ind AS on Liabilities of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-746wt9",
+      "ch": 7,
+      "topic": "Ind AS 23 — capitalisation",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "A qualifying asset is funded by a specific borrowing of Rs 393 lakh at 10% (drawn for the whole year) and a general pool of Rs 316 lakh at 11%. Cumulative weighted-average expenditure was 246 lakh; unspent specific funds earned 4 lakh. Half of the general-pool amount was drawn for the full year. Amount capitalised (Rs lakh, rounded):",
+      "o": [
+        "Rs 41.96 lakh",
+        "Rs 20.58 lakh",
+        "Rs 37.96 lakh",
+        "Rs 59.33 lakh"
+      ],
+      "a": 2,
+      "why": "Specific: 245.75 × 10% = 24.58 − temporary-investment income 4 = 20.58. General: 316 × 11% × 6/12 = 17.38. Total = 37.96 lakh.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — capitalisation sums with an income netting step recur in near every attempt Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 23 — capitalisation",
+        "tip": "Specific borrowing: income on temporary investment is deducted. General borrowings: capitalisation rate = weighted average cost.",
+        "link": "Chapter 7 — Ind AS on Liabilities of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1cipinf",
+      "ch": 7,
+      "topic": "Ind AS 23 — capitalisation",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "A qualifying asset is funded by a specific borrowing of Rs 262 lakh at 10% (drawn for the whole year) and a general pool of Rs 439 lakh at 11%. Cumulative weighted-average expenditure was 164 lakh; unspent specific funds earned 4 lakh. Half of the general-pool amount was drawn for the full year. Amount capitalised (Rs lakh, rounded):",
+      "o": [
+        "Rs 40.55 lakh",
+        "Rs 12.40 lakh",
+        "Rs 36.55 lakh",
+        "Rs 64.69 lakh"
+      ],
+      "a": 2,
+      "why": "Specific: 164.00 × 10% = 16.40 − temporary-investment income 4 = 12.40. General: 439 × 11% × 6/12 = 24.15. Total = 36.55 lakh.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — capitalisation sums with an income netting step recur in near every attempt Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 23 — capitalisation",
+        "tip": "Specific borrowing: income on temporary investment is deducted. General borrowings: capitalisation rate = weighted average cost.",
+        "link": "Chapter 7 — Ind AS on Liabilities of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-etvmkc",
+      "ch": 7,
+      "topic": "Ind AS 23 — capitalisation",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "A qualifying asset is funded by a specific borrowing of Rs 374 lakh at 10% (drawn for the whole year) and a general pool of Rs 359 lakh at 11%. Cumulative weighted-average expenditure was 234 lakh; unspent specific funds earned 6 lakh. Half of the general-pool amount was drawn for the full year. Amount capitalised (Rs lakh, rounded):",
+      "o": [
+        "Rs 37.14 lakh",
+        "Rs 43.14 lakh",
+        "Rs 17.40 lakh",
+        "Rs 62.89 lakh"
+      ],
+      "a": 0,
+      "why": "Specific: 234.00 × 10% = 23.40 − temporary-investment income 6 = 17.40. General: 359 × 11% × 6/12 = 19.75. Total = 37.14 lakh.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — capitalisation sums with an income netting step recur in near every attempt Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 23 — capitalisation",
+        "tip": "Specific borrowing: income on temporary investment is deducted. General borrowings: capitalisation rate = weighted average cost.",
+        "link": "Chapter 7 — Ind AS on Liabilities of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-aa5dyr",
+      "ch": 7,
+      "topic": "Ind AS 23 — capitalisation",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "A qualifying asset is funded by a specific borrowing of Rs 318 lakh at 10% (drawn for the whole year) and a general pool of Rs 492 lakh at 9%. Cumulative weighted-average expenditure was 199 lakh; unspent specific funds earned 6 lakh. Half of the general-pool amount was drawn for the full year. Amount capitalised (Rs lakh, rounded):",
+      "o": [
+        "Rs 42.04 lakh",
+        "Rs 36.04 lakh",
+        "Rs 13.90 lakh",
+        "Rs 64.18 lakh"
+      ],
+      "a": 1,
+      "why": "Specific: 199.00 × 10% = 19.90 − temporary-investment income 6 = 13.90. General: 492 × 9% × 6/12 = 22.14. Total = 36.04 lakh.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — capitalisation sums with an income netting step recur in near every attempt Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 23 — capitalisation",
+        "tip": "Specific borrowing: income on temporary investment is deducted. General borrowings: capitalisation rate = weighted average cost.",
+        "link": "Chapter 7 — Ind AS on Liabilities of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-2dje47",
+      "ch": 7,
+      "topic": "Ind AS 23 — capitalisation",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "A qualifying asset is funded by a specific borrowing of Rs 215 lakh at 10% (drawn for the whole year) and a general pool of Rs 436 lakh at 11%. Cumulative weighted-average expenditure was 135 lakh; unspent specific funds earned 9 lakh. Half of the general-pool amount was drawn for the full year. Amount capitalised (Rs lakh, rounded):",
+      "o": [
+        "Rs 37.43 lakh",
+        "Rs 4.45 lakh",
+        "Rs 61.41 lakh",
+        "Rs 28.43 lakh"
+      ],
+      "a": 3,
+      "why": "Specific: 134.50 × 10% = 13.45 − temporary-investment income 9 = 4.45. General: 436 × 11% × 6/12 = 23.98. Total = 28.43 lakh.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — capitalisation sums with an income netting step recur in near every attempt Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 23 — capitalisation",
+        "tip": "Specific borrowing: income on temporary investment is deducted. General borrowings: capitalisation rate = weighted average cost.",
+        "link": "Chapter 7 — Ind AS on Liabilities of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1luekjm",
+      "ch": 7,
+      "topic": "Ind AS 23 — capitalisation",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "A qualifying asset is funded by a specific borrowing of Rs 200 lakh at 10% (drawn for the whole year) and a general pool of Rs 368 lakh at 11%. Cumulative weighted-average expenditure was 125 lakh; unspent specific funds earned 9 lakh. Half of the general-pool amount was drawn for the full year. Amount capitalised (Rs lakh, rounded):",
+      "o": [
+        "Rs 32.74 lakh",
+        "Rs 3.50 lakh",
+        "Rs 23.74 lakh",
+        "Rs 52.98 lakh"
+      ],
+      "a": 2,
+      "why": "Specific: 125.00 × 10% = 12.50 − temporary-investment income 9 = 3.50. General: 368 × 11% × 6/12 = 20.24. Total = 23.74 lakh.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — capitalisation sums with an income netting step recur in near every attempt Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 23 — capitalisation",
+        "tip": "Specific borrowing: income on temporary investment is deducted. General borrowings: capitalisation rate = weighted average cost.",
+        "link": "Chapter 7 — Ind AS on Liabilities of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-t492r",
+      "ch": 7,
+      "topic": "Ind AS 23 — capitalisation",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "A qualifying asset is funded by a specific borrowing of Rs 378 lakh at 10% (drawn for the whole year) and a general pool of Rs 411 lakh at 9%. Cumulative weighted-average expenditure was 237 lakh; unspent specific funds earned 4 lakh. Half of the general-pool amount was drawn for the full year. Amount capitalised (Rs lakh, rounded):",
+      "o": [
+        "Rs 42.14 lakh",
+        "Rs 19.65 lakh",
+        "Rs 38.14 lakh",
+        "Rs 60.64 lakh"
+      ],
+      "a": 2,
+      "why": "Specific: 236.50 × 10% = 23.65 − temporary-investment income 4 = 19.65. General: 411 × 9% × 6/12 = 18.50. Total = 38.14 lakh.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — capitalisation sums with an income netting step recur in near every attempt Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 23 — capitalisation",
+        "tip": "Specific borrowing: income on temporary investment is deducted. General borrowings: capitalisation rate = weighted average cost.",
+        "link": "Chapter 7 — Ind AS on Liabilities of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-5duo0a",
+      "ch": 7,
+      "topic": "Ind AS 23 — capitalisation",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "A qualifying asset is funded by a specific borrowing of Rs 240 lakh at 10% (drawn for the whole year) and a general pool of Rs 459 lakh at 9%. Cumulative weighted-average expenditure was 150 lakh; unspent specific funds earned 9 lakh. Half of the general-pool amount was drawn for the full year. Amount capitalised (Rs lakh, rounded):",
+      "o": [
+        "Rs 35.66 lakh",
+        "Rs 6.00 lakh",
+        "Rs 56.31 lakh",
+        "Rs 26.66 lakh"
+      ],
+      "a": 3,
+      "why": "Specific: 150.00 × 10% = 15.00 − temporary-investment income 9 = 6.00. General: 459 × 9% × 6/12 = 20.66. Total = 26.66 lakh.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — capitalisation sums with an income netting step recur in near every attempt Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 23 — capitalisation",
+        "tip": "Specific borrowing: income on temporary investment is deducted. General borrowings: capitalisation rate = weighted average cost.",
+        "link": "Chapter 7 — Ind AS on Liabilities of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-xz4run",
+      "ch": 7,
+      "topic": "Ind AS 37 — discounting",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A provision of Rs 100 lakh (reliable best estimate) is payable in 3 years; money's time value is material; discount rate 6%. Under Ind AS 37:",
+      "o": [
+        "Provision Rs 100 lakh; no finance cost",
+        "Provision Rs 84.0 lakh; finance cost Rs 33.3 lakh",
+        "Disclose Rs 100 lakh as contingent liability",
+        "Provision Rs 84.0 lakh; next year's finance cost Rs 5.0 lakh"
+      ],
+      "a": 3,
+      "why": "Provision = PV 100/1.191 = Rs 84.0 lakh; next period's unwinding = PV × 6% = Rs 5.0 lakh to finance costs.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — discount-and-unwind provisions test both 37 and the P&L geography AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 37 — discounting",
+        "tip": "Provisions discounted when time value material; unwinding = finance cost.",
+        "link": "Chapter 7 — Ind AS on Liabilities of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-2dyjrg",
+      "ch": 7,
+      "topic": "Ind AS 37 — discounting",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A provision of Rs 80 lakh (reliable best estimate) is payable in 3 years; money's time value is material; discount rate 8%. Under Ind AS 37:",
+      "o": [
+        "Provision Rs 63.5 lakh; next year's finance cost Rs 5.1 lakh",
+        "Provision Rs 80 lakh; no finance cost",
+        "Provision Rs 63.5 lakh; finance cost Rs 26.7 lakh",
+        "Disclose Rs 80 lakh as contingent liability"
+      ],
+      "a": 0,
+      "why": "Provision = PV 80/1.260 = Rs 63.5 lakh; next period's unwinding = PV × 8% = Rs 5.1 lakh to finance costs.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — discount-and-unwind provisions test both 37 and the P&L geography AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 37 — discounting",
+        "tip": "Provisions discounted when time value material; unwinding = finance cost.",
+        "link": "Chapter 7 — Ind AS on Liabilities of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-2q13cs",
+      "ch": 7,
+      "topic": "Ind AS 37 — discounting",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A provision of Rs 100 lakh (reliable best estimate) is payable in 2 years; money's time value is material; discount rate 6%. Under Ind AS 37:",
+      "o": [
+        "Provision Rs 100 lakh; no finance cost",
+        "Provision Rs 89.0 lakh; finance cost Rs 50.0 lakh",
+        "Disclose Rs 100 lakh as contingent liability",
+        "Provision Rs 89.0 lakh; next year's finance cost Rs 5.3 lakh"
+      ],
+      "a": 3,
+      "why": "Provision = PV 100/1.124 = Rs 89.0 lakh; next period's unwinding = PV × 6% = Rs 5.3 lakh to finance costs.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — discount-and-unwind provisions test both 37 and the P&L geography AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 37 — discounting",
+        "tip": "Provisions discounted when time value material; unwinding = finance cost.",
+        "link": "Chapter 7 — Ind AS on Liabilities of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-le8q28",
+      "ch": 7,
+      "topic": "Ind AS 37 — discounting",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A provision of Rs 100 lakh (reliable best estimate) is payable in 3 years; money's time value is material; discount rate 5%. Under Ind AS 37:",
+      "o": [
+        "Provision Rs 86.4 lakh; next year's finance cost Rs 4.3 lakh",
+        "Provision Rs 100 lakh; no finance cost",
+        "Provision Rs 86.4 lakh; finance cost Rs 33.3 lakh",
+        "Disclose Rs 100 lakh as contingent liability"
+      ],
+      "a": 0,
+      "why": "Provision = PV 100/1.158 = Rs 86.4 lakh; next period's unwinding = PV × 5% = Rs 4.3 lakh to finance costs.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — discount-and-unwind provisions test both 37 and the P&L geography AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 37 — discounting",
+        "tip": "Provisions discounted when time value material; unwinding = finance cost.",
+        "link": "Chapter 7 — Ind AS on Liabilities of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1cqao41",
+      "ch": 7,
+      "topic": "Ind AS 37 — discounting",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A provision of Rs 160 lakh (reliable best estimate) is payable in 2 years; money's time value is material; discount rate 5%. Under Ind AS 37:",
+      "o": [
+        "Provision Rs 160 lakh; no finance cost",
+        "Provision Rs 145.1 lakh; finance cost Rs 80.0 lakh",
+        "Provision Rs 145.1 lakh; next year's finance cost Rs 7.3 lakh",
+        "Disclose Rs 160 lakh as contingent liability"
+      ],
+      "a": 2,
+      "why": "Provision = PV 160/1.103 = Rs 145.1 lakh; next period's unwinding = PV × 5% = Rs 7.3 lakh to finance costs.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — discount-and-unwind provisions test both 37 and the P&L geography AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 37 — discounting",
+        "tip": "Provisions discounted when time value material; unwinding = finance cost.",
+        "link": "Chapter 7 — Ind AS on Liabilities of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-2gy97",
+      "ch": 7,
+      "topic": "Ind AS 37 — discounting",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A provision of Rs 80 lakh (reliable best estimate) is payable in 2 years; money's time value is material; discount rate 8%. Under Ind AS 37:",
+      "o": [
+        "Provision Rs 68.6 lakh; next year's finance cost Rs 5.5 lakh",
+        "Provision Rs 80 lakh; no finance cost",
+        "Provision Rs 68.6 lakh; finance cost Rs 40.0 lakh",
+        "Disclose Rs 80 lakh as contingent liability"
+      ],
+      "a": 0,
+      "why": "Provision = PV 80/1.166 = Rs 68.6 lakh; next period's unwinding = PV × 8% = Rs 5.5 lakh to finance costs.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — discount-and-unwind provisions test both 37 and the P&L geography AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 37 — discounting",
+        "tip": "Provisions discounted when time value material; unwinding = finance cost.",
+        "link": "Chapter 7 — Ind AS on Liabilities of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-c5skb",
+      "ch": 7,
+      "topic": "Ind AS 37 — discounting",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A provision of Rs 100 lakh (reliable best estimate) is payable in 2 years; money's time value is material; discount rate 5%. Under Ind AS 37:",
+      "o": [
+        "Provision Rs 100 lakh; no finance cost",
+        "Provision Rs 90.7 lakh; next year's finance cost Rs 4.5 lakh",
+        "Provision Rs 90.7 lakh; finance cost Rs 50.0 lakh",
+        "Disclose Rs 100 lakh as contingent liability"
+      ],
+      "a": 1,
+      "why": "Provision = PV 100/1.103 = Rs 90.7 lakh; next period's unwinding = PV × 5% = Rs 4.5 lakh to finance costs.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — discount-and-unwind provisions test both 37 and the P&L geography AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 37 — discounting",
+        "tip": "Provisions discounted when time value material; unwinding = finance cost.",
+        "link": "Chapter 7 — Ind AS on Liabilities of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-mmwwhd",
+      "ch": 7,
+      "topic": "Ind AS 37 — discounting",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A provision of Rs 100 lakh (reliable best estimate) is payable in 3 years; money's time value is material; discount rate 8%. Under Ind AS 37:",
+      "o": [
+        "Provision Rs 100 lakh; no finance cost",
+        "Provision Rs 79.4 lakh; finance cost Rs 33.3 lakh",
+        "Disclose Rs 100 lakh as contingent liability",
+        "Provision Rs 79.4 lakh; next year's finance cost Rs 6.4 lakh"
+      ],
+      "a": 3,
+      "why": "Provision = PV 100/1.260 = Rs 79.4 lakh; next period's unwinding = PV × 8% = Rs 6.4 lakh to finance costs.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — discount-and-unwind provisions test both 37 and the P&L geography AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 37 — discounting",
+        "tip": "Provisions discounted when time value material; unwinding = finance cost.",
+        "link": "Chapter 7 — Ind AS on Liabilities of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1c367tr",
+      "ch": 7,
+      "topic": "Ind AS 37 — discounting",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A provision of Rs 160 lakh (reliable best estimate) is payable in 3 years; money's time value is material; discount rate 8%. Under Ind AS 37:",
+      "o": [
+        "Provision Rs 160 lakh; no finance cost",
+        "Provision Rs 127.0 lakh; next year's finance cost Rs 10.2 lakh",
+        "Provision Rs 127.0 lakh; finance cost Rs 53.3 lakh",
+        "Disclose Rs 160 lakh as contingent liability"
+      ],
+      "a": 1,
+      "why": "Provision = PV 160/1.260 = Rs 127.0 lakh; next period's unwinding = PV × 8% = Rs 10.2 lakh to finance costs.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — discount-and-unwind provisions test both 37 and the P&L geography AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 37 — discounting",
+        "tip": "Provisions discounted when time value material; unwinding = finance cost.",
+        "link": "Chapter 7 — Ind AS on Liabilities of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1nqe1sh",
+      "ch": 7,
+      "topic": "Ind AS 37 — discounting",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A provision of Rs 160 lakh (reliable best estimate) is payable in 3 years; money's time value is material; discount rate 6%. Under Ind AS 37:",
+      "o": [
+        "Provision Rs 160 lakh; no finance cost",
+        "Provision Rs 134.3 lakh; next year's finance cost Rs 8.1 lakh",
+        "Provision Rs 134.3 lakh; finance cost Rs 53.3 lakh",
+        "Disclose Rs 160 lakh as contingent liability"
+      ],
+      "a": 1,
+      "why": "Provision = PV 160/1.191 = Rs 134.3 lakh; next period's unwinding = PV × 6% = Rs 8.1 lakh to finance costs.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — discount-and-unwind provisions test both 37 and the P&L geography AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 37 — discounting",
+        "tip": "Provisions discounted when time value material; unwinding = finance cost.",
+        "link": "Chapter 7 — Ind AS on Liabilities of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-gc29sy",
+      "ch": 7,
+      "topic": "Ind AS 37 — discounting",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A provision of Rs 80 lakh (reliable best estimate) is payable in 2 years; money's time value is material; discount rate 5%. Under Ind AS 37:",
+      "o": [
+        "Provision Rs 80 lakh; no finance cost",
+        "Provision Rs 72.6 lakh; next year's finance cost Rs 3.6 lakh",
+        "Provision Rs 72.6 lakh; finance cost Rs 40.0 lakh",
+        "Disclose Rs 80 lakh as contingent liability"
+      ],
+      "a": 1,
+      "why": "Provision = PV 80/1.103 = Rs 72.6 lakh; next period's unwinding = PV × 5% = Rs 3.6 lakh to finance costs.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — discount-and-unwind provisions test both 37 and the P&L geography AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 37 — discounting",
+        "tip": "Provisions discounted when time value material; unwinding = finance cost.",
+        "link": "Chapter 7 — Ind AS on Liabilities of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1wg4klx",
+      "ch": 7,
+      "topic": "Ind AS 37 — discounting",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A provision of Rs 80 lakh (reliable best estimate) is payable in 3 years; money's time value is material; discount rate 5%. Under Ind AS 37:",
+      "o": [
+        "Provision Rs 80 lakh; no finance cost",
+        "Provision Rs 69.1 lakh; finance cost Rs 26.7 lakh",
+        "Disclose Rs 80 lakh as contingent liability",
+        "Provision Rs 69.1 lakh; next year's finance cost Rs 3.5 lakh"
+      ],
+      "a": 3,
+      "why": "Provision = PV 80/1.158 = Rs 69.1 lakh; next period's unwinding = PV × 5% = Rs 3.5 lakh to finance costs.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — discount-and-unwind provisions test both 37 and the P&L geography AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 37 — discounting",
+        "tip": "Provisions discounted when time value material; unwinding = finance cost.",
+        "link": "Chapter 7 — Ind AS on Liabilities of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-14ss3rr",
+      "ch": 7,
+      "topic": "Provision measurement",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A retailer offers a loyalty rebate expected to be claimed by 60% of its customer base, costing Rs 300 lakh in total if all claim; 40% will claim nothing. Ind AS 37 best estimate for this class of obligations:",
+      "o": [
+        "Rs 300 lakh",
+        "Rs 120 lakh",
+        "Rs 180 lakh (probability-weighted)",
+        "Disclose only"
+      ],
+      "a": 2,
+      "why": "For large classes, expected value = Σ probability × outcome = 60% × 300 = Rs 180 lakh. Most-likely-outcome applies only to single obligations.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — expected-vs-most-likely measurement basis is tested with numbers AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Provision measurement",
+        "tip": "Class of obligations: expected value (probability-weighted). Single obligation: most likely outcome.",
+        "link": "Chapter 7 — Ind AS on Liabilities of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-p1fjl7",
+      "ch": 7,
+      "topic": "Provision measurement",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A retailer offers a loyalty rebate expected to be claimed by 80% of its customer base, costing Rs 300 lakh in total if all claim; 20% will claim nothing. Ind AS 37 best estimate for this class of obligations:",
+      "o": [
+        "Rs 300 lakh",
+        "Rs 240 lakh (probability-weighted)",
+        "Rs 60 lakh",
+        "Disclose only"
+      ],
+      "a": 1,
+      "why": "For large classes, expected value = Σ probability × outcome = 80% × 300 = Rs 240 lakh. Most-likely-outcome applies only to single obligations.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — expected-vs-most-likely measurement basis is tested with numbers AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Provision measurement",
+        "tip": "Class of obligations: expected value (probability-weighted). Single obligation: most likely outcome.",
+        "link": "Chapter 7 — Ind AS on Liabilities of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-u10iek",
+      "ch": 7,
+      "topic": "Provision measurement",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A retailer offers a loyalty rebate expected to be claimed by 60% of its customer base, costing Rs 400 lakh in total if all claim; 40% will claim nothing. Ind AS 37 best estimate for this class of obligations:",
+      "o": [
+        "Rs 400 lakh",
+        "Rs 240 lakh (probability-weighted)",
+        "Rs 160 lakh",
+        "Disclose only"
+      ],
+      "a": 1,
+      "why": "For large classes, expected value = Σ probability × outcome = 60% × 400 = Rs 240 lakh. Most-likely-outcome applies only to single obligations.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — expected-vs-most-likely measurement basis is tested with numbers AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Provision measurement",
+        "tip": "Class of obligations: expected value (probability-weighted). Single obligation: most likely outcome.",
+        "link": "Chapter 7 — Ind AS on Liabilities of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-8kwekq",
+      "ch": 7,
+      "topic": "Provision measurement",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A retailer offers a loyalty rebate expected to be claimed by 60% of its customer base, costing Rs 200 lakh in total if all claim; 40% will claim nothing. Ind AS 37 best estimate for this class of obligations:",
+      "o": [
+        "Rs 120 lakh (probability-weighted)",
+        "Rs 200 lakh",
+        "Rs 80 lakh",
+        "Disclose only"
+      ],
+      "a": 0,
+      "why": "For large classes, expected value = Σ probability × outcome = 60% × 200 = Rs 120 lakh. Most-likely-outcome applies only to single obligations.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — expected-vs-most-likely measurement basis is tested with numbers AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Provision measurement",
+        "tip": "Class of obligations: expected value (probability-weighted). Single obligation: most likely outcome.",
+        "link": "Chapter 7 — Ind AS on Liabilities of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-18i4it4",
+      "ch": 7,
+      "topic": "Provision measurement",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A retailer offers a loyalty rebate expected to be claimed by 80% of its customer base, costing Rs 400 lakh in total if all claim; 20% will claim nothing. Ind AS 37 best estimate for this class of obligations:",
+      "o": [
+        "Rs 400 lakh",
+        "Rs 80 lakh",
+        "Rs 320 lakh (probability-weighted)",
+        "Disclose only"
+      ],
+      "a": 2,
+      "why": "For large classes, expected value = Σ probability × outcome = 80% × 400 = Rs 320 lakh. Most-likely-outcome applies only to single obligations.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — expected-vs-most-likely measurement basis is tested with numbers AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Provision measurement",
+        "tip": "Class of obligations: expected value (probability-weighted). Single obligation: most likely outcome.",
+        "link": "Chapter 7 — Ind AS on Liabilities of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1tuqnw",
+      "ch": 7,
+      "topic": "Provision measurement",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A retailer offers a loyalty rebate expected to be claimed by 70% of its customer base, costing Rs 400 lakh in total if all claim; 30% will claim nothing. Ind AS 37 best estimate for this class of obligations:",
+      "o": [
+        "Rs 400 lakh",
+        "Rs 120 lakh",
+        "Disclose only",
+        "Rs 280 lakh (probability-weighted)"
+      ],
+      "a": 3,
+      "why": "For large classes, expected value = Σ probability × outcome = 70% × 400 = Rs 280 lakh. Most-likely-outcome applies only to single obligations.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — expected-vs-most-likely measurement basis is tested with numbers AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Provision measurement",
+        "tip": "Class of obligations: expected value (probability-weighted). Single obligation: most likely outcome.",
+        "link": "Chapter 7 — Ind AS on Liabilities of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-118eg8e",
+      "ch": 7,
+      "topic": "Provision measurement",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A retailer offers a loyalty rebate expected to be claimed by 80% of its customer base, costing Rs 200 lakh in total if all claim; 20% will claim nothing. Ind AS 37 best estimate for this class of obligations:",
+      "o": [
+        "Rs 200 lakh",
+        "Rs 160 lakh (probability-weighted)",
+        "Rs 40 lakh",
+        "Disclose only"
+      ],
+      "a": 1,
+      "why": "For large classes, expected value = Σ probability × outcome = 80% × 200 = Rs 160 lakh. Most-likely-outcome applies only to single obligations.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — expected-vs-most-likely measurement basis is tested with numbers AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Provision measurement",
+        "tip": "Class of obligations: expected value (probability-weighted). Single obligation: most likely outcome.",
+        "link": "Chapter 7 — Ind AS on Liabilities of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1nucmn3",
+      "ch": 7,
+      "topic": "Provision measurement",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A retailer offers a loyalty rebate expected to be claimed by 70% of its customer base, costing Rs 300 lakh in total if all claim; 30% will claim nothing. Ind AS 37 best estimate for this class of obligations:",
+      "o": [
+        "Rs 300 lakh",
+        "Rs 90 lakh",
+        "Rs 210 lakh (probability-weighted)",
+        "Disclose only"
+      ],
+      "a": 2,
+      "why": "For large classes, expected value = Σ probability × outcome = 70% × 300 = Rs 210 lakh. Most-likely-outcome applies only to single obligations.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — expected-vs-most-likely measurement basis is tested with numbers AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Provision measurement",
+        "tip": "Class of obligations: expected value (probability-weighted). Single obligation: most likely outcome.",
+        "link": "Chapter 7 — Ind AS on Liabilities of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1qe57xm",
+      "ch": 7,
+      "topic": "Provision measurement",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A retailer offers a loyalty rebate expected to be claimed by 70% of its customer base, costing Rs 200 lakh in total if all claim; 30% will claim nothing. Ind AS 37 best estimate for this class of obligations:",
+      "o": [
+        "Rs 200 lakh",
+        "Rs 60 lakh",
+        "Disclose only",
+        "Rs 140 lakh (probability-weighted)"
+      ],
+      "a": 3,
+      "why": "For large classes, expected value = Σ probability × outcome = 70% × 200 = Rs 140 lakh. Most-likely-outcome applies only to single obligations.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — expected-vs-most-likely measurement basis is tested with numbers AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Provision measurement",
+        "tip": "Class of obligations: expected value (probability-weighted). Single obligation: most likely outcome.",
+        "link": "Chapter 7 — Ind AS on Liabilities of the Financial Statements"
+      }
+    }
+  ]
+}

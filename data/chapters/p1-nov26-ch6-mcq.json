@@ -1,0 +1,1321 @@
+{
+  "meta": {
+    "id": "p1-nov26-ch6-mcq",
+    "paper": "P1",
+    "attempt": "NOV-2026",
+    "kind": "chapter",
+    "category": "CHAPTER-WISE MCQs",
+    "title": "Ch 6: Ind AS on Assets of the Financial Statements — MCQ Bank",
+    "description": "Chapter-wise practice MCQs for Chapter 6 (Ind AS on Assets of the Financial Statements).",
+    "count": 54,
+    "mcqCount": 54,
+    "descriptiveCount": 0,
+    "coverage": "Chapter 6 · 54 MCQs",
+    "chapters": [
+      6
+    ],
+    "durationMinutes": 81,
+    "difficulty": "Exam standard",
+    "high": 2,
+    "medium": 46,
+    "low": 6
+  },
+  "questions": [
+    {
+      "id": "p1q-18llno7",
+      "ch": 6,
+      "topic": "Ind AS 16 — replacement parts",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "A major inspection component of a plant has a carrying amount of Rs 12 crore at the time of a subsequent major inspection, and the new inspection costs Rs 20 crore. Under Ind AS 16, the entity should:",
+      "o": [
+        "Expense the new inspection and keep the old component",
+        "Capitalize the new inspection cost and derecognise the carrying amount of the replaced (previous inspection) component",
+        "Amortise the old carrying amount over the new inspection period",
+        "Offset 20 − 12 as income"
+      ],
+      "a": 1,
+      "why": "Ind AS 16 requires capitalising the day-to-day repair expense as an expense, but for major inspections: capitalise the cost of replacing the inspection component and derecognise the carrying amount of the previous inspection part (even if it was not separately identified — estimate using cost of the new part adjusted for price changes and condition).",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — replacement-parts derecognition is a recurring objective-paper theme AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 16 — replacement parts",
+        "tip": "New inspection capitalised, old inspection part derecognised — no offsetting, no amortising ghosts. If not identifiable, back-solve old from new price-adjusted.",
+        "link": "Ch 6"
+      }
+    },
+    {
+      "id": "p1q-1eenfhw",
+      "ch": 6,
+      "topic": "Ind AS 16 — depreciation",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Residual value of an asset is revised upward such that it now EXCEEDS the asset's carrying amount. Ind AS 16 requires:",
+      "o": [
+        "Immediate gain recognition for the excess",
+        "No further depreciation until residual value falls below carrying amount, with retrospective restatement of past charges",
+        "Depreciation continues, ignoring the revision",
+        "Reversal of all accumulated depreciation"
+      ],
+      "a": 1,
+      "why": "Where residual value exceeds carrying amount, depreciation becomes zero (an asset is not depreciated below its residual value); the change is prospective as a change in estimate — past depreciation is not restated and no gain is booked.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — depreciation stop/start edge cases are classic traps Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 16 — depreciation",
+        "tip": "Residual > carrying amount ⇒ depreciation pauses at zero; never book a profit or rewrite history — estimates move forward only.",
+        "link": "Ch 6"
+      }
+    },
+    {
+      "id": "p1q-v232iz",
+      "ch": 6,
+      "topic": "Ind AS 38 — R&D",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "During a year, total project spend was Rs 90 lakh; Rs 36 lakh relates to the research phase (whole year) and Rs 54 lakh to development, of which Rs 10 lakh was incurred before the recognition criteria were met in mid-year. The intangible asset capitalised is:",
+      "o": [
+        "Rs 54 lakh",
+        "Rs 44 lakh",
+        "Rs 90 lakh",
+        "Rs 34 lakh"
+      ],
+      "a": 1,
+      "why": "Research spend (36) is expensed. Development spend before criteria met is also expensed (10); only post-criteria development (54 − 10 = 44) is capitalised. Once expensed, expenditure is never capitalised later.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the 'phase boundary' calculation appears in most attempts Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ind AS 38 — R&D",
+        "tip": "R&D gate: research always P&L; development P&L until criteria met, then capitalise. Expensed is forever expensed.",
+        "link": "Ch 6"
+      }
+    },
+    {
+      "id": "p1q-19hcey2",
+      "ch": 6,
+      "topic": "Ind AS 2 — NRV",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Inventory of a model line (cost Rs 60 lakh) is held to fulfil a fixed-price contract. Contract selling price is Rs 75 lakh; costs to complete and sell Rs 8 lakh. Expected price of the model line WITHOUT the contract is Rs 50 lakh. NRV should be measured from:",
+      "o": [
+        "Rs 50 lakh — market price always governs",
+        "Rs 75 − 8 = Rs 67 lakh — contract price is the appropriate basis",
+        "Average of contract and market price",
+        "Rs 60 lakh — cost is the floor"
+      ],
+      "a": 1,
+      "why": "Ind AS 2: inventory held to satisfy a sales contract — NRV is measured using the CONTRACT price; the general selling price is used only for quantities held in excess of the contract quantity. Here 67 > cost 60, so no write-down.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — dual-price NRV questions are a persistent RTP pattern AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 2 — NRV",
+        "tip": "Contract first, market for overflow. One inventory, two NRVs — split quantity before split price.",
+        "link": "Ch 6"
+      }
+    },
+    {
+      "id": "p1q-h7pib8",
+      "ch": 6,
+      "topic": "Ind AS 40 — investment property",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A property held by an owner-occupier for administrative use is reclassified when the owner vacates and begins leasing it out to generate rentals. Ind AS 40 requires the transfer to be measured:",
+      "o": [
+        "At carrying amount (cost model) — carrying amounts equal fair value conceptually",
+        "Under the fair-value model, any change from carrying to fair value at date of transfer to P&L (increase) / P&L (decrease)",
+        "Only in OCI regardless of model",
+        "Not reclassified — still Ind AS 16"
+      ],
+      "a": 1,
+      "why": "For the fair value model, transfer from owner-occupied to investment property: difference at transfer date between carrying amount and fair value is treated like a revaluation (increase to OCI under 16, decrease to P&L). Under the cost model, carrying amounts simply move across.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the asymmetric P&L/OCI treatment is the discriminating option AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 40 — investment property",
+        "tip": "Fair-value model reclassification: gains behave like revaluation (OCI), losses hit P&L immediately. Direction decides the home.",
+        "link": "Ch 6"
+      }
+    },
+    {
+      "id": "p1q-11fa1oe",
+      "ch": 6,
+      "topic": "Ind AS 16 — fair value at transition",
+      "m": 1,
+      "d": "HARD",
+      "q": "Deemed cost for an item of PPE at Ind AS transition may be:",
+      "o": [
+        "Historical cost only",
+        "Its fair value at the date of transition",
+        "Net realisable value",
+        "Tax written-down value"
+      ],
+      "a": 1,
+      "why": "Ind AS 101 permits fair value at transition date as deemed cost for PPE/intangibles (or revalued amount under prior GAAP with conditions).",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — a transition freebie asked with regularity Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Ind AS 16 — fair value at transition",
+        "tip": "Deemed cost at transition = fresh fair-value start; later Ind AS life begins with that stamp.",
+        "link": "Ch 14/Ch 6"
+      }
+    },
+    {
+      "id": "p1q-2ke0y",
+      "ch": 6,
+      "topic": "Ind AS 38 — indefinite life",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "An intangible asset is considered to have an indefinite useful life when:",
+      "o": [
+        "It is legally registered forever",
+        "No analytical limit to the period of cash generation can be reliably determined",
+        "It was acquired free",
+        "Its useful life exceeds 20 years"
+      ],
+      "a": 1,
+      "why": "Ind AS 38: indefinite life when no foreseeable limit to the period over which asset-generated cash flows are expected; amortisation skipped but annual impairment testing mandatory, with re-assessment each reporting period.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the amortise-vs-impair swap is the trap's heart AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 38 — indefinite life",
+        "tip": "Indefinite ≠ immortal: skip amortisation, submit to yearly impairment and a re-test of the label itself.",
+        "link": "Ch 6"
+      }
+    },
+    {
+      "id": "p1q-1j6t2gv",
+      "ch": 6,
+      "topic": "Ind AS 16 — initial cost",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Which cost is INCLUDED in the initial measurement of an item of PPE under Ind AS 16?",
+      "o": [
+        "Costs of abnormal waste during construction",
+        "Site preparation costs",
+        "General overheads unrelated to acquisition",
+        "Training for operators"
+      ],
+      "a": 1,
+      "why": "Included: purchase price (less rebates), directly attributable costs (site prep, delivery, installation, testing). Excluded: admin/general overheads, start-up/operating losses, abnormal waste, training.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — include/exclude lists generate easy Section B 1-markers AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 16 — initial cost",
+        "tip": "Training teaches people, not machines — out. Testing confirms the asset — in. Ask: does the cost get the ASSET ready?",
+        "link": "Ch 6"
+      }
+    },
+    {
+      "id": "p1q-acewzq",
+      "ch": 6,
+      "topic": "Ind AS 16 — derecognition",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "The gain or loss on disposal of an item of PPE is measured as:",
+      "o": [
+        "Difference between net disposal proceeds and carrying amount, reported in P&L",
+        "Fair value less purchase cost",
+        "Book value less salvage, in OCI",
+        "Revaluation surplus minus tax"
+      ],
+      "a": 0,
+      "why": "Ind AS 16: derecognition gain/loss = proceeds less carrying amount, recognised in P&L when the item is disposed/retired (no OCI recycling of revaluation surplus to P&L on disposal — transfer within equity).",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the gain-to-P&L vs surplus-to-equity split is repeatedly tested AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 16 — derecognition",
+        "tip": "Disposal gain to P&L; the old revaluation surplus quietly slides to retained earnings — never parades through income.",
+        "link": "Ch 6"
+      }
+    },
+    {
+      "id": "p1q-xmafz7",
+      "ch": 6,
+      "topic": "Ind AS 38 — development criteria",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Which is NOT one of the six cumulative criteria for capitalising development costs (Ind AS 38)?",
+      "o": [
+        "Technical feasibility to complete the intangible",
+        "Availability of adequate resources to complete",
+        "Intention to use or sell the asset",
+        "Auditor's written concurrence"
+      ],
+      "a": 3,
+      "why": "Six criteria: technical feasibility; intention to complete/use/sell; ability to use/sell; how probable future economic benefits; resources available; reliable measurement of expenditure. Auditor concurrence is not one.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the not-in-list format with an invented 'approval' distractor AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 38 — development criteria",
+        "tip": "Six criteria, no auditor gatekeeping: feasibility, intention, ability, benefits, resources, measurement.",
+        "link": "Ch 6"
+      }
+    },
+    {
+      "id": "p1q-1fs62hh",
+      "ch": 6,
+      "topic": "Ind AS 23 — when suspension",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Capitalisation of borrowing costs is suspended while active development is interrupted for extended periods, unless:",
+      "o": [
+        "The interruption is a necessary part of getting the asset ready",
+        "Interest rates fall",
+        "Board approves",
+        "The lender consents"
+      ],
+      "a": 0,
+      "why": "Suspension during extended interruptions — except when the interruption is necessary to complete the asset (e.g., mandatory tests, flood waits in design).",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the exception-to-suspension is the trap AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 23 — when suspension",
+        "tip": "Pause the clock only for true stalls — planned pit stops still tick interest.",
+        "link": "Chapter 6 — Ind AS on Assets of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1cexkqt",
+      "ch": 6,
+      "topic": "Component accounting",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Significant parts of an item of PPE with different useful lives are:",
+      "o": [
+        "Depreciated as one unit",
+        "Depreciated separately as components",
+        "Impaired jointly",
+        "Never revalued"
+      ],
+      "a": 1,
+      "why": "Ind AS 16 mandates component depreciation for significant parts with different lives/patterns.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — components rule is a guaranteed concept AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Component accounting",
+        "tip": "One machine, many clocks: each big part carries its own life.",
+        "link": "Chapter 6 — Ind AS on Assets of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1c00ft8",
+      "ch": 6,
+      "topic": "Gains on own shares",
+      "m": 1,
+      "d": "HARD",
+      "q": "Gain or loss on issue, sale or redemption of an entity's OWN shares is:",
+      "o": [
+        "Recognised in P&L",
+        "Never recognised in P&L — equity movement",
+        "To OCI",
+        "To reserves at discretion"
+      ],
+      "a": 1,
+      "why": "Treasury and own-equity transactions never generate P&L gains/losses (Ind AS 32); share premium etc. sit in equity.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — own-shares-never-profit is an absolute Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Gains on own shares",
+        "tip": "You cannot pay yourself from your own pocket and call it income.",
+        "link": "Chapter 6 — Ind AS on Assets of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1r027qp",
+      "ch": 6,
+      "topic": "Ind AS 16 — revaluation frequency",
+      "m": 1,
+      "d": "HARD",
+      "q": "Revaluation model assets must be revalued:",
+      "o": [
+        "Annually in all cases",
+        "With sufficient regularity that carrying amount does not differ materially from fair value",
+        "Only at disposal",
+        "Once at transition"
+      ],
+      "a": 1,
+      "why": "No fixed annual rule; frequency per class so that material differences do not arise at year end.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — materiality-frequency pairing Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Ind AS 16 — revaluation frequency",
+        "tip": "Revalue as often as reality demands — annually is not a law.",
+        "link": "Chapter 6 — Ind AS on Assets of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-ucpdv1",
+      "ch": 6,
+      "topic": "Ind AS 2 exclusion scope",
+      "m": 1,
+      "d": "HARD",
+      "q": "Ind AS 2 does NOT apply to:",
+      "o": [
+        "Raw materials",
+        "Work-in-progress for construction contracts (covered by 115)",
+        "Finished goods",
+        "Supplies"
+      ],
+      "a": 1,
+      "why": "Inventories that are financial instruments, biological assets (41), and WIP/FG under construction contracts (revenue 115) are outside 2's main scope.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — scope-boundary questions Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Ind AS 2 exclusion scope",
+        "tip": "When a fancier standard claims the inventory, 2 hands it over.",
+        "link": "Chapter 6 — Ind AS on Assets of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-134o6l8",
+      "ch": 6,
+      "topic": "Ind AS 16 — testing",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Costs of testing whether an asset functions properly are:",
+      "o": [
+        "Expensed as incurred",
+        "Capitalised as part of the asset cost",
+        "Offset by proceeds of items produced (e.g., sample sales) against cost",
+        "Don't exist"
+      ],
+      "a": 1,
+      "why": "Directly attributable costs include testing; net proceeds from items produced before intended use are deducted from the cost.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the sale-of-samples deduction is the trap AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 16 — testing",
+        "tip": "Testing charges join the asset; sample sales pay the asset back — the cost is net of both.",
+        "link": "Chapter 6 — Ind AS on Assets of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-new97k",
+      "ch": 6,
+      "topic": "Borrowing — own funds",
+      "m": 1,
+      "d": "HARD",
+      "q": "Borrowing costs capitalisation applies to own (equity) funds:",
+      "o": [
+        "At 50%",
+        "Never — only actual borrowing costs",
+        "At WACC",
+        "If board approves"
+      ],
+      "a": 1,
+      "why": "Only the costs of BORROWINGS are capitalised; equity funds have no 'interest' to capitalise (though general-borrowing rates reflect opportunity within the rules).",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the no-implicit-interest rule Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Borrowing — own funds",
+        "tip": "No loan, no interest to carry; opportunity cost stays in economics, not in the asset.",
+        "link": "Chapter 6 — Ind AS on Assets of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-kvoypc",
+      "ch": 6,
+      "topic": "Emphasis — no 20-year cap under Ind AS",
+      "m": 1,
+      "d": "HARD",
+      "q": "Under Ind AS 16/38 (as emphasised in the new scheme), useful life of an asset is:",
+      "o": [
+        "Capped at 20 years",
+        "Determined by the entity's expected pattern of consumption; no standard-imposed ceiling (Schedule III minima may apply for Companies Act formats)",
+        "Always 10 years",
+        "Set by the registrar"
+      ],
+      "a": 1,
+      "why": "The old AS habit of a 20-year cap has no place in Ind AS 16/38 — the entity estimates; where the Companies Act Schedule II minima are followed for formats, Ind AS statements still reflect management's estimates per standards — an unlearning point the new syllabus stresses.",
+      "trend": "Documented syllabus/amendment change — applicability from May 2026 exam onwards per ICAI BoS announcement.",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — first attempts reward teachers who fix inherited reflexes Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Emphasis — no 20-year cap under Ind AS",
+        "tip": "Ind AS asks 'how long will you use it?', never 'what is the legal maximum?'",
+        "link": "Chapter 6 — Ind AS on Assets of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1126zqf",
+      "ch": 6,
+      "topic": "Ind AS 2 — write-down",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Zenith Ltd holds inventory at cost Rs 155 lakh. NRV on the open market is Rs 137 lakh; a fixed-price contract covers all units at NRV Rs 167 lakh. Net write-down required when inventory is written to NRV (open-market basis) is:",
+      "o": [
+        "No write-down (contract cover exists) but only for contracted quantity — if none here",
+        "Write-down Rs -12 lakh (gain reversal)",
+        "Write-down Rs 18 lakh",
+        "Write-down Rs 160 lakh"
+      ],
+      "a": 2,
+      "why": "Where units are not contract-covered, NRV is market-based: write down 155 − 137 = 18 lakh to P&L. If a fixed-price contract covers the units, use the contract NRV — hence no write-down for contracted quantity.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — NRV vs contract-price selection appears in both MCQ and case formats AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 2 — write-down",
+        "tip": "Write to NRV; contract price used for contracted quantity only. Loss = cost − NRV.",
+        "link": "Chapter 6 — Ind AS on Assets of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-4ydcgb",
+      "ch": 6,
+      "topic": "Ind AS 2 — write-down",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Aster Ltd holds inventory at cost Rs 205 lakh. NRV on the open market is Rs 193 lakh; a fixed-price contract covers all units at NRV Rs 221 lakh. Net write-down required when inventory is written to NRV (open-market basis) is:",
+      "o": [
+        "Write-down Rs 12 lakh",
+        "No write-down (contract cover exists) but only for contracted quantity — if none here",
+        "Write-down Rs -16 lakh (gain reversal)",
+        "Write-down Rs 210 lakh"
+      ],
+      "a": 0,
+      "why": "Where units are not contract-covered, NRV is market-based: write down 205 − 193 = 12 lakh to P&L. If a fixed-price contract covers the units, use the contract NRV — hence no write-down for contracted quantity.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — NRV vs contract-price selection appears in both MCQ and case formats AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 2 — write-down",
+        "tip": "Write to NRV; contract price used for contracted quantity only. Loss = cost − NRV.",
+        "link": "Chapter 6 — Ind AS on Assets of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-3vfg1g",
+      "ch": 6,
+      "topic": "Ind AS 2 — write-down",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Zenith Ltd holds inventory at cost Rs 236 lakh. NRV on the open market is Rs 204 lakh; a fixed-price contract covers all units at NRV Rs 242 lakh. Net write-down required when inventory is written to NRV (open-market basis) is:",
+      "o": [
+        "No write-down (contract cover exists) but only for contracted quantity — if none here",
+        "Write-down Rs -6 lakh (gain reversal)",
+        "Write-down Rs 241 lakh",
+        "Write-down Rs 32 lakh"
+      ],
+      "a": 3,
+      "why": "Where units are not contract-covered, NRV is market-based: write down 236 − 204 = 32 lakh to P&L. If a fixed-price contract covers the units, use the contract NRV — hence no write-down for contracted quantity.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — NRV vs contract-price selection appears in both MCQ and case formats AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 2 — write-down",
+        "tip": "Write to NRV; contract price used for contracted quantity only. Loss = cost − NRV.",
+        "link": "Chapter 6 — Ind AS on Assets of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-ntc6lw",
+      "ch": 6,
+      "topic": "Ind AS 2 — write-down",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Indus Fab Ltd holds inventory at cost Rs 213 lakh. NRV on the open market is Rs 203 lakh; a fixed-price contract covers all units at NRV Rs 228 lakh. Net write-down required when inventory is written to NRV (open-market basis) is:",
+      "o": [
+        "No write-down (contract cover exists) but only for contracted quantity — if none here",
+        "Write-down Rs 10 lakh",
+        "Write-down Rs -15 lakh (gain reversal)",
+        "Write-down Rs 218 lakh"
+      ],
+      "a": 1,
+      "why": "Where units are not contract-covered, NRV is market-based: write down 213 − 203 = 10 lakh to P&L. If a fixed-price contract covers the units, use the contract NRV — hence no write-down for contracted quantity.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — NRV vs contract-price selection appears in both MCQ and case formats AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 2 — write-down",
+        "tip": "Write to NRV; contract price used for contracted quantity only. Loss = cost − NRV.",
+        "link": "Chapter 6 — Ind AS on Assets of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1vytxyw",
+      "ch": 6,
+      "topic": "Ind AS 2 — write-down",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Zenith Ltd holds inventory at cost Rs 182 lakh. NRV on the open market is Rs 146 lakh; a fixed-price contract covers all units at NRV Rs 201 lakh. Net write-down required when inventory is written to NRV (open-market basis) is:",
+      "o": [
+        "No write-down (contract cover exists) but only for contracted quantity — if none here",
+        "Write-down Rs -19 lakh (gain reversal)",
+        "Write-down Rs 36 lakh",
+        "Write-down Rs 187 lakh"
+      ],
+      "a": 2,
+      "why": "Where units are not contract-covered, NRV is market-based: write down 182 − 146 = 36 lakh to P&L. If a fixed-price contract covers the units, use the contract NRV — hence no write-down for contracted quantity.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — NRV vs contract-price selection appears in both MCQ and case formats AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 2 — write-down",
+        "tip": "Write to NRV; contract price used for contracted quantity only. Loss = cost − NRV.",
+        "link": "Chapter 6 — Ind AS on Assets of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1h8jqxy",
+      "ch": 6,
+      "topic": "Ind AS 2 — write-down",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Nimbus Ltd holds inventory at cost Rs 168 lakh. NRV on the open market is Rs 150 lakh; a fixed-price contract covers all units at NRV Rs 183 lakh. Net write-down required when inventory is written to NRV (open-market basis) is:",
+      "o": [
+        "No write-down (contract cover exists) but only for contracted quantity — if none here",
+        "Write-down Rs -15 lakh (gain reversal)",
+        "Write-down Rs 18 lakh",
+        "Write-down Rs 173 lakh"
+      ],
+      "a": 2,
+      "why": "Where units are not contract-covered, NRV is market-based: write down 168 − 150 = 18 lakh to P&L. If a fixed-price contract covers the units, use the contract NRV — hence no write-down for contracted quantity.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — NRV vs contract-price selection appears in both MCQ and case formats AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 2 — write-down",
+        "tip": "Write to NRV; contract price used for contracted quantity only. Loss = cost − NRV.",
+        "link": "Chapter 6 — Ind AS on Assets of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1bz16qj",
+      "ch": 6,
+      "topic": "Ind AS 2 — write-down",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Indus Fab Ltd holds inventory at cost Rs 201 lakh. NRV on the open market is Rs 185 lakh; a fixed-price contract covers all units at NRV Rs 218 lakh. Net write-down required when inventory is written to NRV (open-market basis) is:",
+      "o": [
+        "No write-down (contract cover exists) but only for contracted quantity — if none here",
+        "Write-down Rs 16 lakh",
+        "Write-down Rs -17 lakh (gain reversal)",
+        "Write-down Rs 206 lakh"
+      ],
+      "a": 1,
+      "why": "Where units are not contract-covered, NRV is market-based: write down 201 − 185 = 16 lakh to P&L. If a fixed-price contract covers the units, use the contract NRV — hence no write-down for contracted quantity.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — NRV vs contract-price selection appears in both MCQ and case formats AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 2 — write-down",
+        "tip": "Write to NRV; contract price used for contracted quantity only. Loss = cost − NRV.",
+        "link": "Chapter 6 — Ind AS on Assets of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-db2a2h",
+      "ch": 6,
+      "topic": "Ind AS 2 — write-down",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Sable Ltd holds inventory at cost Rs 226 lakh. NRV on the open market is Rs 193 lakh; a fixed-price contract covers all units at NRV Rs 239 lakh. Net write-down required when inventory is written to NRV (open-market basis) is:",
+      "o": [
+        "No write-down (contract cover exists) but only for contracted quantity — if none here",
+        "Write-down Rs 33 lakh",
+        "Write-down Rs -13 lakh (gain reversal)",
+        "Write-down Rs 231 lakh"
+      ],
+      "a": 1,
+      "why": "Where units are not contract-covered, NRV is market-based: write down 226 − 193 = 33 lakh to P&L. If a fixed-price contract covers the units, use the contract NRV — hence no write-down for contracted quantity.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — NRV vs contract-price selection appears in both MCQ and case formats AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 2 — write-down",
+        "tip": "Write to NRV; contract price used for contracted quantity only. Loss = cost − NRV.",
+        "link": "Chapter 6 — Ind AS on Assets of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-ueiwd9",
+      "ch": 6,
+      "topic": "Ind AS 2 — write-down",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Kaveri Ltd holds inventory at cost Rs 249 lakh. NRV on the open market is Rs 212 lakh; a fixed-price contract covers all units at NRV Rs 266 lakh. Net write-down required when inventory is written to NRV (open-market basis) is:",
+      "o": [
+        "No write-down (contract cover exists) but only for contracted quantity — if none here",
+        "Write-down Rs 37 lakh",
+        "Write-down Rs -17 lakh (gain reversal)",
+        "Write-down Rs 254 lakh"
+      ],
+      "a": 1,
+      "why": "Where units are not contract-covered, NRV is market-based: write down 249 − 212 = 37 lakh to P&L. If a fixed-price contract covers the units, use the contract NRV — hence no write-down for contracted quantity.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — NRV vs contract-price selection appears in both MCQ and case formats AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 2 — write-down",
+        "tip": "Write to NRV; contract price used for contracted quantity only. Loss = cost − NRV.",
+        "link": "Chapter 6 — Ind AS on Assets of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-15pk240",
+      "ch": 6,
+      "topic": "Ind AS 2 — write-down",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Marlin Ltd holds inventory at cost Rs 258 lakh. NRV on the open market is Rs 248 lakh; a fixed-price contract covers all units at NRV Rs 272 lakh. Net write-down required when inventory is written to NRV (open-market basis) is:",
+      "o": [
+        "Write-down Rs 10 lakh",
+        "No write-down (contract cover exists) but only for contracted quantity — if none here",
+        "Write-down Rs -14 lakh (gain reversal)",
+        "Write-down Rs 263 lakh"
+      ],
+      "a": 0,
+      "why": "Where units are not contract-covered, NRV is market-based: write down 258 − 248 = 10 lakh to P&L. If a fixed-price contract covers the units, use the contract NRV — hence no write-down for contracted quantity.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — NRV vs contract-price selection appears in both MCQ and case formats AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 2 — write-down",
+        "tip": "Write to NRV; contract price used for contracted quantity only. Loss = cost − NRV.",
+        "link": "Chapter 6 — Ind AS on Assets of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-ugza71",
+      "ch": 6,
+      "topic": "Ind AS 2 — write-down",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Palladi Ltd holds inventory at cost Rs 144 lakh. NRV on the open market is Rs 108 lakh; a fixed-price contract covers all units at NRV Rs 164 lakh. Net write-down required when inventory is written to NRV (open-market basis) is:",
+      "o": [
+        "No write-down (contract cover exists) but only for contracted quantity — if none here",
+        "Write-down Rs -20 lakh (gain reversal)",
+        "Write-down Rs 149 lakh",
+        "Write-down Rs 36 lakh"
+      ],
+      "a": 3,
+      "why": "Where units are not contract-covered, NRV is market-based: write down 144 − 108 = 36 lakh to P&L. If a fixed-price contract covers the units, use the contract NRV — hence no write-down for contracted quantity.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — NRV vs contract-price selection appears in both MCQ and case formats AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 2 — write-down",
+        "tip": "Write to NRV; contract price used for contracted quantity only. Loss = cost − NRV.",
+        "link": "Chapter 6 — Ind AS on Assets of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1teciwg",
+      "ch": 6,
+      "topic": "Ind AS 2 — write-down",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Sable Ltd holds inventory at cost Rs 242 lakh. NRV on the open market is Rs 203 lakh; a fixed-price contract covers all units at NRV Rs 261 lakh. Net write-down required when inventory is written to NRV (open-market basis) is:",
+      "o": [
+        "No write-down (contract cover exists) but only for contracted quantity — if none here",
+        "Write-down Rs 39 lakh",
+        "Write-down Rs -19 lakh (gain reversal)",
+        "Write-down Rs 247 lakh"
+      ],
+      "a": 1,
+      "why": "Where units are not contract-covered, NRV is market-based: write down 242 − 203 = 39 lakh to P&L. If a fixed-price contract covers the units, use the contract NRV — hence no write-down for contracted quantity.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — NRV vs contract-price selection appears in both MCQ and case formats AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 2 — write-down",
+        "tip": "Write to NRV; contract price used for contracted quantity only. Loss = cost − NRV.",
+        "link": "Chapter 6 — Ind AS on Assets of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-5s98mu",
+      "ch": 6,
+      "topic": "Ind AS 16 — revised life",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Kaveri Ltd depreciates a machine (cost Rs 600 lakh, life 11 years, nil residual) on SLM for 3 years, then revises the REMAINING useful life to 4 years. This year's charge and treatment:",
+      "o": [
+        "Rs 109.1 lakh with restated comparatives",
+        "Rs 109.1 lakh, prospectively",
+        "Rs 150.0 lakh on gross cost",
+        "Rs 54.5 lakh unchanged"
+      ],
+      "a": 1,
+      "why": "CA = 600 × (8/11) = Rs 436.4 lakh; new charge = 436.36/4 = Rs 109.1 lakh, prospective only (estimate change). Restating comparatives or charging on gross cost are wrong treatments.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the prospective-mechanics sum pairs with the estimate-vs-policy theory AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 16 — revised life",
+        "tip": "Change in estimate: prospective on carrying amount over REMAINING life. Never restated.",
+        "link": "Chapter 6 — Ind AS on Assets of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-8nzb94",
+      "ch": 6,
+      "topic": "Ind AS 16 — revised life",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Nimbus Ltd depreciates a machine (cost Rs 800 lakh, life 8 years, nil residual) on SLM for 3 years, then revises the REMAINING useful life to 4 years. This year's charge and treatment:",
+      "o": [
+        "Rs 125.0 lakh with restated comparatives",
+        "Rs 125.0 lakh, prospectively",
+        "Rs 200.0 lakh on gross cost",
+        "Rs 100.0 lakh unchanged"
+      ],
+      "a": 1,
+      "why": "CA = 800 × (5/8) = Rs 500.0 lakh; new charge = 500.00/4 = Rs 125.0 lakh, prospective only (estimate change). Restating comparatives or charging on gross cost are wrong treatments.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the prospective-mechanics sum pairs with the estimate-vs-policy theory AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 16 — revised life",
+        "tip": "Change in estimate: prospective on carrying amount over REMAINING life. Never restated.",
+        "link": "Chapter 6 — Ind AS on Assets of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1qh4j2",
+      "ch": 6,
+      "topic": "Ind AS 16 — revised life",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Sable Ltd depreciates a machine (cost Rs 800 lakh, life 12 years, nil residual) on SLM for 5 years, then revises the REMAINING useful life to 4 years. This year's charge and treatment:",
+      "o": [
+        "Rs 116.7 lakh with restated comparatives",
+        "Rs 200.0 lakh on gross cost",
+        "Rs 66.7 lakh unchanged",
+        "Rs 116.7 lakh, prospectively"
+      ],
+      "a": 3,
+      "why": "CA = 800 × (7/12) = Rs 466.7 lakh; new charge = 466.67/4 = Rs 116.7 lakh, prospective only (estimate change). Restating comparatives or charging on gross cost are wrong treatments.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the prospective-mechanics sum pairs with the estimate-vs-policy theory AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 16 — revised life",
+        "tip": "Change in estimate: prospective on carrying amount over REMAINING life. Never restated.",
+        "link": "Chapter 6 — Ind AS on Assets of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1ibb1l3",
+      "ch": 6,
+      "topic": "Ind AS 16 — revised life",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Meridian Ltd depreciates a machine (cost Rs 400 lakh, life 10 years, nil residual) on SLM for 5 years, then revises the REMAINING useful life to 3 years. This year's charge and treatment:",
+      "o": [
+        "Rs 66.7 lakh, prospectively",
+        "Rs 66.7 lakh with restated comparatives",
+        "Rs 133.3 lakh on gross cost",
+        "Rs 40.0 lakh unchanged"
+      ],
+      "a": 0,
+      "why": "CA = 400 × (5/10) = Rs 200.0 lakh; new charge = 200.00/3 = Rs 66.7 lakh, prospective only (estimate change). Restating comparatives or charging on gross cost are wrong treatments.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the prospective-mechanics sum pairs with the estimate-vs-policy theory AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 16 — revised life",
+        "tip": "Change in estimate: prospective on carrying amount over REMAINING life. Never restated.",
+        "link": "Chapter 6 — Ind AS on Assets of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1wdrs6j",
+      "ch": 6,
+      "topic": "Ind AS 16 — revised life",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Cobalt Ltd depreciates a machine (cost Rs 800 lakh, life 9 years, nil residual) on SLM for 4 years, then revises the REMAINING useful life to 4 years. This year's charge and treatment:",
+      "o": [
+        "Rs 111.1 lakh with restated comparatives",
+        "Rs 111.1 lakh, prospectively",
+        "Rs 200.0 lakh on gross cost",
+        "Rs 88.9 lakh unchanged"
+      ],
+      "a": 1,
+      "why": "CA = 800 × (5/9) = Rs 444.4 lakh; new charge = 444.44/4 = Rs 111.1 lakh, prospective only (estimate change). Restating comparatives or charging on gross cost are wrong treatments.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the prospective-mechanics sum pairs with the estimate-vs-policy theory AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 16 — revised life",
+        "tip": "Change in estimate: prospective on carrying amount over REMAINING life. Never restated.",
+        "link": "Chapter 6 — Ind AS on Assets of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-j6unzl",
+      "ch": 6,
+      "topic": "Ind AS 16 — revised life",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Kaveri Ltd depreciates a machine (cost Rs 400 lakh, life 8 years, nil residual) on SLM for 3 years, then revises the REMAINING useful life to 3 years. This year's charge and treatment:",
+      "o": [
+        "Rs 83.3 lakh with restated comparatives",
+        "Rs 83.3 lakh, prospectively",
+        "Rs 133.3 lakh on gross cost",
+        "Rs 50.0 lakh unchanged"
+      ],
+      "a": 1,
+      "why": "CA = 400 × (5/8) = Rs 250.0 lakh; new charge = 250.00/3 = Rs 83.3 lakh, prospective only (estimate change). Restating comparatives or charging on gross cost are wrong treatments.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the prospective-mechanics sum pairs with the estimate-vs-policy theory AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 16 — revised life",
+        "tip": "Change in estimate: prospective on carrying amount over REMAINING life. Never restated.",
+        "link": "Chapter 6 — Ind AS on Assets of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-bpz0sj",
+      "ch": 6,
+      "topic": "Ind AS 16 — revised life",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Vertex Ltd depreciates a machine (cost Rs 800 lakh, life 10 years, nil residual) on SLM for 4 years, then revises the REMAINING useful life to 3 years. This year's charge and treatment:",
+      "o": [
+        "Rs 160.0 lakh with restated comparatives",
+        "Rs 266.7 lakh on gross cost",
+        "Rs 80.0 lakh unchanged",
+        "Rs 160.0 lakh, prospectively"
+      ],
+      "a": 3,
+      "why": "CA = 800 × (6/10) = Rs 480.0 lakh; new charge = 480.00/3 = Rs 160.0 lakh, prospective only (estimate change). Restating comparatives or charging on gross cost are wrong treatments.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the prospective-mechanics sum pairs with the estimate-vs-policy theory AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 16 — revised life",
+        "tip": "Change in estimate: prospective on carrying amount over REMAINING life. Never restated.",
+        "link": "Chapter 6 — Ind AS on Assets of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-19x9qu1",
+      "ch": 6,
+      "topic": "Ind AS 16 — revised life",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Zenith Ltd depreciates a machine (cost Rs 800 lakh, life 9 years, nil residual) on SLM for 3 years, then revises the REMAINING useful life to 4 years. This year's charge and treatment:",
+      "o": [
+        "Rs 133.3 lakh with restated comparatives",
+        "Rs 133.3 lakh, prospectively",
+        "Rs 200.0 lakh on gross cost",
+        "Rs 88.9 lakh unchanged"
+      ],
+      "a": 1,
+      "why": "CA = 800 × (6/9) = Rs 533.3 lakh; new charge = 533.33/4 = Rs 133.3 lakh, prospective only (estimate change). Restating comparatives or charging on gross cost are wrong treatments.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the prospective-mechanics sum pairs with the estimate-vs-policy theory AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 16 — revised life",
+        "tip": "Change in estimate: prospective on carrying amount over REMAINING life. Never restated.",
+        "link": "Chapter 6 — Ind AS on Assets of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-evqryc",
+      "ch": 6,
+      "topic": "Ind AS 16 — revised life",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Aster Ltd depreciates a machine (cost Rs 800 lakh, life 11 years, nil residual) on SLM for 3 years, then revises the REMAINING useful life to 3 years. This year's charge and treatment:",
+      "o": [
+        "Rs 193.9 lakh with restated comparatives",
+        "Rs 266.7 lakh on gross cost",
+        "Rs 193.9 lakh, prospectively",
+        "Rs 72.7 lakh unchanged"
+      ],
+      "a": 2,
+      "why": "CA = 800 × (8/11) = Rs 581.8 lakh; new charge = 581.82/3 = Rs 193.9 lakh, prospective only (estimate change). Restating comparatives or charging on gross cost are wrong treatments.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the prospective-mechanics sum pairs with the estimate-vs-policy theory AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 16 — revised life",
+        "tip": "Change in estimate: prospective on carrying amount over REMAINING life. Never restated.",
+        "link": "Chapter 6 — Ind AS on Assets of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-7079ge",
+      "ch": 6,
+      "topic": "Ind AS 16 — revised life",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Vertex Ltd depreciates a machine (cost Rs 600 lakh, life 10 years, nil residual) on SLM for 3 years, then revises the REMAINING useful life to 5 years. This year's charge and treatment:",
+      "o": [
+        "Rs 84.0 lakh with restated comparatives",
+        "Rs 120.0 lakh on gross cost",
+        "Rs 60.0 lakh unchanged",
+        "Rs 84.0 lakh, prospectively"
+      ],
+      "a": 3,
+      "why": "CA = 600 × (7/10) = Rs 420.0 lakh; new charge = 420.00/5 = Rs 84.0 lakh, prospective only (estimate change). Restating comparatives or charging on gross cost are wrong treatments.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the prospective-mechanics sum pairs with the estimate-vs-policy theory AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 16 — revised life",
+        "tip": "Change in estimate: prospective on carrying amount over REMAINING life. Never restated.",
+        "link": "Chapter 6 — Ind AS on Assets of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-nl2za0",
+      "ch": 6,
+      "topic": "Ind AS 16 — revised life",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Sable Ltd depreciates a machine (cost Rs 600 lakh, life 10 years, nil residual) on SLM for 3 years, then revises the REMAINING useful life to 4 years. This year's charge and treatment:",
+      "o": [
+        "Rs 105.0 lakh, prospectively",
+        "Rs 105.0 lakh with restated comparatives",
+        "Rs 150.0 lakh on gross cost",
+        "Rs 60.0 lakh unchanged"
+      ],
+      "a": 0,
+      "why": "CA = 600 × (7/10) = Rs 420.0 lakh; new charge = 420.00/4 = Rs 105.0 lakh, prospective only (estimate change). Restating comparatives or charging on gross cost are wrong treatments.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the prospective-mechanics sum pairs with the estimate-vs-policy theory AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 16 — revised life",
+        "tip": "Change in estimate: prospective on carrying amount over REMAINING life. Never restated.",
+        "link": "Chapter 6 — Ind AS on Assets of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-xoy3zw",
+      "ch": 6,
+      "topic": "Ind AS 16 — revised life",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Indus Fab Ltd depreciates a machine (cost Rs 800 lakh, life 11 years, nil residual) on SLM for 4 years, then revises the REMAINING useful life to 3 years. This year's charge and treatment:",
+      "o": [
+        "Rs 169.7 lakh with restated comparatives",
+        "Rs 266.7 lakh on gross cost",
+        "Rs 72.7 lakh unchanged",
+        "Rs 169.7 lakh, prospectively"
+      ],
+      "a": 3,
+      "why": "CA = 800 × (7/11) = Rs 509.1 lakh; new charge = 509.09/3 = Rs 169.7 lakh, prospective only (estimate change). Restating comparatives or charging on gross cost are wrong treatments.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the prospective-mechanics sum pairs with the estimate-vs-policy theory AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 16 — revised life",
+        "tip": "Change in estimate: prospective on carrying amount over REMAINING life. Never restated.",
+        "link": "Chapter 6 — Ind AS on Assets of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1g9f0cu",
+      "ch": 6,
+      "topic": "Revaluation & DTL",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Orbit Ltd revalues a building: carrying amount Rs 240 lakh to Rs 360 lakh (cost model). Tax rate 25%; no revaluation reserve exists before this year. The correct journal essence:",
+      "o": [
+        "OCI Rs 90.0 lakh (gross 120.0 − DTL 30.0)",
+        "OCI Rs 120.0 lakh; DTL to P&L",
+        "P&L gain Rs 120.0 lakh",
+        "OCI Rs 30.0 lakh"
+      ],
+      "a": 0,
+      "why": "Uplift 120.0 lakh to OCI (revaluation surplus); a taxable temporary difference arises (FV > tax base) ⇒ DTL 30.0 lakh charged to OCI (it relates to the OCI item), leaving net OCI 90.0 lakh.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — revaluation-with-tax combinations dominate Section B short questions AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Revaluation & DTL",
+        "tip": "Revaluation surplus goes to OCI; DTL on the surplus also charged to OCI to the extent of the gain.",
+        "link": "Chapter 6 — Ind AS on Assets of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-b24nl1",
+      "ch": 6,
+      "topic": "Revaluation & DTL",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Cobalt Ltd revalues a building: carrying amount Rs 240 lakh to Rs 360 lakh (cost model). Tax rate 25%; no revaluation reserve exists before this year. The correct journal essence:",
+      "o": [
+        "OCI Rs 120.0 lakh; DTL to P&L",
+        "OCI Rs 90.0 lakh (gross 120.0 − DTL 30.0)",
+        "P&L gain Rs 120.0 lakh",
+        "OCI Rs 30.0 lakh"
+      ],
+      "a": 1,
+      "why": "Uplift 120.0 lakh to OCI (revaluation surplus); a taxable temporary difference arises (FV > tax base) ⇒ DTL 30.0 lakh charged to OCI (it relates to the OCI item), leaving net OCI 90.0 lakh.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — revaluation-with-tax combinations dominate Section B short questions AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Revaluation & DTL",
+        "tip": "Revaluation surplus goes to OCI; DTL on the surplus also charged to OCI to the extent of the gain.",
+        "link": "Chapter 6 — Ind AS on Assets of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-83xcar",
+      "ch": 6,
+      "topic": "Revaluation & DTL",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Orbit Ltd revalues a building: carrying amount Rs 180 lakh to Rs 270 lakh (cost model). Tax rate 25%; no revaluation reserve exists before this year. The correct journal essence:",
+      "o": [
+        "OCI Rs 90.0 lakh; DTL to P&L",
+        "P&L gain Rs 90.0 lakh",
+        "OCI Rs 67.5 lakh (gross 90.0 − DTL 22.5)",
+        "OCI Rs 22.5 lakh"
+      ],
+      "a": 2,
+      "why": "Uplift 90.0 lakh to OCI (revaluation surplus); a taxable temporary difference arises (FV > tax base) ⇒ DTL 22.5 lakh charged to OCI (it relates to the OCI item), leaving net OCI 67.5 lakh.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — revaluation-with-tax combinations dominate Section B short questions AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Revaluation & DTL",
+        "tip": "Revaluation surplus goes to OCI; DTL on the surplus also charged to OCI to the extent of the gain.",
+        "link": "Chapter 6 — Ind AS on Assets of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-9nket9",
+      "ch": 6,
+      "topic": "Revaluation & DTL",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Zenith Ltd revalues a building: carrying amount Rs 180 lakh to Rs 270 lakh (cost model). Tax rate 25%; no revaluation reserve exists before this year. The correct journal essence:",
+      "o": [
+        "OCI Rs 90.0 lakh; DTL to P&L",
+        "P&L gain Rs 90.0 lakh",
+        "OCI Rs 67.5 lakh (gross 90.0 − DTL 22.5)",
+        "OCI Rs 22.5 lakh"
+      ],
+      "a": 2,
+      "why": "Uplift 90.0 lakh to OCI (revaluation surplus); a taxable temporary difference arises (FV > tax base) ⇒ DTL 22.5 lakh charged to OCI (it relates to the OCI item), leaving net OCI 67.5 lakh.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — revaluation-with-tax combinations dominate Section B short questions AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Revaluation & DTL",
+        "tip": "Revaluation surplus goes to OCI; DTL on the surplus also charged to OCI to the extent of the gain.",
+        "link": "Chapter 6 — Ind AS on Assets of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-hewix8",
+      "ch": 6,
+      "topic": "Revaluation & DTL",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Sable Ltd revalues a building: carrying amount Rs 120 lakh to Rs 180 lakh (cost model). Tax rate 25%; no revaluation reserve exists before this year. The correct journal essence:",
+      "o": [
+        "OCI Rs 60.0 lakh; DTL to P&L",
+        "OCI Rs 45.0 lakh (gross 60.0 − DTL 15.0)",
+        "P&L gain Rs 60.0 lakh",
+        "OCI Rs 15.0 lakh"
+      ],
+      "a": 1,
+      "why": "Uplift 60.0 lakh to OCI (revaluation surplus); a taxable temporary difference arises (FV > tax base) ⇒ DTL 15.0 lakh charged to OCI (it relates to the OCI item), leaving net OCI 45.0 lakh.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — revaluation-with-tax combinations dominate Section B short questions AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Revaluation & DTL",
+        "tip": "Revaluation surplus goes to OCI; DTL on the surplus also charged to OCI to the extent of the gain.",
+        "link": "Chapter 6 — Ind AS on Assets of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1984x9a",
+      "ch": 6,
+      "topic": "Revaluation & DTL",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Nimbus Ltd revalues a building: carrying amount Rs 240 lakh to Rs 360 lakh (cost model). Tax rate 25%; no revaluation reserve exists before this year. The correct journal essence:",
+      "o": [
+        "OCI Rs 90.0 lakh (gross 120.0 − DTL 30.0)",
+        "OCI Rs 120.0 lakh; DTL to P&L",
+        "P&L gain Rs 120.0 lakh",
+        "OCI Rs 30.0 lakh"
+      ],
+      "a": 0,
+      "why": "Uplift 120.0 lakh to OCI (revaluation surplus); a taxable temporary difference arises (FV > tax base) ⇒ DTL 30.0 lakh charged to OCI (it relates to the OCI item), leaving net OCI 90.0 lakh.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — revaluation-with-tax combinations dominate Section B short questions AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Revaluation & DTL",
+        "tip": "Revaluation surplus goes to OCI; DTL on the surplus also charged to OCI to the extent of the gain.",
+        "link": "Chapter 6 — Ind AS on Assets of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1ht9ibu",
+      "ch": 6,
+      "topic": "Revaluation & DTL",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Aster Ltd revalues a building: carrying amount Rs 180 lakh to Rs 270 lakh (cost model). Tax rate 25%; no revaluation reserve exists before this year. The correct journal essence:",
+      "o": [
+        "OCI Rs 67.5 lakh (gross 90.0 − DTL 22.5)",
+        "OCI Rs 90.0 lakh; DTL to P&L",
+        "P&L gain Rs 90.0 lakh",
+        "OCI Rs 22.5 lakh"
+      ],
+      "a": 0,
+      "why": "Uplift 90.0 lakh to OCI (revaluation surplus); a taxable temporary difference arises (FV > tax base) ⇒ DTL 22.5 lakh charged to OCI (it relates to the OCI item), leaving net OCI 67.5 lakh.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — revaluation-with-tax combinations dominate Section B short questions AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Revaluation & DTL",
+        "tip": "Revaluation surplus goes to OCI; DTL on the surplus also charged to OCI to the extent of the gain.",
+        "link": "Chapter 6 — Ind AS on Assets of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-dpf512",
+      "ch": 6,
+      "topic": "Revaluation & DTL",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Vertex Ltd revalues a building: carrying amount Rs 240 lakh to Rs 360 lakh (cost model). Tax rate 25%; no revaluation reserve exists before this year. The correct journal essence:",
+      "o": [
+        "OCI Rs 120.0 lakh; DTL to P&L",
+        "P&L gain Rs 120.0 lakh",
+        "OCI Rs 30.0 lakh",
+        "OCI Rs 90.0 lakh (gross 120.0 − DTL 30.0)"
+      ],
+      "a": 3,
+      "why": "Uplift 120.0 lakh to OCI (revaluation surplus); a taxable temporary difference arises (FV > tax base) ⇒ DTL 30.0 lakh charged to OCI (it relates to the OCI item), leaving net OCI 90.0 lakh.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — revaluation-with-tax combinations dominate Section B short questions AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Revaluation & DTL",
+        "tip": "Revaluation surplus goes to OCI; DTL on the surplus also charged to OCI to the extent of the gain.",
+        "link": "Chapter 6 — Ind AS on Assets of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-5lsfmx",
+      "ch": 6,
+      "topic": "Revaluation & DTL",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Zenith Ltd revalues a building: carrying amount Rs 120 lakh to Rs 180 lakh (cost model). Tax rate 25%; no revaluation reserve exists before this year. The correct journal essence:",
+      "o": [
+        "OCI Rs 60.0 lakh; DTL to P&L",
+        "P&L gain Rs 60.0 lakh",
+        "OCI Rs 15.0 lakh",
+        "OCI Rs 45.0 lakh (gross 60.0 − DTL 15.0)"
+      ],
+      "a": 3,
+      "why": "Uplift 60.0 lakh to OCI (revaluation surplus); a taxable temporary difference arises (FV > tax base) ⇒ DTL 15.0 lakh charged to OCI (it relates to the OCI item), leaving net OCI 45.0 lakh.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — revaluation-with-tax combinations dominate Section B short questions AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Revaluation & DTL",
+        "tip": "Revaluation surplus goes to OCI; DTL on the surplus also charged to OCI to the extent of the gain.",
+        "link": "Chapter 6 — Ind AS on Assets of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-18u451d",
+      "ch": 6,
+      "topic": "Revaluation & DTL",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Kaveri Ltd revalues a building: carrying amount Rs 120 lakh to Rs 180 lakh (cost model). Tax rate 25%; no revaluation reserve exists before this year. The correct journal essence:",
+      "o": [
+        "OCI Rs 60.0 lakh; DTL to P&L",
+        "P&L gain Rs 60.0 lakh",
+        "OCI Rs 15.0 lakh",
+        "OCI Rs 45.0 lakh (gross 60.0 − DTL 15.0)"
+      ],
+      "a": 3,
+      "why": "Uplift 60.0 lakh to OCI (revaluation surplus); a taxable temporary difference arises (FV > tax base) ⇒ DTL 15.0 lakh charged to OCI (it relates to the OCI item), leaving net OCI 45.0 lakh.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — revaluation-with-tax combinations dominate Section B short questions AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Revaluation & DTL",
+        "tip": "Revaluation surplus goes to OCI; DTL on the surplus also charged to OCI to the extent of the gain.",
+        "link": "Chapter 6 — Ind AS on Assets of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-u0xo9n",
+      "ch": 6,
+      "topic": "Revaluation & DTL",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Vertex Ltd revalues a building: carrying amount Rs 180 lakh to Rs 270 lakh (cost model). Tax rate 25%; no revaluation reserve exists before this year. The correct journal essence:",
+      "o": [
+        "OCI Rs 67.5 lakh (gross 90.0 − DTL 22.5)",
+        "OCI Rs 90.0 lakh; DTL to P&L",
+        "P&L gain Rs 90.0 lakh",
+        "OCI Rs 22.5 lakh"
+      ],
+      "a": 0,
+      "why": "Uplift 90.0 lakh to OCI (revaluation surplus); a taxable temporary difference arises (FV > tax base) ⇒ DTL 22.5 lakh charged to OCI (it relates to the OCI item), leaving net OCI 67.5 lakh.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — revaluation-with-tax combinations dominate Section B short questions AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Revaluation & DTL",
+        "tip": "Revaluation surplus goes to OCI; DTL on the surplus also charged to OCI to the extent of the gain.",
+        "link": "Chapter 6 — Ind AS on Assets of the Financial Statements"
+      }
+    },
+    {
+      "id": "p1q-1l72v54",
+      "ch": 6,
+      "topic": "Revaluation & DTL",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Meridian Ltd revalues a building: carrying amount Rs 120 lakh to Rs 180 lakh (cost model). Tax rate 25%; no revaluation reserve exists before this year. The correct journal essence:",
+      "o": [
+        "OCI Rs 45.0 lakh (gross 60.0 − DTL 15.0)",
+        "OCI Rs 60.0 lakh; DTL to P&L",
+        "P&L gain Rs 60.0 lakh",
+        "OCI Rs 15.0 lakh"
+      ],
+      "a": 0,
+      "why": "Uplift 60.0 lakh to OCI (revaluation surplus); a taxable temporary difference arises (FV > tax base) ⇒ DTL 15.0 lakh charged to OCI (it relates to the OCI item), leaving net OCI 45.0 lakh.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — revaluation-with-tax combinations dominate Section B short questions AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Revaluation & DTL",
+        "tip": "Revaluation surplus goes to OCI; DTL on the surplus also charged to OCI to the extent of the gain.",
+        "link": "Chapter 6 — Ind AS on Assets of the Financial Statements"
+      }
+    }
+  ]
+}

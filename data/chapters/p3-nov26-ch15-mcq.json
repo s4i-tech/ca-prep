@@ -1,0 +1,217 @@
+{
+  "meta": {
+    "id": "p3-nov26-ch15-mcq",
+    "paper": "P3",
+    "attempt": "NOV-2026",
+    "kind": "chapter",
+    "category": "CHAPTER-WISE MCQs",
+    "title": "Ch 15: Overview of Audit of Public Sector Undertakings — MCQ Bank",
+    "description": "Chapter-wise practice MCQs for Chapter 15 (Overview of Audit of Public Sector Undertakings).",
+    "count": 8,
+    "mcqCount": 8,
+    "descriptiveCount": 0,
+    "coverage": "Chapter 15 · 8 MCQs",
+    "chapters": [
+      15
+    ],
+    "durationMinutes": 12,
+    "difficulty": "Exam standard",
+    "high": 0,
+    "medium": 3,
+    "low": 5
+  },
+  "questions": [
+    {
+      "id": "p3q-1e3cf42",
+      "ch": 15,
+      "topic": "PSU audit — C&AG scope",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "In a government company audit, the C&AG:",
+      "o": [
+        "Only appoints the auditor",
+        "May direct the auditor on additional matters (compliance with directions/licenses, economy/efficiency/proprietary aspects) whose report forms part of the audit report framework",
+        "Performs the audit personally",
+        "Reviews the Board's report only"
+      ],
+      "a": 1,
+      "why": "For government companies the C&AG (or on its authority the High Court where no 51%+ state equity, per the 2021 amendment) appoints; the C&AG may specify additional audit matters and conduct supplementary/ test audits — the 'directions' clause is the examinable one.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — appointment + instruction: two C&AG powers AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: PSU audit — C&AG scope",
+        "tip": "The comptroller doesn't audit the company, but tells the audit where to look.",
+        "link": "Chapter 15 — Overview of Audit of Public Sector Undertakings"
+      }
+    },
+    {
+      "id": "p3q-6wks54",
+      "ch": 15,
+      "topic": "Test audit powers",
+      "m": 1,
+      "d": "HARD",
+      "q": "The C&AG's conduct of a test audit of accounts of a public body:",
+      "o": [
+        "Is limited to the financial statements alone",
+        "Covers economy, efficiency and propriety dimensions in addition to statutory audit, under the CAG's powers for the accounts of the Union/States",
+        "Requires the company's consent",
+        "Cannot modify the statutory auditor's opinion"
+      ],
+      "a": 1,
+      "why": "Test audits extend into economy/efficiency/propriety (a three-E audit) under the CAG's DPC Act framework — the statutory auditor works under C&AG directions in that world; for answering purposes: the distinction from private-sector audit lies here.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — propriety is the extra E nobody opts out of Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Test audit powers",
+        "tip": "The public auditor audits the purpose, not just the balance.",
+        "link": "Chapter 15 — Overview of Audit of Public Sector Undertakings"
+      }
+    },
+    {
+      "id": "p3q-1iuscee",
+      "ch": 15,
+      "topic": "Test audit audience",
+      "m": 1,
+      "d": "HARD",
+      "q": "A test audit by the C&AG covers:",
+      "o": [
+        "Only FS accuracy",
+        "Economy, efficiency and PROPRIETY dimensions in addition to accounts",
+        "Tax positions",
+        "Board elections"
+      ],
+      "a": 1,
+      "why": "The public audit lens is wider: propriety (are expenditures appropriate, even if within the accounts?) is its signature.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the three Es Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Test audit audience",
+        "tip": "Public books are read for prudence, not just precision.",
+        "link": "Chapter 15 — Overview of Audit of Public Sector Undertakings"
+      }
+    },
+    {
+      "id": "p3q-1q5m54u",
+      "ch": 15,
+      "topic": "CAG appointment and tenure",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "The Comptroller and Auditor General of India is:",
+      "o": [
+        "Appointed by Parliament for 5 years",
+        "Appointed by the President for six years or until age 65, removable like a Supreme Court judge",
+        "A Finance Ministry officer",
+        "Elected by auditors"
+      ],
+      "a": "1",
+      "why": "Constitutional office: presidential appointment, tenure six years or to age 65, removal only like a judge's — salary and conditions charged on the Consolidated Fund; the C&AG's duties and rights regarding accounts of Union and States are set by law, not executive preference.",
+      "trend": "Traceable to a real, publicly-notified amendment/standard (documented fact), tested in ICAI style.",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — security of tenure is the independence engine AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: CAG appointment and tenure",
+        "tip": "The President names the auditor of the government so the government cannot unname him.",
+        "link": "Chapter 15 — Overview of Audit of Public Sector Undertakings"
+      }
+    },
+    {
+      "id": "p3q-as5dvh",
+      "ch": 15,
+      "topic": "Articles 149-151",
+      "m": 1,
+      "d": "HARD",
+      "q": "Under the Constitution, the C&AG:",
+      "o": [
+        "Audits only Union accounts",
+        "Audits the accounts of the Union and States as directed by law made per Article 149, and reports to the President/Governor who cause them to be laid before the legislature",
+        "Reports to the Public Accounts Committee directly",
+        "Is instructed by the Finance Secretary on each report"
+      ],
+      "a": "1",
+      "why": "Article 149 gives Parliament to prescribe duties and powers; Article 151 fixes reporting to the President/Governor for laying before the Houses — the executive's role is transmission, not editing; CAG access to records follows from the same statutory frame.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the law writes the duty; the legislature receives the report Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Articles 149-151",
+        "tip": "The auditor reports to the nation through the Speaker's table, not the Minister's desk.",
+        "link": "Chapter 15 — Overview of Audit of Public Sector Undertakings"
+      }
+    },
+    {
+      "id": "p3q-o5jphn",
+      "ch": 15,
+      "topic": "Public accounts committee",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "The findings in a PSU audit report are ultimately scrutinised by:",
+      "o": [
+        "The stock exchange",
+        "The Public Accounts Committee (with the C&AG's support)",
+        "The auditor's own firm",
+        "The ministry's PR cell"
+      ],
+      "a": 1,
+      "why": "The PAC is the legislature's audit arm: the C&AG's reports are laid before it, summoning the administration to answer — the accountability loop that makes the public-sector audit's audience Parliament rather than a market.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the report's last station is the legislature AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Public accounts committee",
+        "tip": "A PSU's ledger ends under the people's lamp.",
+        "link": "Chapter 15 — Overview of Audit of Public Sector Undertakings"
+      }
+    },
+    {
+      "id": "p3q-1l9scim",
+      "ch": 15,
+      "topic": "Appropriation audit",
+      "m": 1,
+      "d": "HARD",
+      "q": "The audit of Government Accounts' appropriation phase verifies:",
+      "o": [
+        "Election spending",
+        "Grants and appropriations: that withdrawals from the Consolidated Fund matched the purpose and quantum authorised by the legislature",
+        "Municipal taxes",
+        "PSU dividends"
+      ],
+      "a": 1,
+      "why": "Appropriation audit (the vote-by-vote reconciliation) checks that what the House voted is what was drawn and for what — the constitutional control on the purse; the finance accounts' accuracy rests on this reconciliation layer.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the vote bounds the withdrawal Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Appropriation audit",
+        "tip": "A grant with a name tag must wear it in spending.",
+        "link": "Chapter 15 — Overview of Audit of Public Sector Undertakings"
+      }
+    },
+    {
+      "id": "p3q-lfgof1",
+      "ch": 15,
+      "topic": "For the audit — management's accounts duty",
+      "m": 1,
+      "d": "HARD",
+      "q": "In union/state accounts, the preparation of accounts of administration is the responsibility of:",
+      "o": [
+        "The C&AG",
+        "The Controller of State Accounts / accounting authorities under the finance department — the audit checks, never prepares",
+        "The Governor",
+        "PAC"
+      ],
+      "a": 1,
+      "why": "The separation principle again, in public colours: the executive's accounting organisation prepares; the C&AG/auditor verifies — a shared pen anywhere else would end the audit's meaning.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — separate the maker and the checker, forever Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: For the audit — management's accounts duty",
+        "tip": "Even the state is graded by an outside eye.",
+        "link": "Chapter 15 — Overview of Audit of Public Sector Undertakings"
+      }
+    }
+  ]
+}

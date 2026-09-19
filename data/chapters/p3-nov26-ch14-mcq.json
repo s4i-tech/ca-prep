@@ -1,0 +1,659 @@
+{
+  "meta": {
+    "id": "p3-nov26-ch14-mcq",
+    "paper": "P3",
+    "attempt": "NOV-2026",
+    "kind": "chapter",
+    "category": "CHAPTER-WISE MCQs",
+    "title": "Ch 14: Special Features of Audit of Banks & NBFCs — MCQ Bank",
+    "description": "Chapter-wise practice MCQs for Chapter 14 (Special Features of Audit of Banks & NBFCs).",
+    "count": 26,
+    "mcqCount": 26,
+    "descriptiveCount": 0,
+    "coverage": "Chapter 14 · 26 MCQs",
+    "chapters": [
+      14
+    ],
+    "durationMinutes": 39,
+    "difficulty": "Exam standard",
+    "high": 7,
+    "medium": 16,
+    "low": 3
+  },
+  "questions": [
+    {
+      "id": "p3q-1lct0u4",
+      "ch": 14,
+      "topic": "Branch-level bank audit week",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Restructured accounts still 'standard' + interest accruing — the risk direction:",
+      "o": [
+        "Classification only",
+        "Overstatement of income AND understated provisioning — both from the same misclassification; quantify the effect on both profit and capital",
+        "Cash-flow risk",
+        "Understatement of assets"
+      ],
+      "a": 1,
+      "why": "One error, two wounds: the restructures (if they failed RBI qualifying criteria) must be downgraded ⇒ provisioning; accrued interest on classified accounts must be suspended ⇒ income overstated — the auditor books the correction to both lines, and the CRAR consequence follows the provision.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — this topic stays active in ICAI question-setting AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Branch-level bank audit week",
+        "tip": "Misclassification pays a double fine — profit and capital The same rust dents both the hull and the gauge.",
+        "link": "Chapter 14 — Special Features of Audit of Banks & NBFCs"
+      },
+      "stem": "Rural branch audit of AgriBank: 140 loan accounts above threshold reviewed; the auditor finds: 12 accounts restructured last year are still shown 'standard' with interest accruing; 6 accounts show repayments funded by a fresh cash-credit limit dated the same day; the concurrent-audit report flagged three of these in October and management's reply says 'compliance will be ensured'.",
+      "caseRef": "p3-case-4"
+    },
+    {
+      "id": "p3q-eef0kj",
+      "ch": 14,
+      "topic": "Branch-level bank audit week",
+      "m": 2,
+      "d": "HARD",
+      "q": "The same-day repaid-by-new-limit pattern is:",
+      "o": [
+        "Recovery! Good for the bank",
+        "Borrowing-to-repay (evergreening) — a classic NPA-concealment; evaluate the realisation: no new money reached the borrower's business; re-age the accounts from the original default",
+        "Normal working capital practice",
+        "Only a compliance issue"
+      ],
+      "a": 1,
+      "why": "A 'repayment' funded by the same facility is not a repayment: the fresh disbursement was not a genuine new facility on merit (the fund-flow check) — reclassify by the substance of when the account was genuinely served, and treat the pattern as a fraud-risk indicator (management override to show standard-book cleanliness).",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — this topic stays active in ICAI question-setting Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Branch-level bank audit week",
+        "tip": "Follow the money, not the teller entry A loan washing its own hands stays dirty.",
+        "link": "Chapter 14 — Special Features of Audit of Banks & NBFCs"
+      },
+      "stem": "Rural branch audit of AgriBank: 140 loan accounts above threshold reviewed; the auditor finds: 12 accounts restructured last year are still shown 'standard' with interest accruing; 6 accounts show repayments funded by a fresh cash-credit limit dated the same day; the concurrent-audit report flagged three of these in October and management's reply says 'compliance will be ensured'.",
+      "caseRef": "p3-case-4"
+    },
+    {
+      "id": "p3q-ozg9t",
+      "ch": 14,
+      "topic": "Branch-level bank audit week",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "The concurrent-audit report's ignored flags mean:",
+      "o": [
+        "No change to the statutory audit — that's internal",
+        "Reliance on internal/concurrent work shifts; these known issues become DIRECT test targets, and management inaction informs the integrity/override risk picture",
+        "Trust management's reply",
+        "Report to the AGM"
+      ],
+      "a": 1,
+      "why": "The statutory auditor reads concurrent/CAC audit reports and their status of compliance; unremediated known flags = high-risk items with prior notice — the audit response escalates from sample to full check on those accounts, and management's inaction feeds the fraud-risk and ICFR judgments (a 'significant deficiency' pattern).",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — this topic stays active in ICAI question-setting Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Branch-level bank audit week",
+        "tip": "What internal audit saw and management ignored is now mandatory A warning read once is evidence twice.",
+        "link": "Chapter 14 — Special Features of Audit of Banks & NBFCs"
+      },
+      "stem": "Rural branch audit of AgriBank: 140 loan accounts above threshold reviewed; the auditor finds: 12 accounts restructured last year are still shown 'standard' with interest accruing; 6 accounts show repayments funded by a fresh cash-credit limit dated the same day; the concurrent-audit report flagged three of these in October and management's reply says 'compliance will be ensured'.",
+      "caseRef": "p3-case-4"
+    },
+    {
+      "id": "p3q-uzmjrd",
+      "ch": 14,
+      "topic": "Branch-level bank audit week",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "For provisioning, the auditor tests the classification file against:",
+      "o": [
+        "Last year's list",
+        "The loan ledger's actual overdue ageing and the RBI restructure/monitoring criteria — recompute, don't tick",
+        "The board's comfort",
+        "The shareholding pattern"
+      ],
+      "a": 0,
+      "why": "The ageing recomputed from the ledger (due dates vs receipts) is the primary workpaper; classification tags inherit from it; restructured accounts must be checked against the qualifying criteria and the monitoring-period rules — where the restructure itself was unqualified, the downgrade and backdated provisioning matter.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — this topic stays active in ICAI question-setting Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Branch-level bank audit week",
+        "tip": "Age the truth, tag from it The loan's diary knows what its cover page denies.",
+        "link": "Chapter 14 — Special Features of Audit of Banks & NBFCs"
+      },
+      "stem": "Rural branch audit of AgriBank: 140 loan accounts above threshold reviewed; the auditor finds: 12 accounts restructured last year are still shown 'standard' with interest accruing; 6 accounts show repayments funded by a fresh cash-credit limit dated the same day; the concurrent-audit report flagged three of these in October and management's reply says 'compliance will be ensured'.",
+      "caseRef": "p3-case-4"
+    },
+    {
+      "id": "p3q-4dxv2t",
+      "ch": 14,
+      "topic": "Branch-level bank audit week",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "The auditor's report to the bank's audit committee should frame the three findings as:",
+      "o": [
+        "Three unrelated errors",
+        "A pattern of asset-quality overstatement: provisioning, income recognition, and concealment indicators together, with the CRAR implication — and the fraud-reporting consideration at the scale thresholds",
+        "A technical reclassification",
+        "A training gap"
+      ],
+      "a": 1,
+      "why": "Individually 'technical'; together a systemic bias in the same direction, at a branch where someone was told in October — the reporting answer names the aggregate (income + capital), the pattern, and the next duty (fraud-reporting route once the amount test is met, per the 143(12) framework).",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — this topic stays active in ICAI question-setting AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Branch-level bank audit week",
+        "tip": "Direction of bias is the finding, not each entry Small errors pointing one way are a compass reading.",
+        "link": "Chapter 14 — Special Features of Audit of Banks & NBFCs"
+      },
+      "stem": "Rural branch audit of AgriBank: 140 loan accounts above threshold reviewed; the auditor finds: 12 accounts restructured last year are still shown 'standard' with interest accruing; 6 accounts show repayments funded by a fresh cash-credit limit dated the same day; the concurrent-audit report flagged three of these in October and management's reply says 'compliance will be ensured'.",
+      "caseRef": "p3-case-4"
+    },
+    {
+      "id": "p3q-86b2l1",
+      "ch": 14,
+      "topic": "NBFC audit focus",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "For an NBFC, the audit emphasis on asset classification should rely on:",
+      "o": [
+        "Management's certificate on standard-asset status",
+        "Overdue days per the loan ledger (90-day NPA trigger, current-account method nuances included) and provisioning adequacy",
+        "Last year's classification",
+        "Rating agency reports"
+      ],
+      "a": 1,
+      "why": "The RBI-observed 90-day overdue NPA trigger (with the current-account method for lump-sum due and specific loan-card logic) is the classification core; the auditor tests the ageing, not the assertion; provisioning follows the graded sub-standard/doubtful/loss rules.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — age the ledger, never trust the certificate AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: NBFC audit focus",
+        "tip": "Days overdue are the only calendar auditors read.",
+        "link": "Chapter 14 — Special Features of Audit of Banks & NBFCs"
+      }
+    },
+    {
+      "id": "p3q-t91df1",
+      "ch": 14,
+      "topic": "Priority sector lending test",
+      "m": 1,
+      "d": "HARD",
+      "q": "A bank audit's PSL check requires verifying achievement of:",
+      "o": [
+        "40% of ANBC to priority sector (with 18% agriculture / 10% weaker sections tiers) and classification of eligible borrowers, or disclosure of shortfall with the priority sector lending certificate scheme handling",
+        "18% to agriculture only",
+        "4% CRR on net demand",
+        "9% CAR per exposure"
+      ],
+      "a": 0,
+      "why": "PSL targets (40% overall/18% agri/10% weaker sections for foreign banks' Indian branches are exempt overall but 40% domestic banks etc. — study the current master direction; exam level: the triad of ratios, borrower eligibility, and shortfall instruments (PSLC purchase) — the auditor reconciles the return to the loan book; unsecured lending beyond thresholds and reclassification of diversion matter more than the certificate.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the numbers to know for sure: the 40/18/10 triad — check notifications Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Priority sector lending test",
+        "tip": "Targets on paper, tested on ledger.",
+        "link": "Chapter 14 — Special Features of Audit of Banks & NBFCs"
+      }
+    },
+    {
+      "id": "p3q-1ro7tys",
+      "ch": 14,
+      "topic": "NPA day count",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A term loan becomes NPA when instalments remain overdue for more than:",
+      "o": [
+        "60 days",
+        "90 days",
+        "30 days",
+        "180 days"
+      ],
+      "a": 1,
+      "why": "90 days (current duenot overdue) is the NPA trigger; further ageing then drives the sub-standard→doubtful→loss ladder.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the three-month fuse AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: NPA day count",
+        "tip": "Patience in banking has a quarter of days.",
+        "link": "Chapter 14 — Special Features of Audit of Banks & NBFCs"
+      }
+    },
+    {
+      "id": "p3q-ddkktj",
+      "ch": 14,
+      "topic": "Provision source",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Bank/NBFC provisioning must be tested by recomputing from:",
+      "o": [
+        "The classification tag in the register",
+        "The overdue ageing data and the applicable provisioning rates",
+        "Last year's figure",
+        "Management's note"
+      ],
+      "a": 1,
+      "why": "The register's tag is an assertion; the ageing is the fact — the auditor recomputes classification from dues, then applies the graded provisions.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — facts first, tags after AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Provision source",
+        "tip": "The label follows the ledger's date stamps.",
+        "link": "Chapter 14 — Special Features of Audit of Banks & NBFCs"
+      }
+    },
+    {
+      "id": "p3q-jopn9r",
+      "ch": 14,
+      "topic": "NBFC regulatory tightening (scale-based framework)",
+      "m": 1,
+      "d": "HARD",
+      "q": "The scale-based regulation for NBFCs re-sets audit attention mainly via:",
+      "o": [
+        "Uniform rules",
+        "Tiered entity classes (materiality, governance and disclosure obligations scaled to size/systemic importance) — the audit's depth follows the tier",
+        "Only listed NBFCs",
+        "No audit relevance"
+      ],
+      "a": 1,
+      "why": "REGULATORY shift: the tiering (base/middle/upper) changes which NBFCs face enhanced prudential and reporting norms — and therefore the audit scope, provisioning intensity, and governance expectations to test in the middle/upper layers.",
+      "trend": "Documented syllabus/amendment change — applicability from May 2026 exam onwards per ICAI BoS announcement.",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — regulation now has a size dial AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: NBFC regulatory tightening (scale-based framework)",
+        "tip": "Big pools, deeper rules — audit accordingly.",
+        "link": "Chapter 14 — Special Features of Audit of Banks & NBFCs"
+      }
+    },
+    {
+      "id": "p3q-b26c3t",
+      "ch": 14,
+      "topic": "Regulatory returns reconciliation",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "The bank auditor's reconciliation task between regulatory returns and financial statements exists because:",
+      "o": [
+        "They must differ by design",
+        "Prudential (RBI) and accounting frameworks diverge on provisioning, income and classification — the bridge explains the differences, and unexplained gaps are misstatement or regulatory risk",
+        "The returns are optional",
+        "The FS use different currency"
+      ],
+      "a": 1,
+      "why": "Divergent recognition (regulatory provisioning vs Ind AS ECL, income suspension rules) means the two books legitimately part ways — the auditor's job is the reconciliation and the labels: unexplained difference = wrong either way.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — two rulebooks, one truth line AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Regulatory returns reconciliation",
+        "tip": "The bridge between the two balance sheets IS the audit workpaper.",
+        "link": "Chapter 14 — Special Features of Audit of Banks & NBFCs"
+      }
+    },
+    {
+      "id": "p3q-1cviymq",
+      "ch": 14,
+      "topic": "Single-borrower group limits",
+      "m": 1,
+      "d": "HARD",
+      "q": "Testing prudential exposure ceilings for 'practically linked' borrower groups requires the auditor to:",
+      "o": [
+        "Count only named legal entities",
+        "Trace common management/control/fund flows to aggregate exposure — related parties in all but name defeat the limit",
+        "Accept the client's classification",
+        "Ask the rating agency"
+      ],
+      "a": 1,
+      "why": "Prudential limits bind the group exposure; borrower-group identification (common directors, cash pooling, inter-corporate deposits) is a test of substance: the register's name isn't the obligor's limit.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the limit follows the money, not the letterhead Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Single-borrower group limits",
+        "tip": "Five companies, one pocket, one ceiling.",
+        "link": "Chapter 14 — Special Features of Audit of Banks & NBFCs"
+      }
+    },
+    {
+      "id": "p3q-1n5e2e4",
+      "ch": 14,
+      "topic": "NPA classification math",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A term loan's instalment is overdue 780 days at the reference date. Classification under the 90-day NPA rule:",
+      "o": [
+        "Doubtful",
+        "Always Sub-standard on any overdue",
+        "Standard — 90 days is only for disclosure",
+        "Loss asset regardless of ageing"
+      ],
+      "a": 0,
+      "why": "NPA triggers beyond 90 days overdue (780 ⇒ NPA — beyond 1 year of NPA status ⇒ doubtful territory); note 'current-account method' rules for lump-sum accounts (overdraft balance 90 days) in the full standard.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the days-to-class ladder is the one table to memorise cold Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: NPA classification math",
+        "tip": "90 days overdue ⇒ NPA at inception (sub-standard); further 12 months ⇒ doubtful; loss on identification — ageing drives both class and provisioning.",
+        "link": "Chapter 14 — Special Features of Audit of Banks & NBFCs"
+      }
+    },
+    {
+      "id": "p3q-nf62dn",
+      "ch": 14,
+      "topic": "NPA classification math",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A term loan's instalment is overdue 88 days at the reference date. Classification under the 90-day NPA rule:",
+      "o": [
+        "Always Sub-standard on any overdue",
+        "Standard (88 < 90 — not NPA yet, watch at 90)",
+        "Standard — 90 days is only for disclosure",
+        "Loss asset regardless of ageing"
+      ],
+      "a": 1,
+      "why": "NPA triggers beyond 90 days overdue (88 ⇒ still standard); note 'current-account method' rules for lump-sum accounts (overdraft balance 90 days) in the full standard.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the days-to-class ladder is the one table to memorise cold Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: NPA classification math",
+        "tip": "90 days overdue ⇒ NPA at inception (sub-standard); further 12 months ⇒ doubtful; loss on identification — ageing drives both class and provisioning.",
+        "link": "Chapter 14 — Special Features of Audit of Banks & NBFCs"
+      }
+    },
+    {
+      "id": "p3q-1fqqugh",
+      "ch": 14,
+      "topic": "NPA classification math",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A term loan's instalment is overdue 91 days at the reference date. Classification under the 90-day NPA rule:",
+      "o": [
+        "Sub-standard (≤ 12 months past NPA)",
+        "Always Sub-standard on any overdue",
+        "Standard — 90 days is only for disclosure",
+        "Loss asset regardless of ageing"
+      ],
+      "a": 0,
+      "why": "NPA triggers beyond 90 days overdue (91 ⇒ NPA — sub-standard at inception); note 'current-account method' rules for lump-sum accounts (overdraft balance 90 days) in the full standard.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the days-to-class ladder is the one table to memorise cold Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: NPA classification math",
+        "tip": "90 days overdue ⇒ NPA at inception (sub-standard); further 12 months ⇒ doubtful; loss on identification — ageing drives both class and provisioning.",
+        "link": "Chapter 14 — Special Features of Audit of Banks & NBFCs"
+      }
+    },
+    {
+      "id": "p3q-1rni0dd",
+      "ch": 14,
+      "topic": "NPA classification math",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A term loan's instalment is overdue 400 days at the reference date. Classification under the 90-day NPA rule:",
+      "o": [
+        "Always Sub-standard on any overdue",
+        "Standard — 90 days is only for disclosure",
+        "Sub-standard (≤ 12 months past NPA)",
+        "Loss asset regardless of ageing"
+      ],
+      "a": 2,
+      "why": "NPA triggers beyond 90 days overdue (400 ⇒ NPA — sub-standard at inception); note 'current-account method' rules for lump-sum accounts (overdraft balance 90 days) in the full standard.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the days-to-class ladder is the one table to memorise cold Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: NPA classification math",
+        "tip": "90 days overdue ⇒ NPA at inception (sub-standard); further 12 months ⇒ doubtful; loss on identification — ageing drives both class and provisioning.",
+        "link": "Chapter 14 — Special Features of Audit of Banks & NBFCs"
+      }
+    },
+    {
+      "id": "p3q-1klanbh",
+      "ch": 14,
+      "topic": "NPA classification math",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A term loan's instalment is overdue 95 days at the reference date. Classification under the 90-day NPA rule:",
+      "o": [
+        "Always Sub-standard on any overdue",
+        "Sub-standard (≤ 12 months past NPA)",
+        "Standard — 90 days is only for disclosure",
+        "Loss asset regardless of ageing"
+      ],
+      "a": 1,
+      "why": "NPA triggers beyond 90 days overdue (95 ⇒ NPA — sub-standard at inception); note 'current-account method' rules for lump-sum accounts (overdraft balance 90 days) in the full standard.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the days-to-class ladder is the one table to memorise cold Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: NPA classification math",
+        "tip": "90 days overdue ⇒ NPA at inception (sub-standard); further 12 months ⇒ doubtful; loss on identification — ageing drives both class and provisioning.",
+        "link": "Chapter 14 — Special Features of Audit of Banks & NBFCs"
+      }
+    },
+    {
+      "id": "p3q-1uefmdp",
+      "ch": 14,
+      "topic": "PSL shortfall arithmetic",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "A bank's ANBC is Rs 50,000 lakh; net PSL advance Rs 16,000 lakh. RBI's 40% PSL target ⇒ audit position:",
+      "o": [
+        "Excess of Rs 4,000 lakh to lend to weaker sections",
+        "Shortfall is cured by reclassifying any loan",
+        "Shortfall Rs 4,000 lakh ⇒ purchase PSLCs of equal amount (if it opts); the cost of the certificate scheme vs re-lending is the management decision",
+        "PSLCs are bought for the AGRI target only"
+      ],
+      "a": 2,
+      "why": "40% of ANBC = 20,000 vs actual 16,000 ⇒ shortfall 4,000 lakh — PSLC route (purchase in the subordinate market) or accept the penalty framing.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the 40% test plus certificate mechanics is bank-audit numeracy AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: PSL shortfall arithmetic",
+        "tip": "Shortfall vs the 40% PSL target is closed by purchasing PSL certificates (aggregate shortfall at bank level), then re-lending at priority rates — the flow that changes the balance-sheet.",
+        "link": "Chapter 14 — Special Features of Audit of Banks & NBFCs"
+      }
+    },
+    {
+      "id": "p3q-1sx2h99",
+      "ch": 14,
+      "topic": "PSL shortfall arithmetic",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "A bank's ANBC is Rs 80,000 lakh; net PSL advance Rs 28,800 lakh. RBI's 40% PSL target ⇒ audit position:",
+      "o": [
+        "Excess of Rs 3,200 lakh to lend to weaker sections",
+        "Shortfall Rs 3,200 lakh ⇒ purchase PSLCs of equal amount (if it opts); the cost of the certificate scheme vs re-lending is the management decision",
+        "Shortfall is cured by reclassifying any loan",
+        "PSLCs are bought for the AGRI target only"
+      ],
+      "a": 1,
+      "why": "40% of ANBC = 32,000 vs actual 28,800 ⇒ shortfall 3,200 lakh — PSLC route (purchase in the subordinate market) or accept the penalty framing.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the 40% test plus certificate mechanics is bank-audit numeracy AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: PSL shortfall arithmetic",
+        "tip": "Shortfall vs the 40% PSL target is closed by purchasing PSL certificates (aggregate shortfall at bank level), then re-lending at priority rates — the flow that changes the balance-sheet.",
+        "link": "Chapter 14 — Special Features of Audit of Banks & NBFCs"
+      }
+    },
+    {
+      "id": "p3q-1j9kk0e",
+      "ch": 14,
+      "topic": "PSL shortfall arithmetic",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "A bank's ANBC is Rs 80,000 lakh; net PSL advance Rs 25,600 lakh. RBI's 40% PSL target ⇒ audit position:",
+      "o": [
+        "Excess of Rs 6,400 lakh to lend to weaker sections",
+        "Shortfall Rs 6,400 lakh ⇒ purchase PSLCs of equal amount (if it opts); the cost of the certificate scheme vs re-lending is the management decision",
+        "Shortfall is cured by reclassifying any loan",
+        "PSLCs are bought for the AGRI target only"
+      ],
+      "a": 1,
+      "why": "40% of ANBC = 32,000 vs actual 25,600 ⇒ shortfall 6,400 lakh — PSLC route (purchase in the subordinate market) or accept the penalty framing.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the 40% test plus certificate mechanics is bank-audit numeracy AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: PSL shortfall arithmetic",
+        "tip": "Shortfall vs the 40% PSL target is closed by purchasing PSL certificates (aggregate shortfall at bank level), then re-lending at priority rates — the flow that changes the balance-sheet.",
+        "link": "Chapter 14 — Special Features of Audit of Banks & NBFCs"
+      }
+    },
+    {
+      "id": "p3q-val0yw",
+      "ch": 14,
+      "topic": "PSL shortfall arithmetic",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "A bank's ANBC is Rs 50,000 lakh; net PSL advance Rs 22,000 lakh. RBI's 40% PSL target ⇒ audit position:",
+      "o": [
+        "Excess of Rs 0 lakh to lend to weaker sections",
+        "Shortfall is cured by reclassifying any loan",
+        "PSLCs are bought for the AGRI target only",
+        "No shortfall (achievement 44% ≥ 40%) — no PSLC obligation"
+      ],
+      "a": 3,
+      "why": "40% of ANBC = 20,000 vs actual 22,000 ⇒ target met (44% ≥ 40%) — the auditor's task shifts to borrower-eligibility and reclassification testing.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the 40% test plus certificate mechanics is bank-audit numeracy AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: PSL shortfall arithmetic",
+        "tip": "Shortfall vs the 40% PSL target is closed by purchasing PSL certificates (aggregate shortfall at bank level), then re-lending at priority rates — the flow that changes the balance-sheet.",
+        "link": "Chapter 14 — Special Features of Audit of Banks & NBFCs"
+      }
+    },
+    {
+      "id": "p3q-broyxb",
+      "ch": 14,
+      "topic": "PSL shortfall arithmetic",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "A bank's ANBC is Rs 1,20,000 lakh; net PSL advance Rs 43,200 lakh. RBI's 40% PSL target ⇒ audit position:",
+      "o": [
+        "Excess of Rs 4,800 lakh to lend to weaker sections",
+        "Shortfall is cured by reclassifying any loan",
+        "Shortfall Rs 4,800 lakh ⇒ purchase PSLCs of equal amount (if it opts); the cost of the certificate scheme vs re-lending is the management decision",
+        "PSLCs are bought for the AGRI target only"
+      ],
+      "a": 2,
+      "why": "40% of ANBC = 48,000 vs actual 43,200 ⇒ shortfall 4,800 lakh — PSLC route (purchase in the subordinate market) or accept the penalty framing.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the 40% test plus certificate mechanics is bank-audit numeracy AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: PSL shortfall arithmetic",
+        "tip": "Shortfall vs the 40% PSL target is closed by purchasing PSL certificates (aggregate shortfall at bank level), then re-lending at priority rates — the flow that changes the balance-sheet.",
+        "link": "Chapter 14 — Special Features of Audit of Banks & NBFCs"
+      }
+    },
+    {
+      "id": "p3q-ttpo2v",
+      "ch": 14,
+      "topic": "PSL shortfall arithmetic",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "A bank's ANBC is Rs 1,20,000 lakh; net PSL advance Rs 38,400 lakh. RBI's 40% PSL target ⇒ audit position:",
+      "o": [
+        "Excess of Rs 9,600 lakh to lend to weaker sections",
+        "Shortfall Rs 9,600 lakh ⇒ purchase PSLCs of equal amount (if it opts); the cost of the certificate scheme vs re-lending is the management decision",
+        "Shortfall is cured by reclassifying any loan",
+        "PSLCs are bought for the AGRI target only"
+      ],
+      "a": 1,
+      "why": "40% of ANBC = 48,000 vs actual 38,400 ⇒ shortfall 9,600 lakh — PSLC route (purchase in the subordinate market) or accept the penalty framing.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the 40% test plus certificate mechanics is bank-audit numeracy AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: PSL shortfall arithmetic",
+        "tip": "Shortfall vs the 40% PSL target is closed by purchasing PSL certificates (aggregate shortfall at bank level), then re-lending at priority rates — the flow that changes the balance-sheet.",
+        "link": "Chapter 14 — Special Features of Audit of Banks & NBFCs"
+      }
+    },
+    {
+      "id": "p3q-1ynko7n",
+      "ch": 14,
+      "topic": "PSL shortfall arithmetic",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "A bank's ANBC is Rs 50,000 lakh; net PSL advance Rs 18,000 lakh. RBI's 40% PSL target ⇒ audit position:",
+      "o": [
+        "Excess of Rs 2,000 lakh to lend to weaker sections",
+        "Shortfall is cured by reclassifying any loan",
+        "PSLCs are bought for the AGRI target only",
+        "Shortfall Rs 2,000 lakh ⇒ purchase PSLCs of equal amount (if it opts); the cost of the certificate scheme vs re-lending is the management decision"
+      ],
+      "a": 3,
+      "why": "40% of ANBC = 20,000 vs actual 18,000 ⇒ shortfall 2,000 lakh — PSLC route (purchase in the subordinate market) or accept the penalty framing.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the 40% test plus certificate mechanics is bank-audit numeracy AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: PSL shortfall arithmetic",
+        "tip": "Shortfall vs the 40% PSL target is closed by purchasing PSL certificates (aggregate shortfall at bank level), then re-lending at priority rates — the flow that changes the balance-sheet.",
+        "link": "Chapter 14 — Special Features of Audit of Banks & NBFCs"
+      }
+    },
+    {
+      "id": "p3q-1rcohft",
+      "ch": 14,
+      "topic": "PSL shortfall arithmetic",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "A bank's ANBC is Rs 80,000 lakh; net PSL advance Rs 35,200 lakh. RBI's 40% PSL target ⇒ audit position:",
+      "o": [
+        "Excess of Rs 0 lakh to lend to weaker sections",
+        "Shortfall is cured by reclassifying any loan",
+        "PSLCs are bought for the AGRI target only",
+        "No shortfall (achievement 44% ≥ 40%) — no PSLC obligation"
+      ],
+      "a": 3,
+      "why": "40% of ANBC = 32,000 vs actual 35,200 ⇒ target met (44% ≥ 40%) — the auditor's task shifts to borrower-eligibility and reclassification testing.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the 40% test plus certificate mechanics is bank-audit numeracy AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: PSL shortfall arithmetic",
+        "tip": "Shortfall vs the 40% PSL target is closed by purchasing PSL certificates (aggregate shortfall at bank level), then re-lending at priority rates — the flow that changes the balance-sheet.",
+        "link": "Chapter 14 — Special Features of Audit of Banks & NBFCs"
+      }
+    },
+    {
+      "id": "p3q-1idtdjb",
+      "ch": 14,
+      "topic": "PSL shortfall arithmetic",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "A bank's ANBC is Rs 1,20,000 lakh; net PSL advance Rs 52,800 lakh. RBI's 40% PSL target ⇒ audit position:",
+      "o": [
+        "Excess of Rs 0 lakh to lend to weaker sections",
+        "No shortfall (achievement 44% ≥ 40%) — no PSLC obligation",
+        "Shortfall is cured by reclassifying any loan",
+        "PSLCs are bought for the AGRI target only"
+      ],
+      "a": 1,
+      "why": "40% of ANBC = 48,000 vs actual 52,800 ⇒ target met (44% ≥ 40%) — the auditor's task shifts to borrower-eligibility and reclassification testing.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the 40% test plus certificate mechanics is bank-audit numeracy AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: PSL shortfall arithmetic",
+        "tip": "Shortfall vs the 40% PSL target is closed by purchasing PSL certificates (aggregate shortfall at bank level), then re-lending at priority rates — the flow that changes the balance-sheet.",
+        "link": "Chapter 14 — Special Features of Audit of Banks & NBFCs"
+      }
+    }
+  ]
+}

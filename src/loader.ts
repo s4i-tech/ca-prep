@@ -48,10 +48,57 @@ namespace App {
     },
 
     async findDatasetEntry(manifest: Manifest, datasetId: string): Promise<DatasetMeta | null> {
-      return manifest.datasets.find((d) => d.id === datasetId) ?? null;
+      const existing = manifest.datasets.find((d) => d.id === datasetId);
+      if (existing) return existing;
+
+      const chMatch = datasetId.match(/^([a-z0-9-]+)-ch(\d+)$/i);
+      if (chMatch) {
+        const baseId = chMatch[1];
+        const ch = parseInt(chMatch[2], 10);
+        const baseEntry = manifest.datasets.find((d) => d.id === baseId);
+        if (baseEntry) {
+          const paper = manifest.papers.find((p) => p.id === baseEntry.paper);
+          const chInfo = paper?.chapters.find((c) => c.no === ch);
+          return {
+            ...baseEntry,
+            id: datasetId,
+            title: `Ch ${ch}: ${chInfo ? chInfo.name : "Chapter " + ch} — MCQ Set`,
+            description: `Chapter ${ch} MCQ practice set for ${paper ? paper.title : baseEntry.paper}.`,
+            category: "CHAPTER-WISE MCQs",
+            kind: "chapter",
+            coverage: `Chapter ${ch}`,
+            chapters: [ch],
+          };
+        }
+      }
+      return null;
     },
 
     async loadDataset(manifest: Manifest, datasetId: string): Promise<DatasetFile> {
+      const chMatch = datasetId.match(/^([a-z0-9-]+)-ch(\d+)$/i);
+      if (chMatch) {
+        const baseId = chMatch[1];
+        const ch = parseInt(chMatch[2], 10);
+        const baseFile = await Loader.loadDataset(manifest, baseId);
+        const mcqs = baseFile.questions.filter((q) => App.isMcq(q) && q.ch === ch);
+        const qs = mcqs.length ? mcqs : baseFile.questions.filter((q) => q.ch === ch);
+        const entry = await Loader.findDatasetEntry(manifest, datasetId);
+        const meta: DatasetMeta = {
+          ...(entry || baseFile.meta),
+          id: datasetId,
+          count: qs.length,
+          mcqCount: qs.length,
+          descriptiveCount: 0,
+          chapters: [ch],
+          durationMinutes: Math.max(10, Math.ceil(qs.length * 1.5)),
+          high: qs.filter((q) => q.prob === "HIGH").length,
+          medium: qs.filter((q) => q.prob === "MEDIUM").length,
+          low: qs.filter((q) => q.prob === "LOW").length,
+          kind: "chapter",
+        };
+        return { meta, questions: qs };
+      }
+
       const entry = await Loader.findDatasetEntry(manifest, datasetId);
       if (!entry) throw new Error("dataset-not-in-manifest: " + datasetId);
       if (!Loader.isFileProtocol()) {

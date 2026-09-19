@@ -1,0 +1,241 @@
+{
+  "meta": {
+    "id": "p1-nov26-ch1-mcq",
+    "paper": "P1",
+    "attempt": "NOV-2026",
+    "kind": "chapter",
+    "category": "CHAPTER-WISE MCQs",
+    "title": "Ch 1: Introduction to Indian Accounting Standards — MCQ Bank",
+    "description": "Chapter-wise practice MCQs for Chapter 1 (Introduction to Indian Accounting Standards).",
+    "count": 9,
+    "mcqCount": 9,
+    "descriptiveCount": 0,
+    "coverage": "Chapter 1 · 9 MCQs",
+    "chapters": [
+      1
+    ],
+    "durationMinutes": 14,
+    "difficulty": "Exam standard",
+    "high": 1,
+    "medium": 6,
+    "low": 2
+  },
+  "questions": [
+    {
+      "id": "p1q-1r1bo37",
+      "ch": 1,
+      "topic": "Framework & standard-setting",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Under the new scheme syllabus, Ind AS are notified under which statutory mechanism?",
+      "o": [
+        "Companies (Indian Accounting Standards) Rules issued by MCA on recommendation of NFRA",
+        "Section 129 only of the Companies Act 2013",
+        "ICAI issues Ind AS directly as Accounting Standards",
+        "SEBI notifies Ind AS for all companies"
+      ],
+      "a": 0,
+      "why": "MCA notifies Ind AS through the Companies (Indian Accounting Standards) Rules; the standard-setting process runs through the National Financial Reporting Authority (NFRA), which replaced the earlier AC-AS role. ICAI's role is recommendation/drafting support; SEBI governs listed-company disclosure, not Ind AS notification.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — governance of standard-setting is a favourite 1-marker AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Framework & standard-setting",
+        "tip": "Who recommends? NFRA. Who notifies? MCA. Who writes study material? ICAI — three separate chairs; never mix them.",
+        "link": "Ch 1"
+      }
+    },
+    {
+      "id": "p1q-fb3t4z",
+      "ch": 1,
+      "topic": "Applicability of Ind AS",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "As per the roadmap, which class of companies is required to prepare Ind AS-based financial statements for accounting periods beginning on or after 1 April 2018 (in addition to the earlier phases)?",
+      "o": [
+        "All companies listed or intending to list on a stock exchange",
+        "Only banking companies",
+        "Only insurance companies",
+        "All private limited companies with paid-up capital above Rs 100 crore"
+      ],
+      "a": 0,
+      "why": "The phased roadmap applied Ind AS from 1.4.2016 to NBFCs, banks, insurers and companies with net worth/turnover above Rs 500 crore; from 1.4.2017 to all companies with net worth/turnover above Rs 250 crore; and from 1.4.2018 to all companies listed or in the process of listing on any stock exchange in India or abroad.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the roadmap dates are a standing MCQ favourite Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Applicability of Ind AS",
+        "tip": "Roadmap ladder: 500 Cr+ and banks/NBFC/insurance from FY17; listed (or going listed) from FY18. Parent/sub follows the parent rule even below limits.",
+        "link": "Ch 1 / Ch 14"
+      }
+    },
+    {
+      "id": "p1q-1s8qsu1",
+      "ch": 1,
+      "topic": "Framework history",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Which body now recommends notification of Ind AS accounting standards in the public interest?",
+      "o": [
+        "ICAI's Accounting Standards Board (legacy)",
+        "National Financial Reporting Authority (NFRA)",
+        "SEBI",
+        "RBI"
+      ],
+      "a": 1,
+      "why": "Under the Companies Act 2013 (as amended), NFRA recommends ICAI to formulate, or recommend for issuance, accounting/auditing standards in the public interest; ICAI continues drafting. MCA notifies.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — institutional-governance 1-markers recur under the new scheme AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Framework history",
+        "tip": "NFRA recommends, ICAI drafts, MCA notifies — three desks, one assembly line.",
+        "link": "Ch 1"
+      }
+    },
+    {
+      "id": "p1q-15wu2qg",
+      "ch": 1,
+      "topic": "Ind AS vs AS terminology",
+      "m": 1,
+      "d": "HARD",
+      "q": "Under Ind AS, the term used in place of the AS-era 'market value' for most financial-statement purposes is:",
+      "o": [
+        "Net book value",
+        "Fair value",
+        "Realisable value",
+        "Gross value"
+      ],
+      "a": 1,
+      "why": "Ind AS replaced ad-hoc 'market value' usage with the defined exit-price 'fair value' (Ind AS 113).",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — terminology mapping questions open the paper AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS vs AS terminology",
+        "tip": "Fair value is the Ind AS lingua franca; 'market value' is a dead dialect.",
+        "link": "Chapter 1 — Introduction to Indian Accounting Standards"
+      }
+    },
+    {
+      "id": "p1q-1r7s8t3",
+      "ch": 1,
+      "topic": "Framework vs standard conflict",
+      "m": 1,
+      "d": "HARD",
+      "q": "If an Ind AS requirement conflicts with the Conceptual Framework, the entity follows:",
+      "o": [
+        "The Framework",
+        "The Ind AS",
+        "Both, whichever favours the entity",
+        "Auditor's choice"
+      ],
+      "a": 1,
+      "why": "The Framework does not override any Ind AS — it guides when a requirement is absent or unclear.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — supremacy-hierarchy one-liner Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Framework vs standard conflict",
+        "tip": "Standards rule, the Framework fills gaps — never the reverse.",
+        "link": "Chapter 1 — Introduction to Indian Accounting Standards"
+      }
+    },
+    {
+      "id": "p1q-1g8pctc",
+      "ch": 1,
+      "topic": "MCA exemption powers",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A sector regulator (e.g., IRDAI for insurers) may exempt notified companies from specified Ind AS applicability. This exemption comes from:",
+      "o": [
+        "NFRA",
+        "MCA in consultation with the sector regulator, via exemption notifications",
+        "SEBI alone",
+        "RBI circular"
+      ],
+      "a": 1,
+      "why": "Under the roadmap, certain classes (banking/insurance/NBFC historically) were deferred/exempted via MCA notifications in consultation with regulators.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — governance-of-exemptions one-liner AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: MCA exemption powers",
+        "tip": "The notification door opens only in consultation — never self-certified.",
+        "link": "Chapter 1 — Introduction to Indian Accounting Standards"
+      }
+    },
+    {
+      "id": "p1q-fnjs43",
+      "ch": 1,
+      "topic": "Ind AS 8 — policy choice anchor",
+      "m": 1,
+      "d": "HARD",
+      "q": "Where an Ind AS permits a choice of policy, the selection must be made with reference to:",
+      "o": [
+        "Peer companies’ popular pick",
+        "The Framework’s recognition and measurement principles, applied consistently",
+        "Minimising current-year tax",
+        "The statutory auditor’s preference"
+      ],
+      "a": 1,
+      "why": "Ind AS 8 requires the chosen policy to give relevant, reliable, comparable information per the Framework — then consistency until a change is required or improves the statements.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — policy-by-principle vs policy-by-convenience is a favourite concept check Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Ind AS 8 — policy choice anchor",
+        "tip": "Choices are made by principle, not by convenience — then kept.",
+        "link": "Chapter 1 — Introduction to Indian Accounting Standards"
+      }
+    },
+    {
+      "id": "p1q-16qfou8",
+      "ch": 1,
+      "topic": "Ind AS applicability",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Companies with net worth Rs 300 crore (unlisted, not planning listing) applying Ind AS by 1 April:",
+      "o": [
+        "20X8",
+        "20X7 (from FY beginning 1.4.2017)",
+        "Never",
+        "20X6"
+      ],
+      "a": 1,
+      "why": "Net worth/turnover ≥ Rs 250 crore (not covered earlier) adopted Ind AS for periods beginning on/after 1.4.2017.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — roadmap-tier recall one-liner AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS applicability",
+        "tip": "250 crore class joined on 1 April 2017; 500+ and financial sector came first.",
+        "link": "Chapter 1 — Introduction to Indian Accounting Standards"
+      }
+    },
+    {
+      "id": "p1q-11xxe79",
+      "ch": 1,
+      "topic": "NFRA scope",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "NFRA's jurisdiction covers auditors of:",
+      "o": [
+        "All companies",
+        "Companies and standards as notified (PIE first; others later per notification)",
+        "Only listed companies",
+        "Only banks"
+      ],
+      "a": 1,
+      "why": "The Companies (NFRA) Rules 2018 placed PIE auditors within NFRA; non-PIE coverage was added by later notification processes — the framework: standards-setting + oversight split from ICAI for covered entities.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — oversight-scope question under the new scheme AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: NFRA scope",
+        "tip": "NFRA watches the giants; ICAI's role continues elsewhere — scope by notification, not by choice.",
+        "link": "Chapter 1 — Introduction to Indian Accounting Standards"
+      }
+    }
+  ]
+}

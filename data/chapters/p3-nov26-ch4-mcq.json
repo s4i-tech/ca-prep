@@ -1,0 +1,803 @@
+{
+  "meta": {
+    "id": "p3-nov26-ch4-mcq",
+    "paper": "P3",
+    "attempt": "NOV-2026",
+    "kind": "chapter",
+    "category": "CHAPTER-WISE MCQs",
+    "title": "Ch 4: Materiality, Risk Assessment and Internal Control — MCQ Bank",
+    "description": "Chapter-wise practice MCQs for Chapter 4 (Materiality, Risk Assessment and Internal Control).",
+    "count": 32,
+    "mcqCount": 32,
+    "descriptiveCount": 0,
+    "coverage": "Chapter 4 · 32 MCQs",
+    "chapters": [
+      4
+    ],
+    "durationMinutes": 48,
+    "difficulty": "Exam standard",
+    "high": 15,
+    "medium": 15,
+    "low": 2
+  },
+  "questions": [
+    {
+      "id": "p3q-s907m8",
+      "ch": 4,
+      "topic": "The controls walk — ITGC and revenue",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "The audit's central control reliance:",
+      "o": [
+        "Substantive-only — IT is not our field",
+        "ITGC over access and change: the automated three-way match inherits its credibility from them",
+        "Rely on the count of orders",
+        "Vendor warranty on the software"
+      ],
+      "a": 1,
+      "why": "Fully automated, no manual paper trail: substantive-alone is not sufficient at the assertion level (SA 330's trigger), so controls testing is MANDATORY — and it's the ITGC layer (access + change) that the application controls rest on.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — this topic stays active in ICAI question-setting Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: The controls walk — ITGC and revenue",
+        "tip": "The robot is only as honest as its change control Fix the keys first; then trust the locks.",
+        "link": "Chapter 4 — Materiality, Risk Assessment and Internal Control"
+      },
+      "stem": "ShopCart (e-commerce, 9M orders/year, no manual ledgers): three-way match automated; developer has permanent access to production; password policy disabled for service accounts; the order→invoice→collection trail is queryable but the team hasn't tested the extract's completeness. Management says 'the algorithm runs itself'.",
+      "caseRef": "p3-case-3"
+    },
+    {
+      "id": "p3q-128q1m",
+      "ch": 4,
+      "topic": "The controls walk — ITGC and revenue",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Developer with production access breaks:",
+      "o": [
+        "Logical access and change management — ITGC core — reliance collapses for every automated control",
+        "Just the payroll cycle",
+        "Nothing — the developer is trusted",
+        "Segregation in purchasing"
+      ],
+      "a": 0,
+      "why": "Permanent privileged access defeats the change-control premise: code can reach production without the controls; the knock-on: automated controls' operating effectiveness can't be presumed ⇒ substantive escalation or remediation testing over the whole year (the 'who changed what' query is the auditor's tool here).",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — this topic stays active in ICAI question-setting AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: The controls walk — ITGC and revenue",
+        "tip": "God-mode accounts audit like open doors One unsupervised admin turns your controls into legends.",
+        "link": "Chapter 4 — Materiality, Risk Assessment and Internal Control"
+      },
+      "stem": "ShopCart (e-commerce, 9M orders/year, no manual ledgers): three-way match automated; developer has permanent access to production; password policy disabled for service accounts; the order→invoice→collection trail is queryable but the team hasn't tested the extract's completeness. Management says 'the algorithm runs itself'.",
+      "caseRef": "p3-case-3"
+    },
+    {
+      "id": "p3q-bxrre8",
+      "ch": 4,
+      "topic": "The controls walk — ITGC and revenue",
+      "m": 2,
+      "d": "HARD",
+      "q": "The data extract completeness risk:",
+      "o": [
+        "Accept — the system exports everything",
+        "The auditor must establish the population's integrity (reconcile extract record counts/totals to the DB, test date-sequence and deletion logic) before any full-population analytics mean anything",
+        "Rely on management's certificate of the CSV",
+        "Sample 100 rows"
+      ],
+      "a": 1,
+      "why": "CAATs over a faulty extract = wrong answer at scale — the data-reliability step is part of the procedure, not a courtesy: reconciliation, the 'no deleted rows' test, and sequence checks are the standard trio.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — this topic stays active in ICAI question-setting Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: The controls walk — ITGC and revenue",
+        "tip": "Garbage in, confidence out — 100% coverage doesn't cure it Trust the database, verify the export.",
+        "link": "Chapter 4 — Materiality, Risk Assessment and Internal Control"
+      },
+      "stem": "ShopCart (e-commerce, 9M orders/year, no manual ledgers): three-way match automated; developer has permanent access to production; password policy disabled for service accounts; the order→invoice→collection trail is queryable but the team hasn't tested the extract's completeness. Management says 'the algorithm runs itself'.",
+      "caseRef": "p3-case-3"
+    },
+    {
+      "id": "p3q-18czs1p",
+      "ch": 4,
+      "topic": "The controls walk — ITGC and revenue",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "For 9M orders, the auditor's best revenue evidence:",
+      "o": [
+        "Confirm 500 random orders",
+        "Full-population analytics on the extract (price×qty×tax vs billed) + test the interface totals (order system ↔ invoicing ↔ bank collections) and exception drill-downs",
+        "Rely on the VAT return",
+        "Cut-off test 5 invoices"
+      ],
+      "a": 1,
+      "why": "At this volume, sampling cannot give coverage; the efficient path is analytics over the whole population with the interface reconciliation to plug the completeness hole — exceptions are then tested individually.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — this topic stays active in ICAI question-setting Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: The controls walk — ITGC and revenue",
+        "tip": "Big data earns its fee in testing everything, once You can't sample a river; you build a weir and watch the debris.",
+        "link": "Chapter 4 — Materiality, Risk Assessment and Internal Control"
+      },
+      "stem": "ShopCart (e-commerce, 9M orders/year, no manual ledgers): three-way match automated; developer has permanent access to production; password policy disabled for service accounts; the order→invoice→collection trail is queryable but the team hasn't tested the extract's completeness. Management says 'the algorithm runs itself'.",
+      "caseRef": "p3-case-3"
+    },
+    {
+      "id": "p3q-6igzt2",
+      "ch": 4,
+      "topic": "The controls walk — ITGC and revenue",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Management's 'algorithm runs itself' claim:",
+      "o": [
+        "A fine explanation",
+        "A description of reliance on controls the auditor must evaluate and test — plus the audit-trail/compliance dimension where applicable for this class of entity",
+        "Substitute for evidence",
+        "Enough for a KAM"
+      ],
+      "a": 1,
+      "why": "That sentence is a claim about controls, not a conclusion; automated systems don't self-certify — and if the entity cannot demonstrate a tamper-evident trail, the audit (and the statute) both have a problem.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — this topic stays active in ICAI question-setting Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: The controls walk — ITGC and revenue",
+        "tip": "'It's automatic' is the beginning of the question A black box is an audit scope dispute before it is a computer.",
+        "link": "Chapter 4 — Materiality, Risk Assessment and Internal Control"
+      },
+      "stem": "ShopCart (e-commerce, 9M orders/year, no manual ledgers): three-way match automated; developer has permanent access to production; password policy disabled for service accounts; the order→invoice→collection trail is queryable but the team hasn't tested the extract's completeness. Management says 'the algorithm runs itself'.",
+      "caseRef": "p3-case-3"
+    },
+    {
+      "id": "p3q-374not",
+      "ch": 4,
+      "topic": "Materiality benchmark",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Inappropriate as a materiality benchmark for a profit-oriented manufacturing company's financial statements:",
+      "o": [
+        "Profit before tax",
+        "Total revenue",
+        "Gross bank balance held as fixed deposit",
+        "Total assets"
+      ],
+      "a": 2,
+      "why": "Benchmarks are what users focus on (PBT, revenue, net assets); a single fixed-deposit balance is not a users' focus — the third option is the odd one out even though it is 'large'.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — benchmark = user attention, not magnitude Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Materiality benchmark",
+        "tip": "Materiality is the reader's yardstick, not the ledger's tallest line.",
+        "link": "Chapter 4 — Materiality, Risk Assessment and Internal Control"
+      }
+    },
+    {
+      "id": "p3q-1xz1o59",
+      "ch": 4,
+      "topic": "Performance materiality",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Performance materiality is set below overall materiality primarily to:",
+      "o": [
+        "Reduce audit hours to the client's budget",
+        "Reduce the aggregate probability that uncorrected + undetected misstatements exceed overall materiality",
+        "Satisfy the regulator mechanically",
+        "Replace the need for the clearly-trivial threshold"
+      ],
+      "a": 1,
+      "why": "PM addresses the gap between what we find and what we miss: a lower threshold on scope so that the sum of uncorrected and undetected misstatements has a LOW probability of exceeding overall materiality — hence the usual 5–25% haircut range (commonly 50–75% of OM).",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — PM = headroom for the misstatements you did not catch Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Performance materiality",
+        "tip": "Budget the audit for the errors you'll never see.",
+        "link": "Chapter 4 — Materiality, Risk Assessment and Internal Control"
+      }
+    },
+    {
+      "id": "p3q-q9mu3i",
+      "ch": 4,
+      "topic": "Revision of materiality",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "If during fieldwork actual results reveal lower-than-expected profit, materiality:",
+      "o": [
+        "Cannot be revised once set",
+        "Is revised if information would have caused a different initial amount — and PM and scope are re-aligned",
+        "Doubles automatically",
+        "Is set by the audit committee"
+      ],
+      "a": 1,
+      "why": "Reconsider when information at planning would have produced a different figure; revising materiality DOWNWARD raises the question whether planned procedures suffice — and whether the previously 'clearly trivial' basket now matters.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — materiality is an estimate that owes the facts an apology AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Revision of materiality",
+        "tip": "Remeasure the ruler mid-measurement when the wall changes shape.",
+        "link": "Chapter 4 — Materiality, Risk Assessment and Internal Control"
+      }
+    },
+    {
+      "id": "p3q-5ohdsg",
+      "ch": 4,
+      "topic": "Two types of misstatement",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A misstatement arising from management's unreasonable accounting estimate, without evidence of intent, is best dealt with as:",
+      "o": [
+        "An error to be corrected; the judgment difference is evaluated for materiality",
+        "Automatic fraud",
+        "Ignored as subjective",
+        "A scope limitation"
+      ],
+      "a": 0,
+      "why": "Estimates split difference-OF-view from errors; both accumulate as misstatements for evaluation (SA 450) — fraud classification needs intent/bias indications, which SA 540 pushes the auditor to look for but not presume.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — no intent ⇒ still a number to aggregate, not a crime to declare AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Two types of misstatement",
+        "tip": "A judgment can be wrong without being wicked.",
+        "link": "Chapter 4 — Materiality, Risk Assessment and Internal Control"
+      }
+    },
+    {
+      "id": "p3q-1t2npn5",
+      "ch": 4,
+      "topic": "Internal control components",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Which is NOT a component of internal control as used in audit risk assessment?",
+      "o": [
+        "Control environment",
+        "Entity's risk assessment process",
+        "Marketing channel strategy",
+        "Monitoring of controls"
+      ],
+      "a": 2,
+      "why": "The five: control environment; management's risk assessment process; the information system (including relevant business processes); control activities; monitoring — marketing strategy is business, not IC.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — five are memorised by name; the sixth is always business strategy AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Internal control components",
+        "tip": "Controls are the body's reflexes; marketing is a mood.",
+        "link": "Chapter 4 — Materiality, Risk Assessment and Internal Control"
+      }
+    },
+    {
+      "id": "p3q-1tv1igt",
+      "ch": 4,
+      "topic": "Inherent vs control risk",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Which statement about the risk of material misstatement (RoMM) is correct?",
+      "o": [
+        "RoMM is created by the auditor's procedures",
+        "RoMM exists independently of the audit; detection risk is the auditor's dial",
+        "Both are fixed by law",
+        "Sampling error is control risk"
+      ],
+      "a": 1,
+      "why": "RoMM = inherent × control risk — the entity's condition, assessed not changed; the auditor controls only detection risk by adjusting procedures — the model AR = IR×CR×DR puts the 'D' in the auditor's hands.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — audit risk model: only D is a dial you own AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Inherent vs control risk",
+        "tip": "The company owns the danger; the auditor owns the detector.",
+        "link": "Chapter 4 — Materiality, Risk Assessment and Internal Control"
+      }
+    },
+    {
+      "id": "p3q-4g8ojj",
+      "ch": 4,
+      "topic": "Significant risks",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A significant risk in an audit context typically involves:",
+      "o": [
+        "Routine, predictable transactions",
+        "Fraud susceptibility, high estimation uncertainty, or complex/non-routine transactions",
+        "Any account above materiality",
+        "Departments with high staff turnover"
+      ],
+      "a": 1,
+      "why": "Significant risks are identified after inherent risk (before considering controls), marked by susceptibility to material misstatement — fraud, management bias zones (estimates), complex transactions, transactions with significant related-party content.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the criteria list: fraud, judgment, complexity, non-routine AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Significant risks",
+        "tip": "Significant risks are where the standard tells you to look twice.",
+        "link": "Chapter 4 — Materiality, Risk Assessment and Internal Control"
+      }
+    },
+    {
+      "id": "p3q-jxl3o",
+      "ch": 4,
+      "topic": "Tests of controls — when required",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Tests of controls are REQUIRED when:",
+      "o": [
+        "The auditor expects low control risk",
+        "The auditor intends to rely on controls OR substantive procedures alone cannot provide sufficient appropriate evidence at the assertion level",
+        "The client requests it",
+        "Materiality is low"
+      ],
+      "a": 1,
+      "why": "SA 330: TOC are mandatory (i) where substantive-only is not sufficient (e.g. highly automated processing without audit trails), and (ii) when the risk assessment is predicated on reliance on the operating effectiveness of controls.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the automated-transaction clause is the usual exam trigger AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Tests of controls — when required",
+        "tip": "You test controls when you lean on them, or when there's nothing else to lean on.",
+        "link": "Chapter 4 — Materiality, Risk Assessment and Internal Control"
+      }
+    },
+    {
+      "id": "p3q-1akbld9",
+      "ch": 4,
+      "topic": "Controls and management override",
+      "m": 1,
+      "d": "HARD",
+      "q": "Because of the risk of management override of controls, the auditor must:",
+      "o": [
+        "Rely on controls that passed last year",
+        "Assume it as a significant risk and respond (journal entry testing, reviewing estimates for bias, evaluating business rationale of significant unusual transactions)",
+        "Test it only if fraud is alleged",
+        "Outsource it to internal audit"
+      ],
+      "a": 1,
+      "why": "SA 240 deems management override a fraud risk present in EVERY audit, with mandatory responses — testing journal entries and adjustments for appropriateness, reviewing significant estimates for bias, and evaluating unusual transactions' business rationale.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — deemed risk + named responses = mandatory, not optional Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Controls and management override",
+        "tip": "Controls bind the many; override is the boss's key.",
+        "link": "Chapter 4 — Materiality, Risk Assessment and Internal Control"
+      }
+    },
+    {
+      "id": "p3q-12f3seq",
+      "ch": 4,
+      "topic": "Clearly trivial vs immaterial",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "The clearly-trivial threshold exists so that:",
+      "o": [
+        "Misstatements can be ignored",
+        "The auditor need not accumulate obviously trivial items — but patterns and bias still count",
+        "Management can avoid correcting big items",
+        "The auditor can skip testing altogether"
+      ],
+      "a": 1,
+      "why": "The CTT is an accumulation filter, not a permission slip: individually trivial items in a biased pattern still aggregate in judgment.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — trivial ≠ invisible AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Clearly trivial vs immaterial",
+        "tip": "Small coins still weigh in a bag.",
+        "link": "Chapter 4 — Materiality, Risk Assessment and Internal Control"
+      }
+    },
+    {
+      "id": "p3q-1xhye70",
+      "ch": 4,
+      "topic": "Qualitative materiality",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A misstatement can be material even when below the monetary threshold if it:",
+      "o": [
+        "Is in rupees",
+        "Changes a ratio trend, masks a covenant breach, or turns a loss into a profit",
+        "Was disclosed late",
+        "Was corrected in the next year"
+      ],
+      "a": 1,
+      "why": "Qualitative lens: ratios, covenant margins, segment results, and legality make 'small' significant.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — context sizes the number AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Qualitative materiality",
+        "tip": "A small lie that turns the story is a big story.",
+        "link": "Chapter 4 — Materiality, Risk Assessment and Internal Control"
+      }
+    },
+    {
+      "id": "p3q-1jvfzgk",
+      "ch": 4,
+      "topic": "Detection risk dial",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "When assessed RoMM for revenue is HIGH, the auditor should:",
+      "o": [
+        "Raise detection risk",
+        "Lower detection risk via more extensive/precise substantive work (and later timing)",
+        "Reduce the report",
+        "Rely on the MD"
+      ],
+      "a": 1,
+      "why": "AR = IR×CR×DR: fix the target AR, RoMM up ⇒ DR down ⇒ more evidence.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the model is a see-saw AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Detection risk dial",
+        "tip": "More danger at the door, less trust in the sample.",
+        "link": "Chapter 4 — Materiality, Risk Assessment and Internal Control"
+      }
+    },
+    {
+      "id": "p3q-8kvgw0",
+      "ch": 4,
+      "topic": "Significant risk controls",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "For an assessed significant risk, the auditor must:",
+      "o": [
+        "Ignore controls",
+        "Understand related controls (and test them where relying; substantive-only is not a shortcut)",
+        "Test only analytics",
+        "Delegate to IA"
+      ],
+      "a": 1,
+      "why": "SA 315/330: for significant risks the design and implementation of controls get evaluated even if the plan is substantive.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — understand first, then choose AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Significant risk controls",
+        "tip": "A significant risk without a controls map is a blindfold on purpose.",
+        "link": "Chapter 4 — Materiality, Risk Assessment and Internal Control"
+      }
+    },
+    {
+      "id": "p3q-1ymjylm",
+      "ch": 4,
+      "topic": "Materiality ladder",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Planning materiality is set at 8% of PBT Rs 1,090 lakh; PM is taken at 75% of it and the clearly-trivial threshold at 5% of overall materiality. Compute the three amounts:",
+      "o": [
+        "OM Rs 87 lakh; PM Rs 65 lakh (75%); trivial Rs 4.4 lakh",
+        "OM Rs 87 lakh; PM Rs 87 lakh (same)",
+        "OM Rs 174 lakh; PM Rs 65 lakh",
+        "OM Rs 87 lakh; PM Rs 109 lakh (PM above OM)"
+      ],
+      "a": 0,
+      "why": "OM = 1090 × 8% = 87; PM = ×75% = 65; trivial = 5% × OM = 4.4 lakh. PM below OM (headroom for undetected error); trivial far below OM (what need not accumulate).",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the ladder is the arithmetic of every audit file Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Materiality ladder",
+        "tip": "PM is a percentage haircut on overall materiality (typically 50–75%); the clearly-trivial threshold is a fraction (e.g. 5%) of OM.",
+        "link": "Chapter 4 — Materiality, Risk Assessment and Internal Control"
+      }
+    },
+    {
+      "id": "p3q-1qq53zb",
+      "ch": 4,
+      "topic": "Materiality ladder",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Planning materiality is set at 8% of PBT Rs 910 lakh; PM is taken at 50% of it and the clearly-trivial threshold at 5% of overall materiality. Compute the three amounts:",
+      "o": [
+        "OM Rs 73 lakh; PM Rs 73 lakh (same)",
+        "OM Rs 146 lakh; PM Rs 36 lakh",
+        "OM Rs 73 lakh; PM Rs 36 lakh (50%); trivial Rs 3.6 lakh",
+        "OM Rs 73 lakh; PM Rs 91 lakh (PM above OM)"
+      ],
+      "a": 2,
+      "why": "OM = 910 × 8% = 73; PM = ×50% = 36; trivial = 5% × OM = 3.6 lakh. PM below OM (headroom for undetected error); trivial far below OM (what need not accumulate).",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the ladder is the arithmetic of every audit file Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Materiality ladder",
+        "tip": "PM is a percentage haircut on overall materiality (typically 50–75%); the clearly-trivial threshold is a fraction (e.g. 5%) of OM.",
+        "link": "Chapter 4 — Materiality, Risk Assessment and Internal Control"
+      }
+    },
+    {
+      "id": "p3q-1633mlg",
+      "ch": 4,
+      "topic": "Materiality ladder",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Planning materiality is set at 8% of PBT Rs 1,560 lakh; PM is taken at 60% of it and the clearly-trivial threshold at 5% of overall materiality. Compute the three amounts:",
+      "o": [
+        "OM Rs 125 lakh; PM Rs 75 lakh (60%); trivial Rs 6.2 lakh",
+        "OM Rs 125 lakh; PM Rs 125 lakh (same)",
+        "OM Rs 250 lakh; PM Rs 75 lakh",
+        "OM Rs 125 lakh; PM Rs 156 lakh (PM above OM)"
+      ],
+      "a": 0,
+      "why": "OM = 1560 × 8% = 125; PM = ×60% = 75; trivial = 5% × OM = 6.2 lakh. PM below OM (headroom for undetected error); trivial far below OM (what need not accumulate).",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the ladder is the arithmetic of every audit file Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Materiality ladder",
+        "tip": "PM is a percentage haircut on overall materiality (typically 50–75%); the clearly-trivial threshold is a fraction (e.g. 5%) of OM.",
+        "link": "Chapter 4 — Materiality, Risk Assessment and Internal Control"
+      }
+    },
+    {
+      "id": "p3q-c8wp97",
+      "ch": 4,
+      "topic": "Materiality ladder",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Planning materiality is set at 8% of PBT Rs 1,200 lakh; PM is taken at 60% of it and the clearly-trivial threshold at 5% of overall materiality. Compute the three amounts:",
+      "o": [
+        "OM Rs 96 lakh; PM Rs 96 lakh (same)",
+        "OM Rs 192 lakh; PM Rs 58 lakh",
+        "OM Rs 96 lakh; PM Rs 58 lakh (60%); trivial Rs 4.8 lakh",
+        "OM Rs 96 lakh; PM Rs 120 lakh (PM above OM)"
+      ],
+      "a": 2,
+      "why": "OM = 1200 × 8% = 96; PM = ×60% = 58; trivial = 5% × OM = 4.8 lakh. PM below OM (headroom for undetected error); trivial far below OM (what need not accumulate).",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the ladder is the arithmetic of every audit file Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Materiality ladder",
+        "tip": "PM is a percentage haircut on overall materiality (typically 50–75%); the clearly-trivial threshold is a fraction (e.g. 5%) of OM.",
+        "link": "Chapter 4 — Materiality, Risk Assessment and Internal Control"
+      }
+    },
+    {
+      "id": "p3q-1t157r2",
+      "ch": 4,
+      "topic": "Materiality ladder",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Planning materiality is set at 5% of PBT Rs 1,200 lakh; PM is taken at 60% of it and the clearly-trivial threshold at 5% of overall materiality. Compute the three amounts:",
+      "o": [
+        "OM Rs 60 lakh; PM Rs 60 lakh (same)",
+        "OM Rs 60 lakh; PM Rs 36 lakh (60%); trivial Rs 3.0 lakh",
+        "OM Rs 120 lakh; PM Rs 36 lakh",
+        "OM Rs 60 lakh; PM Rs 75 lakh (PM above OM)"
+      ],
+      "a": 1,
+      "why": "OM = 1200 × 5% = 60; PM = ×60% = 36; trivial = 5% × OM = 3.0 lakh. PM below OM (headroom for undetected error); trivial far below OM (what need not accumulate).",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the ladder is the arithmetic of every audit file Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Materiality ladder",
+        "tip": "PM is a percentage haircut on overall materiality (typically 50–75%); the clearly-trivial threshold is a fraction (e.g. 5%) of OM.",
+        "link": "Chapter 4 — Materiality, Risk Assessment and Internal Control"
+      }
+    },
+    {
+      "id": "p3q-h700qi",
+      "ch": 4,
+      "topic": "Materiality ladder",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Planning materiality is set at 5% of PBT Rs 1,520 lakh; PM is taken at 50% of it and the clearly-trivial threshold at 5% of overall materiality. Compute the three amounts:",
+      "o": [
+        "OM Rs 76 lakh; PM Rs 76 lakh (same)",
+        "OM Rs 152 lakh; PM Rs 38 lakh",
+        "OM Rs 76 lakh; PM Rs 38 lakh (50%); trivial Rs 3.8 lakh",
+        "OM Rs 76 lakh; PM Rs 95 lakh (PM above OM)"
+      ],
+      "a": 2,
+      "why": "OM = 1520 × 5% = 76; PM = ×50% = 38; trivial = 5% × OM = 3.8 lakh. PM below OM (headroom for undetected error); trivial far below OM (what need not accumulate).",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the ladder is the arithmetic of every audit file Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Materiality ladder",
+        "tip": "PM is a percentage haircut on overall materiality (typically 50–75%); the clearly-trivial threshold is a fraction (e.g. 5%) of OM.",
+        "link": "Chapter 4 — Materiality, Risk Assessment and Internal Control"
+      }
+    },
+    {
+      "id": "p3q-kkna5f",
+      "ch": 4,
+      "topic": "Materiality ladder",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Planning materiality is set at 5% of PBT Rs 1,180 lakh; PM is taken at 60% of it and the clearly-trivial threshold at 5% of overall materiality. Compute the three amounts:",
+      "o": [
+        "OM Rs 59 lakh; PM Rs 35 lakh (60%); trivial Rs 3.0 lakh",
+        "OM Rs 59 lakh; PM Rs 59 lakh (same)",
+        "OM Rs 118 lakh; PM Rs 35 lakh",
+        "OM Rs 59 lakh; PM Rs 74 lakh (PM above OM)"
+      ],
+      "a": 0,
+      "why": "OM = 1180 × 5% = 59; PM = ×60% = 35; trivial = 5% × OM = 3.0 lakh. PM below OM (headroom for undetected error); trivial far below OM (what need not accumulate).",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the ladder is the arithmetic of every audit file Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Materiality ladder",
+        "tip": "PM is a percentage haircut on overall materiality (typically 50–75%); the clearly-trivial threshold is a fraction (e.g. 5%) of OM.",
+        "link": "Chapter 4 — Materiality, Risk Assessment and Internal Control"
+      }
+    },
+    {
+      "id": "p3q-1s8b0xv",
+      "ch": 4,
+      "topic": "Materiality ladder",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Planning materiality is set at 8% of PBT Rs 1,220 lakh; PM is taken at 75% of it and the clearly-trivial threshold at 5% of overall materiality. Compute the three amounts:",
+      "o": [
+        "OM Rs 98 lakh; PM Rs 98 lakh (same)",
+        "OM Rs 98 lakh; PM Rs 73 lakh (75%); trivial Rs 4.9 lakh",
+        "OM Rs 195 lakh; PM Rs 73 lakh",
+        "OM Rs 98 lakh; PM Rs 122 lakh (PM above OM)"
+      ],
+      "a": 1,
+      "why": "OM = 1220 × 8% = 98; PM = ×75% = 73; trivial = 5% × OM = 4.9 lakh. PM below OM (headroom for undetected error); trivial far below OM (what need not accumulate).",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the ladder is the arithmetic of every audit file Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Materiality ladder",
+        "tip": "PM is a percentage haircut on overall materiality (typically 50–75%); the clearly-trivial threshold is a fraction (e.g. 5%) of OM.",
+        "link": "Chapter 4 — Materiality, Risk Assessment and Internal Control"
+      }
+    },
+    {
+      "id": "p3q-t9722d",
+      "ch": 4,
+      "topic": "Materiality ladder",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Planning materiality is set at 8% of PBT Rs 930 lakh; PM is taken at 50% of it and the clearly-trivial threshold at 5% of overall materiality. Compute the three amounts:",
+      "o": [
+        "OM Rs 74 lakh; PM Rs 37 lakh (50%); trivial Rs 3.7 lakh",
+        "OM Rs 74 lakh; PM Rs 74 lakh (same)",
+        "OM Rs 149 lakh; PM Rs 37 lakh",
+        "OM Rs 74 lakh; PM Rs 93 lakh (PM above OM)"
+      ],
+      "a": 0,
+      "why": "OM = 930 × 8% = 74; PM = ×50% = 37; trivial = 5% × OM = 3.7 lakh. PM below OM (headroom for undetected error); trivial far below OM (what need not accumulate).",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the ladder is the arithmetic of every audit file Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Materiality ladder",
+        "tip": "PM is a percentage haircut on overall materiality (typically 50–75%); the clearly-trivial threshold is a fraction (e.g. 5%) of OM.",
+        "link": "Chapter 4 — Materiality, Risk Assessment and Internal Control"
+      }
+    },
+    {
+      "id": "p3q-1sw9nwa",
+      "ch": 4,
+      "topic": "Materiality ladder",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Planning materiality is set at 8% of PBT Rs 1,290 lakh; PM is taken at 60% of it and the clearly-trivial threshold at 5% of overall materiality. Compute the three amounts:",
+      "o": [
+        "OM Rs 103 lakh; PM Rs 62 lakh (60%); trivial Rs 5.2 lakh",
+        "OM Rs 103 lakh; PM Rs 103 lakh (same)",
+        "OM Rs 206 lakh; PM Rs 62 lakh",
+        "OM Rs 103 lakh; PM Rs 129 lakh (PM above OM)"
+      ],
+      "a": 0,
+      "why": "OM = 1290 × 8% = 103; PM = ×60% = 62; trivial = 5% × OM = 5.2 lakh. PM below OM (headroom for undetected error); trivial far below OM (what need not accumulate).",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the ladder is the arithmetic of every audit file Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Materiality ladder",
+        "tip": "PM is a percentage haircut on overall materiality (typically 50–75%); the clearly-trivial threshold is a fraction (e.g. 5%) of OM.",
+        "link": "Chapter 4 — Materiality, Risk Assessment and Internal Control"
+      }
+    },
+    {
+      "id": "p3q-agton8",
+      "ch": 4,
+      "topic": "Detection risk from the model",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "The auditor sets acceptable audit risk 5%, assessed inherent risk 0.6 (IR = 0.6 pick), control risk 0.3. The implied detection risk is:",
+      "o": [
+        "Detection risk ≈ 0.28 — accepted because planned AR is 0.05",
+        "DR = 0.28 even above 1",
+        "DR is fixed at 5% by standard",
+        "IR is the auditor's dial here"
+      ],
+      "a": 0,
+      "why": "DR = AR/(IR×CR) = 0.05 ÷ 0.180 = 0.28 ⇒ high DR allowed — light substantive work on this assertion",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — out-of-range products expose rote-model users — favourite for exam traps AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Detection risk from the model",
+        "tip": "AR = IR × CR × DR ⇒ DR = AR ÷ (IR×CR); lower assessed RoMM means the auditor may accept HIGHER detection risk (less work).",
+        "link": "Chapter 4 — Materiality, Risk Assessment and Internal Control"
+      }
+    },
+    {
+      "id": "p3q-1xseplt",
+      "ch": 4,
+      "topic": "Detection risk from the model",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "The auditor sets acceptable audit risk 5%, assessed inherent risk 0.6 (IR = 0.6 pick), control risk 0.4. The implied detection risk is:",
+      "o": [
+        "DR = 0.21 even above 1",
+        "DR is fixed at 5% by standard",
+        "IR is the auditor's dial here",
+        "Detection risk ≈ 0.21 — accepted because planned AR is 0.05"
+      ],
+      "a": 3,
+      "why": "DR = AR/(IR×CR) = 0.05 ÷ 0.240 = 0.21 ⇒ high DR allowed — light substantive work on this assertion",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — out-of-range products expose rote-model users — favourite for exam traps AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Detection risk from the model",
+        "tip": "AR = IR × CR × DR ⇒ DR = AR ÷ (IR×CR); lower assessed RoMM means the auditor may accept HIGHER detection risk (less work).",
+        "link": "Chapter 4 — Materiality, Risk Assessment and Internal Control"
+      }
+    },
+    {
+      "id": "p3q-7klknf",
+      "ch": 4,
+      "topic": "Detection risk from the model",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "The auditor sets acceptable audit risk 5%, assessed inherent risk 0.6 (IR = 0.8 pick), control risk 0.4. The implied detection risk is:",
+      "o": [
+        "DR = 0.16 even above 1",
+        "Detection risk ≈ 0.16 — accepted because planned AR is 0.05",
+        "DR is fixed at 5% by standard",
+        "IR is the auditor's dial here"
+      ],
+      "a": 1,
+      "why": "DR = AR/(IR×CR) = 0.05 ÷ 0.320 = 0.16 ⇒ high DR allowed — light substantive work on this assertion",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — out-of-range products expose rote-model users — favourite for exam traps AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Detection risk from the model",
+        "tip": "AR = IR × CR × DR ⇒ DR = AR ÷ (IR×CR); lower assessed RoMM means the auditor may accept HIGHER detection risk (less work).",
+        "link": "Chapter 4 — Materiality, Risk Assessment and Internal Control"
+      }
+    },
+    {
+      "id": "p3q-xz838y",
+      "ch": 4,
+      "topic": "Detection risk from the model",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "The auditor sets acceptable audit risk 5%, assessed inherent risk 0.6 (IR = 0.8 pick), control risk 0.3. The implied detection risk is:",
+      "o": [
+        "DR = 0.21 even above 1",
+        "DR is fixed at 5% by standard",
+        "IR is the auditor's dial here",
+        "Detection risk ≈ 0.21 — accepted because planned AR is 0.05"
+      ],
+      "a": 3,
+      "why": "DR = AR/(IR×CR) = 0.05 ÷ 0.240 = 0.21 ⇒ high DR allowed — light substantive work on this assertion",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — out-of-range products expose rote-model users — favourite for exam traps AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Detection risk from the model",
+        "tip": "AR = IR × CR × DR ⇒ DR = AR ÷ (IR×CR); lower assessed RoMM means the auditor may accept HIGHER detection risk (less work).",
+        "link": "Chapter 4 — Materiality, Risk Assessment and Internal Control"
+      }
+    }
+  ]
+}

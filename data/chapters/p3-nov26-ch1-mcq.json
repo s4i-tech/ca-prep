@@ -1,0 +1,313 @@
+{
+  "meta": {
+    "id": "p3-nov26-ch1-mcq",
+    "paper": "P3",
+    "attempt": "NOV-2026",
+    "kind": "chapter",
+    "category": "CHAPTER-WISE MCQs",
+    "title": "Ch 1: Quality Control / Quality Management — MCQ Bank",
+    "description": "Chapter-wise practice MCQs for Chapter 1 (Quality Control / Quality Management).",
+    "count": 12,
+    "mcqCount": 12,
+    "descriptiveCount": 0,
+    "coverage": "Chapter 1 · 12 MCQs",
+    "chapters": [
+      1
+    ],
+    "durationMinutes": 18,
+    "difficulty": "Exam standard",
+    "high": 0,
+    "medium": 7,
+    "low": 5
+  },
+  "questions": [
+    {
+      "id": "p3q-1gxq5n3",
+      "ch": 1,
+      "topic": "SQC/QM system scope",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A firm's system of quality management is designed to provide reasonable assurance that:",
+      "o": [
+        "Every engagement is unqualified",
+        "The firm and its personnel comply with professional standards and issue appropriate reports",
+        "Clients never complain",
+        "Statutory inspections are avoided"
+      ],
+      "a": 1,
+      "why": "The quality-management standard for firms (successor framing to SQC 1) targets compliance with professional standards and reports appropriate in the circumstances — reasonable, not absolute; appropriate, not unqualified.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — reports are 'appropriate in the circumstances', the wording examiners guard AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: SQC/QM system scope",
+        "tip": "Quality management is the firm's immune system, engagement by engagement.",
+        "link": "Chapter 1 — Quality Control / Quality Management"
+      }
+    },
+    {
+      "id": "p3q-1i44mko",
+      "ch": 1,
+      "topic": "Engagement quality review",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "An engagement quality control/review is intended to:",
+      "o": [
+        "Replace the engagement partner's judgment",
+        "Provide an objective evaluation of significant judgments and conclusions before the report is issued",
+        "Re-perform the audit",
+        "Review only the working papers' indexing"
+      ],
+      "a": 1,
+      "why": "EQR is an objective check on significant judgments and conclusions by a reviewer not part of the team, BEFORE report date; it supplements, never replaces, the engagement partner's responsibility, and its completion timing is a favourite trap.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — before the report — and it never replaces the partner AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Engagement quality review",
+        "tip": "A second pair of eyes earns value only by arriving before the signature.",
+        "link": "Chapter 1 — Quality Control / Quality Management"
+      }
+    },
+    {
+      "id": "p3q-1al4rrf",
+      "ch": 1,
+      "topic": "Differences of opinion",
+      "m": 1,
+      "d": "HARD",
+      "q": "A disagreement between the engagement partner and the EQR reviewer on a significant matter:",
+      "o": [
+        "Is resolved in favour of the reviewer",
+        "Must be resolved before the report is issued, following the firm's consultation policy",
+        "Is documented and ignored",
+        "Goes to the client"
+      ],
+      "a": 1,
+      "why": "Firms' policies require differences of opinion to be documented and resolved; the report cannot be dated while an unresolved difference exists — same discipline as consultation.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — unresolved difference = no report date Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Differences of opinion",
+        "tip": "Disagreements are bridges, not tunnels.",
+        "link": "Chapter 1 — Quality Control / Quality Management"
+      }
+    },
+    {
+      "id": "p3q-12zgfh1",
+      "ch": 1,
+      "topic": "Documentation retention",
+      "m": 1,
+      "d": "HARD",
+      "q": "Audit documentation is assembled on a final basis and retained:",
+      "o": [
+        "For at least one year",
+        "For the period required by regulation (long enough for legal and inspection needs — firms set and document it)",
+        "Forever on paper only",
+        "Until the client requests destruction"
+      ],
+      "a": 1,
+      "why": "Retention periods are set by regulation and firm policy (currently a multi-year minimum under the SAs' documentation framework); the file is assembled within a short window after the report and is not deleted or overwritten after assembly except for documented reasons.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the two clocks: assembly window vs retention period AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Documentation retention",
+        "tip": "You can add to the fire; you can't burn it.",
+        "link": "Chapter 1 — Quality Control / Quality Management"
+      }
+    },
+    {
+      "id": "p3q-1ppekfn",
+      "ch": 1,
+      "topic": "EQR timing",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "An engagement quality review must be completed:",
+      "o": [
+        "Any time within the year",
+        "By the date of the auditor's report",
+        "Before the AGM",
+        "After the client signs"
+      ],
+      "a": 1,
+      "why": "The standard ties the review's completion to report issuance — an EQR that arrives late protects nothing.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the date anchor is the whole answer AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: EQR timing",
+        "tip": "The second look must come before the first signature.",
+        "link": "Chapter 1 — Quality Control / Quality Management"
+      }
+    },
+    {
+      "id": "p3q-1ez9wiz",
+      "ch": 1,
+      "topic": "Consultation",
+      "m": 1,
+      "d": "HARD",
+      "q": "A firm's consultation policy on difficult matters requires documentation of:",
+      "o": [
+        "The client's opinion only",
+        "The parties, the consultation process, and the conclusions reached and accepted",
+        "The fee discussion",
+        "The staff rota"
+      ],
+      "a": 1,
+      "why": "Consultation documentation covers who, how, and what was concluded — and the reviewer/consultant conclusions bind the engagement.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — documentation is the audit trail of advice Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Consultation",
+        "tip": "Advice without a memo is folklore.",
+        "link": "Chapter 1 — Quality Control / Quality Management"
+      }
+    },
+    {
+      "id": "p3q-1y6fjph",
+      "ch": 1,
+      "topic": "Quality management standards replacing SQC 1",
+      "m": 1,
+      "d": "HARD",
+      "q": "ICAI's move from SQC 1 to the quality-management framework (SQCS) changes the firm's duty from checklist systems to:",
+      "o": [
+        "No documentation",
+        "A risk-based system: quality objectives, identified quality risks, and designed responses, monitored and remediated",
+        "Optional reviews",
+        "Filing with the exchange"
+      ],
+      "a": 1,
+      "why": "DEFINITE structural change: the firm must design its system against ITS quality risks (the entity-specific quality objectives → risks → responses chain), plus monitoring/remediation and the EQR triggers — the vocabulary shift from 'policies and procedures' to 'system of quality management' is the amendment's signature.",
+      "trend": "Traceable to a real, publicly-notified amendment/standard (documented fact), tested in ICAI style.",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the shift is from boxes to risks AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Quality management standards replacing SQC 1",
+        "tip": "Checklists prevent routine slips; risk systems prevent novel ones.",
+        "link": "Chapter 1 — Quality Control / Quality Management"
+      }
+    },
+    {
+      "id": "p3q-opc7lc",
+      "ch": 1,
+      "topic": "Engagement quality review trigger",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Under the quality management standards, an engagement quality review (EQR):",
+      "o": [
+        "Is optional for every engagement",
+        "Is required for audits of listed entities and other engagements per firm policy defined by criteria",
+        "Replaces the partner's responsibility",
+        "Is performed by the engagement team leader"
+      ],
+      "a": "1",
+      "why": "EQR is mandatory for listed-entity audits (and wherever the firm's policy, set on defined criteria, says so); the reviewer must be sufficiently competent, independent of the engagement, and assigned per eligibility rules — and crucially, the review does not reduce the engagement partner's responsibility.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — a second pair of eyes, never a spare signature AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Engagement quality review trigger",
+        "tip": "The reviewer adds judgment, not absolution.",
+        "link": "Chapter 1 — Quality Control / Quality Management"
+      }
+    },
+    {
+      "id": "p3q-g8ko4d",
+      "ch": 1,
+      "topic": "Complaints and investigations",
+      "m": 1,
+      "d": "HARD",
+      "q": "A firm's quality management system must include a process for:",
+      "o": [
+        "Client grievances only",
+        "Complaints and allegations about departures from standards, with defined evaluation, investigation and remedial action",
+        "Marketing audits",
+        "Partner remuneration"
+      ],
+      "a": "1",
+      "why": "The complaints channel is a feedback loop feeding the corrective-action pipeline: log, evaluate, investigate, act, and report results to the governing body — silence in the system is itself a QM finding.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — a complaint is a free risk assessment Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Complaints and investigations",
+        "tip": "The hotline is the smoke detector of the quality system.",
+        "link": "Chapter 1 — Quality Control / Quality Management"
+      }
+    },
+    {
+      "id": "p3q-1s5sylp",
+      "ch": 1,
+      "topic": "Acceptance — integrity of client",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Declining an audit because of doubts about management integrity is required by quality management under:",
+      "o": [
+        "Fee negotiations",
+        "Client acceptance/continuance policies weighing integrity, competence and ethical issues",
+        "The client's request",
+        "Tax law"
+      ],
+      "a": 1,
+      "why": "Acceptance decisions weigh the client's integrity, the firm's competence/capacity to perform, and ethical requirements — any of the three failing is a reason to decline even when the fee is attractive.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — three-question gate before every engagement AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Acceptance — integrity of client",
+        "tip": "The best client to refuse is the one you cannot trust.",
+        "link": "Chapter 1 — Quality Control / Quality Management"
+      }
+    },
+    {
+      "id": "p3q-s4ygup",
+      "ch": 1,
+      "topic": "EQR reviewer eligibility",
+      "m": 1,
+      "d": "HARD",
+      "q": "An engagement quality reviewer must be:",
+      "o": [
+        "Any partner in the firm",
+        "Enough in seniority and competence, not part of the engagement team, and free of objectivity impairment",
+        "The audit manager",
+        "An external consultant always"
+      ],
+      "a": 1,
+      "why": "EQR criteria: partner (or equivalent) with competence, authority, integrity, sufficient and appropriate time — AND not a member of the engagement team (the objectivity line).",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — reviewer ≠ doer Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: EQR reviewer eligibility",
+        "tip": "The referee can't have played.",
+        "link": "Chapter 1 — Quality Control / Quality Management"
+      }
+    },
+    {
+      "id": "p3q-ogx1x7",
+      "ch": 1,
+      "topic": "Monitoring — cold reviews",
+      "m": 1,
+      "d": "HARD",
+      "q": "Firm-level monitoring of engagement quality typically includes:",
+      "o": [
+        "Only annual appraisals",
+        "Periodic inspection of completed engagements (cold file reviews), including by external inspectors where required",
+        "Client feedback forms",
+        "Fee audits"
+      ],
+      "a": 1,
+      "why": "Monitoring = ongoing + periodic inspection of completed files against standards — the cold-review loop with remediation tracking is what makes a quality system self-healing.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — inspect yesterday to fix tomorrow Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Monitoring — cold reviews",
+        "tip": "A quality system without a look-back is a promise without a receipt.",
+        "link": "Chapter 1 — Quality Control / Quality Management"
+      }
+    }
+  ]
+}

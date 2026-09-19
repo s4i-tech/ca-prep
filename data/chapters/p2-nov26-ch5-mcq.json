@@ -1,0 +1,697 @@
+{
+  "meta": {
+    "id": "p2-nov26-ch5-mcq",
+    "paper": "P2",
+    "attempt": "NOV-2026",
+    "kind": "chapter",
+    "category": "CHAPTER-WISE MCQs",
+    "title": "Ch 5: Security Valuation — MCQ Bank",
+    "description": "Chapter-wise practice MCQs for Chapter 5 (Security Valuation).",
+    "count": 28,
+    "mcqCount": 28,
+    "descriptiveCount": 0,
+    "coverage": "Chapter 5 · 28 MCQs",
+    "chapters": [
+      5
+    ],
+    "durationMinutes": 42,
+    "difficulty": "Exam standard",
+    "high": 9,
+    "medium": 17,
+    "low": 2
+  },
+  "questions": [
+    {
+      "id": "p2q-16hm7x2",
+      "ch": 5,
+      "topic": "Gordon vs H-D",
+      "m": 1,
+      "d": "HARD",
+      "q": "The Hamada extension is irrelevant to a dividend-discount critique because the H-D model assumes:",
+      "o": [
+        "Constant growth forever",
+        "Payout ratio constant with growth g; value is INDEPENDENT of the policy when ROR > k (dividend irrelevance)",
+        "Negative payout",
+        "Fixed D1"
+      ],
+      "a": 1,
+      "why": "H-D shows value unchanged under alternative payout choices given investment policy — irrelevance rests on perfect capital markets and ROR>k; Gordon fixes payout and growth, a different animal.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the two models are always paired as options AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Gordon vs H-D",
+        "tip": "Gordon: grow like the payout. H-D: pick any payout — the pie bakes the same.",
+        "link": "Chapter 5 — Security Valuation"
+      }
+    },
+    {
+      "id": "p2q-1fhvi30",
+      "ch": 5,
+      "topic": "FCFE vs FCFE trap",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Free cash flow to equity (FCFE) differs from FCFF mainly by:",
+      "o": [
+        "Subtracting interest expense after tax and net borrowings",
+        "Adding back depreciation",
+        "Using book value",
+        "Multiplying by tax"
+      ],
+      "a": 0,
+      "why": "FCFF is pre-debt; FCFE = FCFF − interest(1−t) + net new borrowings (repayments deducted).",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the bridge between the two flows is exact MCQ material AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: FCFE vs FCFE trap",
+        "tip": "FCFF pays the whole table; FCFE leaves the diner (debt) its bill and its wallet.",
+        "link": "Chapter 5 — Security Valuation"
+      }
+    },
+    {
+      "id": "p2q-eudzl0",
+      "ch": 5,
+      "topic": "Convertible — conversion value",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "CB with face Rs 100, conversion ratio 8, market price Rs 14: conversion value:",
+      "o": [
+        "Rs 100",
+        "Rs 112",
+        "Rs 80",
+        "Rs 14"
+      ],
+      "a": 1,
+      "why": "Conversion value = ratio × share price = 8×14 = Rs 112 vs straight value 100 ⇒ convertible floor is the higher, plus option premium.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the floor concept with quick multiplication AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Convertible — conversion value",
+        "tip": "The bond sleeps under the shares' floor: never below max(straight, conversion).",
+        "link": "Chapter 5 — Security Valuation"
+      }
+    },
+    {
+      "id": "p2q-1fypss0",
+      "ch": 5,
+      "topic": "FCFF from EBIT",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "FCFF for a year: EBIT Rs 200 crore, tax 30%, depreciation Rs 40 crore, capital expenditure Rs 90 crore, increase in working capital Rs 20 crore. FCFF is:",
+      "o": [
+        "Rs 70 crore",
+        "Rs 110 crore",
+        "Rs 150 crore",
+        "Rs 130 crore"
+      ],
+      "a": 0,
+      "why": "NOPAT = 200 × 0.7 = 140; + depreciation 40 − capex 90 − ΔWC 20 = Rs 70 crore. Adding back depreciation then deducting it again (110) or forgetting capex entirely are the traps.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the FCFF recipe order is the valuation arithmetic exam Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: FCFF from EBIT",
+        "tip": "Taxes first, then cash: EBIT(1−t) + depreciation − capex − working-capital creep.",
+        "link": "Chapter 5 — Security Valuation"
+      }
+    },
+    {
+      "id": "p2q-6svehg",
+      "ch": 5,
+      "topic": "Dividend — bird-in-hand",
+      "m": 1,
+      "d": "HARD",
+      "q": "The bird-in-the-hand argument says:",
+      "o": [
+        "Investors prefer capital gains",
+        "Dividends are certain so payout raises value",
+        "Policy is irrelevant",
+        "Growth firms should pay out fully"
+      ],
+      "a": 1,
+      "why": "B-I-H (Gordon/Lintner): certain dividends discounted at lower risk-adjusted rate than uncertain capital gains — value rises with payout (the MM rebuttal is the exam's other half).",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the assumption-vs-MM contrast Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Dividend — bird-in-hand",
+        "tip": "A rupee paid today shrugs at future ambiguity; MM calls that a taste, not a discount.",
+        "link": "Chapter 5 — Security Valuation"
+      }
+    },
+    {
+      "id": "p2q-1ulfwi6",
+      "ch": 5,
+      "topic": "Cost of debt",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A company's redeemable 100 face-value bonds pay 9% coupon, trade at Rs 96, redeem in 5 years. Tax 25%. The approximate after-tax cost of debt (IRR method not required) is:",
+      "o": [
+        "10.00% pre-tax",
+        "9.38%",
+        "7.50% after-tax",
+        "9.00% coupon only"
+      ],
+      "a": 2,
+      "why": "YTM ≈ (9 + 0.8)/98 = 10.00% pre-tax; after tax 7.50%. Current yield (9.38%) ignores redemption gain.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the approximate-YTM recipe appears in every AFM attempt AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Cost of debt",
+        "tip": "Approx YTM = [I + (RV−P)/n] ÷ [(RV+P)/2]; after-tax ×(1−t).",
+        "link": "Chapter 5 — Security Valuation"
+      }
+    },
+    {
+      "id": "p2q-85438r",
+      "ch": 5,
+      "topic": "Cost of debt",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A company's redeemable 100 face-value bonds pay 8% coupon, trade at Rs 98, redeem in 5 years. Tax 25%. The approximate after-tax cost of debt (IRR method not required) is:",
+      "o": [
+        "8.48% pre-tax",
+        "8.16%",
+        "6.36% after-tax",
+        "8.00% coupon only"
+      ],
+      "a": 2,
+      "why": "YTM ≈ (8 + 0.4)/99 = 8.48% pre-tax; after tax 6.36%. Current yield (8.16%) ignores redemption gain.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the approximate-YTM recipe appears in every AFM attempt AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Cost of debt",
+        "tip": "Approx YTM = [I + (RV−P)/n] ÷ [(RV+P)/2]; after-tax ×(1−t).",
+        "link": "Chapter 5 — Security Valuation"
+      }
+    },
+    {
+      "id": "p2q-15og7p5",
+      "ch": 5,
+      "topic": "Cost of debt",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A company's redeemable 100 face-value bonds pay 9% coupon, trade at Rs 96, redeem in 6 years. Tax 25%. The approximate after-tax cost of debt (IRR method not required) is:",
+      "o": [
+        "9.86% pre-tax",
+        "9.38%",
+        "9.00% coupon only",
+        "7.40% after-tax"
+      ],
+      "a": 3,
+      "why": "YTM ≈ (9 + 0.7)/98 = 9.86% pre-tax; after tax 7.40%. Current yield (9.38%) ignores redemption gain.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the approximate-YTM recipe appears in every AFM attempt AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Cost of debt",
+        "tip": "Approx YTM = [I + (RV−P)/n] ÷ [(RV+P)/2]; after-tax ×(1−t).",
+        "link": "Chapter 5 — Security Valuation"
+      }
+    },
+    {
+      "id": "p2q-fxeiyo",
+      "ch": 5,
+      "topic": "Cost of debt",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A company's redeemable 100 face-value bonds pay 8% coupon, trade at Rs 94, redeem in 6 years. Tax 25%. The approximate after-tax cost of debt (IRR method not required) is:",
+      "o": [
+        "9.28% pre-tax",
+        "8.51%",
+        "8.00% coupon only",
+        "6.96% after-tax"
+      ],
+      "a": 3,
+      "why": "YTM ≈ (8 + 1.0)/97 = 9.28% pre-tax; after tax 6.96%. Current yield (8.51%) ignores redemption gain.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the approximate-YTM recipe appears in every AFM attempt AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Cost of debt",
+        "tip": "Approx YTM = [I + (RV−P)/n] ÷ [(RV+P)/2]; after-tax ×(1−t).",
+        "link": "Chapter 5 — Security Valuation"
+      }
+    },
+    {
+      "id": "p2q-163yb5v",
+      "ch": 5,
+      "topic": "Cost of debt",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A company's redeemable 100 face-value bonds pay 9% coupon, trade at Rs 94, redeem in 6 years. Tax 25%. The approximate after-tax cost of debt (IRR method not required) is:",
+      "o": [
+        "10.31% pre-tax",
+        "9.57%",
+        "9.00% coupon only",
+        "7.73% after-tax"
+      ],
+      "a": 3,
+      "why": "YTM ≈ (9 + 1.0)/97 = 10.31% pre-tax; after tax 7.73%. Current yield (9.57%) ignores redemption gain.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the approximate-YTM recipe appears in every AFM attempt AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Cost of debt",
+        "tip": "Approx YTM = [I + (RV−P)/n] ÷ [(RV+P)/2]; after-tax ×(1−t).",
+        "link": "Chapter 5 — Security Valuation"
+      }
+    },
+    {
+      "id": "p2q-fb6m13",
+      "ch": 5,
+      "topic": "Cost of debt",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A company's redeemable 100 face-value bonds pay 9% coupon, trade at Rs 98, redeem in 6 years. Tax 25%. The approximate after-tax cost of debt (IRR method not required) is:",
+      "o": [
+        "9.43% pre-tax",
+        "9.18%",
+        "9.00% coupon only",
+        "7.07% after-tax"
+      ],
+      "a": 3,
+      "why": "YTM ≈ (9 + 0.3)/99 = 9.43% pre-tax; after tax 7.07%. Current yield (9.18%) ignores redemption gain.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the approximate-YTM recipe appears in every AFM attempt AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Cost of debt",
+        "tip": "Approx YTM = [I + (RV−P)/n] ÷ [(RV+P)/2]; after-tax ×(1−t).",
+        "link": "Chapter 5 — Security Valuation"
+      }
+    },
+    {
+      "id": "p2q-14i4d6o",
+      "ch": 5,
+      "topic": "Cost of debt",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A company's redeemable 100 face-value bonds pay 9% coupon, trade at Rs 98, redeem in 5 years. Tax 25%. The approximate after-tax cost of debt (IRR method not required) is:",
+      "o": [
+        "9.49% pre-tax",
+        "9.18%",
+        "7.12% after-tax",
+        "9.00% coupon only"
+      ],
+      "a": 2,
+      "why": "YTM ≈ (9 + 0.4)/99 = 9.49% pre-tax; after tax 7.12%. Current yield (9.18%) ignores redemption gain.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the approximate-YTM recipe appears in every AFM attempt AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Cost of debt",
+        "tip": "Approx YTM = [I + (RV−P)/n] ÷ [(RV+P)/2]; after-tax ×(1−t).",
+        "link": "Chapter 5 — Security Valuation"
+      }
+    },
+    {
+      "id": "p2q-3ec2w4",
+      "ch": 5,
+      "topic": "Cost of debt",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A company's redeemable 100 face-value bonds pay 8% coupon, trade at Rs 98, redeem in 6 years. Tax 25%. The approximate after-tax cost of debt (IRR method not required) is:",
+      "o": [
+        "8.42% pre-tax",
+        "6.31% after-tax",
+        "8.16%",
+        "8.00% coupon only"
+      ],
+      "a": 1,
+      "why": "YTM ≈ (8 + 0.3)/99 = 8.42% pre-tax; after tax 6.31%. Current yield (8.16%) ignores redemption gain.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the approximate-YTM recipe appears in every AFM attempt AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Cost of debt",
+        "tip": "Approx YTM = [I + (RV−P)/n] ÷ [(RV+P)/2]; after-tax ×(1−t).",
+        "link": "Chapter 5 — Security Valuation"
+      }
+    },
+    {
+      "id": "p2q-1f2jlvv",
+      "ch": 5,
+      "topic": "Gordon model",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Last dividend Rs 6, growth 5% forever, required return 12%. Value per share (Gordon):",
+      "o": [
+        "Rs 85.7 (D0 not grown)",
+        "Rs 50.0",
+        "Rs 90.0",
+        "Rs 99.0"
+      ],
+      "a": 2,
+      "why": "P0 = 6×(1.5) ÷ (7%) = Rs 90.0. Using D0 directly is the classic slip.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the ×(1+g) trap appears in every attempt's first five lines Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Gordon model",
+        "tip": "P0 = D1/(k−g), D1 = D0(1+g).",
+        "link": "Chapter 5 — Security Valuation"
+      }
+    },
+    {
+      "id": "p2q-ytpu37",
+      "ch": 5,
+      "topic": "Gordon model",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Last dividend Rs 5, growth 6% forever, required return 12%. Value per share (Gordon):",
+      "o": [
+        "Rs 83.3 (D0 not grown)",
+        "Rs 41.7",
+        "Rs 88.3",
+        "Rs 97.2"
+      ],
+      "a": 2,
+      "why": "P0 = 5×(1.6) ÷ (6%) = Rs 88.3. Using D0 directly is the classic slip.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the ×(1+g) trap appears in every attempt's first five lines Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Gordon model",
+        "tip": "P0 = D1/(k−g), D1 = D0(1+g).",
+        "link": "Chapter 5 — Security Valuation"
+      }
+    },
+    {
+      "id": "p2q-thj1nv",
+      "ch": 5,
+      "topic": "Gordon model",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Last dividend Rs 5, growth 5% forever, required return 13%. Value per share (Gordon):",
+      "o": [
+        "Rs 62.5 (D0 not grown)",
+        "Rs 38.5",
+        "Rs 72.2",
+        "Rs 65.6"
+      ],
+      "a": 3,
+      "why": "P0 = 5×(1.5) ÷ (8%) = Rs 65.6. Using D0 directly is the classic slip.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the ×(1+g) trap appears in every attempt's first five lines Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Gordon model",
+        "tip": "P0 = D1/(k−g), D1 = D0(1+g).",
+        "link": "Chapter 5 — Security Valuation"
+      }
+    },
+    {
+      "id": "p2q-pvrywc",
+      "ch": 5,
+      "topic": "Gordon model",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Last dividend Rs 4, growth 4% forever, required return 12%. Value per share (Gordon):",
+      "o": [
+        "Rs 50.0 (D0 not grown)",
+        "Rs 33.3",
+        "Rs 57.2",
+        "Rs 52.0"
+      ],
+      "a": 3,
+      "why": "P0 = 4×(1.4) ÷ (8%) = Rs 52.0. Using D0 directly is the classic slip.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the ×(1+g) trap appears in every attempt's first five lines Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Gordon model",
+        "tip": "P0 = D1/(k−g), D1 = D0(1+g).",
+        "link": "Chapter 5 — Security Valuation"
+      }
+    },
+    {
+      "id": "p2q-1n5i5xl",
+      "ch": 5,
+      "topic": "Gordon model",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Last dividend Rs 5, growth 4% forever, required return 12%. Value per share (Gordon):",
+      "o": [
+        "Rs 62.5 (D0 not grown)",
+        "Rs 41.7",
+        "Rs 71.5",
+        "Rs 65.0"
+      ],
+      "a": 3,
+      "why": "P0 = 5×(1.4) ÷ (8%) = Rs 65.0. Using D0 directly is the classic slip.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the ×(1+g) trap appears in every attempt's first five lines Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Gordon model",
+        "tip": "P0 = D1/(k−g), D1 = D0(1+g).",
+        "link": "Chapter 5 — Security Valuation"
+      }
+    },
+    {
+      "id": "p2q-1it862e",
+      "ch": 5,
+      "topic": "Gordon model",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Last dividend Rs 6, growth 5% forever, required return 11%. Value per share (Gordon):",
+      "o": [
+        "Rs 100.0 (D0 not grown)",
+        "Rs 54.5",
+        "Rs 105.0",
+        "Rs 115.5"
+      ],
+      "a": 2,
+      "why": "P0 = 6×(1.5) ÷ (6%) = Rs 105.0. Using D0 directly is the classic slip.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the ×(1+g) trap appears in every attempt's first five lines Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Gordon model",
+        "tip": "P0 = D1/(k−g), D1 = D0(1+g).",
+        "link": "Chapter 5 — Security Valuation"
+      }
+    },
+    {
+      "id": "p2q-e1n6li",
+      "ch": 5,
+      "topic": "Gordon model",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Last dividend Rs 4, growth 6% forever, required return 12%. Value per share (Gordon):",
+      "o": [
+        "Rs 66.7 (D0 not grown)",
+        "Rs 70.7",
+        "Rs 33.3",
+        "Rs 77.7"
+      ],
+      "a": 1,
+      "why": "P0 = 4×(1.6) ÷ (6%) = Rs 70.7. Using D0 directly is the classic slip.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the ×(1+g) trap appears in every attempt's first five lines Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Gordon model",
+        "tip": "P0 = D1/(k−g), D1 = D0(1+g).",
+        "link": "Chapter 5 — Security Valuation"
+      }
+    },
+    {
+      "id": "p2q-1w5j27f",
+      "ch": 5,
+      "topic": "Gordon model",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Last dividend Rs 6, growth 4% forever, required return 11%. Value per share (Gordon):",
+      "o": [
+        "Rs 89.1",
+        "Rs 85.7 (D0 not grown)",
+        "Rs 54.5",
+        "Rs 98.1"
+      ],
+      "a": 0,
+      "why": "P0 = 6×(1.4) ÷ (7%) = Rs 89.1. Using D0 directly is the classic slip.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the ×(1+g) trap appears in every attempt's first five lines Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Gordon model",
+        "tip": "P0 = D1/(k−g), D1 = D0(1+g).",
+        "link": "Chapter 5 — Security Valuation"
+      }
+    },
+    {
+      "id": "p2q-kz8d7e",
+      "ch": 5,
+      "topic": "M&M dividend — homemade",
+      "m": 1,
+      "d": "HARD",
+      "q": "Under MM dividend irrelevance (perfect markets), an investor wanting cash NOW when the firm pays none should:",
+      "o": [
+        "Pay a special dividend from reserves",
+        "Nothing—irrelevance fails with taxes",
+        "Sell a slice of shares — same consumption, no wealth loss",
+        "Borrow from the bank, always"
+      ],
+      "a": 2,
+      "why": "Homemade dividends = float the slice; share price ex-dividend reflects the cut; consumption pattern identical; transaction costs are the imperfection to note.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the homemade-dividend argument names the irrelevance proof Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: M&M dividend — homemade",
+        "tip": "Homemade dividends: sell shares to create cash flows; value of firm unchanged.",
+        "link": "Chapter 5 — Security Valuation"
+      }
+    },
+    {
+      "id": "p2q-hzuvql",
+      "ch": 5,
+      "topic": "Convertible floor",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A convertible bond's straight value Rs 98 and conversion value Rs 112. The price floor argument says it should not trade below:",
+      "o": [
+        "At least Rs 112 — conversion value governs now",
+        "Rs 98 always",
+        "Zero time value if in money",
+        "Rs 98"
+      ],
+      "a": 0,
+      "why": "The floor is the HIGHER of the two: investors can convert for 112 ⇒ below that arbitrage; the optionality can add above the max.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — floor = higher-of is the definitional convertible line AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Convertible floor",
+        "tip": "Value = max(straight, conversion) + option premium considerations.",
+        "link": "Chapter 5 — Security Valuation"
+      }
+    },
+    {
+      "id": "p2q-1xcl7nm",
+      "ch": 5,
+      "topic": "Convertible floor",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A convertible bond's straight value Rs 98 and conversion value Rs 104. The price floor argument says it should not trade below:",
+      "o": [
+        "Rs 98 always",
+        "Zero time value if in money",
+        "At least Rs 104 — conversion value governs now",
+        "Rs 98"
+      ],
+      "a": 2,
+      "why": "The floor is the HIGHER of the two: investors can convert for 104 ⇒ below that arbitrage; the optionality can add above the max.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — floor = higher-of is the definitional convertible line AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Convertible floor",
+        "tip": "Value = max(straight, conversion) + option premium considerations.",
+        "link": "Chapter 5 — Security Valuation"
+      }
+    },
+    {
+      "id": "p2q-eg4p26",
+      "ch": 5,
+      "topic": "FCFE per share",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Net income Rs 80 crore; capex 60, dep 30, ΔWC 10; debt funds 50% of net capex and WC needs; required return 12%, growth 6%. Equity value via stable-growth FCFE ≈",
+      "o": [
+        "Rs 1,333 crore (ignoring net capex)",
+        "Rs 500 crore",
+        "Dep-only adjustment",
+        "Rs 1,000 crore (equity value, FCFE at g 6%, k 12%)"
+      ],
+      "a": 3,
+      "why": "FCFE = 80 − 0.5×(30) − 0.5×10 = 60 crore; V = 60/(12% − 6%) = 1,000 crore.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — FCFE leverage-adjustment chain is the valuation flow question AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: FCFE per share",
+        "tip": "FCFE = NI − (1−L)(capex−dep) − (1−L)ΔWC; grow at g.",
+        "link": "Chapter 5 — Security Valuation"
+      }
+    },
+    {
+      "id": "p2q-1rbwu2s",
+      "ch": 5,
+      "topic": "FCFE per share",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Net income Rs 80 crore; capex 60, dep 30, ΔWC 10; debt funds 50% of net capex and WC needs; required return 10%, growth 6%. Equity value via stable-growth FCFE ≈",
+      "o": [
+        "Rs 1,500 crore (equity value, FCFE at g 6%, k 10%)",
+        "Rs 2,000 crore (ignoring net capex)",
+        "Rs 750 crore",
+        "Dep-only adjustment"
+      ],
+      "a": 0,
+      "why": "FCFE = 80 − 0.5×(30) − 0.5×10 = 60 crore; V = 60/(10% − 6%) = 1,500 crore.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — FCFE leverage-adjustment chain is the valuation flow question AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: FCFE per share",
+        "tip": "FCFE = NI − (1−L)(capex−dep) − (1−L)ΔWC; grow at g.",
+        "link": "Chapter 5 — Security Valuation"
+      }
+    },
+    {
+      "id": "p2q-1var718",
+      "ch": 5,
+      "topic": "FCFE per share",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Net income Rs 60 crore; capex 60, dep 30, ΔWC 10; debt funds 50% of net capex and WC needs; required return 12%, growth 6%. Equity value via stable-growth FCFE ≈",
+      "o": [
+        "Rs 1,000 crore (ignoring net capex)",
+        "Rs 333 crore",
+        "Dep-only adjustment",
+        "Rs 667 crore (equity value, FCFE at g 6%, k 12%)"
+      ],
+      "a": 3,
+      "why": "FCFE = 60 − 0.5×(30) − 0.5×10 = 40 crore; V = 40/(12% − 6%) = 667 crore.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — FCFE leverage-adjustment chain is the valuation flow question AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: FCFE per share",
+        "tip": "FCFE = NI − (1−L)(capex−dep) − (1−L)ΔWC; grow at g.",
+        "link": "Chapter 5 — Security Valuation"
+      }
+    },
+    {
+      "id": "p2q-1t3iz86",
+      "ch": 5,
+      "topic": "FCFE per share",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Net income Rs 60 crore; capex 60, dep 30, ΔWC 10; debt funds 50% of net capex and WC needs; required return 10%, growth 6%. Equity value via stable-growth FCFE ≈",
+      "o": [
+        "Rs 1,500 crore (ignoring net capex)",
+        "Rs 500 crore",
+        "Dep-only adjustment",
+        "Rs 1,000 crore (equity value, FCFE at g 6%, k 10%)"
+      ],
+      "a": 3,
+      "why": "FCFE = 60 − 0.5×(30) − 0.5×10 = 40 crore; V = 40/(10% − 6%) = 1,000 crore.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — FCFE leverage-adjustment chain is the valuation flow question AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: FCFE per share",
+        "tip": "FCFE = NI − (1−L)(capex−dep) − (1−L)ΔWC; grow at g.",
+        "link": "Chapter 5 — Security Valuation"
+      }
+    }
+  ]
+}

@@ -1,0 +1,385 @@
+{
+  "meta": {
+    "id": "p1-nov26-ch16-mcq",
+    "paper": "P1",
+    "attempt": "NOV-2026",
+    "kind": "chapter",
+    "category": "CHAPTER-WISE MCQs",
+    "title": "Ch 16: Professional and Ethical Duty of a Chartered Accountant — MCQ Bank",
+    "description": "Chapter-wise practice MCQs for Chapter 16 (Professional and Ethical Duty of a Chartered Accountant).",
+    "count": 15,
+    "mcqCount": 15,
+    "descriptiveCount": 0,
+    "coverage": "Chapter 16 · 15 MCQs",
+    "chapters": [
+      16
+    ],
+    "durationMinutes": 23,
+    "difficulty": "Exam standard",
+    "high": 2,
+    "medium": 7,
+    "low": 6
+  },
+  "questions": [
+    {
+      "id": "p1q-u2izvh",
+      "ch": 16,
+      "topic": "Ethics — threats & safeguards",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A CA firm's fees from a non-listed audit client for a year are Rs 90 lakh, of which Rs 60 lakh are for book-keeping. Under the ICAI Code of Ethics, this primarily creates a:",
+      "o": [
+        "Self-review threat, in addition to a management-participation issue the Code prohibits for the same financial statements",
+        "Advocacy threat only",
+        "Intimidation threat",
+        "Familiarity threat"
+      ],
+      "a": 0,
+      "why": "Preparing the books and then auditing them = self-review threat; assuming management functions is prohibited (self-review/management-participation). Advocacy is promoting a client's position; intimidation is coercion — neither fits.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — threat-classification questions dominate the ethics MCQs Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ethics — threats & safeguards",
+        "tip": "Threat five-pack: Self-interest, Self-review, Advocacy, Familiarity, Intimidation — match the FACTS, not the feeling.",
+        "link": "Ch 16"
+      }
+    },
+    {
+      "id": "p1q-1xwglho",
+      "ch": 16,
+      "topic": "Ethics — professional conduct",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A member in practice invites a prospective client's purchase manager for lunch to obtain an audit assignment. Under the Code of Ethics, solicitation of clients by a member in practice is:",
+      "o": [
+        "Permitted with proper disclosure",
+        "Prohibited — members shall not solicit work by personal communication/corruption, inducement etc.",
+        "Permitted for non-assurance work only",
+        "A fundamental-principle breach only for listed audits"
+      ],
+      "a": 1,
+      "why": "Part III of the First Schedule (Sections 251–267 of the Code) bars soliciting clients personally/by agents; inducements like hospitality to win work fall within the prohibition. ICAI ethics rules are stricter than the generic threats framework here.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the solicitation bar is a guaranteed objective-question zone AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ethics — professional conduct",
+        "tip": "No chasing clients: personal canvassing, agents, and inducements are barred for members in practice. Clients should come to you, not the lunch to them.",
+        "link": "Ch 16"
+      }
+    },
+    {
+      "id": "p1q-lwvbyo",
+      "ch": 16,
+      "topic": "Ethics — conceptual framework approach",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Under the ICAI Code, when no specific provision addresses a situation, a member should:",
+      "o": [
+        "Do nothing until ICAI clarifies",
+        "Identify threats, evaluate significance, and apply safeguards; withdraw if threats cannot be reduced",
+        "Rely on client consent",
+        "Use best commercial judgment"
+      ],
+      "a": 1,
+      "why": "The conceptual framework approach applies fundamental principles: identify → evaluate threats → apply safeguards; if safeguards are unavailable/insufficient, decline or continue only per Code hierarchy.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the framework approach is the preamble every attempt tests Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Ethics — conceptual framework approach",
+        "tip": "No rule? No problem: identify, evaluate, safeguard, withdraw. The framework is the backstop for every gap.",
+        "link": "Ch 16"
+      }
+    },
+    {
+      "id": "p1q-1obgxsz",
+      "ch": 16,
+      "topic": "Ethics — confidentiality",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Disclosure of client information without specific permission is permitted under the Code:",
+      "o": [
+        "Whenever the audit team deems it useful",
+        "Where there is a legal or professional duty to disclose (e.g., court order) or permitted by law",
+        "Never in any circumstance",
+        "For the successor auditor, without inquiry"
+      ],
+      "a": 1,
+      "why": "The Code permits/obliges disclosure for professional/legal duty (e.g., reporting under statute, responding to inquiries with permissions); the successor-auditor inquiry has its own protocol requiring client consent.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — confidentiality carve-outs are frequent 1-markers AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ethics — confidentiality",
+        "tip": "Confidentiality's three doors: duty (legal), permission (client), quality/professional review — knock with a written reason.",
+        "link": "Ch 16"
+      }
+    },
+    {
+      "id": "p1q-145gtdl",
+      "ch": 16,
+      "topic": "Ethics — independence cooling-off",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "For listed-entity audits, the ICAI/Code provisions on key audit partner rotation generally require cooling-off periods aimed at:",
+      "o": [
+        "Improving partner billable hours",
+        "Reducing familiarity and self-interest threats from long association",
+        "Enhancing tax compliance",
+        "Mandating joint audits"
+      ],
+      "a": 1,
+      "why": "Partner rotation/cooling-off addresses familiarity/self-interest threats from long tenure of the same personnel on an engagement team.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — rotation and cooling-off as safeguard types are pattern-tested AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ethics — independence cooling-off",
+        "tip": "Long familiarity softens scepticism; rotation re-hardens it — the safeguard attacks the threat type, not the person.",
+        "link": "Ch 16"
+      }
+    },
+    {
+      "id": "p1q-1gux3qo",
+      "ch": 16,
+      "topic": "Ethics — fundamental principles",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Which is NOT one of the five fundamental principles of the ICAI Code of Ethics?",
+      "o": [
+        "Integrity",
+        "Objectivity",
+        "Professional competence and due care",
+        "Prudence"
+      ],
+      "a": 3,
+      "why": "Five principles: Integrity; Objectivity; Professional competence & due care; Confidentiality; Professional behaviour. Prudence is an accounting/auditing idea, not a Code principle.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the five-list 'except' format is the ethics freebie AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ethics — fundamental principles",
+        "tip": "Five pillars: Integrity, Objectivity, Competence, Confidentiality, Conduct. Prudence lives in accounts, not ethics.",
+        "link": "Ch 16"
+      }
+    },
+    {
+      "id": "p1q-qwjci",
+      "ch": 16,
+      "topic": "Ethics — non-assurance independence",
+      "m": 1,
+      "d": "HARD",
+      "q": "For a non-assurance engagement for an audit client, threats to independence are evaluated with reference to:",
+      "o": [
+        "Fees only",
+        "Whether the NAES results in management decisions being made and the nature/scope of the audit — safeguards or decline",
+        "Mental health of the team",
+        "Public listing status only"
+      ],
+      "a": 1,
+      "why": "The Code requires evaluating whether NAES affects independence (self-review if it influences accounting records/FS or management decisions); safeguards may reduce, else decline/withdraw the NAES (or audit as last resort per hierarchy).",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — hierarchy-of-response logic is tested with twists Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Ethics — non-assurance independence",
+        "tip": "If the bookkeeping contaminates the audit lens, no fee can buy independence — shed the NAES before the audit.",
+        "link": "Ch 16"
+      }
+    },
+    {
+      "id": "p1q-1vzqobz",
+      "ch": 16,
+      "topic": "Ethics — fees",
+      "m": 1,
+      "d": "HARD",
+      "q": "A contingent fee arrangement for professional services is permitted under the ICAI Code:",
+      "o": [
+        "For tax return preparation for the client always",
+        "Generally restricted — fees determined by the result of the transaction create self-interest threats (esp. for audit/assurance)",
+        "In every assignment",
+        "When the client is a government entity"
+      ],
+      "a": 1,
+      "why": "Contingent fees for assurance/audit-like services create self-interest threats and are barred/limited (with narrow permitted situations e.g. certain tax proceedings outcomes under Code carve-outs); never for auditing FS.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — fee-structure threat identification Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Ethics — fees",
+        "tip": "Fee rides on the outcome, judgment wobbles — assurance work stays off the rollercoaster.",
+        "link": "Ch 16"
+      }
+    },
+    {
+      "id": "p1q-et92xi",
+      "ch": 16,
+      "topic": "Ethics — professional behaviour",
+      "m": 1,
+      "d": "HARD",
+      "q": "Marketing that discredits a rival practitioner breaches:",
+      "o": [
+        "Objectivity",
+        "Professional behaviour (and Code bars adverse publicity)",
+        "Confidentiality",
+        "Competence"
+      ],
+      "a": 1,
+      "why": "The Code prohibits solicitation/adverse publicity; professional behaviour requires compliance with laws and avoiding disrepute.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — which-principle-matches-which-fact Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Ethics — professional behaviour",
+        "tip": "Trash another firm = professional-behaviour breach; the principle list is matched by fact-type, not by feeling.",
+        "link": "Ch 16"
+      }
+    },
+    {
+      "id": "p1q-1spvggh",
+      "ch": 16,
+      "topic": "Code — conflict of interest for NAES",
+      "m": 1,
+      "d": "HARD",
+      "q": "Accepting a non-audit engagement where a conflict with another client's interest arises, the member must:",
+      "o": [
+        "Silently prefer the payer",
+        "Disclose the conflict to both clients and proceed with informed consent or decline",
+        "Resign from all",
+        "Prefer the older client"
+      ],
+      "a": 1,
+      "why": "Conflicts-of-interest provisions require disclosure to affected clients and informed consent, or decline/withdraw — confidentiality is respected in the disclosure (no details).",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — disclose-and-consent mechanics AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Code — conflict of interest for NAES",
+        "tip": "When two clients pull, let them both see the rope — then decide.",
+        "link": "Chapter 16 — Professional and Ethical Duty of a Chartered Accountant"
+      }
+    },
+    {
+      "id": "p1q-8tbgdb",
+      "ch": 16,
+      "topic": "Fundamental principle — integrity",
+      "m": 1,
+      "d": "HARD",
+      "q": "Subassociating with false or misleading information violates primarily:",
+      "o": [
+        "Objectivity",
+        "Integrity",
+        "Competence",
+        "Confidentiality"
+      ],
+      "a": 1,
+      "why": "Integrity = being straightforward and honest; association with misleading reports breaches it.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — one-line principle mapping Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Fundamental principle — integrity",
+        "tip": "Honesty is a rule with teeth: lend no signature to spin.",
+        "link": "Chapter 16 — Professional and Ethical Duty of a Chartered Accountant"
+      }
+    },
+    {
+      "id": "p1q-4ecsnf",
+      "ch": 16,
+      "topic": "Peer review",
+      "m": 1,
+      "d": "HARD",
+      "q": "The ICAI peer review framework is aimed at:",
+      "o": [
+        "Punishing members",
+        "Quality improvement and review of compliance with standards/Codes",
+        "Tax audit",
+        "Fee fixing"
+      ],
+      "a": 1,
+      "why": "Peer review is a quality-assurance mechanism — reviewing adherence to professional standards, developmental in spirit.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — purpose-over-punishment framing Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Peer review",
+        "tip": "Colleagues checking each other: sharpening, not sentencing.",
+        "link": "Chapter 16 — Professional and Ethical Duty of a Chartered Accountant"
+      }
+    },
+    {
+      "id": "p1q-q80aup",
+      "ch": 16,
+      "topic": "Code — records retention",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Audit documentation under SA 230 is assembled and retained (minimum period) for:",
+      "o": [
+        "3 years",
+        "5 years from the date of the auditor's report (or such longer legal period)",
+        "7 years",
+        "Till the company closes"
+      ],
+      "a": 1,
+      "why": "SA 230: assemble the final file promptly (usually ≤60 days) and retain ≥5 years (or per law). Note the difference: ICAI Code/SA retention vs SEBI 8-year records for listed-auditors in some contexts.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — retention-numbers one-liner AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Code — records retention",
+        "tip": "Audit files sleep for five years — the law can extend the nap.",
+        "link": "Chapter 16 — Professional and Ethical Duty of a Chartered Accountant"
+      }
+    },
+    {
+      "id": "p1q-3ylg0l",
+      "ch": 16,
+      "topic": "Code — fees of predecessor",
+      "m": 1,
+      "d": "HARD",
+      "q": "A CA in practice may accept an audit assignment with unpaid fees of the predecessor auditor:",
+      "o": [
+        "Only after paying them",
+        "With the predecessor's consent/after ensuring no professional bar exists (communication with incumbent is mandatory before accepting)",
+        "Without any communication",
+        "Never"
+      ],
+      "a": 1,
+      "why": "Sec 259/Code: professional communication with the incumbent before accepting the offer is mandatory; unpaid-fees situations require attention under the Code's rules on transferring engagements.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the etiquette rule tested as law Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Code — fees of predecessor",
+        "tip": "Say hello (and check why the last man left) before you sign.",
+        "link": "Chapter 16 — Professional and Ethical Duty of a Chartered Accountant"
+      }
+    },
+    {
+      "id": "p1q-34l86y",
+      "ch": 16,
+      "topic": "New syllabus — ethics integrated in Paper 1",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Under the new scheme, 'Professional and Ethical Duty of a Chartered Accountant' sits inside Paper 1. For MCQ preparation this means:",
+      "o": [
+        "Ethics never appears in FR",
+        "FR objective sections will mix Code-of-Ethics one-markers (threats, prohibitions, independence) with Ind AS questions",
+        "Ethics shifts to a case study only",
+        "Code of Ethics becomes optional"
+      ],
+      "a": 1,
+      "why": "Structure change: the FR paper now carries the ethics chapter, so its 30-mark MCQ section blends Code content — threat classification and prohibitions are FR-examinable too.",
+      "trend": "Documented syllabus/amendment change — applicability from May 2026 exam onwards per ICAI BoS announcement.",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — placement tells you the paper tests it in its own objective section AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: New syllabus — ethics integrated in Paper 1",
+        "tip": "Same Code, new home: FR now bills ethics at the front desk.",
+        "link": "Chapter 16 — Professional and Ethical Duty of a Chartered Accountant"
+      }
+    }
+  ]
+}

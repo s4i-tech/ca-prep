@@ -1,0 +1,443 @@
+{
+  "meta": {
+    "id": "p3-nov26-ch19-mcq",
+    "paper": "P3",
+    "attempt": "NOV-2026",
+    "kind": "chapter",
+    "category": "CHAPTER-WISE MCQs",
+    "title": "Ch 19: Professional Ethics & Liabilities of Auditors — MCQ Bank",
+    "description": "Chapter-wise practice MCQs for Chapter 19 (Professional Ethics & Liabilities of Auditors).",
+    "count": 17,
+    "mcqCount": 17,
+    "descriptiveCount": 0,
+    "coverage": "Chapter 19 · 17 MCQs",
+    "chapters": [
+      19
+    ],
+    "durationMinutes": 26,
+    "difficulty": "Exam standard",
+    "high": 6,
+    "medium": 10,
+    "low": 1
+  },
+  "questions": [
+    {
+      "id": "p3q-16jpbr8",
+      "ch": 19,
+      "topic": "The engagement partner's dilemma week",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Issue (a):",
+      "o": [
+        "Self-review — the manager must leave the estimates work entirely",
+        "Familiarity + self-review mix — remove the manager from the areas his sibling prepared; document the reassignment",
+        "No threat — the client changed the staff",
+        "Accept with a warning letter"
+      ],
+      "a": 1,
+      "why": "Close-family relationships with client staff in a position to influence the subject matter ⇒ familiarity (and the 'who prepared what' overlap can create a self-review echo); the safeguard is reassignment out of the affected area — a firm-level move, not a promise.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — this topic stays active in ICAI question-setting Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: The engagement partner's dilemma week",
+        "tip": "Kin in the kitchen keeps you out of that pot Reassign the person before the perception seasons the dish.",
+        "link": "Chapter 19 — Professional Ethics & Liabilities of Auditors"
+      },
+      "stem": "Month-end, three issues in one firm: (a) the audit manager's sibling is the client's new finance controller who prepared the estimates being audited; (b) a client pays 45% of the firm's total fees, and renewal talk is 'friendly but clear'; (c) the client's owner offers to fund the partner's family wedding with an 'old friendship' gesture; and the firm also proposed implementing the same client's accounting software last quarter.",
+      "caseRef": "p3-case-5"
+    },
+    {
+      "id": "p3q-11za70t",
+      "ch": 19,
+      "topic": "The engagement partner's dilemma week",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Issue (b):",
+      "o": [
+        "Quit the client",
+        "Self-interest through fee dependence — evaluate magnitude and client's significance; safeguards (EQR, disclosure to those charged with governance of the client, fee structure) and if dependence is severe and long-term, decline/withdraw over time",
+        "Accept and cap at 50%",
+        "Ignore percentages — no bright line exists"
+      ],
+      "a": 0,
+      "why": "45% of total firm fees from one client is a textbook economic-dependence threat with no safe harbour percentage; the framework evaluates the RITP test and lists safeguards; if the dependence can't be diluted or managed, the direction is to lose the dependence (fee restructuring) or the client.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — this topic stays active in ICAI question-setting AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: The engagement partner's dilemma week",
+        "tip": "The fee that feeds the firm feeds the bias first A big client is a small firm's boss — the framework counts the ratio.",
+        "link": "Chapter 19 — Professional Ethics & Liabilities of Auditors"
+      },
+      "stem": "Month-end, three issues in one firm: (a) the audit manager's sibling is the client's new finance controller who prepared the estimates being audited; (b) a client pays 45% of the firm's total fees, and renewal talk is 'friendly but clear'; (c) the client's owner offers to fund the partner's family wedding with an 'old friendship' gesture; and the firm also proposed implementing the same client's accounting software last quarter.",
+      "caseRef": "p3-case-5"
+    },
+    {
+      "id": "p3q-qwn4hl",
+      "ch": 19,
+      "topic": "The engagement partner's dilemma week",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Issue (c) the wedding offer:",
+      "o": [
+        "Accept — social bonds are goodwill",
+        "Refuse — a RITP would see it as compromising objectivity and the gift's value/timing makes self-interest/intimidation acute; firm policies on gifts typically cap or forbid",
+        "Report to the client's board",
+        "Accept and donate onward"
+      ],
+      "a": 1,
+      "why": "Gifts from a client to a covered person's family, timed during the audit, are the 'no' list, not the disclosure list — trivial-and-insignificant is the only pass, and a wedding gift from an audited owner is neither.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — this topic stays active in ICAI question-setting Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: The engagement partner's dilemma week",
+        "tip": "Refuse the feast before it becomes the invoice Gratitude has a price when the giver signs your fees.",
+        "link": "Chapter 19 — Professional Ethics & Liabilities of Auditors"
+      },
+      "stem": "Month-end, three issues in one firm: (a) the audit manager's sibling is the client's new finance controller who prepared the estimates being audited; (b) a client pays 45% of the firm's total fees, and renewal talk is 'friendly but clear'; (c) the client's owner offers to fund the partner's family wedding with an 'old friendship' gesture; and the firm also proposed implementing the same client's accounting software last quarter.",
+      "caseRef": "p3-case-5"
+    },
+    {
+      "id": "p3q-1567azf",
+      "ch": 19,
+      "topic": "The engagement partner's dilemma week",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Issue (d) the software proposal — now that they are the auditor:",
+      "o": [
+        "Fine — separate business line",
+        "Prohibited for an audit client: the firm implementing the accounting system creates a self-review threat into the records it audits; decline, or only provide it where the entity's own governance genuinely takes responsibility and the standard permits, otherwise the independence is gone",
+        "Charge double",
+        "Only for software the auditor won't see"
+      ],
+      "a": 1,
+      "why": "Designing/implementing the financial reporting system for an audit client is self-review at the root of the records — the answer in most jurisdictions for a listed audit client: no; for unlisted entities with strong governance, a narrow advisory-only version may pass with safeguards — the exam answer states the threat by name and the default refusal.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — this topic stays active in ICAI question-setting Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: The engagement partner's dilemma week",
+        "tip": "You can't grade the exam you wrote Build the till for a client and you'll audit your own change drawer.",
+        "link": "Chapter 19 — Professional Ethics & Liabilities of Auditors"
+      },
+      "stem": "Month-end, three issues in one firm: (a) the audit manager's sibling is the client's new finance controller who prepared the estimates being audited; (b) a client pays 45% of the firm's total fees, and renewal talk is 'friendly but clear'; (c) the client's owner offers to fund the partner's family wedding with an 'old friendship' gesture; and the firm also proposed implementing the same client's accounting software last quarter.",
+      "caseRef": "p3-case-5"
+    },
+    {
+      "id": "p3q-1sqqnhb",
+      "ch": 19,
+      "topic": "The engagement partner's dilemma week",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "If, after all, the client threatens to replace the firm unless the FY-end estimates are signed off 'as filed':",
+      "o": [
+        "Yield to preserve the firm",
+        "Undue influence/intimidation: document, do not change the technical position; report to TCWG, consider the professional obligation to record, and where independence/objectivity can't be sustained — resign (with the statutory/other reporting duties)",
+        "Call a partner vote",
+        "Delay by 3 months"
+      ],
+      "a": 1,
+      "why": "Threat of replacement tied to accepting management's position is the INTIMIDATION limb; the framework's safeguard set is governance-level (audit committee awareness) plus the professional's final step: the position does not move for fear of losing the fee — and the withdrawal route exists where it would.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — this topic stays active in ICAI question-setting AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: The engagement partner's dilemma week",
+        "tip": "Lose the client, keep the certificate — the trade runs one way A signature bought by fear costs more than the fee it saves.",
+        "link": "Chapter 19 — Professional Ethics & Liabilities of Auditors"
+      },
+      "stem": "Month-end, three issues in one firm: (a) the audit manager's sibling is the client's new finance controller who prepared the estimates being audited; (b) a client pays 45% of the firm's total fees, and renewal talk is 'friendly but clear'; (c) the client's owner offers to fund the partner's family wedding with an 'old friendship' gesture; and the firm also proposed implementing the same client's accounting software last quarter.",
+      "caseRef": "p3-case-5"
+    },
+    {
+      "id": "p3q-1xfrq3l",
+      "ch": 19,
+      "topic": "Fundamental principles",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Which is NOT one of the five fundamental principles of the ICAI Code of Ethics / IESBA?",
+      "o": [
+        "Integrity",
+        "Objectivity",
+        "Confidentiality",
+        "Skepticism"
+      ],
+      "a": 3,
+      "why": "The five: Integrity, Objectivity, Professional competence and due care, Confidentiality, Professional behaviour; SKEPTICISM is a mindset duty inside competence/objectivity (SAs), NOT a Code principle — the confusion is the trap.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the mix-in of an SA term into the Code list Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Fundamental principles",
+        "tip": "A principle is a vow; a mindset is a habit.",
+        "link": "Chapter 19 — Professional Ethics & Liabilities of Auditors"
+      }
+    },
+    {
+      "id": "p3q-1slr4i6",
+      "ch": 19,
+      "topic": "Threats — taxonomy",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "An audit partner holds a small financial interest in the audit client. This creates which threat under the conceptual framework?",
+      "o": [
+        "Self-review",
+        "Advocacy",
+        "Self-interest",
+        "Familiarity"
+      ],
+      "a": 2,
+      "why": "Financial interests → SELF-INTEREST; auditing your own work → self-review; promoting the client's position (e.g. defending a treatment publicly) → advocacy; long-close relationship → familiarity; pressure from management to reduce scope → undue influence/intimidation.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — name the five, then slot the fact pattern Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Threats — taxonomy",
+        "tip": "The framework is a taxonomy of temptation.",
+        "link": "Chapter 19 — Professional Ethics & Liabilities of Auditors"
+      }
+    },
+    {
+      "id": "p3q-1vdcm5",
+      "ch": 19,
+      "topic": "Contingent fees",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A member accepts an audit assignment with remuneration contingent on the client securing a bank sanction. This is:",
+      "o": [
+        "Normal performance-linked pricing",
+        "A self-interest threat — and professional-act conduct violation for an assurance engagement; contingent basis for audits and specified work is prohibited",
+        "Permissible for statutory audit if disclosed",
+        "An integrity threat but permitted by the board"
+      ],
+      "a": 1,
+      "why": "Code/First-Schedule conduct: contingent-fee arrangements for assurance (audit, review, certification) create unacceptable self-interest and are prohibited; other engagements with evaluation — safeguards; the fee must not depend on the outcome the member is certifying or facilitating.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — outcome-linked pay for a certifier = buying your own judgment AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Contingent fees",
+        "tip": "Never pay the referee by the goals.",
+        "link": "Chapter 19 — Professional Ethics & Liabilities of Auditors"
+      }
+    },
+    {
+      "id": "p3q-1dea5er",
+      "ch": 19,
+      "topic": "Gifts and hospitality",
+      "m": 1,
+      "d": "HARD",
+      "q": "A client offers the audit partner an all-expenses family holiday at a resort they audit for hospitality pricing: the partner should:",
+      "o": [
+        "Accept after the report date",
+        "Refuse where a reasonable and informed third party would conclude objectivity is compromised; nominal hospitality, if any, with firm-level policies",
+        "Disclose in the audit file and accept",
+        "Refer to the client's board"
+      ],
+      "a": 1,
+      "why": "Conceptual framework test: the 'reasonable and informed third party' (RITP) benchmark — if it fails, reject; trivial-and-insignificant is the threshold; self-interest/intimidation; disclosure does not cure it, it is a safeguard for a lower-grade threat.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the RITP test: a stranger's eyes decide Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Gifts and hospitality",
+        "tip": "Sunshine cures small things; not this kind.",
+        "link": "Chapter 19 — Professional Ethics & Liabilities of Auditors"
+      }
+    },
+    {
+      "id": "p3q-1lk99bk",
+      "ch": 19,
+      "topic": "Confidentiality — permitted disclosure",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "An auditor's professional confidentiality is properly overridden when:",
+      "o": [
+        "The engagement team's spouse asks",
+        "There is a legal or professional duty to disclose (e.g. statutory fraud reporting) or specific client permission",
+        "Any third party sues for information",
+        "A regulator requests without authority — if the 'request' comes by phone"
+      ],
+      "a": 0,
+      "why": "Disclosure permitted where there is a legal/professional duty (143(12) fraud reporting path, court orders, ICAI/peer/NFRA inspections) or client consent — the fourth option's 'phone request without authority' fails the verification test: a right to demand is not the same as the one asked by.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — duty-to-disclose and right-to-with-disclose are different gates AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Confidentiality — permitted disclosure",
+        "tip": "Secrets must be safe, not silent when the law speaks.",
+        "link": "Chapter 19 — Professional Ethics & Liabilities of Auditors"
+      }
+    },
+    {
+      "id": "p3q-1ic8ezp",
+      "ch": 19,
+      "topic": "Gifts rule of thumb",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Hospitality from an audit client may be accepted when:",
+      "o": [
+        "Any amount, if disclosed",
+        "Its value is trivial and insignificant by the RITP test",
+        "Before signing",
+        "If the partner approves internally"
+      ],
+      "a": 1,
+      "why": "The test is not the approval chain — trivial-and-insignificant under the reasonable-informed-third-party lens, with firm policy caps.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the standard is strangers' eyes, not partners' nods AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Gifts rule of thumb",
+        "tip": "A gift you'd explain twice, don't take.",
+        "link": "Chapter 19 — Professional Ethics & Liabilities of Auditors"
+      }
+    },
+    {
+      "id": "p3q-l6zrd7",
+      "ch": 19,
+      "topic": "Cooling periods",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "An audit partner moving into the client's finance role, and a client officer marrying a partner — the frameworks address both via:",
+      "o": [
+        "Nothing",
+        "Cooling-off periods and removal from the engagement (self-review/familiarity safeguards)",
+        "Only disclosure",
+        "Only for tax work"
+      ],
+      "a": 1,
+      "why": "Key audit partner rotation and cooling periods attack familiarity/self-review; family relationships trigger removal from the engagement — the safeguard is distance, not disclosure.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the remedy is space and time AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Cooling periods",
+        "tip": "Some conflicts cure only by walking away.",
+        "link": "Chapter 19 — Professional Ethics & Liabilities of Auditors"
+      }
+    },
+    {
+      "id": "p3q-md43ey",
+      "ch": 19,
+      "topic": "Non-audit services default",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "For a listed audit client, providing book-keeping or systems design is:",
+      "o": [
+        "Always fine",
+        "Generally prohibited — it is self-review into the very records/controls being audited",
+        "Permitted with a fee cap",
+        "OK for one year only"
+      ],
+      "a": 1,
+      "why": "Assurance and creation can't mix: preparing the records the audit tests is the self-review threat the framework bars at the listed level.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — don't audit your own building work AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Non-audit services default",
+        "tip": "A builder's report on his own wall is an estimate, not an opinion.",
+        "link": "Chapter 19 — Professional Ethics & Liabilities of Auditors"
+      }
+    },
+    {
+      "id": "p3q-yzdopf",
+      "ch": 19,
+      "topic": "Rotation of audit firms — listed companies",
+      "m": 1,
+      "d": "HARD",
+      "q": "The audit-firm rotation regime for listed companies under the framework:",
+      "o": [
+        "Optional",
+        "Maximum continuous engagement terms (3 years, with an eligibility break) — the independence safeguard by expiry, driving the SAs' transition procedures (opening balances, predecessor communication)",
+        "Only for tax partners",
+        "Unlimited with a fee cap"
+      ],
+      "a": 1,
+      "why": "DOCUMENTED statutory design (Companies Act + rules): firm-term caps and cooling periods make rotation a planned handover, not an accident — with the 510-style opening-balance obligations at every rotation year.",
+      "trend": "Traceable to a real, publicly-notified amendment/standard (documented fact), tested in ICAI style.",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — rotation is an opening-balance event AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Rotation of audit firms — listed companies",
+        "tip": "Fresh eyes every few years — and fresh risk in the first week.",
+        "link": "Chapter 19 — Professional Ethics & Liabilities of Auditors"
+      }
+    },
+    {
+      "id": "p3q-end9bm",
+      "ch": 19,
+      "topic": "Key audit partner — cooling",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "After mandatory rotation of a key audit partner, the framework typically imposes:",
+      "o": [
+        "No break",
+        "A cooling period during which the former partner may not rejoin the engagement (nor advise on it, in the listed-company regime)",
+        "A lifetime ban from the firm",
+        "A fee cut"
+      ],
+      "a": 1,
+      "why": "Rotation + time-out is the familiarity/self-interest antidote: the partner's judgment on the area they owned for years doesn't age out with the title, so the standard ages the person out for a while.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — distance needs duration AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Key audit partner — cooling",
+        "tip": "Leave the table; don't hover at the same seat.",
+        "link": "Chapter 19 — Professional Ethics & Liabilities of Auditors"
+      }
+    },
+    {
+      "id": "p3q-mhfm4d",
+      "ch": 19,
+      "topic": "Litigation — advocacy wall",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "An audit firm acting for the client before a tax tribunal raises which threat, and the framework's usual answer?",
+      "o": [
+        "Self-review; permitted",
+        "Advocacy — prohibited for the audit client (listed) where the position becomes adverse; safeguards/decline",
+        "Undue influence; ignore",
+        "Familiarity; accept with disclosure"
+      ],
+      "a": 2,
+      "why": "Speaking FOR the client while grading their statements is advocacy — the framework bars it in the listed regime (or requires safeguards and independence evaluation where permitted at all): the auditor cannot be both witness and mouthpiece.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — advocacy is the profession's clearest red line AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Litigation — advocacy wall",
+        "tip": "A referee doesn't argue for the team.",
+        "link": "Chapter 19 — Professional Ethics & Liabilities of Auditors"
+      }
+    },
+    {
+      "id": "p3q-1o0kcj",
+      "ch": 19,
+      "topic": "Client solicitation",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A member who solicits clients by advertising or circulars breaches the Code because:",
+      "o": [
+        "Fees would rise",
+        "Professional rules on publicity restrict direct solicitation/advertising (beyond the permitted identity circulars and website disclosure norms) to protect objectivity and the profession's standing",
+        "Clients would compare fees",
+        "Others would join the practice"
+      ],
+      "a": 0,
+      "why": "The advertising regime is India-specific: broad publicity is restricted (name, address, qualifications, services and fee structures only within rules), and active solicitation is professional misconduct — the contrast with most IESBA jurisdictions is exam gold.",
+      "trend": "Traceable to a real, publicly-notified amendment/standard (documented fact), tested in ICAI style.",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — publicity has a permitted list, solicitation has none Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Client solicitation",
+        "tip": "A chartered accountant markets with restraint — by rule, not by taste.",
+        "link": "Chapter 19 — Professional Ethics & Liabilities of Auditors"
+      }
+    }
+  ]
+}

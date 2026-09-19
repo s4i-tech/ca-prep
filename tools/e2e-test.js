@@ -64,5 +64,17 @@ for (const ds of man.datasets) {
   const qs = JSON.parse(fs.readFileSync(path.join(DATA, ds.file.replace("./data/", "")), "utf8")).questions;
   ok(new Set(qs.map((q) => q.id)).size === qs.length, ds.id + ": unique ids");
 }
+
+// 5. chapter-wise MCQ availability contract: every chapter in every paper has banked MCQs
+for (const p of man.papers) {
+  const core = man.datasets.find((d) => d.paper === p.id && d.kind === "core");
+  ok(!!core, p.id + " has core dataset");
+  const coreFile = JSON.parse(fs.readFileSync(path.join(DATA, core.file.replace("./data/", "")), "utf8"));
+  for (const ch of p.chapters) {
+    const chMcqs = coreFile.questions.filter((q) => Array.isArray(q.o) && q.ch === ch.no);
+    ok(chMcqs.length > 0, p.id + " ch " + ch.no + " has banked MCQs (" + chMcqs.length + ")");
+  }
+}
+
 console.log(fails ? "E2E FAILURES: " + fails : "e2e: PASS — manifest, mirrors, loaders, scoring keys, ids all verified");
 process.exit(fails ? 1 : 0);

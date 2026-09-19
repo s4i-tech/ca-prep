@@ -1,0 +1,875 @@
+{
+  "meta": {
+    "id": "p2-nov26-ch12-mcq",
+    "paper": "P2",
+    "attempt": "NOV-2026",
+    "kind": "chapter",
+    "category": "CHAPTER-WISE MCQs",
+    "title": "Ch 12: Interest Rate Risk Management — MCQ Bank",
+    "description": "Chapter-wise practice MCQs for Chapter 12 (Interest Rate Risk Management).",
+    "count": 35,
+    "mcqCount": 35,
+    "descriptiveCount": 0,
+    "coverage": "Chapter 12 · 35 MCQs",
+    "chapters": [
+      12
+    ],
+    "durationMinutes": 53,
+    "difficulty": "Exam standard",
+    "high": 8,
+    "medium": 15,
+    "low": 12
+  },
+  "questions": [
+    {
+      "id": "p2q-3y9fss",
+      "ch": 12,
+      "topic": "Liability book under rate stress",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Year-1 extra interest if rates move +150 bps on floating:",
+      "o": [
+        "Rs 22.5 crore",
+        "Rs 37.5 crore",
+        "Rs 3.75 crore",
+        "Rs 45 crore"
+      ],
+      "a": 0,
+      "why": "Floating 60%×2,500 = 1,500; +1.5% = Rs 22.5 crore — straight arithmetic on the floating base only.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — this topic stays active in ICAI question-setting AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Liability book under rate stress",
+        "tip": "Only the floating book reprices — never the whole stack A rate shock touches only the unhinged — the floating balance.",
+        "link": "Chapter 12 — Interest Rate Risk Management"
+      },
+      "stem": "Silverleaf's treasury: borrowings Rs 2,500 crore, 60% floating at MCLR-linked rates (currently 8.8%), 40% fixed at 9.2% with 7 years left; revenue growth 9% p.a.; management fears +150 bps but expects a cut in two years.",
+      "caseRef": "p2-case-8"
+    },
+    {
+      "id": "p2q-17v9lp6",
+      "ch": 12,
+      "topic": "Liability book under rate stress",
+      "m": 2,
+      "d": "HARD",
+      "q": "If instead rates rise +50 bps and the company swaps 50% of the floating book to fixed at 9.0%, year-1 interest cost versus the pre-shock baseline is approximately:",
+      "o": [
+        "Rs 5.25 crore extra",
+        "Rs 7.50 crore extra",
+        "Rs 2.25 crore extra",
+        "No change"
+      ],
+      "a": 0,
+      "why": "Hedged half (750 Cr) locked at 9.0 vs old 8.8 ⇒ +1.5 Cr; unhedged half floats 8.8→9.3 ⇒ +3.75 Cr; total +5.25 Cr (vs +7.5 Cr fully unhedged). The swap cut the bill, not erased it.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — this topic stays active in ICAI question-setting Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Liability book under rate stress",
+        "tip": "Hedges trade rate for basis — the arithmetic is a net of two books A swap doesn't remove exposure; it exchanges it for a different kind.",
+        "link": "Chapter 12 — Interest Rate Risk Management"
+      },
+      "stem": "Silverleaf's treasury: borrowings Rs 2,500 crore, 60% floating at MCLR-linked rates (currently 8.8%), 40% fixed at 9.2% with 7 years left; revenue growth 9% p.a.; management fears +150 bps but expects a cut in two years.",
+      "caseRef": "p2-case-8"
+    },
+    {
+      "id": "p2q-c28vzb",
+      "ch": 12,
+      "topic": "Liability book under rate stress",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "The two-year rate-cut expectation argues for:",
+      "o": [
+        "Pay-fixed for 5 years",
+        "Keep more floating or buy a floor/cap ladder — a payer swaption to switch to fixed if the expected cut fails — options fit a two-sided view",
+        "Fix all now",
+        "Do nothing and report"
+      ],
+      "a": 2,
+      "why": "When a favourable move is expected but not certain: cap (rate-rise insurance) or payer swaption (right to fix later); locking fixed today forfeits the expected cut.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — this topic stays active in ICAI question-setting AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Liability book under rate stress",
+        "tip": "Expectation with risk ⇒ optionality, not obligation You can't hedge a hope — you can insure a fear.",
+        "link": "Chapter 12 — Interest Rate Risk Management"
+      },
+      "stem": "Silverleaf's treasury: borrowings Rs 2,500 crore, 60% floating at MCLR-linked rates (currently 8.8%), 40% fixed at 9.2% with 7 years left; revenue growth 9% p.a.; management fears +150 bps but expects a cut in two years.",
+      "caseRef": "p2-case-8"
+    },
+    {
+      "id": "p2q-13cnx7j",
+      "ch": 12,
+      "topic": "Liability book under rate stress",
+      "m": 2,
+      "d": "HARD",
+      "q": "Duration of the fixed 40% (7-yr) book approx (9.2%, annual):",
+      "o": [
+        "~5 years",
+        "~7 years",
+        "~2 years",
+        "Zero"
+      ],
+      "a": 0,
+      "why": "MacDur for 7-year ~9% coupon ≈ 5.1 years (modified ≈4.7): price impact of +150bps ≈ −4.7×1.5% = −7% on that book's value (economic, not P&L on hold-to-maturity accounting).",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — this topic stays active in ICAI question-setting Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Liability book under rate stress",
+        "tip": "Duration shrinks with coupon — the par-bond heuristic A coupon-rich bond behaves younger than its birth certificate says.",
+        "link": "Chapter 12 — Interest Rate Risk Management"
+      },
+      "stem": "Silverleaf's treasury: borrowings Rs 2,500 crore, 60% floating at MCLR-linked rates (currently 8.8%), 40% fixed at 9.2% with 7 years left; revenue growth 9% p.a.; management fears +150 bps but expects a cut in two years.",
+      "caseRef": "p2-case-8"
+    },
+    {
+      "id": "p2q-1njcbxa",
+      "ch": 12,
+      "topic": "Liability book under rate stress",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "A floating-rate note's effective duration is near:",
+      "o": [
+        "Zero at reset",
+        "1 year",
+        "Equal to maturity",
+        "Negative"
+      ],
+      "a": 0,
+      "why": "Reset-to-market mechanics ⇒ near-zero duration between resets (plus basis risk); a 3-month reset FRR has ≈0.25 modified duration worst-case at par.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — this topic stays active in ICAI question-setting Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Liability book under rate stress",
+        "tip": "Reset = re-anchor to par A float never remembers the old rate — its price resets its courage with it.",
+        "link": "Chapter 12 — Interest Rate Risk Management"
+      },
+      "stem": "Silverleaf's treasury: borrowings Rs 2,500 crore, 60% floating at MCLR-linked rates (currently 8.8%), 40% fixed at 9.2% with 7 years left; revenue growth 9% p.a.; management fears +150 bps but expects a cut in two years.",
+      "caseRef": "p2-case-8"
+    },
+    {
+      "id": "p2q-9m1iju",
+      "ch": 12,
+      "topic": "Duration",
+      "m": 1,
+      "d": "HARD",
+      "q": "A 3-year 10% annual-coupon bond at par has modified duration (approx, Macaulay ≈ 2.78; yield 10%):",
+      "o": [
+        "2.53",
+        "2.78",
+        "3.00",
+        "2.25"
+      ],
+      "a": 0,
+      "why": "ModDur = MacDur/(1+y) = 2.78/1.10 ≈ 2.53. The trap is answering Macaulay directly.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — duration-with-1+y divisor is a signature trap Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Duration",
+        "tip": "Duration shrinks when you divide by (1 + yield) — modified is the one that forecasts price.",
+        "link": "Chapter 12 — Interest Rate Risk Management"
+      }
+    },
+    {
+      "id": "p2q-1st4o55",
+      "ch": 12,
+      "topic": "Duration gap",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Immunisation of a bank's portfolio requires approximately:",
+      "o": [
+        "Assets > liabilities always",
+        "Duration of assets = duration of liabilities (and adequate convexity/size matching)",
+        "Same maturities",
+        "Same issuers"
+      ],
+      "a": 1,
+      "why": "Classic Redington/DGAP: match durations (and convexity ≥), so net worth is insensitive to small parallel rate moves.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the matching-conditions list AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Duration gap",
+        "tip": "Immunisation is balance on the seesaw: equal durations, never equal maturities.",
+        "link": "Chapter 12 — Interest Rate Risk Management"
+      }
+    },
+    {
+      "id": "p2q-1828af5",
+      "ch": 12,
+      "topic": "Basis risk",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Hedging a jet fuel position with crude futures exposes the manager to:",
+      "o": [
+        "Zero risk",
+        "Basis risk — the difference between spot and futures prices may move against",
+        "Interest risk",
+        "Credit only"
+      ],
+      "a": 1,
+      "why": "Cross-hedges leave BASIS (spot − futures) movement as residual risk; quality/location/tenor mismatches create it.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the residual-risk naming on cross hedges AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Basis risk",
+        "tip": "No hedge is a perfect suit — the basis is how it fits.",
+        "link": "Chapter 12 — Interest Rate Risk Management"
+      }
+    },
+    {
+      "id": "p2q-rgrcyf",
+      "ch": 12,
+      "topic": "Convexity",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "For the same duration, a higher-convexity bond benefits an investor when:",
+      "o": [
+        "Rates are stable",
+        "Rates move sharply in EITHER direction",
+        "Rates fall only",
+        "Rates rise only"
+      ],
+      "a": 1,
+      "why": "Convexity = positive curvature: price rise for rate fall > price fall for rate rise — valuable under large moves.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the curvature-vs-duration pairing AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Convexity",
+        "tip": "Duration predicts the tangent; convexity is the discount for being wrong in both directions.",
+        "link": "Chapter 12 — Interest Rate Risk Management"
+      }
+    },
+    {
+      "id": "p2q-1973vhb",
+      "ch": 12,
+      "topic": "Swaption",
+      "m": 1,
+      "d": "HARD",
+      "q": "A payer swaption gives the holder the right to:",
+      "o": [
+        "Receive floating",
+        "Enter the swap paying fixed (if it's a receiver of fixed? payer = pays fixed under the swap)",
+        "Cancel a swap",
+        "Buy the underlying bond"
+      ],
+      "a": 1,
+      "why": "Payer swaption → right to enter a swap as fixed-payer (benefits when rates rise → swap value +); receiver → fixed-receiver.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — naming-perspective convention Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Swaption",
+        "tip": "Payer/receiver is who you become inside the swap, not what you pay the seller.",
+        "link": "Chapter 12 — Interest Rate Risk Management"
+      }
+    },
+    {
+      "id": "p2q-hxyhj3",
+      "ch": 12,
+      "topic": "Interest rate caps/floors",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A borrower exposed to rising rates should buy:",
+      "o": [
+        "A floor",
+        "A cap on the reference rate (pay the premium, receive when rates exceed strike)",
+        "A collar only",
+        "A swaption receiver"
+      ],
+      "a": 1,
+      "why": "Cap = series of call options on the rate (receipts when reference > strike) — insures a floating-rate payer's cost; floor for a lender.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — cap-floor-buyer mapping AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Interest rate caps/floors",
+        "tip": "Borrowers buy ceilings; lenders buy floors — the premium is the insurance card.",
+        "link": "Chapter 12 — Interest Rate Risk Management"
+      }
+    },
+    {
+      "id": "p2q-6is4ej",
+      "ch": 12,
+      "topic": "Duration — price impact",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A bond portfolio with modified duration 5.5 faces a rate INCREASE of 0.5 percentage points. The approximate price effect is:",
+      "o": [
+        "Rises 2.75%",
+        "Falls 5.5%",
+        "Unchanged",
+        "Falls ≈ 2.75% (≈ Rs 2.75 per 100)"
+      ],
+      "a": 3,
+      "why": "%ΔP ≈ −5.5 × 0.5% = -2.75%. Rates up, prices down — magnitude only from duration; convexity would improve it slightly.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the sign-and-scale of duration shocks is the IRM chapter's bread Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Duration — price impact",
+        "tip": "ΔP/P ≈ −ModDur × Δy (+ ½·convexity·Δy²).",
+        "link": "Chapter 12 — Interest Rate Risk Management"
+      }
+    },
+    {
+      "id": "p2q-1k2ynqr",
+      "ch": 12,
+      "topic": "Duration — price impact",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A bond portfolio with modified duration 4.2 faces a rate INCREASE of 1 percentage points. The approximate price effect is:",
+      "o": [
+        "Falls ≈ 4.20% (≈ Rs 4.20 per 100)",
+        "Rises 4.20%",
+        "Falls 8.4%",
+        "Unchanged"
+      ],
+      "a": 0,
+      "why": "%ΔP ≈ −4.2 × 1% = -4.20%. Rates up, prices down — magnitude only from duration; convexity would improve it slightly.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the sign-and-scale of duration shocks is the IRM chapter's bread Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Duration — price impact",
+        "tip": "ΔP/P ≈ −ModDur × Δy (+ ½·convexity·Δy²).",
+        "link": "Chapter 12 — Interest Rate Risk Management"
+      }
+    },
+    {
+      "id": "p2q-1n1x9ot",
+      "ch": 12,
+      "topic": "Duration — price impact",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A bond portfolio with modified duration 6.8 faces a rate INCREASE of 0.5 percentage points. The approximate price effect is:",
+      "o": [
+        "Rises 3.40%",
+        "Falls 6.8%",
+        "Unchanged",
+        "Falls ≈ 3.40% (≈ Rs 3.40 per 100)"
+      ],
+      "a": 3,
+      "why": "%ΔP ≈ −6.8 × 0.5% = -3.40%. Rates up, prices down — magnitude only from duration; convexity would improve it slightly.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the sign-and-scale of duration shocks is the IRM chapter's bread Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Duration — price impact",
+        "tip": "ΔP/P ≈ −ModDur × Δy (+ ½·convexity·Δy²).",
+        "link": "Chapter 12 — Interest Rate Risk Management"
+      }
+    },
+    {
+      "id": "p2q-7ubw97",
+      "ch": 12,
+      "topic": "Duration — price impact",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A bond portfolio with modified duration 6.8 faces a rate INCREASE of 1 percentage points. The approximate price effect is:",
+      "o": [
+        "Rises 6.80%",
+        "Falls 13.6%",
+        "Unchanged",
+        "Falls ≈ 6.80% (≈ Rs 6.80 per 100)"
+      ],
+      "a": 3,
+      "why": "%ΔP ≈ −6.8 × 1% = -6.80%. Rates up, prices down — magnitude only from duration; convexity would improve it slightly.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the sign-and-scale of duration shocks is the IRM chapter's bread Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Duration — price impact",
+        "tip": "ΔP/P ≈ −ModDur × Δy (+ ½·convexity·Δy²).",
+        "link": "Chapter 12 — Interest Rate Risk Management"
+      }
+    },
+    {
+      "id": "p2q-1enz9hh",
+      "ch": 12,
+      "topic": "Duration — price impact",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A bond portfolio with modified duration 4.2 faces a rate INCREASE of 0.5 percentage points. The approximate price effect is:",
+      "o": [
+        "Rises 2.10%",
+        "Falls 4.2%",
+        "Unchanged",
+        "Falls ≈ 2.10% (≈ Rs 2.10 per 100)"
+      ],
+      "a": 3,
+      "why": "%ΔP ≈ −4.2 × 0.5% = -2.10%. Rates up, prices down — magnitude only from duration; convexity would improve it slightly.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the sign-and-scale of duration shocks is the IRM chapter's bread Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Duration — price impact",
+        "tip": "ΔP/P ≈ −ModDur × Δy (+ ½·convexity·Δy²).",
+        "link": "Chapter 12 — Interest Rate Risk Management"
+      }
+    },
+    {
+      "id": "p2q-sq7z85",
+      "ch": 12,
+      "topic": "Duration — price impact",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A bond portfolio with modified duration 5.5 faces a rate INCREASE of 1 percentage points. The approximate price effect is:",
+      "o": [
+        "Rises 5.50%",
+        "Falls 11.0%",
+        "Falls ≈ 5.50% (≈ Rs 5.50 per 100)",
+        "Unchanged"
+      ],
+      "a": 2,
+      "why": "%ΔP ≈ −5.5 × 1% = -5.50%. Rates up, prices down — magnitude only from duration; convexity would improve it slightly.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — the sign-and-scale of duration shocks is the IRM chapter's bread Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Duration — price impact",
+        "tip": "ΔP/P ≈ −ModDur × Δy (+ ½·convexity·Δy²).",
+        "link": "Chapter 12 — Interest Rate Risk Management"
+      }
+    },
+    {
+      "id": "p2q-17kfby",
+      "ch": 12,
+      "topic": "Interest rate swap",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Notional Rs 100 crore: A pays fixed 7%, receives MIBOR-like floating (8% this period). The period net cash flow for A:",
+      "o": [
+        "Net payment Rs -1.0 crore to the fixed-payer",
+        "Nil — notional swaps only",
+        "Net receipt ≈ Rs 1.0 crore to the fixed-payer",
+        "Rs 8.0 crore to fixed-payer (gross)"
+      ],
+      "a": 2,
+      "why": "A pays 7.00, receives 8.00 ⇒ nets receipt of Rs 1.0 crore; notional never exchanges.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — net-settlement arithmetic on the notional is the definitional swap test AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Interest rate swap",
+        "tip": "Fixed-payer pays fixed, receives floating: net = floating − fixed on notional.",
+        "link": "Chapter 12 — Interest Rate Risk Management"
+      }
+    },
+    {
+      "id": "p2q-2agknb",
+      "ch": 12,
+      "topic": "Interest rate swap",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Notional Rs 200 crore: A pays fixed 6.5%, receives MIBOR-like floating (7.5% this period). The period net cash flow for A:",
+      "o": [
+        "Net receipt ≈ Rs 2.0 crore to the fixed-payer",
+        "Net payment Rs -2.0 crore to the fixed-payer",
+        "Nil — notional swaps only",
+        "Rs 15.0 crore to fixed-payer (gross)"
+      ],
+      "a": 0,
+      "why": "A pays 13.00, receives 15.00 ⇒ nets receipt of Rs 2.0 crore; notional never exchanges.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — net-settlement arithmetic on the notional is the definitional swap test AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Interest rate swap",
+        "tip": "Fixed-payer pays fixed, receives floating: net = floating − fixed on notional.",
+        "link": "Chapter 12 — Interest Rate Risk Management"
+      }
+    },
+    {
+      "id": "p2q-3be9p",
+      "ch": 12,
+      "topic": "Interest rate swap",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Notional Rs 200 crore: A pays fixed 7%, receives MIBOR-like floating (8% this period). The period net cash flow for A:",
+      "o": [
+        "Net receipt ≈ Rs 2.0 crore to the fixed-payer",
+        "Net payment Rs -2.0 crore to the fixed-payer",
+        "Nil — notional swaps only",
+        "Rs 16.0 crore to fixed-payer (gross)"
+      ],
+      "a": 0,
+      "why": "A pays 14.00, receives 16.00 ⇒ nets receipt of Rs 2.0 crore; notional never exchanges.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — net-settlement arithmetic on the notional is the definitional swap test AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Interest rate swap",
+        "tip": "Fixed-payer pays fixed, receives floating: net = floating − fixed on notional.",
+        "link": "Chapter 12 — Interest Rate Risk Management"
+      }
+    },
+    {
+      "id": "p2q-1456ers",
+      "ch": 12,
+      "topic": "Interest rate swap",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Notional Rs 200 crore: A pays fixed 7%, receives MIBOR-like floating (6.5% this period). The period net cash flow for A:",
+      "o": [
+        "Net payment Rs 1.0 crore to the fixed-payer",
+        "Net receipt ≈ Rs -1.0 crore to the fixed-payer",
+        "Nil — notional swaps only",
+        "Rs 13.0 crore to fixed-payer (gross)"
+      ],
+      "a": 1,
+      "why": "A pays 14.00, receives 13.00 ⇒ nets payment of Rs 1.0 crore; notional never exchanges.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — net-settlement arithmetic on the notional is the definitional swap test AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Interest rate swap",
+        "tip": "Fixed-payer pays fixed, receives floating: net = floating − fixed on notional.",
+        "link": "Chapter 12 — Interest Rate Risk Management"
+      }
+    },
+    {
+      "id": "p2q-hy8gra",
+      "ch": 12,
+      "topic": "Interest rate swap",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Notional Rs 100 crore: A pays fixed 7%, receives MIBOR-like floating (7.5% this period). The period net cash flow for A:",
+      "o": [
+        "Net payment Rs -0.5 crore to the fixed-payer",
+        "Nil — notional swaps only",
+        "Rs 7.5 crore to fixed-payer (gross)",
+        "Net receipt ≈ Rs 0.5 crore to the fixed-payer"
+      ],
+      "a": 3,
+      "why": "A pays 7.00, receives 7.50 ⇒ nets receipt of Rs 0.5 crore; notional never exchanges.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — net-settlement arithmetic on the notional is the definitional swap test AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Interest rate swap",
+        "tip": "Fixed-payer pays fixed, receives floating: net = floating − fixed on notional.",
+        "link": "Chapter 12 — Interest Rate Risk Management"
+      }
+    },
+    {
+      "id": "p2q-phh4ed",
+      "ch": 12,
+      "topic": "Interest rate swap",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Notional Rs 200 crore: A pays fixed 6.5%, receives MIBOR-like floating (6% this period). The period net cash flow for A:",
+      "o": [
+        "Net payment Rs 1.0 crore to the fixed-payer",
+        "Nil — notional swaps only",
+        "Net receipt ≈ Rs -1.0 crore to the fixed-payer",
+        "Rs 12.0 crore to fixed-payer (gross)"
+      ],
+      "a": 2,
+      "why": "A pays 13.00, receives 12.00 ⇒ nets payment of Rs 1.0 crore; notional never exchanges.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — net-settlement arithmetic on the notional is the definitional swap test AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Interest rate swap",
+        "tip": "Fixed-payer pays fixed, receives floating: net = floating − fixed on notional.",
+        "link": "Chapter 12 — Interest Rate Risk Management"
+      }
+    },
+    {
+      "id": "p2q-1h0hze9",
+      "ch": 12,
+      "topic": "Interest rate swap",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Notional Rs 200 crore: A pays fixed 7%, receives MIBOR-like floating (7.5% this period). The period net cash flow for A:",
+      "o": [
+        "Net payment Rs -1.0 crore to the fixed-payer",
+        "Net receipt ≈ Rs 1.0 crore to the fixed-payer",
+        "Nil — notional swaps only",
+        "Rs 15.0 crore to fixed-payer (gross)"
+      ],
+      "a": 1,
+      "why": "A pays 14.00, receives 15.00 ⇒ nets receipt of Rs 1.0 crore; notional never exchanges.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — net-settlement arithmetic on the notional is the definitional swap test AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Interest rate swap",
+        "tip": "Fixed-payer pays fixed, receives floating: net = floating − fixed on notional.",
+        "link": "Chapter 12 — Interest Rate Risk Management"
+      }
+    },
+    {
+      "id": "p2q-bv3okf",
+      "ch": 12,
+      "topic": "Interest rate swap",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Notional Rs 100 crore: A pays fixed 6.5%, receives MIBOR-like floating (7% this period). The period net cash flow for A:",
+      "o": [
+        "Net payment Rs -0.5 crore to the fixed-payer",
+        "Nil — notional swaps only",
+        "Rs 7.0 crore to fixed-payer (gross)",
+        "Net receipt ≈ Rs 0.5 crore to the fixed-payer"
+      ],
+      "a": 3,
+      "why": "A pays 6.50, receives 7.00 ⇒ nets receipt of Rs 0.5 crore; notional never exchanges.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — net-settlement arithmetic on the notional is the definitional swap test AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Interest rate swap",
+        "tip": "Fixed-payer pays fixed, receives floating: net = floating − fixed on notional.",
+        "link": "Chapter 12 — Interest Rate Risk Management"
+      }
+    },
+    {
+      "id": "p2q-1pdob0g",
+      "ch": 12,
+      "topic": "FRA settlement",
+      "m": 2,
+      "d": "HARD",
+      "q": "Buyer of a 3×6 FRA (notional Rs 20 crore, contract rate 7%); reference fixes at 7.6%. Settlement at period start (90-day) ≈",
+      "o": [
+        "Rs 0.029 crore (discounted) to the buyer",
+        "Rs 0.030 crore (undiscounted)",
+        "Nil",
+        "Rs -0.029 crore (reversed)"
+      ],
+      "a": 0,
+      "why": "(ref−K)×N×90/360 = 0.030 crore, discounted by 1+ref×90/360 ⇒ Rs 0.029 crore paid at settlement — FRA settles EARLY (discounted), unlike ordinary loans.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the discount-at-inception nuance is the mark-splitter Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: FRA settlement",
+        "tip": "Payoff = N×(ref−K)×d/360 discounted for the period.",
+        "link": "Chapter 12 — Interest Rate Risk Management"
+      }
+    },
+    {
+      "id": "p2q-xecde8",
+      "ch": 12,
+      "topic": "FRA settlement",
+      "m": 2,
+      "d": "HARD",
+      "q": "Buyer of a 3×6 FRA (notional Rs 50 crore, contract rate 7%); reference fixes at 8.2%. Settlement at period start (90-day) ≈",
+      "o": [
+        "Rs 0.150 crore (undiscounted)",
+        "Nil",
+        "Rs -0.147 crore (reversed)",
+        "Rs 0.147 crore (discounted) to the buyer"
+      ],
+      "a": 3,
+      "why": "(ref−K)×N×90/360 = 0.150 crore, discounted by 1+ref×90/360 ⇒ Rs 0.147 crore paid at settlement — FRA settles EARLY (discounted), unlike ordinary loans.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the discount-at-inception nuance is the mark-splitter Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: FRA settlement",
+        "tip": "Payoff = N×(ref−K)×d/360 discounted for the period.",
+        "link": "Chapter 12 — Interest Rate Risk Management"
+      }
+    },
+    {
+      "id": "p2q-1l8ly7n",
+      "ch": 12,
+      "topic": "FRA settlement",
+      "m": 2,
+      "d": "HARD",
+      "q": "Buyer of a 3×6 FRA (notional Rs 20 crore, contract rate 8%); reference fixes at 9.2%. Settlement at period start (90-day) ≈",
+      "o": [
+        "Rs 0.060 crore (undiscounted)",
+        "Rs 0.059 crore (discounted) to the buyer",
+        "Nil",
+        "Rs -0.059 crore (reversed)"
+      ],
+      "a": 1,
+      "why": "(ref−K)×N×90/360 = 0.060 crore, discounted by 1+ref×90/360 ⇒ Rs 0.059 crore paid at settlement — FRA settles EARLY (discounted), unlike ordinary loans.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the discount-at-inception nuance is the mark-splitter Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: FRA settlement",
+        "tip": "Payoff = N×(ref−K)×d/360 discounted for the period.",
+        "link": "Chapter 12 — Interest Rate Risk Management"
+      }
+    },
+    {
+      "id": "p2q-7ppk0b",
+      "ch": 12,
+      "topic": "FRA settlement",
+      "m": 2,
+      "d": "HARD",
+      "q": "Buyer of a 3×6 FRA (notional Rs 20 crore, contract rate 7%); reference fixes at 6.6%. Settlement at period start (90-day) ≈",
+      "o": [
+        "Rs -0.020 crore (undiscounted)",
+        "Rs -0.020 crore (discounted) to the buyer",
+        "Nil",
+        "Rs 0.020 crore (reversed)"
+      ],
+      "a": 1,
+      "why": "(ref−K)×N×90/360 = -0.020 crore, discounted by 1+ref×90/360 ⇒ Rs -0.020 crore paid at settlement — FRA settles EARLY (discounted), unlike ordinary loans.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the discount-at-inception nuance is the mark-splitter Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: FRA settlement",
+        "tip": "Payoff = N×(ref−K)×d/360 discounted for the period.",
+        "link": "Chapter 12 — Interest Rate Risk Management"
+      }
+    },
+    {
+      "id": "p2q-1n5uk6x",
+      "ch": 12,
+      "topic": "FRA settlement",
+      "m": 2,
+      "d": "HARD",
+      "q": "Buyer of a 3×6 FRA (notional Rs 20 crore, contract rate 7%); reference fixes at 8.2%. Settlement at period start (90-day) ≈",
+      "o": [
+        "Rs 0.059 crore (discounted) to the buyer",
+        "Rs 0.060 crore (undiscounted)",
+        "Nil",
+        "Rs -0.059 crore (reversed)"
+      ],
+      "a": 0,
+      "why": "(ref−K)×N×90/360 = 0.060 crore, discounted by 1+ref×90/360 ⇒ Rs 0.059 crore paid at settlement — FRA settles EARLY (discounted), unlike ordinary loans.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the discount-at-inception nuance is the mark-splitter Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: FRA settlement",
+        "tip": "Payoff = N×(ref−K)×d/360 discounted for the period.",
+        "link": "Chapter 12 — Interest Rate Risk Management"
+      }
+    },
+    {
+      "id": "p2q-oc8hld",
+      "ch": 12,
+      "topic": "FRA settlement",
+      "m": 2,
+      "d": "HARD",
+      "q": "Buyer of a 3×6 FRA (notional Rs 20 crore, contract rate 8%); reference fixes at 7.6%. Settlement at period start (90-day) ≈",
+      "o": [
+        "Rs -0.020 crore (undiscounted)",
+        "Nil",
+        "Rs 0.020 crore (reversed)",
+        "Rs -0.020 crore (discounted) to the buyer"
+      ],
+      "a": 3,
+      "why": "(ref−K)×N×90/360 = -0.020 crore, discounted by 1+ref×90/360 ⇒ Rs -0.020 crore paid at settlement — FRA settles EARLY (discounted), unlike ordinary loans.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the discount-at-inception nuance is the mark-splitter Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: FRA settlement",
+        "tip": "Payoff = N×(ref−K)×d/360 discounted for the period.",
+        "link": "Chapter 12 — Interest Rate Risk Management"
+      }
+    },
+    {
+      "id": "p2q-1t7265s",
+      "ch": 12,
+      "topic": "FRA settlement",
+      "m": 2,
+      "d": "HARD",
+      "q": "Buyer of a 3×6 FRA (notional Rs 50 crore, contract rate 8%); reference fixes at 7.6%. Settlement at period start (90-day) ≈",
+      "o": [
+        "Rs -0.050 crore (undiscounted)",
+        "Nil",
+        "Rs -0.049 crore (discounted) to the buyer",
+        "Rs 0.049 crore (reversed)"
+      ],
+      "a": 2,
+      "why": "(ref−K)×N×90/360 = -0.050 crore, discounted by 1+ref×90/360 ⇒ Rs -0.049 crore paid at settlement — FRA settles EARLY (discounted), unlike ordinary loans.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the discount-at-inception nuance is the mark-splitter Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: FRA settlement",
+        "tip": "Payoff = N×(ref−K)×d/360 discounted for the period.",
+        "link": "Chapter 12 — Interest Rate Risk Management"
+      }
+    },
+    {
+      "id": "p2q-3ooiry",
+      "ch": 12,
+      "topic": "FRA settlement",
+      "m": 2,
+      "d": "HARD",
+      "q": "Buyer of a 3×6 FRA (notional Rs 50 crore, contract rate 7%); reference fixes at 6.6%. Settlement at period start (90-day) ≈",
+      "o": [
+        "Rs -0.050 crore (undiscounted)",
+        "Nil",
+        "Rs 0.049 crore (reversed)",
+        "Rs -0.049 crore (discounted) to the buyer"
+      ],
+      "a": 3,
+      "why": "(ref−K)×N×90/360 = -0.050 crore, discounted by 1+ref×90/360 ⇒ Rs -0.049 crore paid at settlement — FRA settles EARLY (discounted), unlike ordinary loans.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the discount-at-inception nuance is the mark-splitter Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: FRA settlement",
+        "tip": "Payoff = N×(ref−K)×d/360 discounted for the period.",
+        "link": "Chapter 12 — Interest Rate Risk Management"
+      }
+    },
+    {
+      "id": "p2q-mqmg8r",
+      "ch": 12,
+      "topic": "Duration gap",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "An institution's assets have duration 5.5 and liabilities 2.0, funded by them. Rates rise 100 bps; equity value roughly:",
+      "o": [
+        "Rises ~3.5% of assets",
+        "Falls ~3.5% of assets (duration gap × Δy × assets)",
+        "Unchanged",
+        "Rises 5.5%"
+      ],
+      "a": "1",
+      "why": "ΔEquity ≈ −(D_A − D_L×L/A)×Δy×A; with 1:1 funding the gap 3.5 × 1% of the asset base is destroyed — that is the savings-and-thrift story in one formula.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — equity = the lever of the duration mismatch AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Duration gap",
+        "tip": "Same boat, unequal clocks: the long side sinks deeper.",
+        "link": "Chapter 12 — Interest Rate Risk Management"
+      }
+    },
+    {
+      "id": "p2q-1l21n1o",
+      "ch": 12,
+      "topic": "Convexity",
+      "m": 1,
+      "d": "HARD",
+      "q": "For the same duration and rate move, a bond with greater convexity:",
+      "o": [
+        "Loses more on yield rises and gains less on falls",
+        "Gains MORE on yield falls than it loses on equal yield rises",
+        "Is riskier in both directions identically",
+        "Has no price curvature"
+      ],
+      "a": "1",
+      "why": "Convexity is the second-order bonus: price-yield curves bow toward the holder — bigger gains on rallies, smaller losses on sells; portfolios long optionality (callable short ≠) own this; deep discount/MBS cases shift the sign — quote the sign of convexity, never 'curvature' blindly.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — positive convexity is the market paying you for patience Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Convexity",
+        "tip": "A curved ladder is kinder climbing than falling.",
+        "link": "Chapter 12 — Interest Rate Risk Management"
+      }
+    }
+  ]
+}

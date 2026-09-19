@@ -1,0 +1,443 @@
+{
+  "meta": {
+    "id": "p2-nov26-ch10-mcq",
+    "paper": "P2",
+    "attempt": "NOV-2026",
+    "kind": "chapter",
+    "category": "CHAPTER-WISE MCQs",
+    "title": "Ch 10: Foreign Exchange Exposure and Risk Management — MCQ Bank",
+    "description": "Chapter-wise practice MCQs for Chapter 10 (Foreign Exchange Exposure and Risk Management).",
+    "count": 17,
+    "mcqCount": 17,
+    "descriptiveCount": 0,
+    "coverage": "Chapter 10 · 17 MCQs",
+    "chapters": [
+      10
+    ],
+    "durationMinutes": 26,
+    "difficulty": "Exam standard",
+    "high": 9,
+    "medium": 6,
+    "low": 2
+  },
+  "questions": [
+    {
+      "id": "p2q-50z44r",
+      "ch": 10,
+      "topic": "Forex exposure programme",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "The gross exposure needing coverage (after netting) is:",
+      "o": [
+        "USD equal to Rs 600 crore",
+        "USD net Rs 200 crore (600−400)",
+        "Rs 1,000 crore combined",
+        "Zero"
+      ],
+      "a": 1,
+      "why": "Natural hedge first: receivable−payable net = Rs 200 crore equivalent of USD exposure; cover the net (or gross with separate accounting if policy mandates, but economics say net).",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — this topic stays active in ICAI question-setting Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Forex exposure programme",
+        "tip": "Netting before buying forwards saves the premium Offset the two rivers; only the spill needs an umbrella.",
+        "link": "Chapter 10 — Foreign Exchange Exposure and Risk Management"
+      },
+      "stem": "Arjan Steel exports Rs 600 crore of goods billed in USD (receivable in 90 days) and imports Rs 400 crore (payable in 90 days); a subsidiary's net assets (USD) translate on consolidation; the CFO must choose the hedging architecture.",
+      "caseRef": "p2-case-2"
+    },
+    {
+      "id": "p2q-16d2xsv",
+      "ch": 10,
+      "topic": "Forex exposure programme",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "The rupee depreciates to 86 from 83 at the horizon; unhedged on the net 200 Cr position, the P&L gain approx:",
+      "o": [
+        "Rs 200×(86−83)/83 ≈ 7.23 crore",
+        "Rs 3 crore",
+        "Rs 72 crore",
+        "No gain — both sides move"
+      ],
+      "a": 0,
+      "why": "Net INR gain = 200×(86/83 −1) ≈ Rs 7.23 crore — the residual exposure is what the hedge or its absence creates.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — this topic stays active in ICAI question-setting Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Forex exposure programme",
+        "tip": "Exposure math on the NET residual Net position × rate change: the only FX math that survives policy.",
+        "link": "Chapter 10 — Foreign Exchange Exposure and Risk Management"
+      },
+      "stem": "Arjan Steel exports Rs 600 crore of goods billed in USD (receivable in 90 days) and imports Rs 400 crore (payable in 90 days); a subsidiary's net assets (USD) translate on consolidation; the CFO must choose the hedging architecture.",
+      "caseRef": "p2-case-2"
+    },
+    {
+      "id": "p2q-bstzb3",
+      "ch": 10,
+      "topic": "Forex exposure programme",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Forward cover locks rate 84.20 for the net; the hedge's opportunity cost if spot reaches 86 is:",
+      "o": [
+        "Rs 200×(86−84.2)/84.2 ≈ 4.28 crore",
+        "Zero",
+        "Rs 3.6 crore premium",
+        "Unquantifiable"
+      ],
+      "a": 0,
+      "why": "Hedged realises 84.2 vs open 86: forgone Rs 4.28 crore — the price of certainty, not a 'loss' ex-ante.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — this topic stays active in ICAI question-setting AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Forex exposure programme",
+        "tip": "Hedging regrets are ex-post, never ex-ante Judge a hedge at signing, never at maturity.",
+        "link": "Chapter 10 — Foreign Exchange Exposure and Risk Management"
+      },
+      "stem": "Arjan Steel exports Rs 600 crore of goods billed in USD (receivable in 90 days) and imports Rs 400 crore (payable in 90 days); a subsidiary's net assets (USD) translate on consolidation; the CFO must choose the hedging architecture.",
+      "caseRef": "p2-case-2"
+    },
+    {
+      "id": "p2q-197tler",
+      "ch": 10,
+      "topic": "Forex exposure programme",
+      "m": 2,
+      "d": "HARD",
+      "q": "Translation exposure on the sub's USD net assets:",
+      "o": [
+        "Hedge with cash forwards",
+        "Reduce by funding-in-currency (USD debt) or treat as accounting-only volatility; hedge of OCI is not cost-effective for long-term",
+        "Do nothing and never disclose",
+        "Hedge via options fully"
+      ],
+      "a": 1,
+      "why": "Long-term translation exposure is best managed structurally (borrow in the sub's currency to match); derivative-hedging an OCI number can create cash-flow risk (Ind AS 109 permits a net-investment hedge in principle, but covering a pencil number with cash is rarely the standard answer).",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — this topic stays active in ICAI question-setting Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Forex exposure programme",
+        "tip": "Translation: fix the structure, not the rate Don't pay cash to hedge a pencil number — move the pencil.",
+        "link": "Chapter 10 — Foreign Exchange Exposure and Risk Management"
+      },
+      "stem": "Arjan Steel exports Rs 600 crore of goods billed in USD (receivable in 90 days) and imports Rs 400 crore (payable in 90 days); a subsidiary's net assets (USD) translate on consolidation; the CFO must choose the hedging architecture.",
+      "caseRef": "p2-case-2"
+    },
+    {
+      "id": "p2q-1msidbc",
+      "ch": 10,
+      "topic": "Forex exposure programme",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "For receivables awaiting tender awards (not yet firm contracts), the right instrument is:",
+      "o": [
+        "Forward obligation",
+        "FX put options (buy the right when the order wins)",
+        "Futures margin",
+        "No cover possible"
+      ],
+      "a": 1,
+      "why": "Contingent exposures ⇒ options: no obligation if the tender is lost; forwards would leave an uncovered short USD — speculation by backfire.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — this topic stays active in ICAI question-setting Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Forex exposure programme",
+        "tip": "Optionality fits uncertainty; obligations don't When the deal itself may die, buy insurance, don't sign a wedding.",
+        "link": "Chapter 10 — Foreign Exchange Exposure and Risk Management"
+      },
+      "stem": "Arjan Steel exports Rs 600 crore of goods billed in USD (receivable in 90 days) and imports Rs 400 crore (payable in 90 days); a subsidiary's net assets (USD) translate on consolidation; the CFO must choose the hedging architecture.",
+      "caseRef": "p2-case-2"
+    },
+    {
+      "id": "p2q-1pvocx0",
+      "ch": 10,
+      "topic": "Transaction exposure",
+      "m": 1,
+      "d": "HARD",
+      "q": "A receivable in USD due 90 days, with a 90-day forward quote available; hedging via forward converts:",
+      "o": [
+        "Translation risk to economic",
+        "The uncertain future spot into a certain rupee amount (transaction exposure)",
+        "Only tax risk",
+        "None"
+      ],
+      "a": 1,
+      "why": "Forward cover removes the variability of the future conversion rate — the classic transaction exposure hedge; translation risk remains on foreign operations.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — exposure-taxonomy with instruments matching is the forex chapter's core Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Transaction exposure",
+        "tip": "A forward locks the rate; the only remaining fear is that the deal itself dies.",
+        "link": "Chapter 10 — Foreign Exchange Exposure and Risk Management"
+      }
+    },
+    {
+      "id": "p2q-kfcit",
+      "ch": 10,
+      "topic": "Leads & lags",
+      "m": 1,
+      "d": "HARD",
+      "q": "An exporter expecting USD in 90 days, with expected INR appreciation, should consider:",
+      "o": [
+        "Lead receipts and lag payments",
+        "Lag receipts and lead payments",
+        "Convert at maturity only — no timing shift",
+        "Buy USD forwards to lengthen exposure"
+      ],
+      "a": 0,
+      "why": "INR expected to APPRECIATE means USD expected to weaken: collect the USD receivable EARLY (lead) and defer foreign-currency payments (lag) — take the weakening currency sooner and hand it over later.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the leads/lags direction question with expectation overhangs AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Leads & lags",
+        "tip": "Ride the expected drop: grab the weaker money sooner, hand over the stronger later.",
+        "link": "Chapter 10 — Foreign Exchange Exposure and Risk Management"
+      }
+    },
+    {
+      "id": "p2q-if9csi",
+      "ch": 10,
+      "topic": "Translation exposure",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Which exposure is affected by restating foreign subsidiary accounts into reporting currency?",
+      "o": [
+        "Transaction",
+        "Translation",
+        "Economic (competitive)",
+        "Contingent"
+      ],
+      "a": 1,
+      "why": "Translation exposure = accounting effect of re-measurement (current rate/temporal methods) on consolidated equity — no cash flow impact per se; economic exposure = long-run cash flow shift.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the taxonomy triad with instrument pairing AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Translation exposure",
+        "tip": "Translation moves the pencil in equity; transaction moves the cash; economic moves the business.",
+        "link": "Chapter 10 — Foreign Exchange Exposure and Risk Management"
+      }
+    },
+    {
+      "id": "p2q-vk5rnp",
+      "ch": 10,
+      "topic": "Money multiplier vs swap?",
+      "m": 1,
+      "d": "HARD",
+      "q": "Which instrument swaps fixed interest obligations between counterparties?",
+      "o": [
+        "Cross-currency basis",
+        "Interest rate swap (plain vanilla)",
+        "Forward rate agreement",
+        "Cap"
+      ],
+      "a": 1,
+      "why": "Plain vanilla IRS: one party pays fixed, one pays floating on a notional; FRA is 1-period rate lock; basis swaps floating-vs-floating different index.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — instrument-ID at speed Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Money multiplier vs swap?",
+        "tip": "The swap trades the shape of payments, never the principal.",
+        "link": "Chapter 10 — Foreign Exchange Exposure and Risk Management"
+      }
+    },
+    {
+      "id": "p2q-ga5adb",
+      "ch": 10,
+      "topic": "Currency option vs forward",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Buying a currency call instead of a forward is justified when:",
+      "o": [
+        "Cash flows are certain",
+        "The entity wants protection but also the benefit of favourable movements (option value premium)",
+        "Rates fixed",
+        "No premium budget"
+      ],
+      "a": 1,
+      "why": "Option = insurance with premium; forward = lock that forfeits the favourable tail; expected-value trade-off and premium affordability decide.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — insurance-vs-lock reasoning AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Currency option vs forward",
+        "tip": "A forward deletes the surprise; an option keeps the good one and charges for it.",
+        "link": "Chapter 10 — Foreign Exchange Exposure and Risk Management"
+      }
+    },
+    {
+      "id": "p2q-1nmzq1z",
+      "ch": 10,
+      "topic": "Netting",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Bilateral netting of FX payables/receivables among group entities reduces exposure by:",
+      "o": [
+        "100% of gross",
+        "Offsetting only the matched currencies/tenors; residual net flows hedged — cuts transaction costs and exposure on offset amounts",
+        "None",
+        "Tax"
+      ],
+      "a": 1,
+      "why": "Netting settles differences — saves gross flows but residual mismatch (currency/tenor) still needs cover; multi-currency netting via clearing centre for group structures.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — netting-benefit-and-limits phrasing AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Netting",
+        "tip": "Cancel what offsets; hedge what remains.",
+        "link": "Chapter 10 — Foreign Exchange Exposure and Risk Management"
+      }
+    },
+    {
+      "id": "p2q-i5iz39",
+      "ch": 10,
+      "topic": "Forward hedge vs remain open",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Exporter (USD 200 lakh) can forward-cover at 84.20 or stay open; year-end spot may be 85.50 or 82.00. The correct EXPOSURE trade-off statement is:",
+      "o": [
+        "Never hedge receivables",
+        "Hedging gains vs spot-82 scenario by Rs 4.40 lakh, costs that much if spot ends at 85.5 (certainty traded for upside)",
+        "Always hedge",
+        "Hedge loses in both scenarios"
+      ],
+      "a": 1,
+      "why": "Forward locks 168.4 lakh; open: 171.0 (better by 2.6 lakh) or 164.0 (worse by 4.4 lakh). Hedging removes BOTH outcomes — that is the trade, not a bet on direction.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — hedge-as-insurance framing with numbers is the forex chapter's classic Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Forward hedge vs remain open",
+        "tip": "Compare: certain rupee amount at forward vs two spot scenarios − hedge P&L.",
+        "link": "Chapter 10 — Foreign Exchange Exposure and Risk Management"
+      }
+    },
+    {
+      "id": "p2q-18rc9fn",
+      "ch": 10,
+      "topic": "Forward hedge vs remain open",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Exporter (USD 400 lakh) can forward-cover at 84.20 or stay open; year-end spot may be 85.50 or 82.00. The correct EXPOSURE trade-off statement is:",
+      "o": [
+        "Never hedge receivables",
+        "Always hedge",
+        "Hedge loses in both scenarios",
+        "Hedging gains vs spot-82 scenario by Rs 8.80 lakh, costs that much if spot ends at 85.5 (certainty traded for upside)"
+      ],
+      "a": 3,
+      "why": "Forward locks 336.8 lakh; open: 342.0 (better by 5.2 lakh) or 328.0 (worse by 8.8 lakh). Hedging removes BOTH outcomes — that is the trade, not a bet on direction.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — hedge-as-insurance framing with numbers is the forex chapter's classic Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Forward hedge vs remain open",
+        "tip": "Compare: certain rupee amount at forward vs two spot scenarios − hedge P&L.",
+        "link": "Chapter 10 — Foreign Exchange Exposure and Risk Management"
+      }
+    },
+    {
+      "id": "p2q-80osg9",
+      "ch": 10,
+      "topic": "Forward hedge vs remain open",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Exporter (USD 600 lakh) can forward-cover at 84.20 or stay open; year-end spot may be 85.50 or 82.00. The correct EXPOSURE trade-off statement is:",
+      "o": [
+        "Hedging gains vs spot-82 scenario by Rs 13.20 lakh, costs that much if spot ends at 85.5 (certainty traded for upside)",
+        "Never hedge receivables",
+        "Always hedge",
+        "Hedge loses in both scenarios"
+      ],
+      "a": 0,
+      "why": "Forward locks 505.2 lakh; open: 513.0 (better by 7.8 lakh) or 492.0 (worse by 13.2 lakh). Hedging removes BOTH outcomes — that is the trade, not a bet on direction.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — hedge-as-insurance framing with numbers is the forex chapter's classic Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Forward hedge vs remain open",
+        "tip": "Compare: certain rupee amount at forward vs two spot scenarios − hedge P&L.",
+        "link": "Chapter 10 — Foreign Exchange Exposure and Risk Management"
+      }
+    },
+    {
+      "id": "p2q-169yx8c",
+      "ch": 10,
+      "topic": "Forward hedge vs remain open",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Exporter (USD 300 lakh) can forward-cover at 84.20 or stay open; year-end spot may be 85.50 or 82.00. The correct EXPOSURE trade-off statement is:",
+      "o": [
+        "Never hedge receivables",
+        "Hedging gains vs spot-82 scenario by Rs 6.60 lakh, costs that much if spot ends at 85.5 (certainty traded for upside)",
+        "Always hedge",
+        "Hedge loses in both scenarios"
+      ],
+      "a": 1,
+      "why": "Forward locks 252.6 lakh; open: 256.5 (better by 3.9 lakh) or 246.0 (worse by 6.6 lakh). Hedging removes BOTH outcomes — that is the trade, not a bet on direction.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — hedge-as-insurance framing with numbers is the forex chapter's classic Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Forward hedge vs remain open",
+        "tip": "Compare: certain rupee amount at forward vs two spot scenarios − hedge P&L.",
+        "link": "Chapter 10 — Foreign Exchange Exposure and Risk Management"
+      }
+    },
+    {
+      "id": "p2q-1faemhu",
+      "ch": 10,
+      "topic": "Forward hedge vs remain open",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "Exporter (USD 500 lakh) can forward-cover at 84.20 or stay open; year-end spot may be 85.50 or 82.00. The correct EXPOSURE trade-off statement is:",
+      "o": [
+        "Never hedge receivables",
+        "Hedging gains vs spot-82 scenario by Rs 11.00 lakh, costs that much if spot ends at 85.5 (certainty traded for upside)",
+        "Always hedge",
+        "Hedge loses in both scenarios"
+      ],
+      "a": 1,
+      "why": "Forward locks 421.0 lakh; open: 427.5 (better by 6.5 lakh) or 410.0 (worse by 11.0 lakh). Hedging removes BOTH outcomes — that is the trade, not a bet on direction.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — hedge-as-insurance framing with numbers is the forex chapter's classic Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Forward hedge vs remain open",
+        "tip": "Compare: certain rupee amount at forward vs two spot scenarios − hedge P&L.",
+        "link": "Chapter 10 — Foreign Exchange Exposure and Risk Management"
+      }
+    },
+    {
+      "id": "p2q-fy36ci",
+      "ch": 10,
+      "topic": "Translation method",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "A US subsidiary of an Indian parent operates independently in USD (functional currency). On consolidation the translation differences on its net assets go:",
+      "o": [
+        "Always temporal",
+        "Never translate",
+        "To retained only",
+        "Self-sustaining foreign sub: current rate method — translation gain/loss to OCI until disposal"
+      ],
+      "a": 3,
+      "why": "Ind AS 21: functional = foreign currency ⇒ current-rate method: all items closing rate, income avg; exchange differences to OCI (CTDR) and recycled on disposal. If integral to parent (temporal): monetary closing, non-monetary historical, differences to P&L.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — functional-currency test driving the method and the destination is the translation exam AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Translation method",
+        "tip": "Current rate for self-sufficient sub: equity/retained differences to OCI; temporal for integral: to P&L.",
+        "link": "Chapter 10 — Foreign Exchange Exposure and Risk Management"
+      }
+    }
+  ]
+}

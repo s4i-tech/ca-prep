@@ -1,0 +1,409 @@
+{
+  "meta": {
+    "id": "p1-nov26-ch8-mcq",
+    "paper": "P1",
+    "attempt": "NOV-2026",
+    "kind": "chapter",
+    "category": "CHAPTER-WISE MCQs",
+    "title": "Ch 8: Other Indian Accounting Standards — MCQ Bank",
+    "description": "Chapter-wise practice MCQs for Chapter 8 (Other Indian Accounting Standards).",
+    "count": 16,
+    "mcqCount": 16,
+    "descriptiveCount": 0,
+    "coverage": "Chapter 8 · 16 MCQs",
+    "chapters": [
+      8
+    ],
+    "durationMinutes": 24,
+    "difficulty": "Exam standard",
+    "high": 1,
+    "medium": 8,
+    "low": 7
+  },
+  "questions": [
+    {
+      "id": "p1q-w5xh4m",
+      "ch": 8,
+      "topic": "Ind AS 20 — government grants",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A government grants a tax incentive that reduces the entity's current tax bill permanently for ten years on new units. Under Ind AS 20, this is:",
+      "o": [
+        "A government grant recognised as deferred income",
+        "Not within the scope of Ind AS 20 as a grant — such tax benefits are addressed through Ind AS 12",
+        "A loan at a below-market rate",
+        "An exemption recorded in OCI"
+      ],
+      "a": 1,
+      "why": "Ind AS 20 explicitly excludes forms of government support that cannot be usefully separated from the entity's ordinary activities, e.g., tax incentives — benefits arising from tax exemptions/reliefs are dealt with under Ind AS 12 (deferral) rather than as 'grants'.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — scope exclusions are the standard ICAI 'which is NOT a grant' question AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 20 — government grants",
+        "tip": "Grants = transfers of ASSETS (cash, land). Tax breaks are not transfers — route them to Ind AS 12.",
+        "link": "Ch 8"
+      }
+    },
+    {
+      "id": "p1q-xx4zow",
+      "ch": 8,
+      "topic": "Ind AS 41 — biological assets",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A dairy's milch animals are reared by the entity for milk production. Under Ind AS 41/16, the animals themselves are:",
+      "o": [
+        "Biological assets at fair value less costs to sell",
+        "Property, plant and equipment under the cost model",
+        "Current inventory while growing",
+        "Intangible assets of the milk brand"
+      ],
+      "a": 0,
+      "why": "Bearer plants and bearer animals used in agriculture produce (milk-producing animals in ICAI's position: bearer animals follow PPE/Ind AS 16 treatment for the animals producing agri-produce over periods; the PRODUCE (milk) at the point of separation is Ind AS 41 at FVLCS). Note ICAI aligns bearer biological assets to Ind AS 16 while immature/produce remain Ind AS 41.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — bearer-vs-produce boundary is exactly the new-syllabus flavour AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 41 — biological assets",
+        "tip": "Bearer = factory (PPE/16); produce = output (41 fair value). Once milk leaves the udder, 41 owns it.",
+        "link": "Ch 8"
+      }
+    },
+    {
+      "id": "p1q-1cbp44h",
+      "ch": 8,
+      "topic": "Ind AS 102 vs grants",
+      "m": 1,
+      "d": "HARD",
+      "q": "A government conveys land at a nominal price to a manufacturer as an incentive. Ind AS 20 allows measuring the grant at:",
+      "o": [
+        "Zero only",
+        "Fair value of the land, or the nominal amount with appropriate disclosure",
+        "Market rent",
+        "Capital contribution in all cases"
+      ],
+      "a": 1,
+      "why": "Ind AS 20: where free/nominal-consideration assets are received, measure at fair value (grant income over expected useful life) or, when fair value cannot be measured reliably, at the nominal amount.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — either-or measurement is the phrasing ICAI uses Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Ind AS 102 vs grants",
+        "tip": "Free land, real numbers: fair value if it can be had; a symbolic 1-rupee entry with disclosure if not.",
+        "link": "Ch 8"
+      }
+    },
+    {
+      "id": "p1q-o4bjow",
+      "ch": 8,
+      "topic": "Ind AS 33/20 boundary",
+      "m": 1,
+      "d": "HARD",
+      "q": "Tax exemptions received as part of the government's general fiscal policy available to all qualifying taxpayers are:",
+      "o": [
+        "Grants recognised under Ind AS 20",
+        "Not grants — outside Ind AS 20 scope as they are not transfers of resources from government",
+        "Deferred tax assets",
+        "Government capital"
+      ],
+      "a": 1,
+      "why": "Forms of government assistance benefiting via tax determination (exemptions/rebates) cannot be differentiated from ordinary trading activity for Ind AS 20 — generally outside 'grant' treatment; recognised under Ind AS 12 mechanics where relevant.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the scope-boundary is asked via 'which is a grant' format Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Ind AS 33/20 boundary",
+        "tip": "Grants = transfers TO you outside the tax calculation; tax breaks = the tax calculation itself.",
+        "link": "Ch 8"
+      }
+    },
+    {
+      "id": "p1q-5urn5m",
+      "ch": 8,
+      "topic": "Ind AS 41 — produce measurement",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Biological produce attached to a bearer biological asset at the point of harvest is measured:",
+      "o": [
+        "At cost",
+        "Fair value less costs to sell",
+        "Value in use",
+        "Net realisable cost"
+      ],
+      "a": 1,
+      "why": "Harvested produce = Ind AS 41 at FVLCS; bearer assets follow Ind AS 16 once mature. Gains/losses on FVLCS change go to P&L.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the bearer/produce split is Ind AS 41's hot zone AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 41 — produce measurement",
+        "tip": "Trees are PPE after maturity; fruit is fair-value produce from the branch onward.",
+        "link": "Chapter 8 — Other Indian Accounting Standards"
+      }
+    },
+    {
+      "id": "p1q-1yzp0t0",
+      "ch": 8,
+      "topic": "Government equity participation",
+      "m": 1,
+      "d": "HARD",
+      "q": "A government subscribing to equity shares on the same terms as other investors is:",
+      "o": [
+        "A government grant",
+        "Equity transaction — not a grant",
+        "Deferred income",
+        "A loan"
+      ],
+      "a": 1,
+      "why": "Government participating as an owner on equal terms = equity, not Ind AS 20 grant; concessions in price vs market may create grant-like elements.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the equal-terms exclusion Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Government equity participation",
+        "tip": "Same terms as shareholders? It's ownership, not subsidy.",
+        "link": "Chapter 8 — Other Indian Accounting Standards"
+      }
+    },
+    {
+      "id": "p1q-1bv08a0",
+      "ch": 8,
+      "topic": "Ind AS 102 — scope of employee definition",
+      "m": 1,
+      "d": "HARD",
+      "q": "Ind AS 102 applies to SBP with non-employees when:",
+      "o": [
+        "Never",
+        "The goods/services received relate to consumption for the entity in an employee-like arrangement/fair value not reliably measurable",
+        "Fees only",
+        "Board consent"
+      ],
+      "a": 1,
+      "why": "For non-employee SBP, the presumption of reliability of the goods/services FV can be rebutted in exceptional cases — measurement date then becomes when goods/services received.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the exceptional-measurement-date twist Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Ind AS 102 — scope of employee definition",
+        "tip": "With outsiders, value the work; if that's unmeasurable, the options themselves at receipt day.",
+        "link": "Chapter 8 — Other Indian Accounting Standards"
+      }
+    },
+    {
+      "id": "p1q-1xjbckz",
+      "ch": 8,
+      "topic": "Ind AS 20 — non-monetary",
+      "m": 1,
+      "d": "HARD",
+      "q": "A non-monetary government grant is measured at:",
+      "o": [
+        "Nominal amount only",
+        "Fair value of the asset received",
+        "Book value of the giver",
+        "Market rent"
+      ],
+      "a": 1,
+      "why": "Ind AS 20: non-monetary grants recorded at FV of the asset (or nominal amount where FV cannot be measured).",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — measurement-basis recall Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Ind AS 20 — non-monetary",
+        "tip": "Value what you were gifted like a purchase; if impossible, the one-rupee note with disclosure.",
+        "link": "Chapter 8 — Other Indian Accounting Standards"
+      }
+    },
+    {
+      "id": "p1q-brbr0l",
+      "ch": 8,
+      "topic": "Inventories — cost formulas",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A jewellery retailer's identical-looking high-value stones are best costed by:",
+      "o": [
+        "Specific identification",
+        "FIFO, always",
+        "Weighted average",
+        "Net realisable value"
+      ],
+      "a": "0",
+      "why": "Ind AS 2: items that are not ordinarily interchangeable and goods produced for specific projects are accounted for by SPECIFIC identification — generic pooling would misstate each stone's margin.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — formula follows the item's interchangeability, not convenience AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Inventories — cost formulas",
+        "tip": "Distinct gems, distinct price tags.",
+        "link": "Chapter 8 — Other Indian Accounting Standards"
+      }
+    },
+    {
+      "id": "p1q-x5cudt",
+      "ch": 8,
+      "topic": "Borrowing costs — general funds",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A qualifying asset funded partly from general borrowings capitalises interest using:",
+      "o": [
+        "The general borrowing capitalisation rate applied to expenditure exceeding specific borrowings",
+        "Actual rate on the whole borrowing",
+        "Zero — only specific loans capitalise",
+        "The bank prime rate"
+      ],
+      "a": "0",
+      "why": "For general borrowings: capitalise at the weighted average rate applicable to borrowings outstanding during the period, applied to the asset expenditure EXCEEDING specific borrowings.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — specific loans use their own rate; general pools use the blend AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Borrowing costs — general funds",
+        "tip": "Pool money borrows a pooled cost.",
+        "link": "Chapter 8 — Other Indian Accounting Standards"
+      }
+    },
+    {
+      "id": "p1q-fsarcd",
+      "ch": 8,
+      "topic": "Borrowing costs — suspension",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Capitalisation of borrowing costs PAUSES when:",
+      "o": [
+        "Interest rates rise",
+        "Active development of the asset is interrupted for a substantial period",
+        "The asset is partially complete",
+        "Any interruption occurs"
+      ],
+      "a": "1",
+      "why": "Capitalisation suspends while active development stops (substantial interruptions); routine temporary delays do not pause it; it ceases when the asset is ready for its intended use or sale.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the pause button is the worksite, not the lender AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Borrowing costs — suspension",
+        "tip": "Work stop, cost stop — capitalisation follows the crane, not the clock.",
+        "link": "Chapter 8 — Other Indian Accounting Standards"
+      }
+    },
+    {
+      "id": "p1q-ju3vm2",
+      "ch": 8,
+      "topic": "Government grants",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A grant for setting up a plant in a notified region may be presented as:",
+      "o": [
+        "Only income in P&L",
+        "Either deferred income or by deducting the grant from the asset's carrying amount",
+        "Only a capital reserve",
+        "Not recognised if repayable later"
+      ],
+      "a": "1",
+      "why": "Ind AS 20 permits both presentations (deferred income released over the useful life, or netted against the asset reducing depreciation) — consistency of policy and liability treatment when repayment becomes probable are the tested nuances.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — two presentations, one chosen policy AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Government grants",
+        "tip": "The gift can sit beside the asset or inside it — never in both at once.",
+        "link": "Chapter 8 — Other Indian Accounting Standards"
+      }
+    },
+    {
+      "id": "p1q-1k4df9t",
+      "ch": 8,
+      "topic": "Biological assets — bearer plants",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Bearer plants (e.g., a rubber tree) are accounted for as:",
+      "o": [
+        "Biological assets at fair value less costs to sell",
+        "Property, plant and equipment under Ind AS 16, while the produce on them is at fair value less costs to sell",
+        "Investment property",
+        "Inventories at cost"
+      ],
+      "a": "1",
+      "why": "The PRODUCING plant is PP&E (depreciated once at maturity); only the PRODUCE (latex, fruit on the tree) is fair-valued until harvest — holding that split is the whole test.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the bearer is PP&E; the borne is harvest AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Biological assets — bearer plants",
+        "tip": "The tree is the machine; the sap is the stock.",
+        "link": "Chapter 8 — Other Indian Accounting Standards"
+      }
+    },
+    {
+      "id": "p1q-6mxwnu",
+      "ch": 8,
+      "topic": "Extraordinary items",
+      "m": 1,
+      "d": "HARD",
+      "q": "A cyclone loss in the current year is presented in the statement of profit and loss as:",
+      "o": [
+        "A separate 'extraordinary items' line below tax",
+        "Within ordinary activities — extraordinary captions are prohibited, with separate disclosure of nature and amount if material",
+        "A prior-period item",
+        "Capital reserve"
+      ],
+      "a": "1",
+      "why": "Ind AS 1 PROHIBITS labelling anything extraordinary; large one-offs stay inside continuing operations (other income/expense) with separate disclosure where needed for a fair view.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — no extraordinary line — only extra disclosure Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Extraordinary items",
+        "tip": "Nature explains; structure never hides.",
+        "link": "Chapter 8 — Other Indian Accounting Standards"
+      }
+    },
+    {
+      "id": "p1q-171ck7p",
+      "ch": 8,
+      "topic": "Dividends — recognition",
+      "m": 1,
+      "d": "HARD",
+      "q": "A dividend to shareholders is recognised as a liability when:",
+      "o": [
+        "The board proposes it for the year",
+        "Approved by the shareholders (where approval is required) before the reporting period ends",
+        "Declared after the reporting period ends",
+        "The registrar books it"
+      ],
+      "a": "1",
+      "why": "Proposed dividends are not a liability at the year end; where shareholder approval is required the obligation arises on approval — post-year-end declarations are disclosed, not recognised.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — proposal promises nothing; approval obliges Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Dividends — recognition",
+        "tip": "A wish becomes a wallet only past the vote.",
+        "link": "Chapter 8 — Other Indian Accounting Standards"
+      }
+    },
+    {
+      "id": "p1q-j96nvx",
+      "ch": 8,
+      "topic": "Intangibles — development gate",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Development spend is capitalised as an intangible only when:",
+      "o": [
+        "Management names the project R&D",
+        "Technical feasibility, intention to complete, ability to use or sell, probable future economic benefits, adequate resources, and reliable measurement are ALL demonstrated",
+        "The auditor approves",
+        "Tax allows amortisation"
+      ],
+      "a": "1",
+      "why": "Research is ALWAYS expensed; development capitalises only through all six Ind AS 38 gates — one failed gate sends the spend to P&L.",
+      "trend": "Repeated theme in recent ICAI exam question-patterns for this paper (AI pattern estimate — not a citation to a specific past paper question).",
+      "prob": "HIGH",
+      "probWhy": "HIGH likelihood for Nov 2026 — six keys for one door Prediction is study guidance, not an ICAI statement.",
+      "mem": {
+        "ti": "TI: Intangibles — development gate",
+        "tip": "A plan becomes an asset when it can rent its own room.",
+        "link": "Chapter 8 — Other Indian Accounting Standards"
+      }
+    }
+  ]
+}

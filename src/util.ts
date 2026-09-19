@@ -39,7 +39,7 @@ namespace App {
     },
     kindBadge(kind: string): string {
       const map: Record<string, string> = {
-        prediction: "PREDICTION", core: "CORE SYLLABUS", mock: "FULL MOCK", rapid: "RAPID REVISION",
+        prediction: "PREDICTION", core: "CORE SYLLABUS", mock: "FULL MOCK", rapid: "RAPID REVISION", chapter: "CHAPTER MCQ",
       };
       return `<span class="kind kind-${kind}">${map[kind] ?? U.esc(kind.toUpperCase())}</span>`;
     },

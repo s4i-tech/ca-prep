@@ -45,7 +45,7 @@ namespace App {
     id: string;
     paper: string;      // P1 | P2 | P3
     attempt: string;    // NOV-2026
-    kind: "prediction" | "core" | "mock" | "rapid";
+    kind: "prediction" | "core" | "mock" | "rapid" | "chapter";
     category: string;
     file: string;       // ./data/p1-nov26-most-repeated.json
     jsvar: string;      // p1Nov26MostRepeated

@@ -15,7 +15,11 @@ namespace App {
 
     async boot(): Promise<void> {
       const params = new URLSearchParams(location.search);
-      const datasetId = params.get("d") ?? "";
+      let datasetId = params.get("d") ?? "";
+      const chParam = params.get("ch");
+      if (chParam && !datasetId.includes("-ch")) {
+        datasetId = `${datasetId}-ch${chParam}`;
+      }
       const mode = (params.get("mode") === "practice" ? "practice" : "exam") as "exam" | "practice";
       try {
         const manifest = await Loader.fetchManifest();
@@ -94,7 +98,7 @@ namespace App {
           <span id="qcounter">Q 1/${this.questions.length}</span>
         </div>
         <div class="eh-right">
-          ${this.meta.kind === "mock" ? `<span class="badge badge-mock-head">FULL MOCK</span>` : ""}
+          ${this.meta.kind === "mock" ? `<span class="badge badge-mock-head">FULL MOCK</span>` : this.meta.kind === "chapter" ? `<span class="badge badge-sec">CHAPTER MCQ</span>` : ""}
           ${this.sess.deadline ? `<div id="timer" class="timer" role="timer" aria-label="Time remaining">--:--:--</div>` : `<div class="timer timer-free" title="Practice mode — untimed">PRACTICE</div>`}
         </div>`;
       document.getElementById("exitLink")!.addEventListener("click", (e) => {

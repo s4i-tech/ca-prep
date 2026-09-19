@@ -1,0 +1,337 @@
+{
+  "meta": {
+    "id": "p1-nov26-ch17-mcq",
+    "paper": "P1",
+    "attempt": "NOV-2026",
+    "kind": "chapter",
+    "category": "CHAPTER-WISE MCQs",
+    "title": "Ch 17: Accounting and Technology — MCQ Bank",
+    "description": "Chapter-wise practice MCQs for Chapter 17 (Accounting and Technology).",
+    "count": 13,
+    "mcqCount": 13,
+    "descriptiveCount": 0,
+    "coverage": "Chapter 17 · 13 MCQs",
+    "chapters": [
+      17
+    ],
+    "durationMinutes": 20,
+    "difficulty": "Exam standard",
+    "high": 0,
+    "medium": 6,
+    "low": 7
+  },
+  "questions": [
+    {
+      "id": "p1q-1i7r0u5",
+      "ch": 17,
+      "topic": "Technology in accounting",
+      "m": 1,
+      "d": "HARD",
+      "q": "XBRL stands for:",
+      "o": [
+        "Extended Business Reporting Language",
+        "eXtensible Business Reporting Language",
+        "XML-Based Regulatory Linkage",
+        "X-ray Balance Reporting Layout"
+      ],
+      "a": 1,
+      "why": "XBRL = eXtensible Business Reporting Language — tags financial data using taxonomies for machine-readable reporting (used in MCA/SEBI filings).",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — tagged-technology definitions appear as one-mark freebies Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Technology in accounting",
+        "tip": "XBRL = XML for reporting: taxonomy + instance document + viewer. The 'eXtensible' spelling wins free marks.",
+        "link": "Ch 17"
+      }
+    },
+    {
+      "id": "p1q-19cfk90",
+      "ch": 17,
+      "topic": "Technology in accounting",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "In an ERP with continuous (real-time) audit, 'CAAT' techniques primarily replace:",
+      "o": [
+        "Risk assessment judgment",
+        "Manual vouching of samples by automated full-population testing and analytics",
+        "Segregation of duties",
+        "Statutory audit reporting"
+      ],
+      "a": 1,
+      "why": "Computer-Assisted Audit Techniques allow testing 100% of transactions and anomaly screening; judgment (risk assessment, opinion) is NOT automated. Segregation of duties is a control design issue.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the scope of automation vs judgment is a new-syllabus signature AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Technology in accounting",
+        "tip": "CAATs grind the population; humans keep the judgment. Automation widens samples, never replaces scepticism.",
+        "link": "Ch 17 (and Ch 12 audit)"
+      }
+    },
+    {
+      "id": "p1q-srq27",
+      "ch": 17,
+      "topic": "Accounting and Technology — RPA",
+      "m": 1,
+      "d": "HARD",
+      "q": "Robotic Process Automation (RPA) in accounting primarily automates:",
+      "o": [
+        "Judgmental estimates",
+        "High-volume, rules-based repetitive tasks like reconciliations data pulls",
+        "Statutory audits",
+        "Fraud judgment"
+      ],
+      "a": 1,
+      "why": "RPA suits structured, repetitive, rule-driven tasks; it does not replace estimates/judgment; supervisory controls remain essential.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — new-syllabus buzzword one-markers Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Accounting and Technology — RPA",
+        "tip": "RPA copies-and-pastes at machine speed; it reads rules, not situations.",
+        "link": "Ch 17"
+      }
+    },
+    {
+      "id": "p1q-1ltkw4m",
+      "ch": 17,
+      "topic": "Technology — blockchain audit",
+      "m": 1,
+      "d": "HARD",
+      "q": "For an entity using a distributed ledger for transaction records, an auditor should primarily consider:",
+      "o": [
+        "Only the hash values",
+        "Access controls, key management, governance of the DLT, and whether ITF controls or substantive analytics address the risks",
+        "Ignoring as technology-neutral",
+        "Recomputing hashes annually"
+      ],
+      "a": 1,
+      "why": "DLT shifts emphasis to cryptographic key management, access rights, node governance; audit responses use ITF controls/substantive analytics; the ledger's immutability doesn't remove risks of input fraud and key misuse.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the emerging-tech questions in the objective paper Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Technology — blockchain audit",
+        "tip": "Unstoppable records, stoppable inputs — audit the keys, the gates and the governance, not the hype.",
+        "link": "Ch 17/12"
+      }
+    },
+    {
+      "id": "p1q-wcqodg",
+      "ch": 17,
+      "topic": "ERP integration risk",
+      "m": 1,
+      "d": "HARD",
+      "q": "In an integrated ERP (finance, sales, inventory on one DB), the key financial-reporting risk is:",
+      "o": [
+        "Redundant file storage",
+        "Improper access rights letting one module override balances without controls",
+        "Slower internet",
+        "Manual journals"
+      ],
+      "a": 1,
+      "why": "Integration concentrates access risk — segregation across modules + audit trails matter more than file copies.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — systems-thinking in a new-syllabus chapter AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: ERP integration risk",
+        "tip": "One database means one door; control the doorman, not the paperwork.",
+        "link": "Chapter 17 — Accounting and Technology"
+      }
+    },
+    {
+      "id": "p1q-5k7vo4",
+      "ch": 17,
+      "topic": "Analytics — Benford's law",
+      "m": 1,
+      "d": "HARD",
+      "q": "Benford's law in audit analytics tests:",
+      "o": [
+        "Asset pricing",
+        "Digit-frequency patterns to spot anomalous manipulated amounts",
+        "Journal timeliness",
+        "Inventory valuation"
+      ],
+      "a": 1,
+      "why": "Benford's expected leading-digit distribution flags anomalies in large datasets — an analytics technique in CAATs/new tech syllabus.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the data-technique vocabulary Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Analytics — Benford's law",
+        "tip": "Real numbers misbehave in a particular way — fake ones behave too well.",
+        "link": "Chapter 17 — Accounting and Technology"
+      }
+    },
+    {
+      "id": "p1q-139ctzh",
+      "ch": 17,
+      "topic": "Tech — XBRL",
+      "m": 1,
+      "d": "HARD",
+      "q": "The XBRL instance document contains:",
+      "o": [
+        "Only the taxonomy",
+        "The tagged facts for the entity",
+        "Audit opinions",
+        "HTML only"
+      ],
+      "a": 1,
+      "why": "XBRL = taxonomy (definitions/tags) + instance document (facts tagged); MCA/SEBI filings use prescribed Indian taxonomies.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — taxonomy-vs-instance distinction Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Tech — XBRL",
+        "tip": "The dictionary is the taxonomy; your tagged sentences are the instance.",
+        "link": "Chapter 17 — Accounting and Technology"
+      }
+    },
+    {
+      "id": "p1q-1ywi7x6",
+      "ch": 17,
+      "topic": "Tech — AI audit risk",
+      "m": 1,
+      "d": "HARD",
+      "q": "Use of AI/ML in the entity's books primarily changes the auditor's assessment of:",
+      "o": [
+        "Materiality only",
+        "IT general controls and the reliability of the models/data feeding accounting (estimates)",
+        "Audit fee",
+        "Firm name"
+      ],
+      "a": 1,
+      "why": "Management's AI-driven estimates push the auditor to test model governance, data quality and bias/monitoring controls + challenge assumptions.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the model-risk vocabulary Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Tech — AI audit risk",
+        "tip": "Auditing an algorithm: check the training, not only the answers.",
+        "link": "Chapter 17 — Accounting and Technology"
+      }
+    },
+    {
+      "id": "p1q-1iq9jx5",
+      "ch": 17,
+      "topic": "New syllabus — Accounting and Technology chapter",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "The new scheme (applicable from May 2026) added 'Accounting and Technology' to Paper 1. Its syllabus content directly includes:",
+      "o": [
+        "Only accounting software packages",
+        "XBRL, ERP-based accounting systems, big-data analytics, AI/ML impacts on financial reporting, and technology's audit interface",
+        "Coding certifications",
+        "Website compliance"
+      ],
+      "a": 1,
+      "why": "Structural syllabus addition: the chapter embeds accounting-technology themes (XBRL taxonomy/filings, ERP flows, analytics in reporting, AI in estimates) — expect ICAI to fuse them with measurement scenarios and with the P3 digital-audit chapter.",
+      "trend": "Documented syllabus/amendment change — applicability from May 2026 exam onwards per ICAI BoS announcement.",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — newly-added chapters attract disproportionate early-attempt attention AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: New syllabus — Accounting and Technology chapter",
+        "tip": "New chapter, first attempts: the examiner's showroom floor.",
+        "link": "Chapter 17 — Accounting and Technology"
+      }
+    },
+    {
+      "id": "p1q-i81y62",
+      "ch": 17,
+      "topic": "XBRL",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "XBRL improves financial reporting mainly by:",
+      "o": [
+        "Changing accounting policies",
+        "Tagging data so reports are machine-readable — prepared once, validated automatically, comparable and re-usable",
+        "Reducing audit scope",
+        "Standardising auditor signatures"
+      ],
+      "a": "0",
+      "why": "eXtensible Business Reporting Language = standardised tags: consistency from preparation to analysis, single-sourcing to many regulators, automatic checking of arithmetic and completeness — recognition rules remain with the standards.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — machine-readable is not machine-audited AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: XBRL",
+        "tip": "Numbers that travel are numbers anyone can check — faster.",
+        "link": "Chapter 17 — Accounting and Technology"
+      }
+    },
+    {
+      "id": "p1q-1kq2yah",
+      "ch": 17,
+      "topic": "E-invoicing",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "India's e-invoicing regime for notified taxpayers requires invoices to be:",
+      "o": [
+        "Emailed to buyers as PDF",
+        "Registered with the Invoice Registration Portal, which authenticates an Invoice Reference Number and QR code that the GST system reuses",
+        "Printed and signed",
+        "Filed monthly by courier"
+      ],
+      "a": "1",
+      "why": "DOCUMENTED regime mechanics: the invoice is submitted to the IRP, returned authenticated with an IRN + QR; the same structured data pre-populates GST returns. Thresholds phase in by notification — verify the current limit for the attempt year.",
+      "trend": "Traceable to a real, publicly-notified amendment/standard (documented fact), tested in ICAI style.",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the IRN stamps the memo and the trail AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: E-invoicing",
+        "tip": "The state becomes a notary inside every invoice footer.",
+        "link": "Chapter 17 — Accounting and Technology"
+      }
+    },
+    {
+      "id": "p1q-1dxdlb7",
+      "ch": 17,
+      "topic": "Accounting software edits",
+      "m": 2,
+      "d": "MEDIUM",
+      "q": "The payroll master file accepts a negative salary with no approval — in technology auditing this finding hits:",
+      "o": [
+        "Application/input controls within the accounting system (and the ITGC chapter of the ICFR report)",
+        "Hardware capacity",
+        "Network speed",
+        "Only user training"
+      ],
+      "a": "0",
+      "why": "Validation edits on master files are application controls; their absence makes payroll figures unprovable — the same gap reappears in internal audit, systems audit and ICFR carve-outs.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — the system's edit is the accountant's control AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Accounting software edits",
+        "tip": "A form that accepts nonsense manufactures it at scale.",
+        "link": "Chapter 17 — Accounting and Technology"
+      }
+    },
+    {
+      "id": "p1q-603d8b",
+      "ch": 17,
+      "topic": "RPA vs AI",
+      "m": 1,
+      "d": "HARD",
+      "q": "A bot that copies invoice fields from PDFs into the ERP following fixed rules is best described as:",
+      "o": [
+        "True AI exercising judgment",
+        "Robotic process automation — rules-driven execution of repetitive tasks (OCR feeding scripted steps)",
+        "Machine learning",
+        "Natural language generation"
+      ],
+      "a": "1",
+      "why": "RPA automates deterministic keystrokes; it learns nothing — audit consequence: transposition risk drops once the bot is controlled, and the bot's logic and change management are tested like any application control.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — bots follow scripts; models learn patterns Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: RPA vs AI",
+        "tip": "Automation repeats mistakes at machine speed until controls teach it to repeat accuracy.",
+        "link": "Chapter 17 — Accounting and Technology"
+      }
+    }
+  ]
+}

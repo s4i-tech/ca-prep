@@ -1,0 +1,313 @@
+{
+  "meta": {
+    "id": "p1-nov26-ch14-mcq",
+    "paper": "P1",
+    "attempt": "NOV-2026",
+    "kind": "chapter",
+    "category": "CHAPTER-WISE MCQs",
+    "title": "Ch 14: Ind AS 101 — First-time Adoption of Ind AS — MCQ Bank",
+    "description": "Chapter-wise practice MCQs for Chapter 14 (Ind AS 101 — First-time Adoption of Ind AS).",
+    "count": 12,
+    "mcqCount": 12,
+    "descriptiveCount": 0,
+    "coverage": "Chapter 14 · 12 MCQs",
+    "chapters": [
+      14
+    ],
+    "durationMinutes": 18,
+    "difficulty": "Exam standard",
+    "high": 0,
+    "medium": 7,
+    "low": 5
+  },
+  "questions": [
+    {
+      "id": "p1q-3580kx",
+      "ch": 14,
+      "topic": "Ind AS 101 — exemptions",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Which is a MANDATORY exception (not optional exemption) on first-time adoption under Ind AS 101?",
+      "o": [
+        "Deemed cost for property, plant and equipment",
+        "Share-based payment transactions — apply Ind AS 102 only to equity instruments granted after 7 Nov 2009 that vest after transition",
+        "Business combinations — retrospectively apply Ind AS 103 to all past combinations",
+        "All borrowing costs to be expensed for qualifying assets already capitalised"
+      ],
+      "a": 1,
+      "why": "Ind AS 101 provides EXEMPTIONS (e.g., deemed cost) but EXCEPTIONS that must be followed (e.g., the cut-off on Ind AS 102 share-based payments, estimates, hedge accounting). Past business combinations may NOT be restated — that is an exemption, applied or not.",
+      "trend": "Known trap zone: ICAI objective papers repeatedly test limits/exceptions of this rule (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — exemption-vs-exception wording questions are pure ICAI AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 101 — exemptions",
+        "tip": "Exemptions: may take. Exceptions: must take. First-time adopters pick up the optional ones, obey the mandatory ones — the names tell you which.",
+        "link": "Ch 14"
+      }
+    },
+    {
+      "id": "p1q-v5drxf",
+      "ch": 14,
+      "topic": "First-time adoption — estimates",
+      "m": 1,
+      "d": "HARD",
+      "q": "At transition, an Ind AS 101 estimate (e.g., useful life) DIFFERS from the GAAP estimate for the same date. The first-time adopter:",
+      "o": [
+        "Restates to the Ind AS estimate; changes reflect new info and are prospective",
+        "Uses GAAP estimate forever",
+        "Averages both",
+        "Treats it as an error"
+      ],
+      "a": 0,
+      "why": "Ind AS 101 exception: estimates under Ind AS at the transition date must be consistent with those made for GAAP at the same date, unless new evidence arises — otherwise consistent; adjustments prospective as changes in estimate.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the 'consistency unless new evidence' rule is an easy 1-mark Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: First-time adoption — estimates",
+        "tip": "Transition estimates: mirror the old books unless reality (new evidence) demands a change — no hindsight shopping.",
+        "link": "Ch 14"
+      }
+    },
+    {
+      "id": "p1q-bybjny",
+      "ch": 14,
+      "topic": "Ind AS 101 — mandatory exceptions (hedges)",
+      "m": 1,
+      "d": "HARD",
+      "q": "On first-time adoption, hedge accounting may be:",
+      "o": [
+        "Applied retrospectively freely",
+        "Applied only where the hedge was consistent with Ind AS 109 requirements BEFORE transition — retrospective designation not permitted",
+        "Carried in P&L",
+        "Granted as an exemption"
+      ],
+      "a": 1,
+      "why": "Ind AS 101's hedge exception: derecognise/designate only to the extent hedges met the original standard's conditions; no retrospective designation of new hedges using hindsight.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — a narrow, high-confidence exclusion asked rarely but sharply Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Ind AS 101 — mandatory exceptions (hedges)",
+        "tip": "No hindsight hedging: transition accepts only hedges that were already Ind AS-clean at their date.",
+        "link": "Ch 14"
+      }
+    },
+    {
+      "id": "p1q-lb4tjq",
+      "ch": 14,
+      "topic": "Ind AS 101 — reconciliation",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "A first-time adopter's reconciliations under Ind AS 101 cover equity and total comprehensive income from previous GAAP to Ind AS:",
+      "o": [
+        "Only at the end of the first Ind AS reporting period",
+        "At the date of transition and at the end of the latest GAAP period presented",
+        "From incorporation",
+        "Only equity, not income"
+      ],
+      "a": 1,
+      "why": "Ind AS 101 requires reconciliations of equity at transition and at the reporting date in the first Ind AS FS, plus total comprehensive income for the latest GAAP period.",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — reconciliation points are precise MCQ fodder AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Ind AS 101 — reconciliation",
+        "tip": "Two equity checkpoints and one income bridge — transition date, year-end, latest GAAP year.",
+        "link": "Ch 14"
+      }
+    },
+    {
+      "id": "p1q-83qp7b",
+      "ch": 14,
+      "topic": "Uniform policies requirement",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "Consolidated FS use uniform accounting policies; if a group entity's policy differs:",
+      "o": [
+        "Consolidation proceeds regardless",
+        "Appropriate adjustments to conform the member's FS for consolidation purposes",
+        "The member is excluded",
+        "Only disclose"
+      ],
+      "a": 1,
+      "why": "Ind AS 110: uniform policies across the group — adjust members' FS where policies differ (impracticability exceptions only in narrow cases).",
+      "trend": "Core concept that appears in some avatar in most attempts under the new scheme (pattern estimate).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — uniformity with adjustments is the exact mechanic AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Uniform policies requirement",
+        "tip": "One story, one vocabulary: editors rewrite the chapters that drift.",
+        "link": "Chapter 14 — Ind AS 101 — First-time Adoption of Ind AS"
+      }
+    },
+    {
+      "id": "p1q-8ekmkc",
+      "ch": 14,
+      "topic": "Pre-transition derecognition",
+      "m": 1,
+      "d": "HARD",
+      "q": "At transition, a financial asset derecognised under GAAP but not qualifying under Ind AS is:",
+      "o": [
+        "Restated into the opening balance sheet",
+        "Left off the Ind AS opening balance sheet — derecognition is not reversed",
+        "Reopened",
+        "Disclosed only"
+      ],
+      "a": 1,
+      "why": "Ind AS 101: derecognition of financial assets/liabilities before transition date is NOT reversed (mandatory exception).",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the no-resurrection rule Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: Pre-transition derecognition",
+        "tip": "Gone before transition stays gone — Ind AS does not raise the dead.",
+        "link": "Chapter 14 — Ind AS 101 — First-time Adoption of Ind AS"
+      }
+    },
+    {
+      "id": "p1q-1rbnrnh",
+      "ch": 14,
+      "topic": "FTA — restatement",
+      "m": 1,
+      "d": "HARD",
+      "q": "An FTA that misapplied a policy (error) is corrected in the opening balance sheet of:",
+      "o": [
+        "The following year",
+        "The earliest period presented (with restatement of comparatives)",
+        "The current year P&L",
+        "Capital reserve"
+      ],
+      "a": 1,
+      "why": "First-time adopters may correct errors only per Ind AS 8 rules — retrospective restatement of earliest presented periods; opening FTA balance sheet adjustments are limited to policy/error events at transition.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — transition-error lane Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: FTA — restatement",
+        "tip": "Errors get the rewind, even at the starting line.",
+        "link": "Chapter 14 — Ind AS 101 — First-time Adoption of Ind AS"
+      }
+    },
+    {
+      "id": "p1q-bgrqmi",
+      "ch": 14,
+      "topic": "FTA — business combinations exemption",
+      "m": 1,
+      "d": "HARD",
+      "q": "A first-time adopter that elects the optional exemption for past business combinations must:",
+      "o": [
+        "Restate all combinations from 2004",
+        "NOT restate past BAs (or restate only some if it voluntarily applies Ind AS 103 to them)",
+        "Use pooling for all",
+        "Retrospective OCI"
+      ],
+      "a": 0,
+      "why": "Ind AS 101 exempts restatement of past business combinations; voluntary retrospective application (from chosen date) must be consistent for later ones.",
+      "trend": "No dominant past-pattern signal; included for balanced coverage (AI judgement).",
+      "prob": "LOW",
+      "probWhy": "Lower likelihood but possible — the 'may, not must' on restating history Included so a low-probability surprise cannot catch you cold.",
+      "mem": {
+        "ti": "TI: FTA — business combinations exemption",
+        "tip": "Past deals sleep unless you choose to wake them — then wake all after your line.",
+        "link": "Chapter 14 — Ind AS 101 — First-time Adoption of Ind AS"
+      }
+    },
+    {
+      "id": "p1q-1p7sag0",
+      "ch": 14,
+      "topic": "Transition — deemed cost",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "At Ind AS transition a company elects the deemed-cost exemption: a machine's GAAP carrying amount was Rs 240 lakh, fair value at transition Rs 384 lakh with remaining useful life 8 years. SLM depreciation for the transition year is:",
+      "o": [
+        "Rs 30.0 lakh (old carrying)",
+        "Rs 48.0 lakh (on deemed FV, remaining life)",
+        "Rs 19.2 lakh",
+        "No depreciation until original life ends"
+      ],
+      "a": 1,
+      "why": "Deemed cost = FV 384 lakh becomes the fresh gross basis; depreciation over remaining life = 384/8 = Rs 48.0 lakh. Old GAAP carrying amount is irrelevant after the election.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — deemed-cost arithmetic is Ch 14's most quantifiable MCQ AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Transition — deemed cost",
+        "tip": "FV deemed cost at transition restarts the depreciation clock for remaining life.",
+        "link": "Chapter 14 — Ind AS 101 — First-time Adoption of Ind AS"
+      }
+    },
+    {
+      "id": "p1q-zpdr7m",
+      "ch": 14,
+      "topic": "Transition — deemed cost",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "At Ind AS transition a company elects the deemed-cost exemption: a machine's GAAP carrying amount was Rs 240 lakh, fair value at transition Rs 384 lakh with remaining useful life 6 years. SLM depreciation for the transition year is:",
+      "o": [
+        "Rs 40.0 lakh (old carrying)",
+        "Rs 64.0 lakh (on deemed FV, remaining life)",
+        "Rs 19.2 lakh",
+        "No depreciation until original life ends"
+      ],
+      "a": 1,
+      "why": "Deemed cost = FV 384 lakh becomes the fresh gross basis; depreciation over remaining life = 384/6 = Rs 64.0 lakh. Old GAAP carrying amount is irrelevant after the election.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — deemed-cost arithmetic is Ch 14's most quantifiable MCQ AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Transition — deemed cost",
+        "tip": "FV deemed cost at transition restarts the depreciation clock for remaining life.",
+        "link": "Chapter 14 — Ind AS 101 — First-time Adoption of Ind AS"
+      }
+    },
+    {
+      "id": "p1q-1nicyex",
+      "ch": 14,
+      "topic": "Transition — deemed cost",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "At Ind AS transition a company elects the deemed-cost exemption: a machine's GAAP carrying amount was Rs 150 lakh, fair value at transition Rs 240 lakh with remaining useful life 6 years. SLM depreciation for the transition year is:",
+      "o": [
+        "Rs 40.0 lakh (on deemed FV, remaining life)",
+        "Rs 25.0 lakh (old carrying)",
+        "Rs 12.0 lakh",
+        "No depreciation until original life ends"
+      ],
+      "a": 0,
+      "why": "Deemed cost = FV 240 lakh becomes the fresh gross basis; depreciation over remaining life = 240/6 = Rs 40.0 lakh. Old GAAP carrying amount is irrelevant after the election.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — deemed-cost arithmetic is Ch 14's most quantifiable MCQ AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Transition — deemed cost",
+        "tip": "FV deemed cost at transition restarts the depreciation clock for remaining life.",
+        "link": "Chapter 14 — Ind AS 101 — First-time Adoption of Ind AS"
+      }
+    },
+    {
+      "id": "p1q-1yaw0nz",
+      "ch": 14,
+      "topic": "Transition — deemed cost",
+      "m": 1,
+      "d": "MEDIUM",
+      "q": "At Ind AS transition a company elects the deemed-cost exemption: a machine's GAAP carrying amount was Rs 150 lakh, fair value at transition Rs 240 lakh with remaining useful life 8 years. SLM depreciation for the transition year is:",
+      "o": [
+        "Rs 30.0 lakh (on deemed FV, remaining life)",
+        "Rs 18.8 lakh (old carrying)",
+        "Rs 12.0 lakh",
+        "No depreciation until original life ends"
+      ],
+      "a": 0,
+      "why": "Deemed cost = FV 240 lakh becomes the fresh gross basis; depreciation over remaining life = 240/8 = Rs 30.0 lakh. Old GAAP carrying amount is irrelevant after the election.",
+      "trend": "Fits the style in which ICAI drafts RTP/MTP questions on this topic (pattern estimate; no guarantee of appearance).",
+      "prob": "MEDIUM",
+      "probWhy": "Realistic likelihood for Nov 2026 — deemed-cost arithmetic is Ch 14's most quantifiable MCQ AI prediction, not a certainty.",
+      "mem": {
+        "ti": "TI: Transition — deemed cost",
+        "tip": "FV deemed cost at transition restarts the depreciation clock for remaining life.",
+        "link": "Chapter 14 — Ind AS 101 — First-time Adoption of Ind AS"
+      }
+    }
+  ]
+}
